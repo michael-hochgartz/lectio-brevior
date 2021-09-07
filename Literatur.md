@@ -46,6 +46,7 @@ Abkürzungen
 **Glöckner**, Andreas: NBA Serie 2 Bd. 5b kritischer Bericht **2004**  
 **Gojowy**, Detlef: Zur Frage der Köthener Trauermusik und der Matthäuspassion, BJ **1965**, 86–134  
 **Gojowy**, Detlef: Kirchenlieder im Umkreis von J.S. Bach,  BJ **1978**, 79-123  
+**Heber**, Noelle: Bach and money : sources of salary and supplemental income in Leipzig from 1723 to 1750, Understanding Bach, 12 **2017**, S. 111-125  
 **Hobohm**, Wolf: ‘Neue “Texte zur Leipziger Kirchen-Music” ’, BJ **1973**, 5–32  
 **Hofmann**, Klaus: Forkel und die Köthener Trauermusik Johann Sebastian Bachs, BJ **1983**, 115-122  
 **Jakubowski-Tiessen**, Manfred (Hg.): Bekehrung unterm Galgen. Malefikantenberichte. Leipzig **2011**  
