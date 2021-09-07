@@ -81,17 +81,19 @@ Bd. 1, Kassel **2004**
 **Rathey 2011b**  
 **Reinhardt**, Uta: Die evangelischen Pastoren in Lüneburg 1530-1980, in: Reformation vor 450 Jahren. Lüneburg **1980**, 113-169  
 **Scheide**, William H.: Die Choralkantaten von 1724 und Bachs Köthener Besuch, in BJ 89 **2003**, 47-65  
+**Scheide 1976**  
 **Scheitler**, Irmgard:  **2004**  
 **Scheitler**, Irmgard: Deutschsprachige Oratorienlibretti : von den Anfängen bis 1730, Paderborn **2005**  
+**Sehlke**, Stephan, Das geistige Boizenburg: Bildung und Gebildete im und aus dem Raum Boizenburg vom 13. Jahrhundert bis 1945, Books on Demand **2011**  
+**Siegele**, Ulrich: Bachs Stellung in der Leipziger Kulturpolitik seiner Zeit, BJ 69 (**1983**), 7-50 und 70 (**1984**), 7-43  
 **Schleuning**, Peter: Johann Sebastian Bachs "Kunst der Fuge" : Ideologien, Entstehung, Analyse. Kassel **1993**  
+**Smend**, Friedrich: Bach in Köthen, Berlin **1951**  
+**Smend**, Friedrich: Johann Sebastian Bach: Kirchen-Kantaten, 3. Auflage, Berlin **1966**  
 **Schulze**, Hans-Joachim: Schlusswort in: Bachforschung und Bachinterpretation heute : Wissenschaftler und Praktiker im Dialog ; Bericht über das Bachfest-Symposium 1978 der Philipps-Universität Marburg / hrsg. von Reinhold Brinkmann, Kassel **1981**  
 **Schulze**, Hans-Joachim: Texte und Textdicher, Christoph Wolff (Hg.), Die Welt der Bach-Kantaten / Bd. 3, Johann Sebastian Bachs Leipziger Kirchenkantaten, Stuttgart **1998**  
 **Schulze** 2001 (Colloquium Dürr 1998)  
 **Schwinger**, Tobias, Der preußische Hofkomponist Johann Friedrich Agricola in seiner Rolle als Kirchenkomponist für die Kirche St. Petri in Berlin, Wilhelm Friedemann Bach und die protestantische Kirchenkantate nach 1750. Beeskow **2012**, 95-220  
-**Sehlke**, Stephan, Das geistige Boizenburg: Bildung und Gebildete im und aus dem Raum Boizenburg vom 13. Jahrhundert bis 1945, Books on Demand **2011**  
-**Siegele**, Ulrich: Bachs Stellung in der Leipziger Kulturpolitik seiner Zeit, BJ 69 (**1983**), 7-50 und 70 (**1984**), 7-43  
-**Smend**, Friedrich: Bach in Köthen, Berlin **1951**  
-**Smend**, Friedrich: Johann Sebastian Bach: Kirchen-Kantaten, 3. Auflage, Berlin **1966**  
+
 **Tschirner**, Ulfert: Das Lüneburger Raritätenkabinett des Tobias Reimers (1653-1716), Lüneburger Blätter 37 **2020**, 129-160  
 **Walter**, Horst: Musikgeschichte der Stadt Lüneburg Vom Ende d. 16. bis zum Anfang d. 18. Jh. Tutzing **1967** (und früher)  
 **Weichmann 1738**  
