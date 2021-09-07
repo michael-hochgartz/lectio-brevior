@@ -55,10 +55,10 @@ Abkürzungen
 **Kadelbach**, Ada: Das Akrostichon im Kirchenlied, in: Jahrbuch für Liturgik und Hymnologie 36 **1997**, 175-207  
 **Kleck**, Konrad: Dein ist allein die Ehre : Johann Sebastian Bachs geistliche Kantaten erklärt, 3 Bde. Leipzig 2015,2016,2017 **2015**  
 **Kleinertz**, Rainer: Zur Frage der Autorschaft von Händels Johannespassion, Händel-Jahrbuch 49 (**2003**), S. 341-376  
-**Kümmerling**, Harald „Difficile est satyram non scribere“ oder: Über eine gewisse Passion eine so genannten weltberühmten Mannes“, Beiträge zur Geschichte des Oratoriums seit Händel, R. Cadenbach / H. Loos (Hrsg), Festschrift Günther Massenkeil, Bonn **1986**, 57-69  
-**Krummacher**, Friedhelm: Bachs Zyklus der Choralkantaten: Aufgaben und Lösungen, Göttingen **1995**  
 **Kohlfeldt**, G. Eine akademische Ferienreise von Rostock bis Königsberg im Jahre 1694. in: Baltische Studien IX (**1905**), 1–54  
-**Krummacher**, Friedhelm: Johann Sebastian Bach: Die Kantaten und Passionen, 3 Bde, Kassel 2018 **2018**  
+**Krummacher**, Friedhelm: Bachs Zyklus der Choralkantaten: Aufgaben und Lösungen, Göttingen **1995**  
+**Krummacher**, Friedhelm: Johann Sebastian Bach: Die Kantaten und Passionen, 3 Bde, Kassel **2018**  
+**Kümmerling**, Harald „Difficile est satyram non scribere“ oder: Über eine gewisse Passion eine so genannten weltberühmten Mannes“, Beiträge zur Geschichte des Oratoriums seit Händel, R. Cadenbach / H. Loos (Hrsg), Festschrift Günther Massenkeil, Bonn **1986**, 57-69  
 **Leaver**, Robin, A., A catholic Hymnal for use in Lutheran Leipzig: Catholisches Gesang-Buch (Leipzig, 1724), in: Bach perspectives **2018**,  36-62  
 **Leisinger 2002**  
 **Linke 1912**  
