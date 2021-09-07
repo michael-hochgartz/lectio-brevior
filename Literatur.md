@@ -32,7 +32,7 @@ Abkürzungen
 **Brainard**, Paul: ‘Bach’s Parody Procedure and the St Matthew Passion’, Journal of the American Musicological Society 22 (**1969**), 241–60  
 **Chafe**, Eric Thomas: J. S. Bach's 'St. Matthew Passion: Aspects of Planning, Structure, and Chronology, Journal of the American Musicological Society Bd. 35 (**1982**), 49-114  
 **Cyprian**, Ernst Salomon: Hilaria Evangelica, Gotha **1719**  
-**Dumrese/Schilling**, Hans Dumrese / Friedrich Carl Schilling: Lüneburg und die Offizin der Sterne, Lüneburg **1956**
+**Dumrese/Schilling**, Hans Dumrese / Friedrich Carl Schilling: Lüneburg und die Offizin der Sterne, Lüneburg **1956**  
 **Dürr**, Alfred: NBA Serie 2, Bd. 5,  Notenband **1972**  
 **Dürr**, Alfred: NBA Serie 2, Bd. 5, kritischer Bericht  **1974**  
 **Dürr**, Alfred: Die Johannes-Passion von Johann Sebastian Bach : Entstehung, Überlieferung, Werkeinführung, Kassel **1988**  
