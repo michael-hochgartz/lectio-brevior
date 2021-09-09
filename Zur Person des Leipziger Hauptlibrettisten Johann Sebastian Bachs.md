@@ -5,7 +5,6 @@ Entwurf für ein Vortragsmanuskript (Es gilt das gesprochene Wort)
 Michael Hochgartz (D 48153 Münster)  
 michael@hochgartz.de - 09.09.2021  
 https://www.bachforschung.de  
-Lectio difficilior: https://github.com/michael-hochgartz/b-a-c-h  
 
 
 Phantasie ist wichtiger als Wissen, denn Wissen ist begrenzt.  
@@ -111,7 +110,7 @@ Weiterhin sind Einzeltextdrucke von Trauerkantaten für die Beisetzungen Lünebu
 
 Die Beförderung zum Superintendenten, die unter Berufung auf Sparbemühungen mit einem nur geringen Einkommenszuwachs verbunden war, wurde gleichwohl von einem höher rangierenden Amtsbruder auf ausführlich dokumentierte, erschreckend intrigenhafte Weise bekämpft. Sie erfolgte gegen den „unter Thränen“ erklärten Willen Jauchs, der sich bald darauf, am 17. April 1714, in einem sehr persönlich gehaltenen Brief (nach Inhalt und Diktion durchaus vergleichbar mit Bachs Schreiben an seinen Thüringer / Lüneburger Jugendfreund Georg Erdmann) an seinen ehemaligen Kommilitonen, den seinerzeitigen Jenaer Universitätsorganisten, nunmehrigen Universitätsrektor und späteren Bach-Bewunderer Johann Jakob Syrbius, zu den näheren Umständen seiner Ernennung äußerte.  
 
-Diese wurden überlagert von längjährigen Präzedenzstreitigkeiten zwischen Patriziat und Geistlichem Ministerium (es ging - zumindest vordergründig - tatsächlich um die Rangfolge bei öffentlichen Auftritten), als dessen penibel, wegen der erwähnten Anfeindungen fast ängstlich agierender theologischer Geschäftsführer Jauch ein Jahrzehnt lang fungieren sollte. (Vgl. Wiesenfeldt 2016.)  
+Diese wurden überlagert von langjährigen Präzedenzstreitigkeiten zwischen Patriziat und Geistlichem Ministerium (es ging - zumindest vordergründig - tatsächlich um die Rangfolge bei öffentlichen Auftritten), als dessen penibel, wegen der erwähnten Anfeindungen fast ängstlich agierender theologischer Geschäftsführer Jauch ein Jahrzehnt lang fungieren sollte. (Vgl. Wiesenfeldt 2016.)  
 Das jährliche Gehalt Jauchs setzte sich laut Anstellungsvertrag zuammen aus einem Fixum von 500 Rthlr. sowie ortsüblichen Naturalleistungen im Wert von 32 plus 16 Rthlr. (Für 1735 werden pauschal 800 Rthlr. genannt; vgl. Meyer 1941.) Bzgl. des Lebensstandards dürfte Jauch damit in etwa mit J.S. Bachs Leipziger Verhältnissen vergleichbar sein (vgl. Wolff 2000)  
 An Akzidenzien gebührten Jauch zwar keine Einnahmen aus Taufen, wohl aber ein Teil der in St. Johannis proclamierten Copulationen und die Zahlungen für Leichenbegängnisse und Beichten.  
 Letztere waren in Lüneburg nach dem Prinzip der Personalgemeinden - also Pfarrgrenzen übergreifend - organisiert. (Die Entlassung des „Häretikers“ Petersen 1692 war übrigens durch dessen Absicht ausgelöst worden, den obligatorischen Beichtpfennig abzuschaffen, und der Reformtheologe Heinrich Müller hatte zu seiner Zeit in Rostock diese Einkunftsart zwar nicht eliminiert, deren Erträge aber unter den Armen verteilt.) 
