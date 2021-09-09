@@ -2,8 +2,8 @@
 des „Leipziger“ Hauptlibrettisten  
 Johann Sebastian Bachs  
 Michael Hochgartz (D 48153 Münster)  
-michael@hochgartz.de - 06.09.2021  
-Lectio difficilior: https://github.com/michael-hochgartz/b-a-c-h  
+michael@hochgartz.de - 09.09.2021  
+https://twitter.com/Bachforschung  
 
 Amore et studio elucidandae veritatis haec subscripta disputabuntur (Martin Luther 1517)  
 
@@ -17,7 +17,7 @@ Pro captu lectoris habent sua fata libretti (nach Terentianus Maurus)
 
 Der auf knapp drei Dutzend Produktionswochen verdichtete Prozess war vielmehr geprägt durch eine erhebliche räumliche Distanz zwischen Autor und Komponist, die eine Übermittlung des Materials in Form von zusammenfassenden Lieferungen nach sich zog, deren Stückelungen den Anforderungen der vorauszuplanenden Drucklegungen für die in Leipzig üblichen, für den Komponisten (entgegen Heber 2017) durchaus auch als Einnahmequelle relevanten Sammellibretti entsprechen mussten.  
 
-Unter der Voraussetzung, dass Komposition und Uraufführung der Kantaten in der Regel sukzessive in wöchentlichem, Herstellung (inklusive Imprimatur und Korrektur) und Verkauf der Texthefte aber stets vorab en bloc in fünf- bis achtwöchigem Turnus erfolgte (vgl. Hobohm 1973; Scheide 1976), wären Einzellieferungen über eine größere Entfernung für Absender und Empfänger ohne erkennbaren Vorteil und für Letzteren überdies mit überflüssigen Portokosten verbunden gewesen.  
+Unter der Voraussetzung, dass Komposition und Uraufführung der Kantaten in der Regel sukzessive in wöchentlichem, Herstellung (inklusive Imprimatur und Korrektur) und Verkauf der Texthefte aber stets vorab en bloc in fünf- bis achtwöchigem Turnus erfolgte (vgl. Hobohm 1973; Scheide 1976), wären Einzellieferungen über eine größere Entfernung für Absender und Empfänger ohne erkennbaren Vorteil und für Letzteren überdies mit überflüssigen Portokosten sowie einem erhöhten Verlustrisiko verbunden gewesen.  
 
 In der Extremsituation zwischen dem 25.12.1724 und dem 7.1.1725, als in 14 Tagen sieben Neukompositionen zu realisieren waren, wären alle zwei Tage eintreffende Postsendungen mit je einem Kantatentext genauso inpraktikabel gewesen wie eine stückweise erfolgte persönliche Übergabe durch einen vor Ort agierenden Dichter. Stattdessen bot die Einhaltung eines standardisierten Lieferrhythmus dem Komponisten in diesem Fall mehrere Kalenderwochen zusätzlicher Arbeitszeit bei der Vertonung. (Vgl. Petzoldt 2000 zu dem in Leningrad nur noch in Form einer Karteikarte nachgewiesenen, seit 1919 verschollenen „Libretto Nr. 9“, das mit dem 3.12.1724 endet.)  
 
@@ -27,7 +27,7 @@ Selbst in der Phase extensiver Wiederholungsaufführungen ab 1730 hätte ein sol
 
 Man wende Rochlitzens Erinnerungen als Gedankenexperiment auf die Ziegler-Texte oder gar auf den kompletten Picander-Jahrgang an - was bei letzterem zwar zu Folgehypothesen verlocken könnte, deren Erkentnisgewinn allerdings sehr begrenzt sein dürfte.  
 
-Ungeklärt bleibt schließlich, ob die übrigen Prediger (Christian Weise d.Ä., Urban Gottfried Sieber u.a.) ähnlich verfuhren (womit sich das Planungschaos multipliziert hätte), ob sie sich von Deyling in dieser Hinsicht bevormunden ließen (notwendigerweise bei Doppelaufführungen desselben Werks in St. Nicolai / St. Thomae an hohen Festtagen), oder ob sie Bach freie Hand gewährten - um den Preis einer unziemlichen Desavouierung ihres Vorgesetzteen.  
+Ungeklärt bleibt schließlich, ob die übrigen Prediger (Christian Weise d.Ä., Urban Gottfried Sieber u.a.) ähnlich verfuhren (womit sich das Planungschaos multipliziert hätte), ob sie sich von Deyling in dieser Hinsicht bevormunden ließen (notwendigerweise bei Doppelaufführungen desselben Werks in St. Nicolai / St. Thomae an hohen Festtagen), oder ob sie Bach freie Hand gewährten - um den Preis einer unziemlichen Desavouierung ihres Vorgesetzten.  
 
 Schließlich bleibt zu bedenken: auch der produktivste Komponist protestantischer Kirchenkantaten in der ersten Hälfte des 18. Jahrhunderts - Georg Philipp Telemann - verbrachte nur jeweils begrenzte Zeiträume in künstlerischer Koexistenz an denselben Orten wie seine Textdichter (Neumeister; Helbig; Brandenburg; …) - war also zeitweise auch auf briefliche Kommunikation und ansonsten auf gedruckte Quellen oder seine eigene Erfindungsgabe angewiesen.  
 
@@ -72,7 +72,6 @@ Dazu passt die Beobachtung, dass in der Kantate BWV 93 das Luther-Zitat aus Kön
 
 Als strukturelle Folie zur Darstellung des Umfangs fehlender Teile diente ihm eine Abschrift (D-B AmB. 6+7) der spätestens 1729 mit Textergänzungen durch die Hand Christian Friedrich Henricis vervollständigten, von Bach (während oder nach der Verwendung für die Köthener Tauermusik BWV 244a) neu geschriebenen Partitur der Frühfassung, die der Gelegenheitskopist Johann Christoph Farlau anhand einer (aus Naumburg beschafften oder in Leipzig vorgefundenen) Originalhandschrift angefertigt hatte. (Vgl. Wollny 2002).  
 
-
 Bei der Kollationierung der Vorlagen durch Agricola kam es zu der von Dürr (1972) editionstechnisch pragmatisch behandelten, gleichwohl von ihm (1974) aufgrund erheblicher Restzweifel exemplarisch dokumentierten, von Chafe (1982) kontrovers gedeuteten, von Glöckner (2004) kritiklos im Sinne Dürrs akzeptierten, bislang ohne fundamentale Erklärung gebliebenen Kreuzkontamination von Lesarten, die allenthalben durch Lesefehler des sichtlich überforderten Farlau und - in deutlich weniger Fällen als von Dürr unterstellt - durch kluge Konjekturen des kompositionserfahrenen Agricola überlagert wurden.  
 
 Diese Betrachtungsweise ermöglicht erstmals eine weitgehend widerspruchsfreie Erklärung der Herkunft der von Dürr (1974) als authentisch eingestuften (da durch das Autograph der Spätfassung P 25 indirekt bezeugten) Lesarten in der Handschrift P 26, die Agricola nicht aus AmB. 6+7, sondern nur aus einer heute verschollenen originalen Entwurfspartitur bezogen haben kann - den eingangs postulierten Relikten vom Januar 1725 - deren abstrakter philologischer Status näherungsweise mit demjenigen der „Logienquelle Q“ bei der Überlieferung des Neuen Testaments vergleichbar ist.  
@@ -84,7 +83,7 @@ Selbst scheinbar nebensächliche, unmotiviert anmutende Details, wie die isolier
 
 Zudem konterkariert gerade dieses Beispiel Dürrs Verlegenheitshypothese einer außergewöhnlichen „Konjekturfreudigkeit“ Agricolas, der diesen extrem exponiert erscheinenden Fehler (der in diesem fragmentarischen Zustand des Satzbildes noch gar keiner war!) sicherlich mit einem Federstrich nach einem einzigen Blick in AmB. 6 oder durch eigene kompositorische Kompetenz hätte korrigieren können - wie Bach es bei der späteren Fertigstellung, als nach Aufschiebung des Harmoniewechsels G-(A7)-D6 (bedingt durch die buchstäblich überbordende Streichergloriole der Christusworte) um einen halben Takt die Vokalnote tatsächlich fehlerhaft wurde, durch Verkürzung des a mittels eines zusätzlichen Fähnchens, Anfügung eines Sechszehntel g und Voranstellung einer Achtelnote h dann auch selbst mit seiner typisch pragmatischen Eleganz tat.  
 
-Oder hatte Bach ursprünglich an dieser dramaturgisch herausgehobenen Stelle gar eine dissonant definierte, wortverstärkende Harmonie im Sinn? (Überantwortung = Verrat)  
+Oder hatte Bach ursprünglich an dieser dramaturgisch herausgehobenen Stelle (Vorankündigung des Verrats) gar eine dissonant definierte, wortverstärkende Harmonie im Sinn, die sich im zweiten Anlauf - nach Ausformulierung der Streicherbegleitung - als unausführbar erwies?  
 
 Unter diesem Blickwinkel betrachtet, erscheint die Erklärung dieser in P 26 wie auf dem Präsentierteller platziert wirkenden Stelle als getreue Wiedergabe einer Bachschen Entwurfsskizze als alternativlos. Bestärkt wird dieser Eindruck durch die final verfeinerte (durch aufführungspraktische Erfahrungen motivierte?) Endfassung im Spätautograph P 25.  
 
@@ -92,7 +91,7 @@ Andernfalls wäre mit dem - ebenfalls sikzzenhaften - Satz 4d zu fragen: „Wozu
 
 Ferner: Belegt die durch Ziffern signalisierte Zählung von 18 bzw. 16 Pausentakten in fol. 43v und 44v der Partitur P 26, dass Agricola bei der Niederschrift dieses vollständig notieren Satzes (27b) an die Anfertigung von Aufführungsmaterial dachte? (Nach einer Grundidee von Kümmerling 1986.)  
 
-Die Antwort kann nur Nein lauten, denn Ziel von Agricolas Bemühungen war keineswegs eine Aufführung anhand von P 26. Eine solche hätte er durch Anfertigung von Stimmen nach AmB. 6+7 sehr viel leichter verwirklichen können - oder am einfachsten, indem er seinen langjährigen Kollegen C.P.E. Bach um die leihweise Überlassung des kompletten, aufführungserprobten Materials der Spätfassung (D-B Mus.ms. Bach P 25 / D-B Mus.ms. Bach St 110) gebeten hätte. Zudem bliebe zu fragen, warum er sich für die praktische Verwendung der Frühfassung interessiert haben könnte, die auch heute nur äußerst selten und aus eher akademischen Interessen herangezogen wird.  
+Die Antwort kann nur Nein lauten, denn Ziel von Agricolas Bemühungen war keineswegs eine Aufführung anhand von P 26. Eine solche hätte er durch Ausschreiben(lassen) von Stimmen nach AmB. 6+7 sehr viel leichter verwirklichen können - oder am einfachsten, indem er seinen langjährigen Kollegen C.P.E. Bach um die leihweise Überlassung des kompletten, aufführungserprobten Materials der Spätfassung (D-B Mus.ms. Bach P 25 / D-B Mus.ms. Bach St 110) gebeten hätte. Zudem bliebe zu fragen, warum er sich für die praktische Verwendung der Frühfassung interessiert haben könnte, die auch heute nur äußerst selten und aus eher akademischen Interessen herangezogen wird.  
 
 Zu klären bleibt, warum Agricola in dieser Partitur Gebrauch von zahlreichen notationstechnischen Abbreviaturen macht („col vl. primo“ etc.; auch da, wo es sich kaum zu lohnen scheint) - wie sie für viele seiner übrigen Handschriften (auch eigener Kompositionen) typisch sind. (Vgl. dazu möglicherweise die unveröffentlichte, 2021 an der Universität Oxford verteidigte Dissertation von Andrew Frampton.)  
 
@@ -134,10 +133,11 @@ Unter diesem Aspekt wäre (entgegen Smend 1951) auch zu überlegen, ob und auf w
 
 Anders gefragt: hatte das monatelange Zuwarten der Köthener Autoritäten auf einen Bestattungszeitpunkt sieben Tage vor dem Gründonnerstag / Karfreitag 1729 andere als lokale organisatorische Gründe? Wenn ja, diente dieses großzügige Zeitfenster vielleicht auch dazu, es Bach zu ermöglichen, nicht nur einfach eine (vielleicht schon 1727) erprobte Lösung mit flinker Hand zu adaptieren, sondern ein seit 1725 brachliegendes, fragmentarisches, einst existenziell wichtiges Großprojekt aufwändig wiederzubeleben?  
 
-Henricis Textentwurf lag zwar (laut Smend 1951zwecks formaler Approbation) zeitnah in Köthen vor, allein es fehlte die Musik aus der Feder jenes Komponisten, der wusste, dass er erst sehr viel später (am Karfreitag 1729) eine oratorische Passion in St. Thomae, sieben Tage zuvor jedoch eine textlich teils divergierende, musikalisch und aufführungspraktisch aber durchaus kostenparend verwertbare weitere Aufführung zu präsentieren hatte.  
+Henricis Textentwurf lag zwar (laut Smend 1951 zwecks formaler Approbation) zeitnah in Köthen vor, allein es fehlte die Musik aus der Feder jenes Komponisten, der wusste, dass er erst sehr viel später (am Karfreitag 1729) eine oratorische Passion in St. Thomae, sieben Tage zuvor jedoch eine textlich teils divergierende, musikalisch und aufführungspraktisch aber durchaus kostenparend verwertbare weitere Aufführung zu präsentieren hatte.  
+
 Weiter zugespitzt: Ist es vorstellbar, dass Bach die erheblichen Einkünfte (230 Rtlr. brutto; vgl. Heber 2017) aus den beiden Köthener Aufführungen (es erklang am Abend der Beisetzung auch die fertig vorliegende doppelchörige Musik „O Herr, ich bin dein Knecht“ seines Meininger Vetters Johann Ludwig Bach) gleichsam als Quersubventionierung genutzt hat, um sein 1725 vorläufig gescheitertes Passions-Projekt unter optimalen Bedingungen für Leipzig zu vollenden und zu präsentieren? (Vgl. Hofmann 1983)  
 
-Das Ganze wäre auch zu betrachten vor dem Hintergrund seiner anschwellenden Auseinandersetzungen mit seinen komplex organisierten Dienstherrschaften (Stadt; Landesherrschaft; Universiät; Konsistorium; Ferne Fürsten) um eine halbwegs hinreichende Ausstattung des chronisch defizitären Leipziger Aufführungsapparts - also gleichsam als „demonstratio ad aures“ dessen, was Er (der Director Musices) bei angemessener Subventionierung zu leisten im Stande sein könnte  
+Das Ganze wäre auch zu betrachten vor dem Hintergrund seiner anschwellenden Auseinandersetzungen mit seinen komplex organisierten Dienstherrschaften (Stadt; Landesherrschaft; Universität; Konsistorium; Ferne Fürsten) um eine halbwegs hinreichende Ausstattung des chronisch defizitären Leipziger Aufführungsapparts - also gleichsam als „demonstratio ad aures“ dessen, was er als Director Musices bei angemessener Subventionierung zu leisten im Stande sein könnte.  
 
 Für den Zusammenhang von Trauermusik und Passion ist anhand eines Schnittmengenmodells folgendes Schema denkbar: Den 1725 in Konzeptschrift vorliegenden Sätzen 20,39,57 wurden 1728/29 in den Vokalstimmen (und nur dort!) neue Texte unterlegt. Keiner, alle oder (am wahrscheinlichsten:) einige wenige der Sätze 6,8,13,23,49,65 lagen 1725 als unvertonte Texte vor, wurden 1728 von Henrici parodiert und von Bach mit Blick auf die Doppelverwendung vertont. Bei der verbleibenden Menge handelt es sich um komplette Neuschöpfungen, die dann bald darauf oder parallel dazu in die Passion übernommen wurden.  
 
@@ -161,6 +161,7 @@ Während des Entstehungsvorgangs mutierte die Kantate BWV 127 von einer distanz�
 Dazu passt, dass in einem für den Wirkungsort des Autors verbindlichen Gesangbuch eine Textvariante des Chorals „Herr Jesu Christ …“ abgedruckt ist, die für den Fall, dass der Sterbende den Text nicht mehr selbst bewältigen konnte, den „Umstehenden“ zum Singen oder Beten in Herz und Mund gelegt wurde.  
 
 In demselben Gesangbuch findet sich wenige Ordnungsnummern später eine Paraphrase auf „Herr Jesu Christ…“, in welcher auffällige Entsprechungen zu BWV 127/2 enthalten sind, die im originalen Choraltext fehlen..  
+
 In etlichen weiteren Choralkantaten - nicht nur vom Januar 1725 - finden sich explizite Aussagen (keineswegs nur Subtexte), die sich - bei Kenntnis der Hintergründe - als Auseinandersetzungen des Autors mir seiner aktuellen, durch eine chronische Krankheit geprägten Situation deuten lassen.  
 
 
