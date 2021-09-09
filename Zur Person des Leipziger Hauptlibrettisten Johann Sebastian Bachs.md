@@ -3,7 +3,7 @@ Zur Person des „Leipziger“ Hauptlibrettisten Johann Sebastian Bachs
 Entwurf für ein Vortragsmanuskript (Es gilt das gesprochene Wort)  
 
 Michael Hochgartz (D 48153 Münster)  
-michael@hochgartz.de - 08.09.2021  
+michael@hochgartz.de - 09.09.2021  
 https://www.bachforschung.de  
 Lectio difficilior: https://github.com/michael-hochgartz/b-a-c-h  
 
@@ -813,7 +813,7 @@ Zu den Abkömmlingen eines Neffen in achter Generation zählen ein 1953 geborene
 Letzte Arie der Trauerkantate für Johann Christoph Jauch  
 Text: Michael Christoph Brandenburg  
 Musik: Georg Böhm  
-Aufgeführt am 6.2.725 in der Johanniskirche Lüneburg.  
+Aufgeführt am 6.2.1725 in der Johanniskirche Lüneburg.  
 (Weichmann V/1738)  
 
 Lebe wol, verklärte Sele!  
@@ -863,7 +863,7 @@ Schließt uns auch die Thränen zu.
 Epilog  
 
 Was ist Wahrheit?  
-(Pontius Pilatus; Joh          q  18,38)  
+(Pontius Pilatus; Joh 18,38)  
 
 Wenn ich die Matthäus-Passion, wenn ich große Musik höre, dann glaube ich zu wissen, dass das, was diese Musik sagt, nicht die Unwahrheit sein kann.  (Theodor W. Adorno 1958)  
 

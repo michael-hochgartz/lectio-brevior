@@ -50,7 +50,7 @@ Abkürzungen
 **Hobohm**, Wolf: ‘Neue “Texte zur Leipziger Kirchen-Music” ’, BJ **1973**, 5–32  
 **Hofmann**, Klaus: Forkel und die Köthener Trauermusik Johann Sebastian Bachs, BJ **1983**, 115-122  
 **Jakubowski-Tiessen**, Manfred (Hg.): Bekehrung unterm Galgen. Malefikantenberichte. Leipzig **2011**  
-**Jauch** Deutsches Geschlechterbuch **1996**  
+**Jauch** Deutsches Geschlechterbuch Bd. 200 **1996**  
 **Junghans 1870**  
 **Kadelbach**, Ada: Das Husumer Hofgesangbuch (1676), in Jahrbuch für Liturgik und Hymnologie 27 **1983**, 83-111  
 **Kadelbach**, Ada: Das Akrostichon im Kirchenlied, in: Jahrbuch für Liturgik und Hymnologie 36 **1997**, 175-207  
@@ -93,7 +93,6 @@ Bd. 1, Kassel **2004**
 **Schulze**, Hans-Joachim: Texte und Textdicher, Christoph Wolff (Hg.), Die Welt der Bach-Kantaten / Bd. 3, Johann Sebastian Bachs Leipziger Kirchenkantaten, Stuttgart **1998**  
 **Schulze** 2001 (Colloquium Dürr 1998)  
 **Schwinger**, Tobias, Der preußische Hofkomponist Johann Friedrich Agricola in seiner Rolle als Kirchenkomponist für die Kirche St. Petri in Berlin, Wilhelm Friedemann Bach und die protestantische Kirchenkantate nach 1750. Beeskow **2012**, 95-220  
-
 **Tschirner**, Ulfert: Das Lüneburger Raritätenkabinett des Tobias Reimers (1653-1716), Lüneburger Blätter 37 **2020**, 129-160  
 **Walter**, Horst: Musikgeschichte der Stadt Lüneburg Vom Ende d. 16. bis zum Anfang d. 18. Jh. Tutzing **1967** (und früher)  
 **Weichmann 1738**  
