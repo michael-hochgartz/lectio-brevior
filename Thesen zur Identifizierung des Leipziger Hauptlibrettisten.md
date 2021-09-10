@@ -3,7 +3,7 @@ des „Leipziger“ Hauptlibrettisten
 Johann Sebastian Bachs  
 Michael Hochgartz (D 48153 Münster)  
 michael@hochgartz.de - 09.09.2021  
-https://twitter.com/Bachforschung  
+Quellcode und Literaturverzeichnis: https://github.com/michael-hochgartz/lectio-brevior  
 
 Amore et studio elucidandae veritatis haec subscripta disputabuntur (Martin Luther 1517)  
 

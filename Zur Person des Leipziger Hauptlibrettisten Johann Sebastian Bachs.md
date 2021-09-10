@@ -3,8 +3,8 @@ Zur Person des „Leipziger“ Hauptlibrettisten Johann Sebastian Bachs
 Entwurf für ein Vortragsmanuskript (Es gilt das gesprochene Wort)  
 
 Michael Hochgartz (D 48153 Münster)  
-michael@hochgartz.de - 09.09.2021  
-https://www.bachforschung.de  
+michael@hochgartz.de - 10.09.2021  
+Quellcode und Literaturverzeichnis: https://github.com/michael-hochgartz/lectio-brevior  
 
 
 Phantasie ist wichtiger als Wissen, denn Wissen ist begrenzt.  
