@@ -3,7 +3,7 @@ Zur Person des „Leipziger“ Hauptlibrettisten Johann Sebastian Bachs
 Entwurf für ein Vortragsmanuskript (Es gilt das gesprochene Wort)  
 
 Michael Hochgartz (D 48153 Münster)  
-michael@hochgartz.de - 10.09.2021  
+michael@hochgartz.de - 11.09.2021  
 Quellcode und Literaturverzeichnis: https://github.com/michael-hochgartz/lectio-brevior  
 
 
@@ -584,7 +584,7 @@ Elmenhorsts Passions-Arie Nr. 12 scheint mit den Anfangsworten:
 Ihr Töchter Zion, gehet her, 
 Mit Seufzen, Ächzen, Weheklagen  
 
-auf die theologisch (gehet -> kommt), aber auch poteologisch (durch geschickte Reduktion auf eine einzige achthebige trochäische Zeile) genial umgedeutete und verdichtete Form zum Auftakt des ein Vierteljahrhundert später entstandenen Exordiums von BWV 244b vorauszuweisen:  
+auf die theologisch (gehet -> kommt), aber auch poteologisch (durch geschickte Reduktion auf eine einzige achtsilbige trochäische Zeile) genial umgedeutete und verdichtete Form zum Auftakt des ein Vierteljahrhundert später entstandenen Exordiums von BWV 244b vorauszuweisen:  
 
 Kommt Ihr Töchter, helft mir klagen  
 
