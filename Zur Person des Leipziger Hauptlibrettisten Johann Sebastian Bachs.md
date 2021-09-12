@@ -3,8 +3,8 @@ Zur Person des „Leipziger“ Hauptlibrettisten Johann Sebastian Bachs
 Entwurf für ein Vortragsmanuskript (Es gilt das gesprochene Wort)  
 
 Michael Hochgartz (D 48153 Münster)  
-michael@hochgartz.de - 11.09.2021  
-Quellcode und Literaturverzeichnis: https://github.com/michael-hochgartz/lectio-brevior  
+michael@hochgartz.de - 12.09.2021  
+Quelltext und Literaturverzeichnis: https://github.com/michael-hochgartz/lectio-brevior  
 
 
 Phantasie ist wichtiger als Wissen, denn Wissen ist begrenzt.  
@@ -39,7 +39,7 @@ Es ergibt sich die Überlegung, ob die drei Jahrzehnte nach diesem Ereignis in L
 
 Wichtigster Förderer Jauchs während seiner Rostocker Zeit war der erwähnte Theologe Johannes Fecht. Fecht - dessen 10 Bände umfassender Manuskriptnachlass ebenso einer wissenschaftlichen Auswertung harrt wie der gedruckte Katalog seiner 1742 stückweise versteigerten Bibliothek - war ein engagierter Vertreter der Norddeutschen Reformorthodoxie und - nach anfänglicher Sympathie um so entschiedenerer - Gegner der Radikalpietisten Philipp Jacob Spener und August Hermann Francke.  
 
-Die von deren Initiativen ausgelösten „Leipziger Unruhen“ hatten eine Fernwirkung auch in Lüneburg hervorgerufen durch die Person des Superintendenten Johann Wilhelm Petersen, der schließlich 1692 unter minutiös dokumentieren Umständen aus dem Amt entfernt wurde. Mit diesem Fanal war jeglichen unorthodoxen Ansichten in Lüneburg bis weit in das 18. Jahrhundert hinein (genau genommen: bis heute) ein Riegel vorgeschoben worden - bis zum Aufkommen jener rationalistisch angehauchten Theologie, die sich - wie anderswo auch - im Zuge der Spätaufklärung als communis opinio etablieren sollte. 
+Die von deren Initiativen ausgelösten „Leipziger Unruhen“ hatten eine Fernwirkung auch in Lüneburg hervorgerufen durch die Person des Superintendenten Johann Wilhelm Petersen, der schließlich 1692 unter minutiös dokumentieren Umständen aus dem Amt entfernt wurde. Mit diesem - auch durch einen kirchenmusikalischen Eklat begleiteten - Fanal war jeglichen unorthodoxen Ansichten in Lüneburg bis weit in das 18. Jahrhundert hinein (genau genommen: bis heute) ein Riegel vorgeschoben worden - bis zum Aufkommen jener rationalistisch angehauchten Theologie, die sich - wie anderswo auch - im Zuge der Spätaufklärung als communis opinio etablieren sollte. 
 
 Jauchs früheste und vermutlich eher kritische Begegnung mit dem Themenbereich einer natürlichen, von rationalen Erkenntnisweisen inspirierten Theologie (vgl. Zedler 23/987) ist belegt durch seine Rolle als einer von 14 studentischen Disputanten bei einem im August 1692 stattgefundenem „Discursus academicus ... ex Theologia Naturali“ des Rostocker Nicolai-Pfarrers, Professors für Griechisch und nachmaligem Superintendenten Gottfried Weiß (direkter Nachfolger Petersens), dessen theologische Tendenz noch näher zu analysieren wäre. Weiß’ens Wahlspruch weist jedenfalls in eine eindeutige Richtung: „Ich hasse die Fladder-Geister, und meine Seele ist ihnen gram.“ (Vgl. Luthers Randglosse zu Ps. 119 sowie das Incipit von BWV 181 und Lehms 1711, 3. Advent.)  
 
@@ -52,9 +52,8 @@ Der auch bey späten Herbst, als frischer Lorbeer blüht:
 O glückliche Chymie, die solchen Baum gebohren  
 Der Hesperinnen Ast hat seinen Ruhm verlohren.  
 
-
 Ob Jauchs „herzbewegliche Worte“, von denen 1712 im Zusammenhang mit dem in eine Schieflage geratenen Großprojekt des aufstrebenden Lüneburger Verlegers Johann Georg Lipper berichtet wird, auf eine Wertschätzung auch der Inhalte dieses ambitionierten Prachtwerks schließen lassen, bleibt anhand der Ratsakten näher zu untersuchen. Lipper hatte versucht, mit Hilfe hoher, wiederholt aufgestockter öffentlicher Kredite und in Konkurrenz zu seinem ehemaligen Dienstherrn Johann von Stern, eine erweiterte, mit Kupferstichen reich bebilderte Neuauflage der „Mathesis Mosaica“ (alias „Mathesis Biblica“) des Kieler Universalgelehrten Samuel Reyher zu monetarisieren. 18 halbfertig gedruckte Ballen (zu je 5000 Druckbogen) wurden in einem „Gewölbe“ mit Beschlag belegt, zu dem der Superintendent Jauch die Schlüssel treuhänderisch verwahrte. Im Katalog seiner nachgelassenen Bibliothek findet sich Jahrzehnte später ein Exemplar des ersten (und offenbar einzig erschienenen) Bandes der 1714 schlussendlich vorgelegten Ausgabe unter der Nr. 209.  
-Geistesgeschichtlich bewegte Reyher sich in einer Grauzone, in der biblisch beschriebene Naturphänomene (wie z.B. „Von dem Regenbogen …) mit zeitgenössischen, also nicht immer heutigen Ansprüchen genügenden, damals aber durchaus als wissenschaftlich empfundenen Erklärweisen vermengt wurden (… und den durch Kunst [also wohl durch ein Prisma] angestellten Regenbogen-Farben“). Reyhers lebenslanges methodisches Manko bestand auch bei diesem Werk in seinem Hang zur kaleidoskopartigen Vermengung von fragmentarischen Einzelthemen, und Lipper bot als entlaufener Buchhalter keineswegs eine Gewähr für den unternehmerischen Erfolg eines Titels, der wegen der zahlreichen Kupferstiche einen hohen Kapitaleinsatz erforderte. (Vgl. Dumrese/Schilling 1956 sowie ADB 28/1889)  
+Geistesgeschichtlich bewegte Reyher sich in einer Grauzone, in der biblisch beschriebene Naturphänomene (wie z.B. „Von dem Regenbogen …) mit zeitgenössischen, also nicht immer heutigen Ansprüchen genügenden, damals aber durchaus als wissenschaftlich empfundenen Erklärweisen vermengt wurden (… und den durch Kunst [also wohl durch ein Prisma] angestellten Regenbogen-Farben“). Reyhers lebenslanges methodisches Manko bestand auch bei diesem Werk in seinem Hang zur kaleidoskopartigen Vermischung von fragmentarischen Einzelthemen, und Lipper bot als entlaufener Buchhalter keineswegs eine Gewähr für den unternehmerischen Erfolg eines Titels, der wegen der zahlreichen Kupferstiche einen hohen Kapitaleinsatz erforderte. (Vgl. Dumrese/Schilling 1956 sowie ADB 28/1889)  
 
 
 Da eine, vielleicht geplante, aber nie zustande gekommene, (vgl. Stieber 1745; Willgeroth 1924) Bestallung als einer von mehreren Hofpredigern in Güstrow durch das seit dem Tod des Erbprinzen Karl 1688 an den Pocken erwartbare, im Oktober 1695 mit dem Dahinscheiden des letzten Herzogs Adolf eingetretene Erlöschen der dynastischen Linie gegenstandslos geworden war, wurde Jauch „nach gehaltener Abschieds-Predigt in der Schlosskirche gnädigst dimittiret“ und im Verlauf eines offenbar wohlwollend forcierten Magisterexamens auf Initiative des nicht ganz zufällig in Rostock weilenden Lüneburger Bürgermeisters und Proto-Consuls Ludolph von Stöterogge („ein grosser Gönner der Gelehrten“) als Diakonus (Inhaber der 2. Pfarrstelle) an die dortige Lambertikirche berufen - unter aktenkundigen Begleitumständen, die auf strukturell bedingte, lebenslange Misshelligkeiten im Verhältnis zu einigen seiner Kollegen vorauswiesen.  
@@ -88,7 +87,8 @@ Dass Jauch eine oder mehrere Wiederaufführungen der 1667 für St. Lamberti ents
 
 Ähnliche Überlegungen könnten für die 1683ff datierten Passionen des Johannis-Kantors Friedrich Funcke angestellt werden. Dessen Matthäuspassion integriert als Nr. 19 den Choral „O Lamm Gottes unschuldig“ als vom Alto gesungenen Cantus firmus zu einer vierstimmigen Streicherbegleitung nach Art der ansonsten das Bild dieser Komposition prägenden Sinfoniae. Der Satz Nr. 22 verarbeitet charakteristische Auszüge des Chorals „Erbarm dich mein o Herre Gott“ an analoger struktureller Stelle wie die Arie „Erbarme dich“ in BWV 244b - und Nr. 31 in ähnlicher Manier „Christe du Lamm Gottes“.  
 
-Ob die am 18.3.1667(sic!; nicht 1664) abgeschlossene Tabulatur einer fast gleichartig (mit Chor, Gambenconsort, Continuo) besetzten Matthäuspassion aus der Sammlung Düben der Universitätsbibliothek Uppsala tatsächlich (wie vom Herausgeber einer Neuausgabe vermutet; vgl. N.N. 2012) etwas mit Lüneburg, genauer: mit Flor zu tun hat, bleibt vorerst rätselhaft. 
+Ob die am 18.3.1667(sic!; nicht 1664) abgeschlossene Tabulatur einer fast gleichartig (mit Chor, Gambenconsort, Continuo) besetzten Matthäuspassion aus der Sammlung Düben der Universitätsbibliothek Uppsala tatsächlich (wie vom Herausgeber einer Neuausgabe vermutet; vgl. N.N. 2012) etwas mit Lüneburg, genauer: mit Flor zu tun hat, bleibt vorerst rätselhaft.  
+
 Immerhin ist nicht auszuschließen, dass am selben Karfreitag 1667 in gleich zwei Lüneburger Kirchen (St. Lamberti und St. Johannis) zeitversetzt zwei etwa einstündige Passionsmusiken aufgeführt wurden, an denen jeweils bis zu vier Gambisten beteiligt waren - die aber naturgemäß nur von zwei verschiedenen Komponisten stammen konnten. Es sei denn, man betrachtet den Fall als spektakulären Auftakt Christian Flors in seiner Doppelfunktion als zeitweiliger Organist beider Kirchen - und damit die Stücke zwangläufig als Organisten- statt als Kantoren-Musiken, was angesichts der überschaubaren, Orgelemporen-tauglichen Besetzung durchaus denkbar erscheint und wofür diskrete Spuren in späteren Ratsakten vorhanden zu sein scheinen.  
 
 Auf jeden Fall ergibt sich aus diesem Befund und seiner weiteren Betrachtung, dass Norddeutschland zwischen Hamburg, Rostock und Danzig (und auch Lüneburg) mehr denn je zu den frühesten Pflegestätten innovativer Passionsmusiken zu zählen ist - und dass die Florsche Komposition allein schon in struktureller Hinsicht das erheblich modernere Werk darstellen dürfte.  
@@ -98,7 +98,8 @@ Schließlich ist auch der Umstand zu bedenken, dass 1674 ein Exemplar der ein Ja
 Die Tradition regelmäßiger Aufführungen am Karfreitag reichte übrigens so lange, wie der Chorus Symphoniacus des Johanneums und der Mettenchor von St. Michaelis zur Verfügung standen - also bis gegen Ende des 18. Jahrhunderts. (Vgl. Walter 1968.) Sie wurde 1855 mit einer ersten Aufführung von BWV 244 in St. Johannis wieder aufgenommen und wird bis heute fortgeführt.  
 
 
-1709 wechselte Jauch als 2. Prediger an die Nikolaikirche und 1714, bedingt durch seine Wahl zum Superintendenten, nach St. Johannis. Damit wurde er auch zum „Inspector“ jenes Johanneums ernannt, dessen Chorus Symphoniacus während der beiden Kirchenjahre 1720-1722 für die Aufführung von Vertonungen zweier, gemeinsam im Druck veröffentlichter Jahrgänge von Texten zur Musik zuständig war, die auf Vorlagen Erdmann Neumeisters und weiterer, noch zu identifizierender Autoren beruhten.  
+1709 wechselte Jauch als 2. Prediger an die Nikolaikirche und 1714, bedingt durch seine Wahl zum Superintendenten, nach St. Johannis. Damit wurde er auch zum „Inspector“ jenes Johanneums ernannt, dessen Chorus Symphoniacus während der beiden Kirchenjahre (1. Advent 1720 bis 1. Advent 1722) für die Aufführung von Vertonungen zweier, gemeinsam im Druck veröffentlichter Jahrgänge von Texten zur Musik zuständig war, die auf Vorlagen Erdmann Neumeisters und weiterer, noch zu identifizierender Autoren beruhten.  
+
 Aufgeführt wurden nach konstantem Kalendarium an den drei städtischen „Haupt“-Kirchen - mit klarer Fokussierung auf St. Johannis - ab 1. Advent 1721 auch wesentliche Teile des ersten „Concerten-Jahrgangs“ von Georg Philipp Telemann, der 1716/17 auf Texte Neumeisters in Frankfurt komponiert worden war.  
 
 Mehr als 40 dieser weitgehend durch RISM-Konkordanzen dokumentierbaren Kompositionen erklangen unter Leitung des - als finanziellem Profiteur fungierenden, als Prügelpädagoge unrühmlich aktenkundig gewordenen, als Komponist laut zeitgenössischen Urteilen nur mäßig erfolgreichen - Kantors Bernhard Christian Bohmsen in jenen Gottesdiensten in St. Johannis, in denen Jauch um 14 Uhr die mittägliche Hauptredigt hielt und Georg Böhm die Orgel spielte. Die Reihe endete - textlich und musikalisch bemerkenswert bescheiden - am 25. Sonntag nach Trinitatis 1722. Was darauf folgte, ist nicht bekannt.  
@@ -106,7 +107,7 @@ Mehr als 40 dieser weitgehend durch RISM-Konkordanzen dokumentierbaren Kompositi
 
 Unter den ungenannten, laut Vorwort in Lüneburg zu suchenden Autoren (vielleicht auch Autorinnen?) einer Textsammlung für einen bereits 1713/14 vom Lamberti-Organisten Georg Flor veranstalteten Kantatenjahrgang ist - neben dem bislang als ambivalent agierend beschriebenen Kantor (1694-1704) und späteren Stadtschreiber Heinrich Büttner und dem ambitioniert wirkenden, letztlich aber erfolglosen Dichter-Talent Joachim Christian Heini (1682-1738) - auch Johann Christoph Jauch zu vermuten.  
 
-Weiterhin sind Einzeltextdrucke von Trauerkantaten für die Beisetzungen Lüneburger Honoratioren überliefert, die jeweils in ähnlicher Konstellation (aber wohl als reine Organistenmusiken ohne produktive Beteiligung des Kantors) realisiert wurden - wobei Böhm in diesen Fällen auch das vom Rat in einem Verwaltungsgerichtsverfahren bestätigte Recht zur kostenpflichtigen Erstellung der Kompositionen besaß.
+Weiterhin sind Einzeltextdrucke von Trauerkantaten für die Beisetzungen Lüneburger Honoratioren überliefert, die jeweils in ähnlicher Konstellation (aber wohl als reine Organistenmusiken ohne produktive Beteiligung des Kantors) realisiert wurden - wobei Böhm in diesen Fällen auch das vom Rat in einem Verwaltungsgerichtsverfahren bestätigte Privileg zur kostenpflichtigen Erstellung der Kompositionen besaß.
 
 Die Beförderung zum Superintendenten, die unter Berufung auf Sparbemühungen mit einem nur geringen Einkommenszuwachs verbunden war, wurde gleichwohl von einem höher rangierenden Amtsbruder auf ausführlich dokumentierte, erschreckend intrigenhafte Weise bekämpft. Sie erfolgte gegen den „unter Thränen“ erklärten Willen Jauchs, der sich bald darauf, am 17. April 1714, in einem sehr persönlich gehaltenen Brief (nach Inhalt und Diktion durchaus vergleichbar mit Bachs Schreiben an seinen Thüringer / Lüneburger Jugendfreund Georg Erdmann) an seinen ehemaligen Kommilitonen, den seinerzeitigen Jenaer Universitätsorganisten, nunmehrigen Universitätsrektor und späteren Bach-Bewunderer Johann Jakob Syrbius, zu den näheren Umständen seiner Ernennung äußerte.  
 
@@ -142,7 +143,7 @@ Ja, redet nur die Wahrheit spärlich,
 seid immer falsch, was tut mir das?  
 Ihr Spötter seid mir ungefährlich.  
 
-Und BWV 126 (4.2.1725) - vordergründig gemünzt auf Luthers (heute zuweilen als peinlich emfpundenen) Invektiven gegen „des Papsts und Türken Mord“ - erinnert zumindest unterschwellig an die falschen Amtsbrüder, als diese sich übergangen fühlten und darob (so Jauch gegenüber Syrbius) „gar böse geworden“ waren:  
+Und BWV 126 (4.2.1725) - vordergründig gemünzt auf Luthers (heute zuweilen als despektierlich emfpundenen) Invektiven gegen „des Papsts und Türken Mord“ - erinnert zumindest unterschwellig an die falschen Amtsbrüder, als diese sich übergangen fühlten und darob (so Jauch gegenüber Syrbius) „gar böse geworden“ waren:  
 
 Du weißt, daß die verfolgte Gottesstadt  
 den ärgsten Feind nur in sich selber hat  
@@ -219,20 +220,24 @@ Ein Blick in ein medizinisches Lexikon der damaligen Zeit eröffnet wenig Hoffnu
 
 Zufälligerweise notifiziert der Correspondent nur wenige Tage später (10.2.1725) auch den Tod jener Person, die bislang als mutmaßlicher Urheber der Choralkantatentexte diskutiert wird (vgl. Schulze 1998):  
 
-„Leipzig, den 2. Februar. Ehegestern hat alhier Hr. Mag. Andreas Stübel, Con-Rector der Schulen zu St. Thomas, dieses Zeitliche gesegnet, und wird derselbe morgen beygesetzet werden. Weil er einige Zeit von seinen Schul-Laboribus als Emeritus oder befreyet gelebet, so hat er seine Zeit und Mühe auf Edirung des Fabrici oder Buchneri Lexici, so er etliche mahl ausgearbeitet, wie auch auf andere Sachen angewendet, da indessen ein anderer seine gewöhnlichen Schul-Labores diese Jahre über verrichtet gehabt.“  
+„Leipzig, den 2. Februar. Ehegestern hat alhier Hr. Mag. Andreas Stübel, Con-Rector der Schulen zu St. Thomas, dieses Zeitliche gesegnet, und wird derselbe morgen beygesetzet werden. Weil er einige Zeit von seinen Schul-Laboribus als Emeritus oder befreyet gelebet, so hat er seine Zeit und Mühe auf Edirung des Fabrici oder Buchneri LeSxici, so er etliche mahl ausgearbeitet, wie auch auf andere Sachen angewendet, da indessen ein anderer seine gewöhnlichen Schul-Labores diese Jahre über verrichtet gehabt.“  
+
+Stübels Teilhabe am Leipziger gottesdienstlichen Leben scheint bis in seine letzten Tage hinein nur passiver Natur gewesen zu sein, wie der örtliche Chronist und Selbstverleger Chistoph Ernst Sicul kolportiert:  
+
+„Endlich wandelte ihm den 28. Jan. dieses 1725 Jahres unterm Gottesdienst in der Pauliner-Kirche ein Fieber an, welches ihn, seines Alters 71 Jahr 6 Wochen und 4 Tage, von der Welt genommen.“  
 
 Die zeitliche Differenz zwischen Spitzmarken und Erscheinungsdaten belegt auch an diesen Beispielen, dass derartige Meldungen nicht mehr als sechs bis acht Tage für die Übermittlung zwischen Leipzig und Hamburg benötigten - und somit maximal fünf bis sieben Tage zwischen Leipzig und Lüneburg. (Vgl. Siegele 1983)  
 
 
 Von den drei Datumsangaben (19., 21., 26. Januar), die für Jauchs Todestag genannt werden, kann naturgemäß nur eine korrekt sein. Zwar verhindert der Verlust der Begräbnisregister von St. Johannis eine endgültige Klärung. Aber:  
 
-Der im Deutschen Geschlechterbuch (1996) sowie im darauf fußenden Wikipedia-Artikel genannte 26. Januar scheidet aus, da bereits für den 24. Januar in Jauchs Personalakte eine Eingabe des Ministeriums-Seniors Friedrich Georg Koltemann wegen dringlicher Regelung zusätzlicher Predigtdienste überliefert ist, die durch den „unverhofften Todt“ des Superintendenten notwendig geworden waren, der „Denselben aus der Streitenden in die Triumphirende Kirche“ versetzte. Dieses Zitat nach dem spätmittelalterlichen Mönch Alanus ab insulis („ecclesia militans“ / „ecclesia triumphans“) war wohl ein letzter, (mit etwas Wohlwollen misszuverstehender oder als blanker Sarkasmus an die Adressaten gemünzter?) Nachklapp zu den jahrzehntelangen Kontroversen um die Position Jauchs.  
+Der im Deutschen Geschlechterbuch (200/1996) sowie im darauf fußenden Wikipedia-Artikel genannte 26. Januar scheidet aus, da bereits für den 24. Januar in Jauchs Personalakte eine Eingabe des Ministeriums-Seniors Friedrich Georg Koltemann wegen dringlicher Regelung zusätzlicher Predigtdienste überliefert ist, die durch den „unverhofften Todt“ des Superintendenten notwendig geworden waren, der „Denselben aus der Streitenden in die Triumphirende Kirche“ versetzte. Dieses Zitat nach dem spätmittelalterlichen Mönch Alanus ab insulis („ecclesia militans“ / „ecclesia triumphans“) war wohl ein letzter, (mit etwas Wohlwollen misszuverstehender oder als blanker Sarkasmus an die Adressaten gemünzter?) Nachklapp zu den jahrzehntelangen Kontroversen um die Position Jauchs.  
 
 Der zugehörige zeitgenössische Aktendeckel teilt übrigens nur mit (vgl. Reinhardt 1980):  
 
-„obiit d: [Leerstelle] Jan. 1725“.  
+„obiit d: [Leerstelle] Jan. 1725“  
 
-Der vom „Correspondenten“ genannte 19. Januar ist deshalb weniger wahrscheinlich, weil bis zum Erscheinungsdatum (29./30.) mit 10 Tagen ungewöhnlich viel Zeit für die Kommunikation zwischen Lüneburg und dem statt (Hamburg-)Schiffbek üblicherweise fingierten Erscheinungort „Nieder-Elbe“ vergangen wäre. (Vgl. Zedler 24/367). Eventuell markiert dieser Tag den Beginn der Endphase der Erkrankung, was zu der oben zitierten Prognose („… gar selten über den 3ten Tag …“) passt.  
+Der vom „Correspondenten“ genannte 19. Januar ist deshalb weniger wahrscheinlich, weil bis zum Erscheinungsdatum (29./30.) mit 10 Tagen ungewöhnlich viel Zeit für die Kommunikation zwischen Lüneburg und dem statt (Hamburg-) Schiffbek üblicherweise fingierten Erscheinungort „Nieder-Elbe“ vergangen wäre. (Vgl. Zedler 24/367). Eventuell markiert dieser Tag den Beginn der Endphase der Erkrankung, was zu der oben zitierten pulmonologischen Prognose („… gar selten über den 3ten Tag …“) passt.  
 
 Deshalb erscheint die Angabe Wilhelm Linkes am vertrauenswürdigsten, der bei der Katalogisierung norddeutscher Personalschriften zunächst (1912) pauschal 1725 angegeben hatte, dann (1931) aber konkret den 21.1.1725 nennen konnte - anhand des einzigen bislang nachgewiesenen Exemplars im ehemaligen Staatsarchiv Hannover (Signatur: St.A. 2° 26), das dort in der Nacht zum 9. Oktober 1943 verbrannte.  
 
@@ -278,7 +283,6 @@ Wie leicht, wie bald
 ist mancher tot und kalt!  
 Man kann noch diese Nacht  
 den Sarg vor deine Türe bringen.  
-
 
 
 Schon bald nach dem Beginn des Kantatenzyklus (BWV 135/4, 25.6.1724) bemüht der Autor eine Situationsbeschreibung, die - ohne erkennbaren Bezug zu einer dogmatischen Aussage oder zur Perikope des Predigttextes - auf seine individuelle psychische und physische Befindlichkeit hinweist. Müdigkeit und Nachtschweiß - die hier nur mühsam auf eine theologische Deutungsebene projiziert werden - gelten in der historischen wie in der heutigen Heilkunde als Leitsymptome einer chronischen Tuberkulose.  
@@ -364,7 +368,7 @@ Die sonst bei Lehms in zeittypischer Manier poetisch überhöhte Todessehnsucht 
 Dass andererseits Johann Christoph Jauch von Lehms inspiriert worden sein dürfte, belegt das Beispiel von dessen Text zum 16. Sonntag nach Trinitatis. Dieser korreliert mit BWV 111 in folgenden Allusionen: „Ach! daß sich nicht sofort mein Geist / Aus dem bedrängten Körper reißt“ und mit BWV 127: „So mögen drauff die Sterbe-Klocken klingen“.  
 
 
-Jauch ist, mit Ausnahme seiner - exzellent digitaliserten, aber aus sprachlichen Gründen heute kaum noch nachvollziehbar zu beurteilenden - Beteiligungen an lateinischen Disputationen, seiner zahlreichen, durchgängig auf Deutsch verfassten gereimten Grußworte in Drucken befreundeter Rostocker Akademiker und seiner Beiträge in Lüneburger Personalschriften, auf den ersten Blick publizistisch kaum erkennbar hervorgetreten. Sein, durch verschiedene Aussagen belegtes, bescheidenes Wesen ist als Grund dafür anzusehen, dass er aus eigenem Antrieb wenig produziert hat, was heute noch greifbar erscheint.  
+Jauch ist, mit Ausnahme seiner - exzellent digitaliserten, aber aus sprachlichen Gründen heute kaum noch nachvollziehbar zu beurteilenden - Beteiligungen an lateinischen Disputationen, seiner zahlreichen, durchgängig auf Deutsch verfassten gereimten Grußworte in Drucken befreundeter Rostocker Akademiker und seiner Beiträge in Lüneburger Personalschriften, auf den ersten Blick publizistisch kaum erkennbar hervorgetreten. Sein, durch verschiedene Aussagen belegtes, bescheidenes Wesen ist als Grund dafür anzusehen, dass er aus eigenem Antrieb wenig produziert hat, was heute noch reziberbar erscheint.  
 
 Für die Praxis der brieflichen Kommunikation Johann Christoph Jauchs, dessen Bruder Carl (1680-1755) als Lübeckischer Postmeister in Lüneburg amtierte, gibt es erfreulich sachdienliche Belege von seiner eigenen Hand.  
 
@@ -383,7 +387,7 @@ Der Brief belegt zudem, dass die ungewöhnlich aufwändige, zunächst auf Latein
 
 Das erwähnte Schreiben an J.J. Syrbius von 1714 war ebenfalls durch einen zwecks Immatrikulation (in diesem Fall nach Jena) reisenden Studenten überbracht worden, nämlich durch den aus Ratzeburg stammenden, von Jauch beherbergten und pädagogisch betreuten Georg Ludwig Neubaur (1693-1775).  
 
-Aus der Differenz zwischen Briefdatierung und Eintrag im Matrikelbuch ergibt sich in diesem Fall eine ungefähre Reisezeit von 10 Tagen zwischen Lüneburg und Jena. Das könnte auch als Anhaltspunkt für die Dauer der Rückreise von Jauchs Sohn Tobias im Januar 1725 betrachtet werden, als dieser von Leipzig (ca. eine Tagesreise östlich von Jena gelegen) an das Totenbett seines Vaters gerufen wurde.  
+Aus der Differenz zwischen Briefdatierung und dem Eintrag in der Matrikel ergibt sich in diesem Fall eine ungefähre Reisezeit von 10 Tagen zwischen Lüneburg und Jena. Das könnte auch als Anhaltspunkt für die Dauer der Rückreise von Jauchs Sohn Tobias im Januar 1725 betrachtet werden, als dieser von Leipzig (ca. eine Tagesreise östlich von Jena gelegen) an das Totenbett seines Vaters gerufen wurde.  
 
 Am 3.11.1718 entschuldigt Jauch sich beim Dresdener Kreuzkirchen-Pfarrer und Superintendenten Valentin Ernst Löscher, dem er „per couvert“ (vgl. Zedler 6/1507) antwortet, wegen der verspäteten Rückmeldung auf dessen Anfrage nach Gelegenheiten für eine standesgemäße, aber nicht zu teure Unterbringung einer Predigerwitwe in einem norddeutschen „Evangelisch-Lutherisch Closter“:  
 
@@ -395,7 +399,7 @@ Wie schließlich in diesem Zusammenhang die Tatsache zu bewerten ist, dass C.F. 
 
 Diese konkreten Beispiele belegen, dass die Kommunikation zwischen Nord- und Mitteldeutschland nicht nur auf die reguläre, reitende Reichspost und die immer wieder mühsam regulierten, fahrenden Nebenposten („Gelbe Kutsche“; „Braunschweiger Küchenpost“) angewiesen war, sondern - trotz aller Unwägbarkeiten - auch auf die persönliche Überbringung durch reisende Vertrauenspersonen setzen konnte - und dass Jauch durchaus Wert auf eine zeitnahe Beantwortung von Anfragen legte.  
 
-Dass J.S. Bach bei der Komposition der zweiten Tranche seiner Choralkantaten zum 9., 16. und 23. Juli 1724 erhebliche sytemische Irregularitäten in Kauf nehmen musste, ließe sich auch durch Komplikationen bei der Übermittlung der Textmanuskripte erklären und bedarf weiterer Untersuchungen. (Vgl. z.B. Scheide 2003.)  
+Dass J.S. Bach bei der Komposition der zweiten Tranche seiner Choralkantaten zum 9., 16. und 23. Juli 1724 erhebliche systemische Irregularitäten in Kauf nehmen musste, ließe sich auch durch Komplikationen bei der Übermittlung der Textmanuskripte erklären und bedarf weiterer Untersuchungen. (Vgl. z.B. Scheide 2003.)  
 
 
 Der Text Jauchs für eine Kantate zur Hochzeit des ihm dienstlich verbundenen Lamberti-Organisten Georg Flor aus dem Jahr 1705 vermag (anhand einer knappen, aber vorerst hinreichenden Beschreibung des einzigen, derzeit unzugänglichen Exemplars durch Walter 1968) vom Entwicklungsprozess seiner Dichtkunst zu zeugen - zu einem Zeitpunkt, als sich moderne deutschsprachige Kirchenmusiken nach dem Muster Erdmann Neumeisters noch kaum in der Anfangsphase ihrer praktischen Erprobung befanden.  

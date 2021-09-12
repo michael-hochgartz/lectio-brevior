@@ -2,8 +2,8 @@
 des „Leipziger“ Hauptlibrettisten  
 Johann Sebastian Bachs  
 Michael Hochgartz (D 48153 Münster)  
-michael@hochgartz.de - 09.09.2021  
-Quellcode und Literaturverzeichnis: https://github.com/michael-hochgartz/lectio-brevior  
+michael@hochgartz.de - 12.09.2021  
+Quelltext und Literaturverzeichnis: https://github.com/michael-hochgartz/lectio-brevior  
 
 Amore et studio elucidandae veritatis haec subscripta disputabuntur (Martin Luther 1517)  
 
@@ -19,7 +19,7 @@ Der auf knapp drei Dutzend Produktionswochen verdichtete Prozess war vielmehr ge
 
 Unter der Voraussetzung, dass Komposition und Uraufführung der Kantaten in der Regel sukzessive in wöchentlichem, Herstellung (inklusive Imprimatur und Korrektur) und Verkauf der Texthefte aber stets vorab en bloc in fünf- bis achtwöchigem Turnus erfolgte (vgl. Hobohm 1973; Scheide 1976), wären Einzellieferungen über eine größere Entfernung für Absender und Empfänger ohne erkennbaren Vorteil und für Letzteren überdies mit überflüssigen Portokosten sowie einem erhöhten Verlustrisiko verbunden gewesen.  
 
-In der Extremsituation zwischen dem 25.12.1724 und dem 7.1.1725, als in 14 Tagen sieben Neukompositionen zu realisieren waren, wären alle zwei Tage eintreffende Postsendungen mit je einem Kantatentext genauso inpraktikabel gewesen wie eine stückweise erfolgte persönliche Übergabe durch einen vor Ort agierenden Dichter. Stattdessen bot die Einhaltung eines standardisierten Lieferrhythmus dem Komponisten in diesem Fall mehrere Kalenderwochen zusätzlicher Arbeitszeit bei der Vertonung. (Vgl. Petzoldt 2000 zu dem in Leningrad nur noch in Form einer Karteikarte nachgewiesenen, seit 1919 verschollenen „Libretto Nr. 9“, das mit dem 3.12.1724 endet.)  
+In der Extremsituation zwischen dem 25.12.1724 und dem 7.1.1725, als in 14 Tagen sieben Neukompositionen zu realisieren waren, wären alle zwei Tage eintreffende Postsendungen mit je einem Kantatentext genauso inpraktikabel gewesen wie eine stückweise erfolgte persönliche Übergabe durch einen vor Ort agierenden Dichter. Stattdessen bot die Einhaltung eines standardisierten Lieferrhythmus dem Komponisten auch in diesem Fall mehrere Kalenderwochen zusätzlicher Arbeitszeit bei der Vertonung. (Vgl. Petzoldt 2000 zu dem in Leningrad nur noch in Form einer Karteikarte nachgewiesenen, seit 1919 verschollenen „Libretto Nr. 9“, das mit dem 3.12.1724 endet.)  
 
 Aus denselben Erwägungen ist (zumindest für Bachs schöpferische Hochphase 1723-1727) auch die von Friedrich Rochlitz (geb. 1769) überlieferte Aussage anzuzweifeln, der Thomaskantor (gest. 1750) habe „jedesmal zu Anfang der Woche“ seinem theologischen Vorgesetzten, dem Superintendenten Salomon Deyling (gest. 1755), drei Kantatentexte zur Auswahl für die Aufführung am nächstfolgenden Sonntag vorgelegt. (Vgl. Hobohm 1973). Ein solches Verfahren hätte jegliche Druckplanungen sabotiert. Zudem bliebe zu fragen, wie Bach seine Textdichter - erst recht unter permanentem Zeitdruck - zu dem Luxus alternativer Entwürfe mit jeweils identischem Perikopenbezug bewogen haben könnte, die dann mehrheitlich für den Papierkorb bestimmt gewesen wären.  
 
@@ -42,12 +42,14 @@ Schließlich bleibt zu bedenken: auch der produktivste Komponist protestantische
 
 3. Grund für den vorzeitigen Abbruch der Vertonung des Choralkantatenjahrgangs war (wie von Krummacher 1995 unspezifisch vermutet, von Schulze 1998 systemisch analysiert und personenbezogen präzisiert, von Wolff 2000 einstweilen akzeptiert, 2020 jedoch explizit ignoriert und u.a. von Geck 2000, Braatz 2007, Klek 2015, Marquard 2019 mit unterschiedlichen Zielrichtungen diskutiert) der plötzliche, dauerhafte Ausfall des Autors Ende Januar 1725.  
 
-Ein in Teilen der Fachliteratur (vgl. z.B. Gardiner 2013) unterstellter Erschöpfungszustand des Komponisten mag zwar existiert haben, taugt aber nicht als Erklärung für die zwar zeitverzögert wirkende, ursächlich aber spontan bedingte Beendigung dieses in der Musikgeschichte einzigartigen Projekts, da für die Vollendung des Zyklus und der Passion im Tempus clausum während der vierzigtägigen Fastenzeit eine hinreichende - und für die verbleibenden gut ein Dutzend Kantatentermine zwischen Ostern und Trinitatis mit ca. 12 Wochen sogar eine ganz gewöhnlich bemessene Zeit für eine geordnete Vollendung nach Bachs vorweihnachtlichem Standardrhythmus vorhanden gewesen wäre. 
+Ein in Teilen der Fachliteratur (vgl. z.B. Gardiner 2013) unterstellter Erschöpfungszustand des Komponisten mag zwar existiert haben, taugt aber nicht als Erklärung für die zwar zeitverzögert wirkende, ursächlich aber spontan bedingte Beendigung dieses in der Musikgeschichte einzigartigen Projekts, da für die Vollendung des Zyklus und der Passion im Tempus clausum während der vierzigtägigen Fastenzeit eine hinreichende - und für die verbleibenden gut ein Dutzend Kantatentermine zwischen Ostern und Trinitatis mit ca. 12 Wochen sogar eine ganz gewöhnlich bemessene Zeit für eine geordnete Vollendung nach Bachs vorweihnachtlichem Standardrhythmus vorhanden gewesen wäre.  
+
 Im übrigen verursachten Erstellung bzw. Umarbeitung der nachgewiesenen Ersatzkompositionen organisatorisch und intellektuell mindestens identische, emotional vielleicht sogar überdurchschnittliche Unkosten.  
 
 Dass bis heute keine Parallelvertonung aus diesem Textkorpus durch einen anderen Komponisten bekannt geworden ist, lässt sich als Indiz dafür werten, dass das Material Bachs und des Autors Besitz zu Lebzeiten niemals verlassen hat - und auch nicht den der jeweiligen Nachkommen. Es dürfte - wie der sonstige private Briefbestand des Thomaskantors - in der zweiten Hälfte des 18. Jahrhunderts komplett kassiert worden sein. (Vgl. Schulze 2001) Dass Bach mit seinem Vetter Johann Elias zeitweilig einen Privatsekretär beschäftigte, belegt, dass sein nichtamtlicher Schriftverkehr gleichwohl einen erheblichen Umfang besessen haben muss.  
 
-Da aufgrund dieses Befunds nicht damit zu rechnen ist, dass jemals ein - zwangsläufig nur posthum denkbarer - Sammeldruck des unvollständigen Jahrgangs in Form eines (urheberische Initiativen oder gar verlegerische Investitionen der Erben erfordernden) Buchs auftauchen könnte, das analog zum Fall J.C. Birckmann (vgl. Blanken 2015) eine Attribution anhand textlicher Konkordanzen ermöglichen würde, müssen andere Ansätze zur Identitätsermittlung herangezogen werden. Diese konzentrieren sich auf die Suche nach einem Anfang 1725 verstorbenen lutherischen Theologen mit nachgewiesener dichterischer Kompetenz, hymnologischem Hintergrund und untadelhaftem Lebenswandel - allerdings ohne Leipzig als Lebensmittelpunkt zur impliziten conditio sine qua non zu machen.  
+Da aufgrund dieses Befunds nicht damit zu rechnen ist, dass jemals ein - zwangsläufig nur posthum denkbarer - Sammeldruck des unvollständigen Jahrgangs in Form eines (urheberische Initiativen oder gar verlegerische Investitionen der Erben erfordernden) Buchs auftauchen könnte, das analog zum Fall J.C. Birckmann (vgl. Blanken 2015) eine Attribution anhand textlicher Konkordanzen ermöglichen würde, müssen andere Ansätze zur Identitätsermittlung herangezogen werden.  
+Diese konzentrieren sich auf die Suche nach einem Anfang 1725 verstorbenen lutherischen Theologen mit nachgewiesener dichterischer Kompetenz, hymnologischem Hintergrund und untadelhaftem Lebenswandel - allerdings ohne (anders als Schulze 1998) Leipzig als Lebensmittelpunkt zur impliziten conditio sine qua non zu machen.  
 
 
 
@@ -79,11 +81,12 @@ Diese Betrachtungsweise ermöglicht erstmals eine weitgehend widerspruchsfreie E
 Der Charakter der Handschrift P 26 ist somit keineswegs defizitär, wie seit Jahrzehnten von der Forschung in fast einhelliger Ratlosigkeit unterstellt wird, (etwa aufgrund einer auf den ersten Blick willkürlich erscheinenden Selektion durch den Schreiber), sondern erlaubt vielmehr durch seinen präzisen, erstaunlich modern wirkenden musikarchäologischen Ansatz bislang beispiellose Einblicke in Bachs Vorgehensweise bei der Entstehung eines seiner umfangreichsten Großwerke, dessen erster Versuch einer Niederschrift durch außergewöhnliche äußere Umstände in singulärer Weise beeinflusst worden war.  
 
 Insbesondere dokumentieren die Erscheinungsformen einiger Turbae-Chöre (z.B. Nr. 4d oder Nr. 41b) oder der Aria Nr. 20 als Momentaufnahmen unfertiger, aber als zielgerichtet erkennbarer Prozesse das Vorgehen des Komponisten bei der provisorischen Fixierung komplexer musikalischer Gedanken. (Vgl. Marshall 1972; 2011 sowie speziell zur Aria Chafe 1982.)  
-Selbst scheinbar nebensächliche, unmotiviert anmutende Details, wie die isoliert herausgehobene Platzierung des - gegenüber den später, durch simple notationstechnische Handgriffe geradegerückten Varianten h-a-g bzw. g-a-h-a „falsch“ erscheinenden - provisorischen Zieltons a (hier noch ohne den ausgehaltenen Baßton G) in Takt 7 des Rezitativs Nr. 2 auf dem seltenen, deklamatorisch unkonventionell wirkenden, für den Sänger riskanten Vokal ü (nach explizitem, sonst meist fehlendem Taktstrich) und die am Ende dieser Sentenz chromatisierte Schlußklausel („…gekreuziget werde“), deren erster notierter Ton nach einem Zeilenwechsel eine Rückbindung ins Nirwana aufweist, nämlich in den vorangehenden, noch leeren Halbtakt, vermögen die Annahme zu stützen, dass hier ursprünglich niemand anderes als der Komponist selbst am Werk gewesen sein kann.  
+
+Selbst scheinbar nebensächliche, unmotiviert anmutende Details, wie die isoliert herausgehobene Platzierung des - gegenüber den später, durch simple notationstechnische Handgriffe geradegerückten Varianten h-a-g bzw. g-a-h-a „falsch“ erscheinenden - provisorischen Zieltons a (hier noch ohne den ausgehaltenen Baßton G) in Takt 7 des Rezitativs Nr. 2 auf dem seltenen, deklamatorisch unkonventionell wirkenden, für den Sänger riskanten Vokal ü (nach explizitem, sonst meist fehlendem Taktstrich) und die am Ende dieser Wortfolge chromatisierte Schlußklausel („…gekreuziget werde“), deren erster notierter Ton nach einem Zeilenwechsel eine Rückbindung ins Nirwana aufweist, nämlich in den vorangehenden, noch leeren Halbtakt, vermögen die Annahme zu stützen, dass hier ursprünglich niemand anderes als der Komponist selbst am Werk gewesen sein kann.  
 
 Zudem konterkariert gerade dieses Beispiel Dürrs Verlegenheitshypothese einer außergewöhnlichen „Konjekturfreudigkeit“ Agricolas, der diesen extrem exponiert erscheinenden Fehler (der in diesem fragmentarischen Zustand des Satzbildes noch gar keiner war!) sicherlich mit einem Federstrich nach einem einzigen Blick in AmB. 6 oder durch eigene kompositorische Kompetenz hätte korrigieren können - wie Bach es bei der späteren Fertigstellung, als nach Aufschiebung des Harmoniewechsels G-(A7)-D6 (bedingt durch die buchstäblich überbordende Streichergloriole der Christusworte) um einen halben Takt die Vokalnote tatsächlich fehlerhaft wurde, durch Verkürzung des a mittels eines zusätzlichen Fähnchens, Anfügung eines Sechszehntel g und Voranstellung einer Achtelnote h dann auch selbst mit seiner typisch pragmatischen Eleganz tat.  
 
-Oder hatte Bach ursprünglich an dieser dramaturgisch herausgehobenen Stelle (Vorankündigung des Verrats) gar eine dissonant definierte, wortverstärkende Harmonie im Sinn, die sich im zweiten Anlauf - nach Ausformulierung der Streicherbegleitung - als unausführbar erwies?  
+Oder hatte Bach ursprünglich an dieser dramaturgisch herausgehobenen Stelle (Vorankündigung des Verrats) gar eine dissonant definierte, wortverstärkende Harmonie im Sinn, die sich im zweiten Anlauf - nach Ausformulierung der Streicherstimmen - als unausführbar erwies und deshalb die Degradierung des Zieltons a zur Durchgangsnote erforderte?  
 
 Unter diesem Blickwinkel betrachtet, erscheint die Erklärung dieser in P 26 wie auf dem Präsentierteller platziert wirkenden Stelle als getreue Wiedergabe einer Bachschen Entwurfsskizze als alternativlos. Bestärkt wird dieser Eindruck durch die final verfeinerte (durch aufführungspraktische Erfahrungen motivierte?) Endfassung im Spätautograph P 25.  
 
@@ -123,7 +126,7 @@ Die bei der provisorischen Einschleusung in die vorzeitig wiederaufgeführte Joh
 
 Als alternativer Erklärungsansatz wäre eine Erstfassung in D-Dur denkbar (vgl. Dürr 1988), zumal das vorangehende Rezitativ im Torso P 26 aufgrund etlicher fehlender Schlusstakte hinsichtlich der Zieltonart unbestimmt bleibt - freilich um den Preis eines Bruchs in der tonartlichen Symmetrie der Rahmensätze des ersten Teils der Passion.  
 
-Durch Umkehrung der bisher angenommenen Entstehungsreihenfolge wird somit auch eine von Arthur Mendel postulierte, in Weimar lokalisierte Frühfassung des Satzes (BC D1) obsolet. Vielmehr fügt sich dieser Satz durch seine - in der Fachliteratur nachhaltig bestätigte - kompositorische Reife, formale Opulenz und hymnologisch / theologische Tendenz zwar notationstechnisch scheinbar leicht korrumpiert, aber substanziell bruchlos in ein Gesamtprojekt „Choralkantaten und Matthäuspassion“ ein.  
+Durch Umkehrung der bisher angenommenen Entstehungsreihenfolge wird somit auch eine von Arthur Mendel postulierte, in Weimar lokalisierte Frühfassung des Satzes (BC D1) obsolet. Vielmehr fügt sich dieser Satz durch seine - in der Fachliteratur nachhaltig bestätigte - kompositorische Reife, formale Opulenz und hymnologische / theologische Tendenz zwar notationstechnisch scheinbar leicht korrumpiert, aber substanziell bruchlos in ein Gesamtprojekt „Choralkantaten und Matthäuspassion“ ein.  
 
 
 
@@ -137,7 +140,7 @@ Henricis Textentwurf lag zwar (laut Smend 1951 zwecks formaler Approbation) zeit
 
 Weiter zugespitzt: Ist es vorstellbar, dass Bach die erheblichen Einkünfte (230 Rtlr. brutto; vgl. Heber 2017) aus den beiden Köthener Aufführungen (es erklang am Abend der Beisetzung auch die fertig vorliegende doppelchörige Musik „O Herr, ich bin dein Knecht“ seines Meininger Vetters Johann Ludwig Bach) gleichsam als Quersubventionierung genutzt hat, um sein 1725 vorläufig gescheitertes Passions-Projekt unter optimalen Bedingungen für Leipzig zu vollenden und zu präsentieren? (Vgl. Hofmann 1983)  
 
-Das Ganze wäre auch zu betrachten vor dem Hintergrund seiner anschwellenden Auseinandersetzungen mit seinen komplex organisierten Dienstherrschaften (Stadt; Landesherrschaft; Universität; Konsistorium; Ferne Fürsten) um eine halbwegs hinreichende Ausstattung des chronisch defizitären Leipziger Aufführungsapparts - also gleichsam als „demonstratio ad aures“ dessen, was er als Director Musices bei angemessener Subventionierung zu leisten im Stande sein könnte.  
+Das Ganze wäre auch zu betrachten vor dem Hintergrund der anschwellenden Auseinandersetzungen mit seinen komplex organisierten Dienstherrschaften (Stadt; Landesherrschaft; Universität; Konsistorium; Ferne Fürsten) um eine halbwegs hinreichende Ausstattung des chronisch defizitären Leipziger Aufführungsapparts - also gleichsam als „demonstratio ad aures“ dessen, was er als Director Musices bei angemessener Subventionierung zu leisten im Stande sein könnte.  
 
 Für den Zusammenhang von Trauermusik und Passion ist anhand eines Schnittmengenmodells folgendes Schema denkbar: Den 1725 in Konzeptschrift vorliegenden Sätzen 20,39,57 wurden 1728/29 in den Vokalstimmen (und nur dort!) neue Texte unterlegt. Keiner, alle oder (am wahrscheinlichsten:) einige wenige der Sätze 6,8,13,23,49,65 lagen 1725 als unvertonte Texte vor, wurden 1728 von Henrici parodiert und von Bach mit Blick auf die Doppelverwendung vertont. Bei der verbleibenden Menge handelt es sich um komplette Neuschöpfungen, die dann bald darauf oder parallel dazu in die Passion übernommen wurden.  
 
@@ -155,10 +158,11 @@ Schließt uns auch die Thränen zu. (1728/29)
 
 
 
-14. Mit der - durch eine starke „individualeschatologische Komponente“ (vgl. Petzoldt 2004) und durch ein für Bachs Erfindungsweise selten eindeutiges musikalisches Zitat aus BWV 244b-27b geprägten - Kantate BWV 127 auf den traditionsreichsten protestantischen Sterbechoral „Herr Jesu Christ, wahr’ Mensch und Gott“ schuf Bach eine subtile Würdigung des Textautors des Choralkantatenjahrgangs und der Matthäuspassion - komponiert in derselben Woche (möglicherweise an demselben Tag), an dem dieser in seinem Wirkungsort unter einem Totengeläut zu Grabe getragen wurde, dessen heute noch erlebbarer Klang Bach aus früher Hörerfahrung bekannt war.  
+14. Mit der - durch eine starke „individualeschatologische Komponente“ (vgl. Petzoldt 2004) und durch ein für Bachs Erfindungsweise selten eindeutiges musikalisches Zitat aus BWV 244b-27b geprägten - Kantate BWV 127 auf den traditionsreichsten protestantischen Sterbechoral „Herr Jesu Christ, wahr’ Mensch und Gott“ schuf Bach eine subtile Würdigung des Textautors des Choralkantatenjahrgangs und der Matthäuspassion - komponiert in derselben Woche (möglicherweise an demselben Tag), an dem dieser in seiner Predigtstätte unter einem Totengeläut zu Grabe getragen wurde, dessen heute noch erlebbarer Klang Bach aus früher Hörerfahrung bekannt war.  
 
 Während des Entstehungsvorgangs mutierte die Kantate BWV 127 von einer distanzübergreifenden Sterbebegleitung zum musikalischen Epitaph.  
-Dazu passt, dass in einem für den Wirkungsort des Autors verbindlichen Gesangbuch eine Textvariante des Chorals „Herr Jesu Christ …“ abgedruckt ist, die für den Fall, dass der Sterbende den Text nicht mehr selbst bewältigen konnte, den „Umstehenden“ zum Singen oder Beten in Herz und Mund gelegt wurde.  
+
+Dazu passt, dass in einem für den Wirkungsort des Autors verbindlichen Gesangbuch eine Variante des Chorals „Herr Jesu Christ …“ abgedruckt ist, die für den Fall, dass der Sterbende den Text nicht mehr selbst bewältigen konnte, den „Umstehenden“ zum stellvertretenden Singen oder Beten in Herz und Mund gelegt wurde.  
 
 In demselben Gesangbuch findet sich wenige Ordnungsnummern später eine Paraphrase auf „Herr Jesu Christ…“, in welcher auffällige Entsprechungen zu BWV 127/2 enthalten sind, die im originalen Choraltext fehlen..  
 
@@ -181,7 +185,15 @@ Dass auch dem ersten Band der Farlau-Abschrift (D-B AmB. 6) - dem einzigen bishe
 
 Bemerkt zu werden verdient auch die Tatsache, dass die Abschrift einer zwischen 1705 und 1715 entstandenen Michaelisfest-Kantate eines mit Bach befreundeten Komponisten, dem der Autor fast drei Jahrzehnte lang täglich begegnete und mit dem er ein Dezennium lang sehr eng zusammenarbeitete, im Kopftitel verzeichnet: „J.N.D.N.J.C.A.“ - also die oben genannte Formel, vermehrt um ein „Amen“ und somit rekombinierbar als: „… Non Deleatur Nomen … Auctoris“. Eine an entlegener Stelle überlieferte Motette dieses Komponisten beginnt mit der - nota bene ausgeschriebenen - Anrufung „Jehova Juva!“ - ebenso wie ein weiteres, 1734 kopiertes Werk ähnlichen Typs.  
 
-Es ist - aufgrund von Parallelbeispielen (also ähnlich eindeutiger, buchstabengetreu auflösbarer Synthesen von Titulus-artigem Monogramm und Invocatio) auf den Frontseiten akademischer Druckschriften des Autors: [J]esu [C]hristo [J]uvante und seines akademischen Lehrers: [J]esu [G]ratia [M]oderante bzw. [I]n [G]loriam [M]ediatoris - in hohem Maße wahrscheinlich, dass Bach bei der Verwendung dieser Formel Vorgefundenes aus dessen Manuskripten zitierte. Zu erwähnen ist ferner, dass das auffälligste dieser Beispiele, der Druck der Magisterdisputation des Autors, mit [J]esu [C]hristo [J]uvante“ beginnt und mit dem auch von Bach verwendeten [S]oli [D]eo [G]loria endet.  
+Es ist - aufgrund von Parallelbeispielen (also ähnlich eindeutiger, buchstabengetreu auflösbarer Synthesen von Titulus-artigem Monogramm und Invocatio) auf den Frontseiten akademischer Druckschriften des Autors:  
+
+[J]esu [C]hristo [J]uvante  
+
+und seines akademischen Lehrers:  
+
+[J]esu [G]ratia [M]oderante bzw. [I]n [G]loriam [M]ediatoris  
+
+ - in hohem Maße wahrscheinlich, dass Bach bei der Verwendung dieser Formel Vorgefundenes aus dessen Manuskripten zitierte. Zu erwähnen ist ferner, dass das auffälligste dieser Beispiele, der Druck der Magisterdisputation des Autors, mit [J]esu [C]hristo [J]uvante“ beginnt und mit dem auch von Bach verwendeten [S]oli [D]eo [G]loria endet.  
 
 Es ist eine Überlegung wert, ob nicht „J.C.J.“ Vorbild für Bachs seit seiner Mühlhausener Ratswechselkante BWV 71 nachweisbare Formel „J.J.“ darstellen könnte. (Ausnahme: BWV 16 zum Auftakt der Kalenderjahres 1726, wo es heißt: „J.N.J.A.“) In diesem Zusammenhang bleibt zu eruieren, ob überhaupt eine wörtliche Auflösung des Kürzels als „Jesu Juva“ aus der Hand Bachs existiert, dessen Dienst als Kantor 27 Jahre lang mit einer (gegen Honorar abgegebenen) Lehrverpflichtung für Lateinunterricht verbunden war. Andernfalls blieben - neben der alttestamentlichen Variante „Jehova Juva“ die Interpretationen als „Jesu Juvante“ als gleichberechtigte sowie „Jesus Immanuel“ als ebenfalls im Umfeld des Autors belegbare, aber weniger wahrscheinliche Alternativen.  
 
@@ -189,18 +201,19 @@ Nicht unerwähnt soll der Umstand bleiben, dass Martin Luther auf dem Reichstag 
 
 Die Anregung zu dieser Verwendung und Umdeutung des - zwischen 1650 und 1750 durch Juristen und Theologen (vgl. Erler 3/1909, XVII) - fast in Form heutiger „Sprayer-Tags“ (z.B. in der von einem Kommilitonen des Autors 1692 zu I. N. J. C. individualisierten Variante) - benutzten Votum Justinianum lässt sich durch zwei Umstände erhellen.  
 
-Zum einen korrespondiert sie teilweise mit der abgekürzten Form des - auf dem Titelblatt des Spätautographs in Latein verfassten - Titels:
+Zum einen korrespondiert sie teilweise mit der abgekürzten Form des - auf dem Titelblatt des Spätautographs in Latein verfassten - Titels:  
+
 Passio [D]omini [N]ostri [J]esu [C]hristi.  
 
 Zum anderen hatte der Autor Gelegenheit mitzuerleben, wie eine lebensgroße Skulptur des bekanntesten Verwenders dieser Anrufung (der spätantike Kaiser Justinian) an der Fassade eines kommunalen Repräsentationsbaus in seinem unmittelbarn Lebensumfeld errichtet wurde.  
 
 Spätes, schwaches Nachwehen dieser eigentümlichen Praxis ist die - für Bachs wortgebundenes Werk gleichfalls singuläre - zwar gelehrtensprachliche, aber ungewöhnliche und unverschleierte Nennung „Poesia per Dominum Henrici alias Picander dictus“ als genialem Vollender und Verantwortlichem für die Textfassung zweiter bzw. letzter Hand der Matthäuspassion, die für den Komponisten, dessen Aufführungshelfer und auch dessen Erben nicht zuletzt auch einen praktischen Nutzen besaß zur Unterscheidung der Manuskripte bei der Handhabung der Notenbibliothek.  
 
-Ob den an der Vorbereitung bzw. Vollendung des Werks Beteiligten bewußt war, dass der Platzhalter für den Schluss des ersten Teils der Matthäuspassion BWV 244b, (anstelle von „O Mensch bewein…“), die letzte Strophe des Chorals „Meinen Jesum lass ich nicht“, den Namen desjenigen luthertreuen Prominenten in Form eines Akrostichons abbildet, dessen auf dem Sterbebett geäußerter Bekenntnissatz den Kern dieses Liedes darstellte?  
+Ob den an der Vorbereitung bzw. Vollendung des Werks Beteiligten bewußt war, dass der Platzhalter für den Schluss des ersten Teils der Matthäuspassion BWV 244b, (anstelle von „O Mensch bewein…“), die letzte Strophe des Chorals „Meinen Jesum lass ich nicht“, den Namen desjenigen luthertreuen Prominenten in Form eines Akrostichons abbildet, dessen auf dem Sterbebett geäußerter Bekenntnissatz den Kern dieses Liedes darstellt?  
 
 [J]ohann [G]eorg [C]hurfürst [z]u [S]achsen  
 
-Das bekannteste Beispiel der Verwendung von Buchstabenspielen bei Bach selbst (der dieses Prinzip spätestens seit seiner Vertonung der 2004 zutage getretenen Strophenarie BWV 1127 im Jahr 1713 kannte, vgl. Maul 2005) findet sich bald vor Ende seines Lebens im RICERCAR des Musikalischen Opfers BWV 1077 für Friedrich II. von Preußen, im Beisein von C.E.P. Bach, W.F. Bach (und wohl auch J.F. Agricola) in Potsdam zunächst dreistimmig extemporiert, später sechsstimmig neu ausgearbeitet, in Kupfer gestochen und nachträglich (durch eigens gedruckte und eingeklebte Zettel) mit dieser Bedeutungserklärung und Sinnerhöhung versehen:  
+Das bekannteste Beispiel der Verwendung von Buchstabenspielen bei Bach selbst (der dieses Prinzip spätestens seit seiner Vertonung der 2004 zutage getretenen Strophenarie BWV 1127 im Jahr 1713 kannte; vgl. Maul 2005) findet sich bald vor Ende seines Lebens im RICERCAR des Musikalischen Opfers BWV 1077 für Friedrich II. von Preußen, im Beisein von C.E.P. Bach, W.F. Bach (und wohl auch J.F. Agricola) in Potsdam zunächst dreistimmig extemporiert, später sechsstimmig neu ausgearbeitet, in Kupfer gestochen und nachträglich (durch eigens gedruckte und eingeklebte Zettel) mit dieser Bedeutungserklärung und Sinnerhöhung versehen:  
 
 [R]egis [I]ussu [C]antio [E]t [R]eliqua [C]anonica [A]rte [R]esoluta  
 
