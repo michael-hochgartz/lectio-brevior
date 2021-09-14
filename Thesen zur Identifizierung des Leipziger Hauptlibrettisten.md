@@ -2,7 +2,7 @@
 des „Leipziger“ Hauptlibrettisten  
 Johann Sebastian Bachs  
 Michael Hochgartz (D 48153 Münster)  
-michael@hochgartz.de - 12.09.2021  
+michael@hochgartz.de - 14.09.2021  
 Quelltext und Literaturverzeichnis: https://github.com/michael-hochgartz/lectio-brevior  
 
 Amore et studio elucidandae veritatis haec subscripta disputabuntur (Martin Luther 1517)  
@@ -17,7 +17,7 @@ Pro captu lectoris habent sua fata libretti (nach Terentianus Maurus)
 
 Der auf knapp drei Dutzend Produktionswochen verdichtete Prozess war vielmehr geprägt durch eine erhebliche räumliche Distanz zwischen Autor und Komponist, die eine Übermittlung des Materials in Form von zusammenfassenden Lieferungen nach sich zog, deren Stückelungen den Anforderungen der vorauszuplanenden Drucklegungen für die in Leipzig üblichen, für den Komponisten (entgegen Heber 2017) durchaus auch als Einnahmequelle relevanten Sammellibretti entsprechen mussten.  
 
-Unter der Voraussetzung, dass Komposition und Uraufführung der Kantaten in der Regel sukzessive in wöchentlichem, Herstellung (inklusive Imprimatur und Korrektur) und Verkauf der Texthefte aber stets vorab en bloc in fünf- bis achtwöchigem Turnus erfolgte (vgl. Hobohm 1973; Scheide 1976), wären Einzellieferungen über eine größere Entfernung für Absender und Empfänger ohne erkennbaren Vorteil und für Letzteren überdies mit überflüssigen Portokosten sowie einem erhöhten Verlustrisiko verbunden gewesen.  
+Unter der Voraussetzung, dass Komposition und Uraufführung der Kantaten in der Regel sukzessive in wöchentlichem, Herstellung (inklusive Imprimatur und Korrektur) und Verkauf der Texthefte aber stets vorab en bloc in fünf- bis achtwöchigem Turnus erfolgte (vgl. Hobohm 1973; Scheide 1976), wären Einzellieferungen über eine größere Entfernung für Absender und Empfänger ohne erkennbaren Vorteil und für Letzteren überdies mit überflüssigen Portokosten sowie mit einem erhöhten Verlustrisiko verbunden gewesen.  
 
 In der Extremsituation zwischen dem 25.12.1724 und dem 7.1.1725, als in 14 Tagen sieben Neukompositionen zu realisieren waren, wären alle zwei Tage eintreffende Postsendungen mit je einem Kantatentext genauso inpraktikabel gewesen wie eine stückweise erfolgte persönliche Übergabe durch einen vor Ort agierenden Dichter. Stattdessen bot die Einhaltung eines standardisierten Lieferrhythmus dem Komponisten auch in diesem Fall mehrere Kalenderwochen zusätzlicher Arbeitszeit bei der Vertonung. (Vgl. Petzoldt 2000 zu dem in Leningrad nur noch in Form einer Karteikarte nachgewiesenen, seit 1919 verschollenen „Libretto Nr. 9“, das mit dem 3.12.1724 endet.)  
 
@@ -40,7 +40,7 @@ Schließlich bleibt zu bedenken: auch der produktivste Komponist protestantische
 
 
 
-3. Grund für den vorzeitigen Abbruch der Vertonung des Choralkantatenjahrgangs war (wie von Krummacher 1995 unspezifisch vermutet, von Schulze 1998 systemisch analysiert und personenbezogen präzisiert, von Wolff 2000 einstweilen akzeptiert, 2020 jedoch explizit ignoriert und u.a. von Geck 2000, Braatz 2007, Klek 2015, Marquard 2019 mit unterschiedlichen Zielrichtungen diskutiert) der plötzliche, dauerhafte Ausfall des Autors Ende Januar 1725.  
+3. Grund für den vorzeitigen Abbruch der Vertonung des Choralkantatenjahrgangs war (wie von Krummacher 1995 unspezifisch vermutet, von Schulze 1998 systemisch analysiert und personenbezogen präzisiert, von Wolff 2000 einstweilen akzeptiert, 2020 jedoch explizit ignoriert und u.a. von Geck 2000, Braatz 2007, Zedler 2007, Klek 2015, Marquard 2019 mit unterschiedlichen Zielrichtungen diskutiert) der plötzliche, dauerhafte Ausfall des Autors Ende Januar 1725.  
 
 Ein in Teilen der Fachliteratur (vgl. z.B. Gardiner 2013) unterstellter Erschöpfungszustand des Komponisten mag zwar existiert haben, taugt aber nicht als Erklärung für die zwar zeitverzögert wirkende, ursächlich aber spontan bedingte Beendigung dieses in der Musikgeschichte einzigartigen Projekts, da für die Vollendung des Zyklus und der Passion im Tempus clausum während der vierzigtägigen Fastenzeit eine hinreichende - und für die verbleibenden gut ein Dutzend Kantatentermine zwischen Ostern und Trinitatis mit ca. 12 Wochen sogar eine ganz gewöhnlich bemessene Zeit für eine geordnete Vollendung nach Bachs vorweihnachtlichem Standardrhythmus vorhanden gewesen wäre.  
 
@@ -49,7 +49,7 @@ Im übrigen verursachten Erstellung bzw. Umarbeitung der nachgewiesenen Ersatzko
 Dass bis heute keine Parallelvertonung aus diesem Textkorpus durch einen anderen Komponisten bekannt geworden ist, lässt sich als Indiz dafür werten, dass das Material Bachs und des Autors Besitz zu Lebzeiten niemals verlassen hat - und auch nicht den der jeweiligen Nachkommen. Es dürfte - wie der sonstige private Briefbestand des Thomaskantors - in der zweiten Hälfte des 18. Jahrhunderts komplett kassiert worden sein. (Vgl. Schulze 2001) Dass Bach mit seinem Vetter Johann Elias zeitweilig einen Privatsekretär beschäftigte, belegt, dass sein nichtamtlicher Schriftverkehr gleichwohl einen erheblichen Umfang besessen haben muss.  
 
 Da aufgrund dieses Befunds nicht damit zu rechnen ist, dass jemals ein - zwangsläufig nur posthum denkbarer - Sammeldruck des unvollständigen Jahrgangs in Form eines (urheberische Initiativen oder gar verlegerische Investitionen der Erben erfordernden) Buchs auftauchen könnte, das analog zum Fall J.C. Birckmann (vgl. Blanken 2015) eine Attribution anhand textlicher Konkordanzen ermöglichen würde, müssen andere Ansätze zur Identitätsermittlung herangezogen werden.  
-Diese konzentrieren sich auf die Suche nach einem Anfang 1725 verstorbenen lutherischen Theologen mit nachgewiesener dichterischer Kompetenz, hymnologischem Hintergrund und untadelhaftem Lebenswandel - allerdings ohne (anders als Schulze 1998) Leipzig als Lebensmittelpunkt zur impliziten conditio sine qua non zu machen.  
+Diese konzentrieren sich auf die Suche nach einem Anfang 1725 verstorbenen lutherischen Theologen mit nachgewiesener dichterischer Kompetenz, hymnologischem Hintergrund und untadelhaftem Lebenswandel - allerdings ohne (anders als Schulze 1998 und die ihm Folgenden) Leipzig als Lebensmittelpunkt zur impliziten conditio sine qua non zu machen.  
 
 
 
