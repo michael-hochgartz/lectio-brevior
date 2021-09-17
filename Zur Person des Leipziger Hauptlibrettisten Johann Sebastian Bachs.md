@@ -3,7 +3,7 @@
 Entwurf für ein Vortragsmanuskript (Es gilt das gesprochene Wort)  
 
 Michael Hochgartz (D 48153 Münster)  
-michael@hochgartz.de - 15.09.2021  
+michael@hochgartz.de - 17.09.2021  
 Quelltext und Literaturverzeichnis: https://github.com/michael-hochgartz/lectio-brevior  
 
 
@@ -241,7 +241,7 @@ Der vom „Correspondenten“ genannte 19. Januar ist deshalb weniger wahrschein
 
 Deshalb erscheint die Angabe Wilhelm Linkes am vertrauenswürdigsten, der bei der Katalogisierung norddeutscher Personalschriften zunächst (1912) pauschal 1725 angegeben hatte, dann (1931) aber konkret den 21.1.1725 nennen konnte - anhand des einzigen bislang nachgewiesenen Exemplars im ehemaligen Staatsarchiv Hannover (Signatur: St.A. 2° 26), das dort in der Nacht zum 9. Oktober 1943 verbrannte.  
 
-Demnach ist Jauch an jenem dritten und letzten Sonntag nach Epiphanias 1725 in Lüneburg gestorben, an dem J.S. Bach 300 Kilometer entfernt in der Leipziger Nikolaikirche zur Predigt des Superintendenten Salomon Deyling die Choralkantate „Was mein Gott will das gscheh allzeit“ (BWV 111) uraufführte, in deren spätestens zwei Wochen zuvor nach Leipzig übermitteltem Text es heißt:  
+Demnach ist Jauch an jenem dritten und letzten Sonntag nach Epiphanias 1725 in Lüneburg gestorben, an dem J.S. Bach 300 Kilometer entfernt in der Leipziger Nikolaikirche zur Predigt des Superintendenten Salomon Deyling die Choralkantate „Was mein Gott will das gscheh allzeit“ (BWV 111) uraufführte, in deren spätestens zwei Wochen zuvor nach Leipzig übermittelten Text es heißt:  
 
 So geh ich mit beherzten Schritten,  
 auch wenn mich Gott zum Grabe führt.  
@@ -368,7 +368,7 @@ Die sonst bei Lehms in zeittypischer Manier poetisch überhöhte Todessehnsucht 
 Dass andererseits Johann Christoph Jauch von Lehms inspiriert worden sein dürfte, belegt das Beispiel von dessen Text zum 16. Sonntag nach Trinitatis. Dieser korreliert mit BWV 111 in folgenden Allusionen: „Ach! daß sich nicht sofort mein Geist / Aus dem bedrängten Körper reißt“ und mit BWV 127: „So mögen drauff die Sterbe-Klocken klingen“.  
 
 
-Jauch ist, mit Ausnahme seiner - exzellent, aber leider nicht vollständig digitaliserten, aus sprachlichen Gründen heute kaum noch nachvollziehbar zu beurteilenden - Beteiligungen an lateinischen Disputationen, seiner zahlreichen, durchgängig auf Deutsch verfassten gereimten Grußworte in Drucken befreundeter Rostocker Akademiker und seiner Beiträge in Lüneburger Personalschriften, auf den ersten Blick publizistisch kaum erkennbar hervorgetreten. Sein, durch verschiedene Aussagen belegtes, bescheidenes Wesen ist als Grund dafür anzusehen, dass er aus eigenem Antrieb wenig produziert hat, was heute noch reziberbar erscheint.  
+Jauch ist, mit Ausnahme seiner - exzellent, aber leider nicht vollständig digitaliserten, aus sprachlichen Gründen heute kaum noch nachvollziehbar zu beurteilenden - Beteiligungen an lateinischen Disputationen, seiner zahlreichen, durchgängig auf Deutsch verfassten gereimten Grußworte in Drucken befreundeter Rostocker Akademiker und seiner Beiträge in Lüneburger Personalschriften, auf den ersten Blick publizistisch kaum erkennbar hervorgetreten. Sein, durch verschiedene Aussagen belegtes, bescheidenes Wesen ist als Grund dafür anzusehen, dass er aus eigenem Antrieb wenig produziert hat, was heute noch rezipierbar erscheint.  
 
 Für die Praxis der brieflichen Kommunikation Johann Christoph Jauchs, dessen Bruder Carl (1680-1755) als Lübeckischer Postmeister in Lüneburg amtierte, gibt es erfreulich sachdienliche Belege von seiner eigenen Hand.  
 
@@ -614,9 +614,8 @@ Das betrifft beide Richtungen: sowohl die Frage nach der Herkunft der Vorlagen f
 Auch die Tatsache, dass 1717 für eine - leider nicht näher spezifizierte - Passionsaufführung in St. Michaelis die erstaunlich hohe Anzahl von 1000 Textheften in den Kirchenrechnungen verzeichnet wurde, belegt auf jeden Fall, dass unter den - zumindest passiv beteiligten - Augen und Ohren eines theologisch und musikalisch hochkompetenten Geistlichen wie J.C. Jauch immer wieder auch Kirchenmusiken praktiziert wurden, die über liturgische Allerweltsereignisse hinaus reichten.
 
 
-1722 entstand im führenden Bibel- und Gesangbuchverlag nördlich des Mains, der heute in 14. Generation in Familienbesitz befindlichen von Sternschen Druckerei, in dem Gebäudekomplex „Am Sande Nr. 31“ und somit fast Tür an Tür mit Jauchs damaliger Dienstwohnung („Am Sande Nr. 27“ - einst die „Alte Probstei“, heute das „Café Sandkrug“), die zweite Auflage (von insgesamt mindestens neun, mit einem geschätzten Aufwand von jeweils etwa 50 Mannwochen erstellten Neudrucken) der Passionspredigten des 1675 verstorbenen Rostocker Superintendenten und Theologieprofessors Heinrich Müller. (Je eines der - allesamt in Norddeutschland überlieferen - Exemplare der ca. 1800 Seiten umfassenden Auflagen Lüneburg 1722, 1736 und 1743 im Eigentum des Verfassers.)  
+1722 entstand im führenden Bibel- und Gesangbuchverlag nördlich des Mains, der heute in 14. Generation in Familienbesitz befindlichen von Sternschen Druckerei, in dem Gebäudekomplex „Am Sande Nr. 31“ und somit fast Tür an Tür mit Jauchs damaliger Dienstwohnung („Am Sande Nr. 27“ - einst die „Alte Probstei“, heute das „Café Sandkrug“), die zweite Auflage (von insgesamt mindestens neun, mit einem geschätzten Aufwand von jeweils etwa 50 Mannwochen erstellten Neudrucken) der Passionspredigten des 1675 verstorbenen Rostocker Superintendenten und Theologieprofessors Heinrich Müller. (Je eines der - allesamt in Norddeutschland überlieferen - Exemplare der ca. 1800 Seiten umfassenden Auflagen Lüneburg 1722, 1736, 1743 und 1752 im Eigentum des Verfassers.)  
 Diese Tatsache lässt kaum eine andere Annahme zu, als die, dass Johann Christoph Jauch diesen Text (in exakt dieser Variante), für dessen Imprimatur er auch zuständig gewesen sein dürfte, sehr genau gekannt hat, der nach dem leicht angegrauten Stand der Forschung (Axmacher 1978; 1984) in Form auffälliger Allusionen zumindest in das sprachmotivische, wenn nicht auch in das theologische Gerüst von Bachs Matthäuspassion einfloss - und auch in einzelne Choralkantatentexte. 
-
 
 Während der Erstdruck der überwiegend in Lüneburg, aber auch in weiteren norddeutschen Verlagsorten wie Hamburg, Ratzeburg und Stade, in Minden und unter besonderen Umständen sogar in Unna (jedoch nie in Leipzig) das gesamte 18. Jahrhundert lang kontinuierlich nachgedruckten Ausgabe des „Hertzensspiegels“ mit seinen stets beigefügten Passionspredigten auf Übertragungen eigenhändiger, bezeugtermaßen schwer entzifferbarer Predigtkonzepte durch Müllers Privatsekretär und Nachlassverwalter Johann Caspar Heinisius beruhte, fußte die Edition aus Bachs Bibliothek auf simplifizierenden Mitschriften der gesprochenen Predigten durch einen anderen Rostocker Theologiestudenten - Samuel Christian Mummius - der eine abweichende Aufteilung der acht bzw. neun, ursprünglich aus reinem Fließtext bestehenden Predigtblöcke wählte und gegen Ende des Rohmaterials auf die weitgehend wörtlich übernommene Heinisius-Edition zurückgriff. (Vgl. Franklin 2015b)  
 
@@ -643,7 +642,6 @@ und lauter Unflat sehen lassen.
 Dieser Befund ermöglicht - neben dem Nachweis einer gekonnten, keineswegs übermäßig gekünstelt (oder nach Müllers eigenen Worten: „geblümelt“) wirkenden poetischen Verdichtung von vorgefundenen Motiven - die Annahme, dass der Autor sich von Anfang an um eine gemeinsame Inspirationsquelle für Kantaten und Passion bemüht hat. Es bleibt zu prüfen, ob bei der Wiederaufnahme der Arbeiten an der Passion zwischen 1727 und 1729 Müllers Predigtreihe wiederum hinzugezogen wurde.
 
 Die Beauftragung von Bachs Lehrmeister Georg Böhm mit der Vertonung einer ganzen Reihe von ergänzenden Passionstexten für die 1681 und 1685 in Hamburg, dann im Frühjahr 1700 (aufgrund der großen Nachfrage zum dritten Mal und nun im Stern-Verlag mit hohem technischen und personellen Aufwand) produzierten, von Auflage zu Auflage musikalisch modernisierten Elmenhorst-Lieder dürfte ebenso auf Jauch zurückgehen wie vielleicht schon die Anregung für die Berufung des zeitweiligen Hamburger Operncembalisten Böhm nach Lüneburg im Jahr 1698, den er wenige Jahre zuvor, während seines Studiums in Jena, kennen gelernt haben könnte.  
-
 
 
 In Jena war Jauch Mitstudent von Johann Anastasius Freylinghausen und von Johann Nikolaus Bach sowie teilnehmender Beobachter eines hymnologischen Netzwerks, das ab 1700 eine gemäßigt orthodoxe Parallelströmung zu den musikalischen Aktivitäten des Hallischen Pietismus und seines Gründervaters August Hermann Francke entwickeln sollte, der einige Jahre zuvor (als Gast des damaligen Superintendenten Sandhagen) in Jauchs späterer Lüneburger Dienstwohnung sein autobiographisch bezeugtes Erweckungserlebnis gehabt hatte.  
@@ -749,7 +747,7 @@ Der Verfasser erinnert sich gerne daran, dieses Ereignis am Karfreitag 2018 unte
 
 Während der Beisetzung Jauchs am 6. Februar 1725 erklangen auch die auf den heutigen Nominalton h° lautende Apostelglocke (gegossen von Ghert Klinghe 1436) und die auf cis’ lautende Sonntagsglocke. Für den Umguß der Sonntagsglocke durch den Lüneburger Gießer Johann Zieger hatte der Superintendent Jauch 1718 eine dreistrophige, sprachlich für jene Zeit durchaus modern wirkende Glockenzier verfasst, die in ihrem Mittelteil die Hörer zum Gedenken an die eigene Todesstunde aufruft. (Vgl. den - nur in der Originalstimme, nicht in der Partitur als „pizzikato“ bezeichneten - komplementärrythmisch tiefokatvierenden Instrumentalbass zu Beginn von BWV 127/3 und die ebenfalls onomatopoetisch abgebildeten „Sterbeglocken“ im Mittelteil dieser Arie.)  
 
-Der heute noch les- und tastbare Text für die Sonntagsglocke von St. Johannis, verfasst von „M.I.C.J.“ - [M]agister [I]ohann [C]hristoph [J]auch -  lautet:  
+Der heute noch les- und tastbare Text für die Sonntagsglocke von St. Johannis, verfasst von „M.I.C.J.“ - [M]agister [I]ohann [C]hristoph [J]auch - lautet:  
 
 Ich läute als die Sonntags-Glocke  
 Zur Kirchen in das GOttes-Hauß,  
@@ -780,10 +778,9 @@ Der Eingangssatz der Trauermusik beginnt mit der Aufforderung: „Kommt heran, i
 
 Brandenburg zählte zur einer neuen Generation von norddeutschen Poeten im Umkreis der Hamburger literarischen Größen Brockes und Weichmann, in dessen Anthologie „Poesie der Niedersachsen“ das erwähnte Epicedium 1738 veröffentlicht wurde. Er gilt als enger Vertrauter des Dichters Christian Günther in seinen letzten, prekären Leipziger Lebensjahren und verfasste zwischen 1716 und 1750 - nicht ohne Konflikte mit der dortigen geistlichen Obrigkeit (J. Carpzov) - oratorische Texte für die Lübecker Abendmusiken.  
 
-Das Vorwort zum Lübecker „Gideon“ ist datiert „Lüneburg, 20.10.1716“ - der Text entstand somit wohl in Jauchs Wohnung (Am Sande Nr. 27) - wenige Schritte zwischen St. Johannis und dem Herstellungsort von mindestens neun bisher ermittelbarer Lüneburger Auflagen der Müller-Predigten.  
+Das Vorwort zum Lübecker „Gideon“ ist datiert „Lüneburg, 20.10.1716“ - der Text entstand somit wohl in Jauchs Wohnung (Am Sande Nr. 27) - wenige Schritte zwischen St. Johannis und dem Herstellungsort von mindestens neun bisher ermittelbaren Lüneburger Auflagen der Müller-Predigten.  
 
-Zu fragen bleibt, ob Brandenburg in Leipzig (wo er seit 1718 immatrikuliert war) auch dem 1720 dorthin aus Wittenberg übergesiedelten Jurastudenten (und Mitglied des Wittenbergischen musikalischen Collegiums) Christian Friedich Henrici begegnet sein könnte. (Vgl. Erler 1909; Sehlke 2011) 
-
+Zu fragen bleibt, ob Brandenburg in Leipzig (wo er seit 1718 immatrikuliert war) auch dem 1720 dorthin aus Wittenberg übergesiedelten Jurastudenten (und Mitglied des Wittenbergischen musikalischen Collegiums) Christian Friedrich Henrici begegnet sein könnte. (Vgl. Erler 1909; Sehlke 2011) 
 
 
 Brandenburg (und nicht etwa Jauch) war ab 1724 das einzige externe Mitglied der Hamburger Patriotischen Gesellschaft, für deren Organ „Der Patriot“ er unter einem Pseudonym Beiträge verfasste. Der 1722-25 für den immerwährenden Freund der Familie Bach - Georg Philipp Telemann - (sicherlich nicht ohne wohlwollende Beobachtung durch seinen ehemaligen Tischherrn Jauch) in einzelnen Lieferungen bereitgestellte „Brandenburgische“ Kantatenjahrgang blieb unvollendet, da der Verfasser durch persönliche Befindlichkeiten und seine Tätigkeit als Prediger in Sterley (Herzogtum Lauenburg) ausgelastet war.  
