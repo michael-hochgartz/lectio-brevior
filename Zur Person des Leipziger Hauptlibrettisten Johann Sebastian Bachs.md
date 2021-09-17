@@ -498,7 +498,8 @@ Im Gewissen krehen müssen
 
 Auf den ersten Blick hat sich (spätestens 1724) der Textbeiträger für Bachs Johannespassion derselben Vorlage („Der grünen Jugend Nothwendige Gedancken“) bedient wie 13 Jahre zuvor der Urheber des Librettos für Georg Böhms Lukaspassion.  
 
-Weise griff nun  seinerseits auf eine 1666 publizierte Formulierung aus Heinrich Müllers „Geistlichen Erquickstunden“ zurück. Dieses Werk ist sowohl in Bachs nachgelassener Büchersammlung (Wilhelmi Nr. 42) nachweisbar, als auch in Form einer ohne Ortsangabe genannten Auflage von 1720, die als Nr. 1288 in Jauchs Bibliothekskatalog verzeichnet ist. (Vielleicht eine Verwechslung mit einem ähnlich klingenden, kaum verifizierbaren Titel eines gewisen C.A.E. von Lützow, Kopenhagen 1720?) Widmungsträgerin der ersten Gesamtausgabe dieser Müllerschen Texte war auf jeden Fall niemand anderes als die unmittelbare Dienstherrin von Jauchs Mutter, die Herzogin Magdalena Sybilla von Mecklenburg-Güstrow.  
+Weise griff nun  seinerseits auf eine 1666 publizierte Formulierung aus Heinrich Müllers „Geistlichen Erquickstunden“ zurück. Dieses Werk ist sowohl in Bachs nachgelassener Büchersammlung (Wilhelmi Nr. 42) nachweisbar, als auch in Form einer ohne Ortsangabe genannten Auflage von 1720, die als Nr. 1288 in Jauchs Bibliothekskatalog verzeichnet ist. (Vielleicht ein Parallelexemplar zu dem ebenfalls 1720 und ohne Verlagsort katalogisierten Exemplar 0001/8 Asc. 2330 der UB der LMU München?)  
+Widmungsträgerin der ersten Gesamtausgabe dieser Müllerschen Texte war auf jeden Fall niemand anderes als die unmittelbare Dienstherrin von Jauchs Mutter, die Herzogin Magdalena Sybilla von Mecklenburg-Güstrow.  (Ein wohl um 1700 gedrucktes Exemplar einer der zahlreichen, bis ins 20. Jahrhundert reichenden, auch auf Ungarisch und Norwegisch erschienenen - Auflagen im Eigentum des Verfassers.)  
 
 Müller schreibt unter dem Motto „Vom Lohn der Falschheit“:  
 
