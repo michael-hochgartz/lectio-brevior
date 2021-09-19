@@ -4,7 +4,7 @@ Bibliographische Handreichung zu den Manuskriptentwürfen:
 - Zur Person des Leipziger Hauptlibrettisten Johann Sebastian Bachs.md
 
 Michael Hochgartz (D 48153 Münster)  
-michael@hochgartz.de - 07.09.2020  
+michael@hochgartz.de - 19.09.2020  
 https://www.bachforschung.de  
 
 Fachkundige Leser der Entwürfe des Thesenpapiers und des Vortragsmanuskripts erhalten auf diesem Weg einen Zugriff auf die in kürzest möglicher Form referenzierte Standardliteratur und auf einige wenige Spezialtexte. Eine vollständige Bibliographie bleibt ebenso einer späteren Ausarbeitung vorbehalten wie der Nachweis der mit erheblichen Aufwänden ermittelten, unpublizierten Archivalien, Briefe und Originaldrucke.  
@@ -74,6 +74,7 @@ Abkürzungen
 **Melamed**, Daniel R.: Zum Text und Kontext der „Keiser“-Markuspasion, BJ 1999, 35ff   
 **Mendel 1963**  
 **Mendel 1964**  
+**Merzbacher**, Dieter, „Ob ein Poete wohl Superintendens seyn könne?" - Erdmann Neumeister im Spiegel seiner Poetik, in: Rucker, Henrike, Erdmann Neumeister (1671-1756) - Wegbereiter der evangelischen Kirchenkantate, Rudolstadt **2000**, 75-96  
 **Otto 2007**  
 **Petzoldt**, Martin, Texthefte zu Bachs Leipziger Kirchenmusik, Stuttgart **2000**  
 **Petzoldt**, Martin: Bach-Kommentar : theologisch-musikwissenschaftliche Kommentierung der geistlichen Vokalwerke Johann Sebastian Bachs
