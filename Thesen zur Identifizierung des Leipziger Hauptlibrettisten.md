@@ -2,7 +2,7 @@
 des „Leipziger“ Hauptlibrettisten  
 Johann Sebastian Bachs  
 Michael Hochgartz (D 48153 Münster)  
-michael@hochgartz.de - 15.09.2021  
+michael@hochgartz.de - 27.09.2021  
 Quelltext und Literaturverzeichnis: https://github.com/michael-hochgartz/lectio-brevior  
 
 Amore et studio elucidandae veritatis haec subscripta disputabuntur (Martin Luther 1517)  
@@ -46,24 +46,21 @@ Ein in Teilen der Fachliteratur (vgl. z.B. Gardiner 2013) unterstellter Erschöp
 
 Im übrigen verursachten Erstellung bzw. Umarbeitung der nachgewiesenen Ersatzkompositionen organisatorisch und intellektuell mindestens identische, emotional vielleicht sogar überdurchschnittliche Unkosten.  
 
-Dass bis heute keine Parallelvertonung aus diesem Textkorpus durch einen anderen Komponisten bekannt geworden ist, lässt sich als Indiz dafür werten, dass das Material Bachs und des Autors Besitz zu Lebzeiten niemals verlassen hat - und auch nicht den der jeweiligen Nachkommen. Es dürfte - wie der sonstige private Briefbestand des Thomaskantors - in der zweiten Hälfte des 18. Jahrhunderts komplett kassiert worden sein. (Vgl. Schulze 2001) Dass Bach mit seinem Vetter Johann Elias zeitweilig einen Privatsekretär beschäftigte, belegt, dass sein nichtamtlicher Schriftverkehr gleichwohl einen erheblichen Umfang besessen haben muss.  
+Dass bis heute keine Parallelvertonung aus diesem Textkorpus durch einen anderen Komponisten bekannt geworden ist, lässt sich als Indiz dafür werten, dass das handschriftliche Material Bachs und des Autors Besitz zu Lebzeiten niemals verlassen hat - und auch nicht den der jeweiligen Nachkommen. Es dürfte - wie der sonstige private Briefbestand des Thomaskantors - in der zweiten Hälfte des 18. Jahrhunderts komplett kassiert worden sein. (Vgl. Schulze 2001) Dass Bach mit seinem Vetter Johann Elias zeitweilig einen Privatsekretär beschäftigte, belegt, dass sein nichtamtlicher Schriftverkehr gleichwohl einen erheblichen Umfang besessen haben muss.  
 
 Da aufgrund dieses Befunds nicht damit zu rechnen ist, dass jemals ein - zwangsläufig nur posthum denkbarer - Sammeldruck des unvollständigen Jahrgangs in Form eines (urheberische Initiativen oder gar verlegerische Investitionen der Erben erfordernden) Buchs auftauchen könnte, das analog zum Fall J.C. Birckmann (vgl. Blanken 2015) eine Attribution anhand textlicher Konkordanzen ermöglichen würde, müssen andere Ansätze zur Identitätsermittlung herangezogen werden.  
-Diese konzentrieren sich auf die Suche nach einem Anfang 1725 verstorbenen lutherischen Theologen mit nachgewiesener dichterischer Kompetenz, hymnologischem Hintergrund und untadelhaftem Lebenswandel - allerdings ohne (anders als Schulze 1998 und die ihm Folgenden) Leipzig als Lebensmittelpunkt zur impliziten conditio sine qua non zu machen.  
-
+Diese konzentrieren sich auf die Suche nach einem Anfang 1725 verstorbenen lutherischen Theologen mit dichterischer Kompetenz, homiletischer Reputation, hymnologischem Hintergrund und untadelhaftem Lebenswandel - allerdings ohne (anders als Schulze 1998 und die ihm Folgenden) Leipzig als Lebensmittelpunkt zur impliziten conditio sine qua non zu machen.  
 
 
 4. Auch aus der Tatsache, dass der Autor des (ansonsten idealtypisch - inklusive überzähliger Termine - angelegten) Choralkantatenjahrgangs auf die Lieferung von Texten für den Ratswechsel und für das Reformationsfest 1724 verzichtete, lässt sich ableiten, dass sein Wirkungsort eher außerhalb Leipzigs bzw. außerhalb Kursachsens zu suchen ist.  
 
-Dazu passt die Beobachtung, dass in der Kantate BWV 93 das Luther-Zitat aus Kön2 4,38-41 („mors in olla“) nicht in der obersächsisch-böhmischen Form („Der Tod im Topf“) sondern als thüringisch-niedersächsische Variante („Der Tod in Töpfen“) verwendet wird.  
+Dazu passt die Beobachtung, dass in der Kantate BWV 93 das Luther-Zitat aus 2Kön 4,38-41 („mors in olla“) nicht in der obersächsisch-böhmischen Form („Der Tod im Topf“) sondern als thüringisch-niedersächsische Variante („Der Tod in Töpfen“) verwendet wird.  
 
 
 5. Derselbe Autor hat möglicherweise auch die Textauswahl und das theologische Konzept für die am Karfreitag 1724 aufgeführte Johannespassion (BWV 245 Fassung I) mitgestaltet.  
 
 
-
 6. Von diesem Autor stammen ebenfalls das theologische und das hymnologische Konzept sowie die bis dahin vorliegende „Poesia“ für eine Anfang 1725 abgebrochene, spätestens 1729 durch Christian Friedrich Henrici vervollständigte Erstfassung der Matthäuspassion BWV 244b, die als integraler Teil des Choralkantatenjahrgangs geplant war. (Zur Grundidee vgl. Chafe 1982 und die ihrerseits nicht unangreifbare, vom Verfasser selbst als „betont rüde“ bezeichnete Zurückweisung durch Dürr 1988 und besonders 1990; ferner mit anderem Begründungszusammenhang Gardiner 2013.)  
-
 
 
 7. Einziger Grund für die vorzeitige Wiederaufführung einer provisorisch modifizierten Version der Johannespassion (BWV 245 II) am Karfreitag 1725 war der Ausfall des Autors als Librettist einer für diesen Termin vorgesehenen Erstaufführung der Matthäuspassion BWV 244b. (Vgl. Leisinger 2002 sowie Gardiner 2013.) Das von Walter (2016) erhobene Postulat einer beabsichtigten, auf einem einzigen Choral („O Mensch bewein“) basierenden Passion wird damit überflüssig.  
@@ -86,7 +83,7 @@ Selbst scheinbar nebensächliche, unmotiviert anmutende Details, wie die isolier
 
 Zudem konterkariert gerade dieses Beispiel Dürrs Verlegenheitshypothese einer außergewöhnlichen „Konjekturfreudigkeit“ Agricolas, der diesen extrem exponiert erscheinenden Fehler (der in diesem fragmentarischen Zustand des Satzbildes noch gar keiner war!) sicherlich mit einem Federstrich nach einem einzigen Blick in AmB. 6 oder durch eigene kompositorische Kompetenz hätte korrigieren können - wie Bach es bei der späteren Fertigstellung, als nach Aufschiebung des Harmoniewechsels G-(A7)-D6 (bedingt durch die buchstäblich überbordende Streichergloriole der Christusworte) um einen halben Takt die Vokalnote tatsächlich fehlerhaft wurde, durch Verkürzung des a mittels eines zusätzlichen Fähnchens, Anfügung eines Sechszehntel g und Voranstellung einer Achtelnote h dann auch selbst mit seiner typisch pragmatischen Eleganz tat.  
 
-Oder hatte Bach ursprünglich an dieser dramaturgisch herausgehobenen Stelle (Vorankündigung des Verrats) gar eine dissonant definierte, wortverstärkende Harmonie im Sinn, die sich im zweiten Anlauf - nach Ausformulierung der Streicherstimmen - als unausführbar erwies und deshalb die Degradierung des Zieltons a zur Durchgangsnote erforderte?  
+Oder hatte Bach ursprünglich an dieser dramaturgisch herausgehobenen Stelle (Vorankündigung des Verrats) gar eine dissonant definierte, wortverstärkende Harmonie im Sinn, die sich im zweiten Anlauf - nach Ausformulierung der Streicherstimmen - als unausführbar erwies und deshalb die Degradierung des betonten Zieltons a zur Durchgangsnote erforderte?  
 
 Unter diesem Blickwinkel betrachtet, erscheint die Erklärung dieser in P 26 wie auf dem Präsentierteller platziert wirkenden Stelle als getreue Wiedergabe einer Bachschen Entwurfsskizze als alternativlos. Bestärkt wird dieser Eindruck durch die final verfeinerte (durch aufführungspraktische Erfahrungen motivierte?) Endfassung im Spätautograph P 25.  
 
@@ -119,15 +116,13 @@ Die sechs madrigalischen Texte für die Passionssätze 1, 20, 39, 42 und für di
 Dass auch Choräle berücksichtigt wurden und im Einzelfall auch kurze Platzhalter für - dann doch nicht mehr realisierte - Sätze („Aria“ bzw. Doppelsatz Nr. 22/23, mit der sich die Anzahl der postalischen Beilagen optimal passend auf sieben erhöhen würde) im Torso auftauchen, legt die Absprache eines Generalplans zwischen Autor und Komponist nahe.  
 
 
-
 11. Die Choralbearbeitung „O Mensch bewein dein Sünde groß“ (BWV 244/29 alias 245 II/1) lag spätestens Ende Januar 1725 vor und war schon zu diesem Zeitpunkt als wesentliches Element der geplanten Matthäuspassion vorgesehen. Da es sich um unveränderten Liedtext handelt, war sie nicht Bestandteil der vom Autor ausformulierten „Poesia“, sicherlich aber im Gesamtplan berücksichtigt und konnte von Bach somit zu einem beliebigen Zeitpunkt nach Beginn des Projekts in Angriff genommen - und in der Stunde der Not als Verfügungsmaterial verwendet werden.  
 
 Die bei der provisorischen Einschleusung in die vorzeitig wiederaufgeführte Johannespassion erforderliche Transposition (zunächst nur der Stimmen?) nach Es-Dur ermöglichte als Nebeneffekt eine elegantere Führung der Continuopartie, deren Oktavversetzungen (cis statt Cis; wg. fehlender Taste auf der Orgel) ursprünglich durch die aus der Großform von BWV 244 resultierende Tonart E-Dur erforderlich gewesen waren.  
 
 Als alternativer Erklärungsansatz wäre eine Erstfassung in D-Dur denkbar (vgl. Dürr 1988), zumal das vorangehende Rezitativ im Torso P 26 aufgrund etlicher fehlender Schlusstakte hinsichtlich der Zieltonart unbestimmt bleibt - freilich um den Preis eines Bruchs in der tonartlichen Symmetrie der Rahmensätze des ersten Teils der Passion.  
 
-Durch Umkehrung der bisher angenommenen Entstehungsreihenfolge wird somit auch eine von Arthur Mendel postulierte, in Weimar lokalisierte Frühfassung des Satzes (BC D1) obsolet. Vielmehr fügt sich dieser Satz durch seine - in der Fachliteratur nachhaltig bestätigte - kompositorische Reife, formale Opulenz und hymnologische / theologische Tendenz zwar notationstechnisch scheinbar leicht korrumpiert, aber substanziell bruchlos in ein Gesamtprojekt „Choralkantaten und Matthäuspassion“ ein.  
-
+Durch Umkehrung der bisher angenommenen Entstehungsreihenfolge wird somit auch eine von Arthur Mendel postulierte, in Weimar lokalisierte Frühfassung des Satzes (BC D1) obsolet. Vielmehr fügt sich dieser Chor durch seine - in der Fachliteratur nachhaltig bestätigte - kompositorische Reife, formale Opulenz und hymnologische / theologische Tendenz zwar notationstechnisch scheinbar leicht korrumpiert, aber substanziell bruchlos in ein Gesamtprojekt „Choralkantaten und Matthäuspassion“ ein.  
 
 
 13. Bei Bestätigung der Annahme einer Entstehung und Vollendung der Frühfassung der Matthäuspassion in zwei, in größerem zeitlichen Abstand aufeinander folgenden Etappen könnten sich alternative Antworten auf die bis heute nicht abschließend beantwortete Frage nach der Parodiebeziehung zur Köthener Trauermusik BWV 244a ergeben. (Vgl. Gojowy 1965; Brainard 1969; Braatz 2006). Das beträfe gegebenenfalls auch den Zeitpunkt der Vervollständigung der fragmentarischen Teile von BWV 244b - und damit den Termin der Uraufführung der Passion. 1727 ist durch eine von Rifkin (1975) aufgezeigte, allerdings nicht voll belastbare Spur in einer Instrumentalstimme indiziert, die von der Forschung gleichwohl überwiegend akzeptiert wird. (Vgl. Dürr 1974; Schulze 2001.)  
@@ -219,7 +214,7 @@ Das bekannteste Beispiel der Verwendung von Buchstabenspielen bei Bach selbst (d
 
 Welcher, um den Urgrund derartiger Kryptophilie wissende, (späte Leipziger, frühe Potsdamer) Ideengeber hier vielleicht Pate stand, wird wohl auf immer im Bereich der Spekulation bleiben. (Vgl. Wolff 1967)  
 
-Das in diesem Zusammenhang vielleicht überzeugendste, wenig später entstandene Beispiel eines Akrostichons durch Bach selbst stellt schließlich der - durch die Hand J.P. Kirnbergers überlieferte - Eintrag des siebenstimmigen Kanons BWV 1078 im Stammbuchblatt für den Leipziger Medizinstudenten Benjamin Gottlieb Faber vom 1. März 1749 dar. (Vgl. Smend 1966; Schulze 1967; Mika 2019.) Hier wird nicht nur der Nachname des Widmungsempfängers zunächst durch Tonbuchstaben und eine Wiederholungsanweisung über dem Noteneintrag angedeutet: 
+Das in diesem Zusammenhang vielleicht überzeugendste, wenig später entstandene Beispiel eines hochkomplexen Akrostichons durch Bach selbst stellt schließlich der - durch die Hand J.P. Kirnbergers überlieferte - Eintrag des siebenstimmigen Kanons BWV 1078 im Stammbuchblatt für den Leipziger Medizinstudenten Benjamin Gottlieb Faber vom 1. März 1749 dar. (Vgl. Smend 1966; Schulze 1967; Mika 2019.) Hier wird nicht nur der Nachname des Widmungsempfängers zunächst durch Tonbuchstaben und eine Wiederholungsanweisung über dem Noteneintrag angedeutet: 
 
 [F] [A] [B] [E] [R]epetatur
 

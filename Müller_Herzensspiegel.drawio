@@ -1,6 +1,6 @@
-<mxfile host="Electron" modified="2020-07-16T19:23:44.088Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_4) AppleWebKit/537.36 (KHTML, like Gecko) draw.io/13.3.9 Chrome/83.0.4103.119 Electron/9.0.5 Safari/537.36" etag="6dRNIxU0oTtLi2rMtHwZ" compressed="false" version="13.3.9" type="device" pages="2">
+<mxfile host="Electron" modified="2021-09-24T08:48:14.544Z" agent="5.0 (Macintosh; Intel Mac OS X 11_6_0) AppleWebKit/537.36 (KHTML, like Gecko) draw.io/14.1.8 Chrome/87.0.4280.88 Electron/11.1.1 Safari/537.36" etag="lSYe--zcpq6qxBxjNBFo" compressed="false" version="14.1.8" type="device" pages="2">
   <diagram name="Page-1" id="74e2e168-ea6b-b213-b513-2b3c1d86103e">
-    <mxGraphModel dx="2251" dy="788" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" background="#ffffff" math="0" shadow="0">
+    <mxGraphModel dx="2237" dy="610" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" background="#ffffff" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -256,149 +256,90 @@
         <mxCell id="imVUZDCDvACqCxc-hUv6-4" value="&lt;h2&gt;1688&lt;/h2&gt;" style="rounded=1;whiteSpace=wrap;html=1;shadow=0;labelBackgroundColor=none;strokeWidth=1;fontFamily=Verdana;fontSize=8;align=center;" parent="imVUZDCDvACqCxc-hUv6-3" vertex="1">
           <mxGeometry x="30" y="140" width="100" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="MNaECiKV-ds3Phz0gR8A-7" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;sketch=0;orthogonalLoop=1;jettySize=auto;html=1;strokeWidth=1;fontFamily=Comic Sans MS;" edge="1" parent="imVUZDCDvACqCxc-hUv6-3" source="imVUZDCDvACqCxc-hUv6-5" target="MNaECiKV-ds3Phz0gR8A-6">
+        <mxCell id="MNaECiKV-ds3Phz0gR8A-7" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;sketch=0;orthogonalLoop=1;jettySize=auto;html=1;strokeWidth=1;fontFamily=Comic Sans MS;" parent="imVUZDCDvACqCxc-hUv6-3" source="imVUZDCDvACqCxc-hUv6-5" target="MNaECiKV-ds3Phz0gR8A-6" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="imVUZDCDvACqCxc-hUv6-5" value="&lt;h2&gt;&lt;span&gt;1700&lt;/span&gt;&lt;br&gt;&lt;/h2&gt;" style="rounded=1;whiteSpace=wrap;html=1;shadow=0;labelBackgroundColor=none;strokeWidth=1;fontFamily=Verdana;fontSize=8;align=center;" parent="imVUZDCDvACqCxc-hUv6-3" vertex="1">
           <mxGeometry x="30" y="290" width="100" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="MNaECiKV-ds3Phz0gR8A-6" value="&lt;h2&gt;&lt;span&gt;1720&lt;/span&gt;&lt;br&gt;&lt;/h2&gt;" style="rounded=1;whiteSpace=wrap;html=1;shadow=0;labelBackgroundColor=none;strokeWidth=1;fontFamily=Verdana;fontSize=8;align=center;" vertex="1" parent="imVUZDCDvACqCxc-hUv6-3">
+        <mxCell id="MNaECiKV-ds3Phz0gR8A-6" value="&lt;h2&gt;&lt;span&gt;1720&lt;/span&gt;&lt;br&gt;&lt;/h2&gt;" style="rounded=1;whiteSpace=wrap;html=1;shadow=0;labelBackgroundColor=none;strokeWidth=1;fontFamily=Verdana;fontSize=8;align=center;" parent="imVUZDCDvACqCxc-hUv6-3" vertex="1">
           <mxGeometry x="30" y="430" width="100" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="MNaECiKV-ds3Phz0gR8A-1" value="Praeservativ" style="swimlane;html=1;startSize=20;" vertex="1" parent="1">
+        <mxCell id="MNaECiKV-ds3Phz0gR8A-1" value="Praeservativ" style="swimlane;html=1;startSize=20;" parent="1" vertex="1">
           <mxGeometry x="-190" y="40" width="160" height="1590" as="geometry">
             <mxRectangle y="20" width="30" height="1590" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="MNaECiKV-ds3Phz0gR8A-2" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="MNaECiKV-ds3Phz0gR8A-1" source="MNaECiKV-ds3Phz0gR8A-3" target="MNaECiKV-ds3Phz0gR8A-4">
+        <mxCell id="MNaECiKV-ds3Phz0gR8A-2" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="MNaECiKV-ds3Phz0gR8A-1" source="MNaECiKV-ds3Phz0gR8A-3" target="MNaECiKV-ds3Phz0gR8A-4" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="MNaECiKV-ds3Phz0gR8A-3" value="&lt;h2&gt;1681&lt;/h2&gt;" style="rounded=1;whiteSpace=wrap;html=1;shadow=0;labelBackgroundColor=none;strokeWidth=1;fontFamily=Verdana;fontSize=8;align=center;" vertex="1" parent="MNaECiKV-ds3Phz0gR8A-1">
+        <mxCell id="MNaECiKV-ds3Phz0gR8A-3" value="&lt;h2&gt;1681&lt;/h2&gt;" style="rounded=1;whiteSpace=wrap;html=1;shadow=0;labelBackgroundColor=none;strokeWidth=1;fontFamily=Verdana;fontSize=8;align=center;" parent="MNaECiKV-ds3Phz0gR8A-1" vertex="1">
           <mxGeometry x="30" y="60" width="100" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="MNaECiKV-ds3Phz0gR8A-4" value="&lt;h2&gt;1741&lt;/h2&gt;&lt;div&gt;J.M. Möller&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;shadow=0;labelBackgroundColor=none;strokeWidth=1;fontFamily=Verdana;fontSize=8;align=center;" vertex="1" parent="MNaECiKV-ds3Phz0gR8A-1">
+        <mxCell id="MNaECiKV-ds3Phz0gR8A-4" value="&lt;h2&gt;1741&lt;/h2&gt;&lt;div&gt;J.M. Möller&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;shadow=0;labelBackgroundColor=none;strokeWidth=1;fontFamily=Verdana;fontSize=8;align=center;" parent="MNaECiKV-ds3Phz0gR8A-1" vertex="1">
           <mxGeometry x="30" y="860" width="100" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
   <diagram id="j-nOp-zUVmbTupG2QMaU" name="Page-2">
-    
-    <mxGraphModel dx="1750" dy="891" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
-      
+    <mxGraphModel dx="1282" dy="732" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
       <root>
-        
         <mxCell id="p7trOQ03CX9zBxVAU_bN-0" />
-        
         <mxCell id="p7trOQ03CX9zBxVAU_bN-1" parent="p7trOQ03CX9zBxVAU_bN-0" />
-        
-        <mxCell id="p7trOQ03CX9zBxVAU_bN-6" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;dashed=1;" edge="1" parent="p7trOQ03CX9zBxVAU_bN-1" source="p7trOQ03CX9zBxVAU_bN-3" target="p7trOQ03CX9zBxVAU_bN-5">
-          
+        <mxCell id="p7trOQ03CX9zBxVAU_bN-6" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;dashed=1;" parent="p7trOQ03CX9zBxVAU_bN-1" source="p7trOQ03CX9zBxVAU_bN-3" target="p7trOQ03CX9zBxVAU_bN-5" edge="1">
           <mxGeometry relative="1" as="geometry" />
-          
         </mxCell>
-        
-        <mxCell id="p7trOQ03CX9zBxVAU_bN-9" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;dashed=1;" edge="1" parent="p7trOQ03CX9zBxVAU_bN-1" source="p7trOQ03CX9zBxVAU_bN-3" target="p7trOQ03CX9zBxVAU_bN-8">
-          
+        <mxCell id="p7trOQ03CX9zBxVAU_bN-9" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;dashed=1;" parent="p7trOQ03CX9zBxVAU_bN-1" source="p7trOQ03CX9zBxVAU_bN-3" target="p7trOQ03CX9zBxVAU_bN-8" edge="1">
           <mxGeometry relative="1" as="geometry" />
-          
         </mxCell>
-        
-        <mxCell id="p7trOQ03CX9zBxVAU_bN-3" value="Fortlaufender Text für wöchentliche Passionspredigten&lt;br&gt;" style="whiteSpace=wrap;html=1;shadow=0;strokeColor=#000000;fillColor=#ffffff;" vertex="1" parent="p7trOQ03CX9zBxVAU_bN-1">
-          
+        <mxCell id="p7trOQ03CX9zBxVAU_bN-3" value="Fortlaufender Text für wöchentliche Passionspredigten&lt;br&gt;" style="whiteSpace=wrap;html=1;shadow=0;strokeColor=#000000;fillColor=#ffffff;" parent="p7trOQ03CX9zBxVAU_bN-1" vertex="1">
           <mxGeometry x="470" y="170" width="120" height="60" as="geometry" />
-          
         </mxCell>
-        
-        <mxCell id="p7trOQ03CX9zBxVAU_bN-11" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;dashed=1;" edge="1" parent="p7trOQ03CX9zBxVAU_bN-1" source="p7trOQ03CX9zBxVAU_bN-5" target="p7trOQ03CX9zBxVAU_bN-10">
-          
+        <mxCell id="p7trOQ03CX9zBxVAU_bN-11" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;dashed=1;" parent="p7trOQ03CX9zBxVAU_bN-1" source="p7trOQ03CX9zBxVAU_bN-5" target="p7trOQ03CX9zBxVAU_bN-10" edge="1">
           <mxGeometry relative="1" as="geometry" />
-          
         </mxCell>
-        
-        <mxCell id="p7trOQ03CX9zBxVAU_bN-5" value="9 Predigkte von Heinisius nach schwer entzifferbarem Manuskirpt Müllers bearbeitet" style="whiteSpace=wrap;html=1;shadow=0;strokeColor=#000000;fillColor=#ffffff;" vertex="1" parent="p7trOQ03CX9zBxVAU_bN-1">
-          
+        <mxCell id="p7trOQ03CX9zBxVAU_bN-5" value="9 Predigten von Heinisius nach schwer entzifferbarem Manuskript Müllers bearbeitet" style="whiteSpace=wrap;html=1;shadow=0;strokeColor=#000000;fillColor=#ffffff;" parent="p7trOQ03CX9zBxVAU_bN-1" vertex="1">
           <mxGeometry x="210" y="300" width="120" height="120" as="geometry" />
-          
         </mxCell>
-        
-        <mxCell id="p7trOQ03CX9zBxVAU_bN-13" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;dashed=1;" edge="1" parent="p7trOQ03CX9zBxVAU_bN-1" source="p7trOQ03CX9zBxVAU_bN-8" target="p7trOQ03CX9zBxVAU_bN-12">
-          
+        <mxCell id="p7trOQ03CX9zBxVAU_bN-13" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;dashed=1;" parent="p7trOQ03CX9zBxVAU_bN-1" source="p7trOQ03CX9zBxVAU_bN-8" target="p7trOQ03CX9zBxVAU_bN-12" edge="1">
           <mxGeometry relative="1" as="geometry" />
-          
         </mxCell>
-        
-        <mxCell id="p7trOQ03CX9zBxVAU_bN-8" value="8 Predigkten&lt;br&gt;7 von Mummius mitgeschrieben&lt;br&gt;1 nach Heinsius abfeschreeieben" style="whiteSpace=wrap;html=1;shadow=0;strokeColor=#000000;fillColor=#ffffff;" vertex="1" parent="p7trOQ03CX9zBxVAU_bN-1">
-          
+        <mxCell id="p7trOQ03CX9zBxVAU_bN-8" value="8 Predigten&lt;br&gt;7 von Mummius mitgeschrieben&lt;br&gt;1 nach Heinsius kopiert" style="whiteSpace=wrap;html=1;shadow=0;strokeColor=#000000;fillColor=#ffffff;" parent="p7trOQ03CX9zBxVAU_bN-1" vertex="1">
           <mxGeometry x="690" y="310" width="120" height="110" as="geometry" />
-          
         </mxCell>
-        
-        <mxCell id="p7trOQ03CX9zBxVAU_bN-14" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;dashed=1;" edge="1" parent="p7trOQ03CX9zBxVAU_bN-1" source="p7trOQ03CX9zBxVAU_bN-10" target="p7trOQ03CX9zBxVAU_bN-12">
-          
+        <mxCell id="p7trOQ03CX9zBxVAU_bN-14" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;dashed=1;" parent="p7trOQ03CX9zBxVAU_bN-1" source="p7trOQ03CX9zBxVAU_bN-10" target="p7trOQ03CX9zBxVAU_bN-12" edge="1">
           <mxGeometry relative="1" as="geometry" />
-          
         </mxCell>
-        
-        <mxCell id="p7trOQ03CX9zBxVAU_bN-15" value="Nr. 9&amp;nbsp;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];;labelBackgroundColor=#ffffff;" vertex="1" connectable="0" parent="p7trOQ03CX9zBxVAU_bN-14">
-          
+        <mxCell id="p7trOQ03CX9zBxVAU_bN-15" value="Nr. 9&amp;nbsp;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];;labelBackgroundColor=#ffffff;" parent="p7trOQ03CX9zBxVAU_bN-14" vertex="1" connectable="0">
           <mxGeometry x="-0.3951" y="2" relative="1" as="geometry">
-            
             <mxPoint as="offset" />
-            
           </mxGeometry>
-          
         </mxCell>
-        
-        <mxCell id="p7trOQ03CX9zBxVAU_bN-16" value="Nr. 8" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];;labelBackgroundColor=#ffffff;" vertex="1" connectable="0" parent="p7trOQ03CX9zBxVAU_bN-14">
-          
+        <mxCell id="p7trOQ03CX9zBxVAU_bN-16" value="Nr. 8" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];;labelBackgroundColor=#ffffff;" parent="p7trOQ03CX9zBxVAU_bN-14" vertex="1" connectable="0">
           <mxGeometry x="0.6146" y="1" relative="1" as="geometry">
-            
             <mxPoint as="offset" />
-            
           </mxGeometry>
-          
         </mxCell>
-        
-        <mxCell id="p7trOQ03CX9zBxVAU_bN-10" value="&lt;h3&gt;Herzenspiegel&lt;br&gt;1679ff&lt;/h3&gt;" style="whiteSpace=wrap;html=1;shadow=0;strokeColor=#000000;fillColor=#ffffff;" vertex="1" parent="p7trOQ03CX9zBxVAU_bN-1">
-          
+        <mxCell id="p7trOQ03CX9zBxVAU_bN-10" value="&lt;h3&gt;Herzenspiegel&lt;br&gt;1679ff&lt;/h3&gt;" style="whiteSpace=wrap;html=1;shadow=0;strokeColor=#000000;fillColor=#ffffff;" parent="p7trOQ03CX9zBxVAU_bN-1" vertex="1">
           <mxGeometry x="210" y="490" width="120" height="60" as="geometry" />
-          
         </mxCell>
-        
-        <mxCell id="p7trOQ03CX9zBxVAU_bN-12" value="&lt;h3&gt;Präservativ 1681&lt;/h3&gt;" style="whiteSpace=wrap;html=1;shadow=0;strokeColor=#000000;fillColor=#ffffff;" vertex="1" parent="p7trOQ03CX9zBxVAU_bN-1">
-          
+        <mxCell id="p7trOQ03CX9zBxVAU_bN-12" value="&lt;h3&gt;Präservativ 1681&lt;/h3&gt;" style="whiteSpace=wrap;html=1;shadow=0;strokeColor=#000000;fillColor=#ffffff;" parent="p7trOQ03CX9zBxVAU_bN-1" vertex="1">
           <mxGeometry x="690" y="520" width="120" height="60" as="geometry" />
-          
         </mxCell>
-        
-        <mxCell id="p7trOQ03CX9zBxVAU_bN-17" value="Jesus Patiens 1669" style="whiteSpace=wrap;html=1;shadow=0;strokeColor=#000000;fillColor=#ffffff;" vertex="1" parent="p7trOQ03CX9zBxVAU_bN-1">
-          
+        <mxCell id="p7trOQ03CX9zBxVAU_bN-17" value="Jesus Patiens 1669" style="whiteSpace=wrap;html=1;shadow=0;strokeColor=#000000;fillColor=#ffffff;" parent="p7trOQ03CX9zBxVAU_bN-1" vertex="1">
           <mxGeometry x="940" y="210" width="120" height="60" as="geometry" />
-          
         </mxCell>
-        
-        <mxCell id="p7trOQ03CX9zBxVAU_bN-18" value="Der leidende Jesus 1675" style="whiteSpace=wrap;html=1;shadow=0;strokeColor=#000000;fillColor=#ffffff;" vertex="1" parent="p7trOQ03CX9zBxVAU_bN-1">
-          
+        <mxCell id="p7trOQ03CX9zBxVAU_bN-18" value="Der leidende Jesus 1675" style="whiteSpace=wrap;html=1;shadow=0;strokeColor=#000000;fillColor=#ffffff;" parent="p7trOQ03CX9zBxVAU_bN-1" vertex="1">
           <mxGeometry x="940" y="430" width="120" height="60" as="geometry" />
-          
         </mxCell>
-        
-        <mxCell id="p7trOQ03CX9zBxVAU_bN-19" value="Passionsschule 1688&lt;br&gt;(Sammlung diverser Autoren)" style="whiteSpace=wrap;html=1;shadow=0;strokeColor=#000000;fillColor=#ffffff;" vertex="1" parent="p7trOQ03CX9zBxVAU_bN-1">
-          
+        <mxCell id="p7trOQ03CX9zBxVAU_bN-19" value="Passionsschule 1688&lt;br&gt;(Sammlung diverser Autoren)" style="whiteSpace=wrap;html=1;shadow=0;strokeColor=#000000;fillColor=#ffffff;" parent="p7trOQ03CX9zBxVAU_bN-1" vertex="1">
           <mxGeometry x="940" y="590" width="120" height="60" as="geometry" />
-          
         </mxCell>
-        
-        <mxCell id="T8Yw_u4x_V4z5DpClzkS-0" value="&lt;h2&gt;Heinrich Müller - Passionspredigten&lt;/h2&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];;autosize=1;" vertex="1" parent="p7trOQ03CX9zBxVAU_bN-1">
-          
+        <mxCell id="T8Yw_u4x_V4z5DpClzkS-0" value="&lt;h2&gt;Heinrich Müller - Passionspredigten&lt;/h2&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];;autosize=1;" parent="p7trOQ03CX9zBxVAU_bN-1" vertex="1">
           <mxGeometry x="450" y="25" width="320" height="50" as="geometry" />
-          
         </mxCell>
-        
       </root>
-      
     </mxGraphModel>
-    
   </diagram>
 </mxfile>
