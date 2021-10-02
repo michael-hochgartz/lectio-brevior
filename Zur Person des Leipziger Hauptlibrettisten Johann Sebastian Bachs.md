@@ -3,7 +3,7 @@
 Entwurf für ein Vortragsmanuskript (Es gilt das gesprochene Wort)  
 
 Michael Hochgartz (D 48153 Münster)  
-michael@hochgartz.de - 27.09.2021  
+michael@hochgartz.de - 02.10.2021  
 Quelltext und Literaturverzeichnis: https://github.com/michael-hochgartz/lectio-brevior  
 
 
@@ -41,7 +41,7 @@ Wichtigster Förderer Jauchs während seiner Rostocker Zeit war der erwähnte Th
 
 Die von deren Initiativen ausgelösten „Leipziger Unruhen“ hatten eine Fernwirkung auch in Lüneburg hervorgerufen durch die Person des Superintendenten Johann Wilhelm Petersen, der schließlich 1692 unter minutiös dokumentieren Umständen aus dem Amt entfernt wurde. Mit diesem - auch durch einen kirchenmusikalischen Eklat begleiteten - Fanal war jeglichen unorthodoxen Ansichten in Lüneburg bis weit in das 18. Jahrhundert hinein (genau genommen: bis heute) ein Riegel vorgeschoben worden - bis zum Aufkommen jener rationalistisch angehauchten Theologie, die sich - wie anderswo auch - im Zuge der Spätaufklärung als communis opinio etablieren sollte. 
 
-Jauchs früheste und vermutlich eher kritische Begegnung mit dem Themenbereich einer natürlichen, von rationalen Erkenntnisweisen inspirierten Theologie (vgl. Zedler 23/987) ist belegt durch seine Rolle als einer von 14 studentischen Disputanten bei einem im August 1692 stattgefundenem „Discursus academicus ... ex Theologia Naturali“ des Rostocker Nicolai-Pfarrers, Professors für Griechisch und nachmaligen Superintendenten Gottfried Weiß (direkter Nachfolger Petersens), dessen theologische Tendenz noch näher zu analysieren wäre. Weiß’ens Wahlspruch weist jedenfalls in eine eindeutige Richtung: „Ich hasse die Fladder-Geister, und meine Seele ist ihnen gram.“ (Vgl. Luthers Randglosse zu Ps. 119 sowie das Incipit von BWV 181 und Lehms 1711, 3. Advent.)  
+Jauchs früheste und vermutlich eher kritische Begegnung mit dem Themenbereich einer natürlichen, von rationalen Erkenntnisweisen inspirierten Theologie (vgl. Zedler 23/987) ist belegt durch seine Rolle als einer von 14 studentischen Disputanten bei einem im August 1692 stattgefundenem „Discursus academicus ... ex Theologia Naturali“ des Rostocker Nikolai-Pfarrers, Professors für Griechisch und nachmaligen Superintendenten Gottfried Weiß (direkter Nachfolger Petersens), dessen theologische Tendenz noch näher zu analysieren wäre. Weiß’ens Wahlspruch weist jedenfalls in eine eindeutige Richtung: „Ich hasse die Fladder-Geister, und meine Seele ist ihnen gram.“ (Vgl. Luthers Randglosse zu Ps. 119 sowie das Incipit von BWV 181 und Lehms 1711, 3. Advent.)  
 
 Der 1695 zu Jauchs Abschied aus Rostock gedruckte Valedictionsbrief der (leider nicht namentlich genannten, aber teilweise ermittelbaren) „sämptl. Haußgenossen“ seines akademischen Ziehvaters Möller beeindruckt durch Analogien bei der Betrachtung der Beziehungen zwischen Kunst, Künstler, Tugend und Natur - dargestellt anhand eines optisch beeindruckenden chemischen Experiments, welches aus anorganischen Substanzen organisch wirkende, baumartige Gebilde wachsen lässt. Die letzten beiden der nachfolgend auszugsweise zitierten Zeilen belegen den Übergang von einer mythologischen zu einer neuzeitlichen, bis heute gültigen Erklärweise - und damit den Paradigmenwechsel der Naturwissenschaften um 1700 schlechthin:  
 
@@ -153,7 +153,7 @@ durch die Gefährlichkeit der falschen Brüder
 
 Ein Wechsel an die Marktkirche St. Georg in Hannover (die „dortige Haupt Kirchen“ des Kurfürstentums Braunschweig-Lüneburg - und somit eine „sehr avantageuse Verbeßerung“ - so Jauch in einer Eingabe von 1709 ) gelangte 1705 nicht zum Erfolg, da er - motiviert durch eine „aus hochgeneigter affection ohne mein Ansuchen“ gewährte Gehaltszulage seiner Patronatsherren, den für St. Lamberti zuständigen, mit dem Niedergang der Salzausbeutung finanzsensibel gewordenen Bar- und Sülfmeistern in Höhe von immerhin 100 Rthlr. p.a. - noch vor dem Ende des Verfahrens abgesagt hatte - obwohl er sich in Hannover hinsichtlich seiner Einkünfte „wohl dreyfach“ hätte verbessern können.  
 
-Als einer von 30, durch das örtlichen Leitungsgremium vorgeschlagenen und von einer reisenden Berufungskommission beim Predigen evaluierten Kandidaten (unter diesen auch Bachs Mühlhausener Vorgesetzter und Taufpate der erstgeborenen Tochter Catharina Dorothea, der Konsistorialrat und Superintendent Georg Eilmar) unterlag er 1715 denkbar knapp im fünften Wahlgang dem einflussreichsten Propagator und Produzenten moderner protestantischer Kantatentextformen - Erdmann Neumeister - bei der Wahl zum Hauptpastor der Hamburger Hauptkirche St. Jakobi.  
+Als einer von 30, durch das örtliche Leitungsgremium vorgeschlagenen und von einer reisenden Berufungskommission beim Predigen evaluierten Kandidaten (unter diesen auch Bachs Mühlhausener Vorgesetzter und Taufpate der erstgeborenen Tochter Catharina Dorothea, der Konsistorialrat und Superintendent Georg Eilmar) unterlag er 1715 denkbar knapp im fünften Wahlgang dem einflussreichsten Propagator und Produzenten moderner protestantischer Kantatentextformen - Erdmann Neumeister - bei der Wahl zum Hauptpastor der Hamburger Hauptkirche St. Jakobi.  
 
 Bereits 1707 hatte Jauch eine Anstellung als „Capellan“ dortselbst vorzeitig abgesagt, obgleich er als einer der acht verbliebenen (von zunächst 22) Bewerbern durchaus Chancen gehabt hätte.  
 
@@ -499,7 +499,7 @@ Im Gewissen krehen müssen
 Auf den ersten Blick hat sich (spätestens 1724) der Textbeiträger für Bachs Johannespassion derselben Vorlage („Der grünen Jugend Nothwendige Gedancken“) bedient wie 13 Jahre zuvor der Urheber des Librettos für Georg Böhms Lukaspassion.  
 
 Weise griff nun  seinerseits auf eine 1666 publizierte Formulierung aus Heinrich Müllers „Geistlichen Erquickstunden“ zurück. Dieses Werk ist sowohl in Bachs nachgelassener Büchersammlung (Wilhelmi Nr. 42) nachweisbar, als auch in Form einer ohne Ortsangabe genannten Auflage von 1720, die als Nr. 1288 in Jauchs Bibliothekskatalog verzeichnet ist. (Vielleicht ein Parallelexemplar zu dem ebenfalls 1720 und ohne Verlagsort katalogisierten Exemplar 0001/8 Asc. 2330 der LMU München?)  
-Widmungsträgerin der ersten Gesamtausgabe dieser Müllerschen Texte war auf jeden Fall niemand anderes als die unmittelbare Dienstherrin von Jauchs Mutter, die Herzogin Magdalena Sybilla von Mecklenburg-Güstrow. (Ein wohl um 1700 gedrucktes Exemplar einer der zahlreichen, bis ins 20. Jahrhundert reichenden, auch auf Ungarisch und Norwegisch erschienenen - Auflagen im Eigentum des Verfassers.)  
+Widmungsträgerin der ersten Gesamtausgabe dieser Müllerschen Texte war auf jeden Fall niemand anderes als die unmittelbare Dienstherrin von Jauchs Mutter, die Herzogin Magdalena Sybilla von Mecklenburg-Güstrow. (Ein wohl um 1700 gedrucktes Exemplar einer der bis ins 20. Jahrhundert reichenden, auch auf Ungarisch und Norwegisch erschienenen Auflagen im Eigentum des Verfassers.)  
 
 Müller schreibt unter dem Motto „Vom Lohn der Falschheit“:  
 
@@ -781,7 +781,11 @@ Brandenburg zählte zur einer neuen Generation von norddeutschen Poeten im Umkre
 
 Das Vorwort zum Lübecker „Gideon“ ist datiert „Lüneburg, 20.10.1716“ - der Text entstand somit wohl in Jauchs Wohnung (Am Sande Nr. 27) - wenige Schritte zwischen St. Johannis und dem Herstellungsort von mindestens neun bisher ermittelbaren Lüneburger Auflagen der Müller-Predigten.  
 
-Zu fragen bleibt, ob Brandenburg in Leipzig (wo er seit 1718 immatrikuliert war) auch dem 1720 dorthin aus Wittenberg übergesiedelten Jurastudenten (und Mitglied des Wittenbergischen musikalischen Collegiums) Christian Friedrich Henrici begegnet sein könnte. (Vgl. Erler 1909; Sehlke 2011) 
+Zu fragen bleibt, ob Brandenburg in Leipzig (wo er seit 1718 immatrikuliert war) auch dem 1720 dorthin aus Wittenberg übergesiedelten Jurastudenten (und Mitglied des Wittenbergischen musikalischen Collegiums) Christian Friedrich Henrici begegnet sein könnte. (Vgl. Erler 1909; Sehlke 2011) Letzterer könnte in Wittenberg (zwischen Mai 1719 und Mai 1720) seinerseits durchaus dem dort zwischen Oktober 1717 und Oktober 1720 eingeschriebenen Ludolph Friedrich Jauch über den Weg gelaufen sein. Mit den Worten seines Vaters an Valentin Ernst Löscher vom 17.11.1718 stellt sich sein Aufenthalt in der Lutherstadt jedenfalls so dar:  
+
+„Es hat mir verwichenen Sommer mein Sohn gerühmet, und sich gefreuet, daß er das Glück gehabt Ew. HochEhrw. Magnif. auffzuwarten, und bin ich davor sehr obligiret daß Sie demselben dero hochgeneigteste admissionen haben wollen würdigen. recommendire Ihn ferner dero hohem Patrimonio. Er lieget Gott lob seinem Studiis in dem lieben Wittenberg noch mit fleiß ob, Gott wird
+dieselben ferner segnen!“  
+
 
 
 Brandenburg (und nicht etwa Jauch) war ab 1724 das einzige externe Mitglied der Hamburger Patriotischen Gesellschaft, für deren Organ „Der Patriot“ er unter einem Pseudonym Beiträge verfasste. Der 1722-25 für den immerwährenden Freund der Familie Bach - Georg Philipp Telemann - (sicherlich nicht ohne wohlwollende Beobachtung durch seinen ehemaligen Tischherrn Jauch) in einzelnen Lieferungen bereitgestellte „Brandenburgische“ Kantatenjahrgang blieb unvollendet, da der Verfasser durch persönliche Befindlichkeiten und seine Tätigkeit als Prediger in Sterley (Herzogtum Lauenburg) ausgelastet war.  
