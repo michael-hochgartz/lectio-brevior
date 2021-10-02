@@ -408,13 +408,14 @@ Dass auf dem Titelblatt einer im selben Jahr gedruckten, musikalisch sehr ähnli
 
 Syntax und Wortwahl der folgend (mit geändertem Zeilenfall) entnommenen Wörter aus dem Titel des erwähnten Textdrucks legen die Vermutung nahe, dass im Kern eine intrikat verdeutschte lateinische Sentenz stecken könnte, deren Identifizierung vielleicht weitere Zuschreibungen ermöglicht. Der vorliegende deutsche Wortlaut lässt sich jedenfalls mit hinreichender Eindeutigkeit auflösen:  
 
-Einer der die Freundschafft  
+[E]iner [der] [die] [F]reundschafft  
 [M]it [J]hnen [C]ontinuirend  
 [J]ederzeit [Pr]omittiret [zu] [L]oben /  
 D[I]e [G]ütigste [F]ügung g[O]ttes.  
 
 ist zu lesen als:  
-Entsprungen der dienstbereiten Feder des
+
+[E]ntsprungen [der] [die]nstbereiten [F]eder (des)  
 [M]agister [J]ohann [C]hristoph  
 [J]auch [Pr]ediger [zu] [L]üneburg  
 [I]ohann [G]eorg [F]lor [O]rganist.  
@@ -645,7 +646,7 @@ Dieser Befund ermöglicht - neben dem Nachweis einer gekonnten, keineswegs über
 Die Beauftragung von Bachs Lehrmeister Georg Böhm mit der Vertonung einer ganzen Reihe von ergänzenden Passionstexten für die 1681 und 1685 in Hamburg, dann im Frühjahr 1700 (aufgrund der großen Nachfrage zum dritten Mal und nun im Stern-Verlag mit hohem technischen und personellen Aufwand) produzierten, von Auflage zu Auflage musikalisch modernisierten Elmenhorst-Lieder dürfte ebenso auf Jauch zurückgehen wie vielleicht schon die Anregung für die Berufung des zeitweiligen Hamburger Operncembalisten Böhm nach Lüneburg im Jahr 1698, den er wenige Jahre zuvor, während seines Studiums in Jena, kennen gelernt haben könnte.  
 
 
-In Jena war Jauch Mitstudent von Johann Anastasius Freylinghausen, Johann Christoph Olearius, Johann Avenarius und von Johann Nikolaus Bach und somit teilnehmender Beobachter eines hymnologischen Netzwerks, das ab 1700 eine gemäßigt orthodoxe Parallelströmung zu den musikalischen Aktivitäten des Hallischen Pietismus und seines Gründervaters August Hermann Francke entwickeln sollte, der einige Jahre zuvor (als Gast des damaligen Superintendenten Sandhagen) in Jauchs späterer Lüneburger Dienstwohnung sein autobiographisch bezeugtes Erweckungserlebnis gehabt hatte.  
+In Jena war Jauch Mitstudent u.a. von Johann Christoph Olearius, Johann Avenarius und von Johann Nikolaus Bach und somit teilnehmender Beobachter eines hymnologischen Netzwerks, das ab 1700 eine gemäßigt orthodoxe Parallelströmung zu den musikalischen Aktivitäten des Hallischen Pietismus und seines Gründervaters August Hermann Francke entwickeln sollte, der einige Jahre zuvor (als Gast des damaligen Superintendenten Sandhagen) in Jauchs späterer Lüneburger Dienstwohnung sein autobiographisch bezeugtes Erweckungserlebnis gehabt hatte.  
 
 
 Erste Eindrücke einer außergewöhnlichen, aus nord- und mitteldeutschen Traditionen schöpfenden Gesangbuchkultur dürfte der sehr junge Jauch bereits auf Schloss Güstrow aus zweiter Hand durch seine Mutter Ingeborg Nicolai erfahren haben, einer Kammerzofe der dorthin vermählten Herzogin Magdalena Sybilla von Holstein-Gottorf, die bereits in ihrem Geburtsort Husum in deren Dienste getreten war.  
@@ -781,7 +782,7 @@ Brandenburg zählte zur einer neuen Generation von norddeutschen Poeten im Umkre
 
 Das Vorwort zum Lübecker „Gideon“ ist datiert „Lüneburg, 20.10.1716“ - der Text entstand somit wohl in Jauchs Wohnung (Am Sande Nr. 27) - wenige Schritte zwischen St. Johannis und dem Herstellungsort von mindestens neun bisher ermittelbaren Lüneburger Auflagen der Müller-Predigten.  
 
-Zu fragen bleibt, ob Brandenburg in Leipzig (wo er seit 1718 immatrikuliert war) auch dem 1720 dorthin aus Wittenberg übergesiedelten Jurastudenten (und Mitglied des Wittenbergischen musikalischen Collegiums) Christian Friedrich Henrici begegnet sein könnte. (Vgl. Erler 1909; Sehlke 2011) Letzterer könnte in Wittenberg (zwischen Mai 1719 und Mai 1720) seinerseits durchaus dem dort zwischen Oktober 1717 und Oktober 1720 eingeschriebenen Ludolph Friedrich Jauch über den Weg gelaufen sein. Mit den Worten seines Vaters an Valentin Ernst Löscher vom 17.11.1718 stellt sich sein Aufenthalt in der Lutherstadt jedenfalls so dar:  
+Zu fragen bleibt, ob Brandenburg in Leipzig (wo er seit 1718 immatrikuliert war) auch dem 1720 dorthin aus Wittenberg übergesiedelten Jurastudenten (und Mitglied des Wittenbergischen musikalischen Collegiums) Christian Friedrich Henrici begegnet sein könnte. (Vgl. Erler 1909; Sehlke 2011) Letzterer könnte in Wittenberg (zwischen Mai 1719 und Mai 1720) seinerseits durchaus dem dort zwischen Oktober 1717 und Oktober 1720 eingeschriebenen Ludolph Friedrich Jauch über den Weg gelaufen sein. Mit den Worten seines Vaters an Valentin Ernst Löscher vom 3.11.1718 stellt sich sein Aufenthalt in der Lutherstadt jedenfalls so dar:  
 
 „Es hat mir verwichenen Sommer mein Sohn gerühmet, und sich gefreuet, daß er das Glück gehabt Ew. HochEhrw. Magnif. auffzuwarten, und bin ich davor sehr obligiret daß Sie demselben dero hochgeneigteste admissionen haben wollen würdigen. recommendire Ihn ferner dero hohem Patrimonio. Er lieget Gott lob seinem Studiis in dem lieben Wittenberg noch mit fleiß ob, Gott wird
 dieselben ferner segnen!“  
