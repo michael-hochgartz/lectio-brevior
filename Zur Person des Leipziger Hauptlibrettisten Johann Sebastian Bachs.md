@@ -231,7 +231,7 @@ Die zeitliche Differenz zwischen Spitzmarken und Erscheinungsdaten belegt auch a
 
 Von den drei Datumsangaben (19., 21., 26. Januar), die für Jauchs Todestag genannt werden, kann naturgemäß nur eine korrekt sein. Zwar verhindert der Verlust der Begräbnisregister von St. Johannis eine endgültige Klärung. Aber:  
 
-Der im Deutschen Geschlechterbuch (200/1996) sowie im darauf fußenden Wikipedia-Artikel genannte 26. Januar scheidet aus, da bereits für den 24. Januar in Jauchs Personalakte eine Eingabe des Ministeriums-Seniors Friedrich Georg Koltemann wegen dringlicher Regelung zusätzlicher Predigtdienste überliefert ist, die durch den „unverhofften Todt“ des Superintendenten notwendig geworden waren, der „Denselben aus der Streitenden in die Triumphirende Kirche“ versetzte. Dieses Zitat nach dem spätmittelalterlichen Mönch Alanus ab insulis („ecclesia militans“ / „ecclesia triumphans“) war wohl ein letzter, (mit etwas Wohlwollen misszuverstehender oder als blanker Sarkasmus an die Adressaten gemünzter?) Nachklapp zu den jahrzehntelangen Kontroversen um die Position Jauchs.  
+Der im Deutschen Geschlechterbuch (200/1996) sowie (bis zu einer Korrektur am 2.10.2021) im darauf fußenden Wikipedia-Artikel genannte 26. Januar scheidet aus, da bereits für den 24. Januar in Jauchs Personalakte eine Eingabe des Ministeriums-Seniors Friedrich Georg Koltemann wegen dringlicher Regelung zusätzlicher Predigtdienste überliefert ist, die durch den „unverhofften Todt“ des Superintendenten notwendig geworden waren, der „Denselben aus der Streitenden in die Triumphirende Kirche“ versetzte. Dieses Zitat nach dem spätmittelalterlichen Mönch Alanus ab insulis („ecclesia militans“ / „ecclesia triumphans“) war wohl ein letzter, (mit etwas Wohlwollen misszuverstehender oder als blanker Sarkasmus an die Adressaten gemünzter?) Nachklapp zu den jahrzehntelangen Kontroversen um die Position Jauchs.  
 
 Der zugehörige zeitgenössische Aktendeckel teilt übrigens nur mit (vgl. Reinhardt 1980):  
 
@@ -413,7 +413,7 @@ Syntax und Wortwahl der folgend (mit geändertem Zeilenfall) entnommenen Wörter
 [J]ederzeit [Pr]omittiret [zu] [L]oben /  
 D[I]e [G]ütigste [F]ügung g[O]ttes.  
 
-ist zu lesen als:  
+lässt sich lesen als:  
 
 [E]ntsprungen [der] [die]nstbereiten [F]eder (des)  
 [M]agister [J]ohann [C]hristoph  
