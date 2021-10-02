@@ -417,7 +417,7 @@ ist zu lesen als:
 
 [E]ntsprungen [der] [die]nstbereiten [F]eder (des)  
 [M]agister [J]ohann [C]hristoph  
-[J]auch [Pr]ediger [zu] [L]üneburg  
+[J]auch [Pr]ediger [zu] [L]üneburg (und des)  
 [I]ohann [G]eorg [F]lor [O]rganist.  
 
 Zu einem kaum widerlegbaren Beweis erhoben wird dieses Indiz für den Autorennachweis durch die Tatsache, dass das Titelblatt des Kantatendrucks mit einem leicht umformulierten Zitat des Psalms 73, 23-24 beginnt, welches als lebenslanges theologisches Motto Jauchs belegt ist - z.B. durch das bis heute verwendete Familienwappen, welches auf einen Abdruck seines Ringsiegels zurück geht: „Die Leitung Gottes nach seinem Raht.“  
