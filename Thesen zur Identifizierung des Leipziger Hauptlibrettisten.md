@@ -2,7 +2,7 @@
 des „Leipziger“ Hauptlibrettisten  
 Johann Sebastian Bachs  
 Michael Hochgartz (D 48153 Münster)  
-michael@hochgartz.de - 30.09.2021  
+michael@hochgartz.de - 06.10.2021  
 Quelltext und Literaturverzeichnis: https://github.com/michael-hochgartz/lectio-brevior  
 
 Amore et studio elucidandae veritatis haec subscripta disputabuntur (Martin Luther 1517)  
@@ -40,7 +40,7 @@ Schließlich bleibt zu bedenken: auch der produktivste Komponist protestantische
 
 
 
-3. Grund für den vorzeitigen Abbruch der Vertonung des Choralkantatenjahrgangs war (wie von Krummacher 1995 unspezifisch vermutet, von Schulze 1998 systemisch analysiert und personenbezogen präzisiert, von Wolff 2000 einstweilen akzeptiert, 2020 jedoch explizit ignoriert und u.a. von Geck 2000, Braatz 2007, Zedler 2007, Klek 2015, Marquard 2019 mit unterschiedlichen Zielrichtungen diskutiert) der plötzliche, dauerhafte Ausfall des Autors Ende Januar 1725.  
+3. Grund für den vorzeitigen Abbruch der Vertonung des Choralkantatenjahrgangs war (wie von Krummacher 1995 unspezifisch vermutet, von Schulze 1998 systemisch analysiert und personenbezogen präzisiert, von Wolff 2000 einstweilen akzeptiert, 2020 jedoch explizit ignoriert und u.a. von Petzoldt 1999, Geck 2000, Walter 2006, Braatz 2007, Zedler 2007, Walter 2012, Bärwald 2012, Rathey 2012a, Klek 2015, Marquard 2019 mit unterschiedlichen Zielrichtungen diskutiert) der plötzliche, dauerhafte Ausfall des Autors Ende Januar 1725.  
 
 Ein in Teilen der Fachliteratur (vgl. z.B. Gardiner 2013) unterstellter Erschöpfungszustand des Komponisten mag zwar existiert haben, taugt aber nicht als Erklärung für die zwar zeitverzögert wirkende, ursächlich aber spontan bedingte Beendigung dieses in der Musikgeschichte einzigartigen Projekts, da für die Vollendung des Zyklus und der Passion im Tempus clausum während der vierzigtägigen Fastenzeit eine hinreichende - und für die verbleibenden gut ein Dutzend Kantatentermine zwischen Ostern und Trinitatis mit ca. 12 Wochen sogar eine ganz gewöhnlich bemessene Zeit für eine geordnete Vollendung nach Bachs vorweihnachtlichem Standardrhythmus vorhanden gewesen wäre.  
 
@@ -120,7 +120,7 @@ Dass auch Choräle berücksichtigt wurden und im Einzelfall auch kurze Platzhalt
 
 Die bei der provisorischen Einschleusung in die vorzeitig wiederaufgeführte Johannespassion erforderliche Transposition (zunächst nur der Stimmen?) nach Es-Dur ermöglichte als Nebeneffekt eine elegantere Führung der Continuopartie, deren Oktavversetzungen (cis statt Cis; wg. fehlender Taste auf der Orgel) ursprünglich durch die aus der Großform von BWV 244 resultierende Tonart E-Dur erforderlich gewesen waren.  
 
-Als alternativer Erklärungsansatz wäre eine Erstfassung in D-Dur denkbar (vgl. Dürr 1988), zumal das vorangehende Rezitativ im Torso P 26 aufgrund etlicher fehlender Schlusstakte hinsichtlich der Zieltonart unbestimmt bleibt - freilich um den Preis eines Bruchs in der tonartlichen Symmetrie der Rahmensätze des ersten Teils der Passion.  
+Als alternativer Erklärungsansatz wäre eine - von Dürr (1988) zur Diskussion gestellte, aber nie nachhaltig diskutierte - Erstfassung in D-Dur denkbar, zumal das vorangehende Rezitativ im Torso P 26 aufgrund etlicher fehlender Schlusstakte hinsichtlich der Zieltonart unbestimmt bleibt - freilich um den Preis eines Bruchs in der tonartlichen Symmetrie der Rahmensätze des ersten Teils der Passion.  
 
 Durch Umkehrung der bisher angenommenen Entstehungsreihenfolge wird somit auch eine von Arthur Mendel postulierte, in Weimar lokalisierte Frühfassung des Satzes (BC D1) obsolet. Vielmehr fügt sich dieser Chor durch seine - in der Fachliteratur nachhaltig bestätigte - kompositorische Reife, formale Opulenz und hymnologische / theologische Tendenz zwar notationstechnisch scheinbar leicht korrumpiert, aber substanziell bruchlos in ein Gesamtprojekt „Choralkantaten und Matthäuspassion“ ein.  
 
@@ -135,7 +135,7 @@ Henricis Textentwurf lag zwar (laut Smend 1951 zwecks formaler Approbation) zeit
 
 Weiter zugespitzt: Ist es vorstellbar, dass Bach die erheblichen Einkünfte (230 Rtlr. brutto; vgl. Heber 2017) aus den beiden Köthener Aufführungen (es erklang am Abend der Beisetzung auch die fertig vorliegende doppelchörige Musik „O Herr, ich bin dein Knecht“ seines Meininger Vetters Johann Ludwig Bach) gleichsam als Quersubventionierung genutzt hat, um sein 1725 vorläufig gescheitertes Passions-Projekt unter optimalen Bedingungen für Leipzig zu vollenden und zu präsentieren? (Vgl. Hofmann 1983)  
 
-Das Ganze wäre auch zu betrachten vor dem Hintergrund der anschwellenden Auseinandersetzungen mit seinen komplex organisierten Dienstherrschaften (Stadt; Landesherrschaft; Universität; Konsistorium; Ferne Fürsten) um eine halbwegs hinreichende Ausstattung des chronisch defizitären Leipziger Aufführungsapparts - also gleichsam als „demonstratio ad aures“ dessen, was er als Director Musices bei angemessener Subventionierung zu leisten im Stande sein könnte.  
+Das Ganze wäre auch zu betrachten vor dem Hintergrund der anschwellenden Auseinandersetzungen mit seinen komplex organisierten Dienstherrschaften (Stadt; Landesherrschaft; Universität; Konsistorium; Ferne Fürsten) um eine halbwegs hinreichende Ausstattung des chronisch defizitären Leipziger Aufführungsapparts - also gleichsam als „demonstratio ad aures“ dessen, was er als Director Musices bei angemessener Subventionierung zu leisten im Stande sein könnte.  Und das übrigens parallel zur Aufführung einer - von einem anonymen Komponisten vertonten - Brockes-Passion in der Leipziger Neukirche.  
 
 Für den Zusammenhang von Trauermusik und Passion ist anhand eines Schnittmengenmodells folgendes Schema denkbar: Den 1725 in Konzeptschrift vorliegenden Sätzen 20,39,57 wurden 1728/29 in den Vokalstimmen (und nur dort!) neue Texte unterlegt. Keiner, alle oder (am wahrscheinlichsten:) einige wenige der Sätze 6,8,13,23,49,65 lagen 1725 als unvertonte Texte vor, wurden 1728 von Henrici parodiert und von Bach mit Blick auf die Doppelverwendung vertont. Bei der verbleibenden Menge handelt es sich um komplette Neuschöpfungen, die dann bald darauf oder parallel dazu in die Passion übernommen wurden.  
 

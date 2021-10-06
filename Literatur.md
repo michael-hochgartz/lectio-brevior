@@ -4,7 +4,7 @@ Bibliographische Handreichung zu den Manuskriptentwürfen:
 - Zur Person des Leipziger Hauptlibrettisten Johann Sebastian Bachs.md
 
 Michael Hochgartz (D 48153 Münster)  
-michael@hochgartz.de - 19.09.2020  
+michael@hochgartz.de - 06.10.2020  
 https://www.bachforschung.de  
 
 Fachkundige Leser der Entwürfe des Thesenpapiers und des Vortragsmanuskripts erhalten auf diesem Weg einen Zugriff auf die in kürzest möglicher Form referenzierte Standardliteratur und auf einige wenige Spezialtexte. Eine vollständige Bibliographie bleibt ebenso einer späteren Ausarbeitung vorbehalten wie der Nachweis der mit erheblichen Aufwänden ermittelten, unpublizierten Archivalien, Briefe und Originaldrucke.  
@@ -25,6 +25,7 @@ Abkürzungen
 
 **Assmann**, Jan: Die Katastrophe des Vergessens. Das Deuteronomium als Paradigma kollektiver Mnemotechnik. In: Aleida Assmann, Dietrich Harth (Hrsg.): Mnemosyne: Formen und Funktionen der kulturellen Erinnerung. Frankfurt am Main **1991**, 337–355  
 **Axmacher**, Elke: Ein Quellenfund zum Text der Matthäus-Passion, Bach-Jahrbuch 64 (**1978**), 181-191  
+**Bärwald**, Manuel, Rezension von: Bachs Johannespassion, Berlin 2011, Bach-Jahrbuch 98 (**2012**), 265-270  
 **Bertram**, Johann Georg, Das evangelische Lüneburg, Braunschweig **1719**  
 **Blanken**, Christine:  Der Kantatenzyklus ‚GOtt-geheiligte Sabbaths-Zehnden‘ von 1728 und die Leipziger Kirchenmusik unter J. S. Bach in den Jahren 1724–1727, BJ **2015**, 13–74  
 **Braatz**, Thomas https://www.bach-cantatas.com/Articles/SMP244avsb.pdf **2006**  
@@ -76,10 +77,12 @@ Abkürzungen
 **Mendel 1964**  
 **Merzbacher**, Dieter, „Ob ein Poete wohl Superintendens seyn könne?" - Erdmann Neumeister im Spiegel seiner Poetik, in: Rucker, Henrike, Erdmann Neumeister (1671-1756) - Wegbereiter der evangelischen Kirchenkantate, Rudolstadt **2000**, 75-96  
 **Otto 2007**  
+**Petzoldt** *1999**  
 **Petzoldt**, Martin, Texthefte zu Bachs Leipziger Kirchenmusik, Stuttgart **2000**  
 **Petzoldt**, Martin: Bach-Kommentar : theologisch-musikwissenschaftliche Kommentierung der geistlichen Vokalwerke Johann Sebastian Bachs
 Bd. 1, Kassel **2004**  
-**Rathey 2011b**  
+**Rathey**, Markus, Die geistliche Hirten-Freude - eine Leipziger Weihnachtsmusik im Jahre 1685 und die Transformation weihnachtlicher Bukolik im späten 17. Jahrhundert, in: Daphnis 40 (**2011b**), 567-606  
+**Rathey**, Markus, Der zweite Leipziger Jahrgang - Choralkantaten, in: Bachs Kantaten: Das Handbuch, Laaber **2012a**, 331-449  
 **Reinhardt**, Uta: Die evangelischen Pastoren in Lüneburg 1530-1980, in: Reformation vor 450 Jahren. Lüneburg **1980**, 113-169  
 **Scheide**, William H.: Die Choralkantaten von 1724 und Bachs Köthener Besuch, in BJ 89 **2003**, 47-65  
 **Scheide 1976**  
@@ -96,6 +99,7 @@ Bd. 1, Kassel **2004**
 **Schwinger**, Tobias, Der preußische Hofkomponist Johann Friedrich Agricola in seiner Rolle als Kirchenkomponist für die Kirche St. Petri in Berlin, Wilhelm Friedemann Bach und die protestantische Kirchenkantate nach 1750. Beeskow **2012**, 95-220  
 **Tschirner**, Ulfert: Das Lüneburger Raritätenkabinett des Tobias Reimers (1653-1716), Lüneburger Blätter 37 **2020**, 129-160  
 **Walter**, Horst: Musikgeschichte der Stadt Lüneburg Vom Ende d. 16. bis zum Anfang d. 18. Jh. Tutzing **1967** (und früher)  
+**Walter**, Meinrad, Viele Dichter - eine Passion, Zum Libretto der Johannes-Passion Bachs, in Michael Gassmann (Hg.) Bachs Johannes-Passion - poetische, musikalische, theologische Konzepte; Vorträge der Bachwoche Stuttgart 2011, Kassel  **2012** 111-127  
 **Weichmann 1738**  
 **Whittaker**, Gillies: The Cantatas of Johann Sebastian Bach, Sacred and Secular, 2 vols. Oxford, **1959**  
 **Wiesenfeldt**, Christoph: Die Apostelglocke von 1436. Das historische Geläut der St. Johanniskirche zu Lüneburg, Lüneburg **2011**  
