@@ -5,11 +5,11 @@ Bibliographische Handreichung zu den Manuskriptentwürfen:
 
 Michael Hochgartz (D 48153 Münster)  
 michael@hochgartz.de - 06.10.2020  
-https://www.bachforschung.de  
+https://github.com/michael-hochgartz/lectio-brevior   
 
-Fachkundige Leser der Entwürfe des Thesenpapiers und des Vortragsmanuskripts erhalten auf diesem Weg einen Zugriff auf die in kürzest möglicher Form referenzierte Standardliteratur und auf einige wenige Spezialtexte. Eine vollständige Bibliographie bleibt ebenso einer späteren Ausarbeitung vorbehalten wie der Nachweis der mit erheblichen Aufwänden ermittelten, unpublizierten Archivalien, Briefe und Originaldrucke.  
+Fachkundige Leser der Entwürfe des Thesenpapiers und des Vortragsmanuskripts erhalten auf diesem Weg einen Zugriff auf die in kürzest möglicher Form referenzierte Standardliteratur und auf einige wenige Spezialtexte. Eine vollständige Bibliographie bleibt ebenso einer späteren Ausarbeitung vorbehalten wie der Nachweis der mit erheblichen Aufwänden ermittelten, unpublizierten Archivalien, Briefe und Originaldrucke. Wie die beiden Haupttexte, so trägt auch diese Aufstellung den Charakter eins fortlaufenden Werkstattberichts.  
 
-Digitalisate der Musikhandschriften P25, P26 und AmB 6+7 sind in teils hervorragender Qualität via www.bach-digital.de verfügbar; desgl. neuerdings (Dezember 2020) auch die autographe Partitur von BWV 20, für deren Erwerb durch das Bach Archiv Leipzig der Verfasser und sein familiäres Umfeld jeweils bescheidene finanzielle Beiträge leisteten.
+Digitalisate der Musikhandschriften P25, P26 und AmB 6+7 sind in teils hervorragender Qualität via www.bach-digital.de verfügbar; desgl. neuerdings (Dezember 2020) auch die autographe Partitur von BWV 20, für deren Erwerb durch das Bach Archiv Leipzig der Verfasser und sein familiäres Umfeld jeweils bescheidene finanzielle Beiträge leisteten.  
 
 Abkürzungen  
 
