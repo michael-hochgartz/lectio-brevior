@@ -3,7 +3,7 @@
 Entwurf für ein Vortragsmanuskript (Es gilt das gesprochene Wort)  
 
 Michael Hochgartz (D 48153 Münster)  
-michael@hochgartz.de - 02.10.2021  
+michael@hochgartz.de - 09.10.2021  
 Quelltext und Literaturverzeichnis: https://github.com/michael-hochgartz/lectio-brevior  
 
 
@@ -100,7 +100,7 @@ Die Tradition regelmäßiger Aufführungen am Karfreitag reichte übrigens so la
 
 1709 wechselte Jauch als 1. Prediger an die Nikolaikirche und 1714, bedingt durch seine Wahl zum Superintendenten, nach St. Johannis. Damit wurde er auch zum „Inspector“ jenes Johanneums ernannt, dessen Chorus Symphoniacus während der beiden Kirchenjahre (1. Advent 1720 bis 1. Advent 1722) für die Aufführung von Vertonungen zweier, gemeinsam im Druck veröffentlichter Jahrgänge von Texten zur Musik zuständig war, die auf Vorlagen Erdmann Neumeisters und weiterer, noch zu identifizierender Autoren beruhten.  
 
-Aufgeführt wurden nach konstantem, aber nicht kompletten Kalendarium an den drei städtischen „Haupt“-Kirchen - mit klarer Fokussierung auf St. Johannis - ab 1. Advent 1721 auch wesentliche Teile des ersten „Concerten-Jahrgangs“ von Georg Philipp Telemann, der 1716/17 auf Texte Neumeisters in Frankfurt komponiert worden war.  
+Aufgeführt wurden nach konstantem, aber nicht komplettem Kalendarium an den drei städtischen „Haupt“-Kirchen - mit klarer Fokussierung auf St. Johannis - ab 1. Advent 1721 auch wesentliche Teile des ersten „Concerten-Jahrgangs“ von Georg Philipp Telemann, der 1716/17 auf Texte Neumeisters in Frankfurt komponiert worden war.  
 
 Mehr als 40 dieser weitgehend durch RISM-Konkordanzen dokumentierbaren Kompositionen erklangen unter Leitung des - als finanziellem Profiteur fungierenden, als Prügelpädagoge unrühmlich aktenkundig gewordenen, als Komponist laut zeitgenössischen Urteilen nur mäßig erfolgreichen - Kantors Bernhard Christian Bohmsen in jenen Gottesdiensten in St. Johannis, in denen Jauch um 14 Uhr die mittägliche Hauptredigt hielt und Georg Böhm die Orgel spielte. Die Reihe endete - textlich und musikalisch bemerkenswert bescheiden - am 25. Sonntag nach Trinitatis 1722. Was darauf folgte, ist nicht bekannt.  
 
@@ -222,7 +222,7 @@ Zufälligerweise notifiziert der Correspondent nur wenige Tage später (10.2.172
 
 „Leipzig, den 2. Februar. Ehegestern hat alhier Hr. Mag. Andreas Stübel, Con-Rector der Schulen zu St. Thomas, dieses Zeitliche gesegnet, und wird derselbe morgen beygesetzet werden. Weil er einige Zeit von seinen Schul-Laboribus als Emeritus oder befreyet gelebet, so hat er seine Zeit und Mühe auf Edirung des Fabrici oder Buchneri Lexici, so er etliche mahl ausgearbeitet, wie auch auf andere Sachen angewendet, da indessen ein anderer seine gewöhnlichen Schul-Labores diese Jahre über verrichtet gehabt.“  
 
-Stübels Teilhabe am Leipziger gottesdienstlichen Leben scheint bis in seine letzten Tage hinein nur passiver Natur gewesen zu sein, wie der örtliche Chronist Chistoph Ernst Sicul kolportiert:  
+Stübels Teilhabe am Leipziger gottesdienstlichen Leben scheint bis in seine letzten Tage immerhin passiver Natur gewesen zu sein, wie der örtliche Chronist Chistoph Ernst Sicul kolportiert:  
 
 „Endlich wandelte ihm den 28. Jan. dieses 1725 Jahres unterm Gottesdienst in der Pauliner-Kirche ein Fieber an, welches ihn, seines Alters 71 Jahr 6 Wochen und 4 Tage, von der Welt genommen.“  
 
@@ -231,7 +231,7 @@ Die zeitliche Differenz zwischen Spitzmarken und Erscheinungsdaten belegt auch a
 
 Von den drei Datumsangaben (19., 21., 26. Januar), die für Jauchs Todestag genannt werden, kann naturgemäß nur eine korrekt sein. Zwar verhindert der Verlust der Begräbnisregister von St. Johannis eine endgültige Klärung. Aber:  
 
-Der im Deutschen Geschlechterbuch (200/1996) sowie (bis zu einer Korrektur am 2.10.2021) im darauf fußenden Wikipedia-Artikel genannte 26. Januar scheidet aus, da bereits für den 24. Januar in Jauchs Personalakte eine Eingabe des Ministeriums-Seniors Friedrich Georg Koltemann wegen dringlicher Regelung zusätzlicher Predigtdienste überliefert ist, die durch den „unverhofften Todt“ des Superintendenten notwendig geworden waren, der „Denselben aus der Streitenden in die Triumphirende Kirche“ versetzte. Dieses Zitat nach dem spätmittelalterlichen Mönch Alanus ab insulis („ecclesia militans“ / „ecclesia triumphans“) war wohl ein letzter, (mit etwas Wohlwollen misszuverstehender oder als blanker Sarkasmus an die Adressaten gemünzter?) Nachklapp zu den jahrzehntelangen Kontroversen um die Position Jauchs.  
+Der im Deutschen Geschlechterbuch (200/1996) sowie (bis zu einer Korrektur am 2.10.2021) im darauf fußenden Wikipedia-Artikel genannte 26. Januar scheidet aus, da bereits für den 24. Januar in Jauchs Personalakte eine Eingabe des Ministeriums-Seniors Friedrich Georg Koltemann wegen dringlicher Regelung zusätzlicher Predigtdienste überliefert ist, die durch den „unverhofften Todt“ des Superintendenten notwendig geworden waren, der „Denselben aus der Streitenden in die Triumphirende Kirche“ versetzte. Dieses Zitat nach dem spätmittelalterlichen Mönch Alanus ab Insulis („Ecclesia militans“ / „Ecclesia triumphans“) war wohl ein letzter, (mit etwas Wohlwollen misszuverstehender oder als blanker Sarkasmus an die Adressaten gemünzter?) Nachklapp zu den jahrzehntelangen Kontroversen um die Position Jauchs.  
 
 Der zugehörige zeitgenössische Aktendeckel teilt übrigens nur mit (vgl. Reinhardt 1980):  
 
@@ -241,7 +241,7 @@ Der vom „Correspondenten“ genannte 19. Januar ist deshalb weniger wahrschein
 
 Deshalb erscheint die Angabe Wilhelm Linkes am vertrauenswürdigsten, der bei der Katalogisierung norddeutscher Personalschriften zunächst (1912) pauschal 1725 angegeben hatte, dann (1931) aber konkret den 21.1.1725 nennen konnte - anhand des einzigen bislang nachgewiesenen Exemplars im ehemaligen Staatsarchiv Hannover (Signatur: St.A. 2° 26), das dort in der Nacht zum 9. Oktober 1943 verbrannte.  
 
-Demnach ist Jauch an jenem dritten und letzten Sonntag nach Epiphanias 1725 in Lüneburg gestorben, an dem J.S. Bach 300 Kilometer entfernt in der Leipziger Nikolaikirche zur Predigt des Superintendenten Salomon Deyling die Choralkantate „Was mein Gott will das gscheh allzeit“ (BWV 111) uraufführte, in deren spätestens zwei Wochen zuvor nach Leipzig übermittelten Text es heißt:  
+Demnach ist Jauch an jenem dritten und letzten Sonntag nach Epiphanias 1725 in Lüneburg gestorben, an dem J.S. Bach 300 Kilometer entfernt in der Leipziger Nikolaikirche zur Predigt des Superintendenten Salomon Deyling die Choralkantate „Was mein Gott will das gscheh allzeit“ (BWV 111) uraufführte, in deren spätestens zwei Wochen zuvor nach Leipzig übermitteltem Text es heißt:  
 
 So geh ich mit beherzten Schritten,  
 auch wenn mich Gott zum Grabe führt.  
@@ -782,11 +782,10 @@ Brandenburg zählte zur einer neuen Generation von norddeutschen Poeten im Umkre
 
 Das Vorwort zum Lübecker „Gideon“ ist datiert „Lüneburg, 20.10.1716“ - der Text entstand somit wohl in Jauchs Wohnung (Am Sande Nr. 27) - wenige Schritte zwischen St. Johannis und dem Herstellungsort von mindestens neun bisher ermittelbaren Lüneburger Auflagen der Müller-Predigten.  
 
-Zu fragen bleibt, ob Brandenburg in Leipzig (wo er seit 1718 immatrikuliert war) auch dem 1720 dorthin aus Wittenberg übergesiedelten Jurastudenten (und Mitglied des Wittenbergischen musikalischen Collegiums) Christian Friedrich Henrici begegnet sein könnte. (Vgl. Erler 1909; Sehlke 2011) Letzterer könnte in Wittenberg (zwischen Mai 1719 und Mai 1720) seinerseits durchaus dem dort zwischen Oktober 1717 und Oktober 1720 eingeschriebenen Ludolph Friedrich Jauch über den Weg gelaufen sein. Mit den Worten seines Vaters an Valentin Ernst Löscher vom 3.11.1718 stellt sich sein Aufenthalt in der Lutherstadt jedenfalls so dar:  
+Zu fragen bleibt, ob Brandenburg in Leipzig (wo er seit 1718 immatrikuliert war) auch dem 1720 dorthin aus Wittenberg übergesiedelten Jurastudenten (und Mitglied des Wittenbergischen musikalischen Collegiums) Christian Friedrich Henrici begegnet sein könnte. (Vgl. Erler 1909; Sehlke 2011) Letzterer könnte in Wittenberg (zwischen Mai 1719 und Mai 1720) seinerseits durchaus dem dort zwischen Oktober 1717 und Oktober 1720 eingeschriebenen Ludolph Friedrich Jauch über den Weg gelaufen sein. Mit den Worten seines Vaters an Valentin Ernst Löscher vom 3.11.1718 stellt sich dessen Aufenthalt in der Lutherstadt jedenfalls so dar:  
 
 „Es hat mir verwichenen Sommer mein Sohn gerühmet, und sich gefreuet, daß er das Glück gehabt Ew. HochEhrw. Magnif. auffzuwarten, und bin ich davor sehr obligiret daß Sie demselben dero hochgeneigteste admissionen haben wollen würdigen. recommendire Ihn ferner dero hohem Patrimonio. Er lieget Gott lob seinem Studiis in dem lieben Wittenberg noch mit fleiß ob, Gott wird
 dieselben ferner segnen!“  
-
 
 
 Brandenburg (und nicht etwa Jauch) war ab 1724 das einzige externe Mitglied der Hamburger Patriotischen Gesellschaft, für deren Organ „Der Patriot“ er unter einem Pseudonym Beiträge verfasste. Der 1722-25 für den immerwährenden Freund der Familie Bach - Georg Philipp Telemann - (sicherlich nicht ohne wohlwollende Beobachtung durch seinen ehemaligen Tischherrn Jauch) in einzelnen Lieferungen bereitgestellte „Brandenburgische“ Kantatenjahrgang blieb unvollendet, da der Verfasser durch persönliche Befindlichkeiten und seine Tätigkeit als Prediger in Sterley (Herzogtum Lauenburg) ausgelastet war.  
