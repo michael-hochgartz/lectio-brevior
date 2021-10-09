@@ -97,6 +97,7 @@ Bd. 1, Kassel **2004**
 **Schulze**, Hans-Joachim: Texte und Textdicher, Christoph Wolff (Hg.), Die Welt der Bach-Kantaten / Bd. 3, Johann Sebastian Bachs Leipziger Kirchenkantaten, Stuttgart **1998**  
 **Schulze** 2001 (Colloquium Dürr 1998)  
 **Schwinger**, Tobias, Der preußische Hofkomponist Johann Friedrich Agricola in seiner Rolle als Kirchenkomponist für die Kirche St. Petri in Berlin, Wilhelm Friedemann Bach und die protestantische Kirchenkantate nach 1750. Beeskow **2012**, 95-220  
+**Tatlow**, Ruth, Bach's Numbers, Compositional Proportion and Significance, Cambridge **2015**  
 **Tschirner**, Ulfert: Das Lüneburger Raritätenkabinett des Tobias Reimers (1653-1716), Lüneburger Blätter 37 **2020**, 129-160  
 **Walter**, Horst: Musikgeschichte der Stadt Lüneburg Vom Ende d. 16. bis zum Anfang d. 18. Jh. Tutzing **1967** (und früher)  
 **Walter**, Meinrad, Viele Dichter - eine Passion, Zum Libretto der Johannes-Passion Bachs, in Michael Gassmann (Hg.) Bachs Johannes-Passion - poetische, musikalische, theologische Konzepte; Vorträge der Bachwoche Stuttgart 2011, Kassel  **2012** 111-127  

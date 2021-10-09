@@ -2,7 +2,7 @@
 des „Leipziger“ Hauptlibrettisten  
 Johann Sebastian Bachs  
 Michael Hochgartz (D 48153 Münster)  
-michael@hochgartz.de - 06.10.2021  
+michael@hochgartz.de - 09.10.2021  
 Quelltext und Literaturverzeichnis: https://github.com/michael-hochgartz/lectio-brevior  
 
 Amore et studio elucidandae veritatis haec subscripta disputabuntur (Martin Luther 1517)  
@@ -91,7 +91,7 @@ Andernfalls wäre mit dem - ebenfalls sikzzenhaften - Satz 4d zu fragen: „Wozu
 
 Ferner: Belegt die durch Ziffern signalisierte Zählung von 18 bzw. 16 Pausentakten in fol. 43v und 44v der Partitur P 26, dass Agricola bei der Niederschrift dieses vollständig notieren Satzes (27b) an die Anfertigung von Aufführungsmaterial dachte? (Nach einer Grundidee von Kümmerling 1986.)  
 
-Die Antwort kann nur Nein lauten, denn Ziel von Agricolas Bemühungen war keineswegs eine Aufführung anhand von P 26. Eine solche hätte er durch Ausschreiben(lassen) von Stimmen nach AmB. 6+7 sehr viel leichter verwirklichen können - oder am einfachsten, indem er seinen langjährigen Kollegen C.P.E. Bach um die leihweise Überlassung des kompletten, aufführungserprobten Materials der Spätfassung (D-B Mus.ms. Bach P 25 / D-B Mus.ms. Bach St 110) gebeten hätte. Zudem bliebe zu fragen, warum er sich für die praktische Verwendung der Frühfassung interessiert haben könnte, die auch heute nur äußerst selten und aus eher akademischen Interessen herangezogen wird.  
+Die Antwort kann nur Nein lauten, denn Ziel von Agricolas Bemühungen war keineswegs eine Aufführung anhand von P 26. Eine solche hätte er durch Ausschreiben(lassen) von Stimmen nach AmB. 6+7 sehr viel leichter verwirklichen können - oder am einfachsten, indem er seinen langjährigen Kollegen C.P.E. Bach um die leihweise Überlassung des kompletten, aufführungserprobten Materials der Spätfassung (D-B Mus.ms. Bach P 25 / D-B Mus.ms. Bach St 110) gebeten hätte. Zudem bliebe zu fragen, warum er sich für die praktische Verwendung der Frühfassung interessiert haben könnte, die auch heute nur äußerst selten und aus eher akademischen Interessen herangezogen wird. Somit ist davon auszugehen, dass die numerisch markierten Pausentakte bereits in der Vorlage vorhanden waren, also auf den Komponisten zurück gehen.  
 
 Zu klären bleibt, warum Agricola in dieser Partitur Gebrauch von zahlreichen notationstechnischen Abbreviaturen macht („col vl. primo“ etc.; auch da, wo es sich kaum zu lohnen scheint) - wie sie für viele seiner übrigen Handschriften (auch eigener Kompositionen) typisch sind. (Vgl. dazu möglicherweise die unveröffentlichte, 2021 an der Universität Oxford verteidigte Dissertation von Andrew Frampton.)  
 
@@ -214,7 +214,7 @@ Das bekannteste Beispiel der Verwendung von Buchstabenspielen bei Bach selbst (d
 
 Welcher, um den Urgrund derartiger Kryptophilie wissende, (späte Leipziger, frühe Potsdamer) Ideengeber hier vielleicht Pate stand, wird wohl auf immer im Bereich der Spekulation bleiben. (Vgl. Wolff 1967)  
 
-Das in diesem Zusammenhang vielleicht überzeugendste, wenig später entstandene Beispiel eines hochkomplexen Akrostichons durch Bach selbst stellt schließlich der - durch die Hand J.P. Kirnbergers überlieferte - Eintrag des siebenstimmigen Kanons BWV 1078 im Stammbuchblatt für den Leipziger Medizinstudenten Benjamin Gottlieb Faber vom 1. März 1749 dar. (Vgl. Smend 1966; Schulze 1967; Mika 2019.) Hier wird nicht nur der Nachname des Widmungsempfängers zunächst durch Tonbuchstaben und eine Wiederholungsanweisung über dem Noteneintrag angedeutet: 
+Das in diesem Zusammenhang vielleicht überzeugendste, wenig später entstandene Beispiel eines hochkomplexen Akrostichons durch Bach selbst stellt schließlich der - durch die Hand J.P. Kirnbergers überlieferte - Eintrag des siebenstimmigen Kanons BWV 1078 im Stammbuchblatt für den Leipziger Medizinstudenten Benjamin Gottlieb Faber vom 1. März 1749 dar. (Vgl. Smend 1966; Schulze 1967; Tatlow 2015; Mika 2019.) Hier wird nicht nur der Nachname des Widmungsempfängers zunächst durch Tonbuchstaben und eine Wiederholungsanweisung über dem Noteneintrag angedeutet: 
 
 [F] [A] [B] [E] [R]epetatur
 
