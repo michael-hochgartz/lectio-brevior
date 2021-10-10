@@ -44,6 +44,7 @@ Abkürzungen
 **Frederichs**, Henning: Das Verhältnis von Text und Musik in den Brockespassionen Keisers, Händels, Telemanns und Matthesons : mit einer Einführung in ihre Entstehungs- und Rezeptionsgeschichte sowie den Bestand ihrer literarischen und musikalischen Quellen, München **1975**  
 **Gardiner**, John Eliot, Bach: Music in the Castle of Heaven, London **2013**  
 **Geck**, Martin: Bach. Leben und Werk, Reinbek **2000**  
+**Glöckner**, Andreas, Die Musikpflege an der Leipziger Neukirche zur Zeit Johann Sebastian Bachs, Leipzig **1990**  
 **Glöckner**, Andreas: NBA Serie 2 Bd. 5b kritischer Bericht **2004**  
 **Gojowy**, Detlef: Zur Frage der Köthener Trauermusik und der Matthäuspassion, BJ **1965**, 86–134  
 **Gojowy**, Detlef: Kirchenlieder im Umkreis von J.S. Bach,  BJ **1978**, 79-123  
