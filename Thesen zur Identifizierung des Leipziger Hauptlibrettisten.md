@@ -2,7 +2,7 @@
 des „Leipziger“ Hauptlibrettisten  
 Johann Sebastian Bachs  
 Michael Hochgartz (D 48153 Münster)  
-michael@hochgartz.de - 09.10.2021  
+michael@hochgartz.de - 10.10.2021  
 Quelltext und Literaturverzeichnis: https://github.com/michael-hochgartz/lectio-brevior  
 
 Amore et studio elucidandae veritatis haec subscripta disputabuntur (Martin Luther 1517)  
@@ -46,10 +46,9 @@ Ein in Teilen der Fachliteratur (vgl. z.B. Gardiner 2013) unterstellter Erschöp
 
 Im übrigen verursachten Erstellung bzw. Umarbeitung der nachgewiesenen Ersatzkompositionen organisatorisch und intellektuell mindestens identische, emotional vielleicht sogar überdurchschnittliche Unkosten.  
 
-Dass bis heute keine Parallelvertonung aus diesem Textkorpus durch einen anderen Komponisten bekannt geworden ist, lässt sich als Indiz dafür werten, dass das handschriftliche Material Bachs und des Autors Besitz zu Lebzeiten niemals verlassen hat - und auch nicht den der jeweiligen Nachkommen. Es dürfte - wie der sonstige private Briefbestand des Thomaskantors - in der zweiten Hälfte des 18. Jahrhunderts komplett kassiert worden sein. (Vgl. Schulze 2001) Dass Bach mit seinem Vetter Johann Elias zeitweilig einen Privatsekretär beschäftigte, belegt, dass sein nichtamtlicher Schriftverkehr gleichwohl einen erheblichen Umfang besessen haben muss.  
-
+Dass bis heute keine Parallelvertonung aus diesem Textkorpus durch einen anderen Komponisten bekannt geworden ist, lässt sich als Indiz dafür werten, dass das handschriftliche Material Bachs und des Autors Besitz zu Lebzeiten niemals verlassen hat - und auch nicht den der jeweiligen Nachkommen.  
 Da aufgrund dieses Befunds nicht damit zu rechnen ist, dass jemals ein - zwangsläufig nur posthum denkbarer - Sammeldruck des unvollständigen Jahrgangs in Form eines (urheberische Initiativen oder gar verlegerische Investitionen der Erben) erfordernden Buchs auftauchen könnte, das analog zum Fall J.C. Birckmann (vgl. Blanken 2015) eine Attribution anhand textlicher Konkordanzen ermöglichen würde, müssen andere Ansätze zur Identitätsermittlung herangezogen werden.  
-Diese konzentrieren sich auf die Suche nach einem Anfang 1725 verstorbenen lutherischen Theologen mit dichterischer Kompetenz, homiletischer Reputation, hymnologischem Hintergrund und untadelhaftem Lebenswandel - allerdings ohne (anders als Schulze 1998 und die ihm Folgenden) Leipzig als Lebensmittelpunkt zur impliziten conditio sine qua non zu machen.  
+Diese konzentrieren sich auf die Suche nach einem Anfang 1725 verstorbenen lutherischen Theologen mit dichterischer Kompetenz, homiletischer Reputation, hymnologischem Hintergrund und untadelhaftem Lebenswandel - allerdings ohne (anders als Schulze 1998 und die ihm Folgenden) Leipzig als Lebensmittelpunkt zur impliziten Conditio sine qua non zu machen.  
 
 
 4. Auch aus der Tatsache, dass der Autor des (ansonsten idealtypisch - inklusive überzähliger Termine - angelegten) Choralkantatenjahrgangs auf die Lieferung von Texten für den Ratswechsel und für das Reformationsfest 1724 verzichtete, lässt sich ableiten, dass sein Wirkungsort eher außerhalb Leipzigs bzw. außerhalb Kursachsens zu suchen ist.  
@@ -186,9 +185,9 @@ Es ist - aufgrund von Parallelbeispielen (also ähnlich eindeutiger, buchstabeng
 
 und seines akademischen Lehrers:  
 
-[J]esu [G]ratia [M]oderante bzw. [I]n [G]loriam [M]ediatoris  
+[J]esu [G]ratia [M]oderante bzw. [I]n [G]loriam [M]ediatoris -  
 
-- in hohem Maße wahrscheinlich, dass Bach bei der Verwendung dieser Formel Vorgefundenes aus dessen Manuskripten zitierte. Zu erwähnen ist ferner, dass das auffälligste dieser Beispiele, der Druck der Magisterdisputation des Autors, mit [J]esu [C]hristo [J]uvante“ beginnt und mit dem auch von Bach verwendeten [S]oli [D]eo [G]loria endet.  
+in hohem Maße wahrscheinlich, dass Bach bei der Verwendung dieser Formel Vorgefundenes aus dessen Manuskripten zitierte. Zu erwähnen ist ferner, dass das auffälligste dieser Beispiele, der Druck der Magisterdisputation des Autors, mit [J]esu [C]hristo [J]uvante“ beginnt und mit dem auch von Bach verwendeten [S]oli [D]eo [G]loria endet.  
 
 Es ist eine Überlegung wert, ob nicht „J.C.J.“ Vorbild für Bachs seit seiner Mühlhausener Ratswechselkante BWV 71 nachweisbare Formel „J.J.“ darstellen könnte. (Ausnahme: BWV 16 zum Auftakt der Kalenderjahres 1726, wo es heißt: „J.N.J.A.“) In diesem Zusammenhang bleibt zu eruieren, ob überhaupt eine wörtliche Auflösung des Kürzels als „Jesu Juva“ aus der Hand Bachs existiert, dessen Dienst als Kantor 27 Jahre lang mit einer (gegen Honorar abgegebenen) Lehrverpflichtung für Lateinunterricht verbunden war. Andernfalls blieben - neben der alttestamentlichen Variante „Jehova Juva“ die Interpretationen als „Jesu Juvante“ als gleichberechtigte sowie „Jesus Immanuel“ als ebenfalls im Umfeld des Autors belegbare, aber weniger wahrscheinliche Alternativen.  
 
