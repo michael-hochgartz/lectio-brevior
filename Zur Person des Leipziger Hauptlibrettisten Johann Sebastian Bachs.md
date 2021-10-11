@@ -3,7 +3,7 @@
 Entwurf für ein Vortragsmanuskript (Es gilt das gesprochene Wort)  
 
 Michael Hochgartz (D 48153 Münster)  
-michael@hochgartz.de - 09.10.2021  
+michael@hochgartz.de - 11.10.2021  
 Quelltext und Literaturverzeichnis: https://github.com/michael-hochgartz/lectio-brevior  
 
 
@@ -696,7 +696,7 @@ Mit dieser Stellungnahme rekurriert er zugleich - in einem für ihn sicher ungew
 
 „… so siehet eine Cantata nicht anders aus, als ein Stück aus einer Opera, von Stylo Recitativo und Arien zusammengesetzt. Wer nun [wie ich: Neumeister] weiß, was zu beiden erfordert wird, dem wird solches Genus carminum zur Ausarbeitung nicht schwer fallen.“  
 
-Damit thematisierte Jauch den Kern der Aufgabe, vor der der Autor der Texte für Johann Sebastian Bachs Choralkantaten bald darauf, anlässlich des vom ehemaligen Johanneumsschüler, Leipziger Theologiestudenten und nunmehrigen Hannoverschen Kreuzkirchen-Pfarrers Peter Busch öffentlich thematisierten,  „nicht unfüglich zu nennenden … Annulus Jubilaeus“ 1724/25 stehen sollte: Die Übertragung von Texten Luthers und weiterer kanonisierter Liederdichter „in eine bestimmte musizierbare Gestalt“ - und das konnte Anfang der 1720er Jahre nur bedeuten: in eine regulierte Abfolge von unverändert zitierten Rahmenstrophen und regelgerechten - besser gesagt: regelüberwindenden - Umwandlungen in zeitgemäß formulierte Rezitative und Arien.  
+Damit thematisierte Jauch den Kern der Aufgabe, vor der der Autor der Texte für Johann Sebastian Bachs Choralkantaten bald darauf, anlässlich des vom ehemaligen Johanneumsschüler, Leipziger Theologiestudenten und nunmehrigen Hannoverschen Kreuzkirchen-Pfarrers Peter Busch öffentlich thematisierten,  „nicht unfüglich zu nennenden … Annulus Jubilaeus“ 1724/25 stehen sollte: Die Übertragung von Texten Luthers und weiterer kanonisierter Liederdichter „in eine bestimmte musizierbare Gestalt“ [Genus carminum] - und das konnte Anfang der 1720er Jahre nur bedeuten: in eine regulierte Abfolge von unverändert zitierten Rahmenstrophen und regelgerechten - besser gesagt: regelüberwindenden - Umwandlungen in zeitgemäß formulierte Rezitative und Arien.  
 Somit wählte Jauch einen alternativen Ansatz: Während Danielis Luthers frei fließende Psalmübersetzungen - nicht ohne permanente metrische Verlegenheitslösungen - in strenge Reimschemata mit jeweils identischer Zeilenzahl zu pressen versuchte, ging sein poetologischer Mentor Jauch 1724 den umgekehrten Weg, nämlich den der Umwandlung von Strophenliedern in moderne, in den Rezitativen kaum noch regelgebundene Textformen, die freilich für gänzlich andere, erheblich anspruchsvollere musikalische Gestaltungsweisen bestimmt sein sollten.
 
 Da der Weiterentwicklung der von Johann Sebastian Bach in seinen Weimarer Jahren - auf der Basis von Texten des ihm amtlich verordneten Salomon Franck - zu einer frühen Blüte geführten, madrigalesken Kantatentextform mit einer schematisch abgewickelten Verwendung von Material (wie z.B. bei Danielis oder den Kantaten „per omnes versus“) nicht gedient war, stand der Autor vor einer völlig neuen theologisch / poetologischen Herausforderung - die er im genannten Vorwort (vorausschauend oder in statu nascendi?) zwischen den Zeilen reflektierte.  
@@ -749,7 +749,7 @@ Der Verfasser erinnert sich gerne daran, dieses Ereignis am Karfreitag 2018 unte
 
 Während der Beisetzung Jauchs am 6. Februar 1725 erklangen auch die auf den heutigen Nominalton h° lautende Apostelglocke (gegossen von Ghert Klinghe 1436) und die auf cis’ lautende Sonntagsglocke. Für den Umguß der Sonntagsglocke durch den Lüneburger Gießer Johann Zieger hatte der Superintendent Jauch 1718 eine dreistrophige, sprachlich für jene Zeit durchaus modern wirkende Glockenzier verfasst, die in ihrem Mittelteil die Hörer zum Gedenken an die eigene Todesstunde aufruft. (Vgl. den - nur in der Originalstimme, nicht in der Partitur als „pizzikato“ bezeichneten - komplementärrythmisch tiefokatvierenden Instrumentalbass zu Beginn von BWV 127/3 und die ebenfalls onomatopoetisch abgebildeten „Sterbeglocken“ im Mittelteil dieser Arie.)  
 
-Der heute noch les- und tastbare Text für die Sonntagsglocke von St. Johannis, verfasst von „M.I.C.J.“ - [M]agister [I]ohann [C]hristoph [J]auch - lautet:  
+Der heute noch les- und tastbare Text für die Sonntagsglocke von St. Johannis, verfasst von „M.I.C.J.“ - [M]agister [I]ohann [C]hristoph [J]auch - lautet in einer zeitgenössischen Umschrift:  
 
 Ich läute als die Sonntags-Glocke  
 Zur Kirchen in das GOttes-Hauß,  
@@ -770,7 +770,7 @@ Nicht unerwähnt soll an dieser Stelle die Beobachtung bleiben, dass es sich bei
 
 Zum einzigartigen musikalischen Selbstzitat in BWV 127/4 aus BWV 244b/27b vgl. in erster Näherung Smend (1966/VI), Whittaker (II/1959), Chafe (1982) und Gardiner (2013) - sowie das beredte Schweigen fast aller übrigen Kommentatoren.  
 
-Der Text der von Georg Böhm (laut Aktenlage allein zuständig für derartige Aufträge in St. Johannis) vertonten Trauerkantate zur Beisetzung Jauchs am Dienstag, 6.2.1725, stammte von Michael Christoph Brandenburg (1694-1766), einem Schüler des Johanneums, der von Jauch nach einer Brandkatastrophe in seiner Geburtsstadt Boizenburg (Oktober 1709) in seine Familie aufgenommen und in seinen literarischen Ambitionen nachhaltig gefördert worden war, wie der Zwanzigjährige anlässlich der Amtseinführung des Superintendenten am 23.2.1714 in wohlgeformten Alexandrinern drucken ließ:  
+Der Text der von Georg Böhm (laut Aktenlage allein zuständig für derartige Aufträge in St. Johannis) vertonten Trauerkantate zur Beisetzung Jauchs am Dienstag, 6.2.1725, stammte von Michael Christoph Brandenburg (1694-1766) - auch er ein Schüler des Johanneums - der von Jauch nach einer Brandkatastrophe in seiner Geburtsstadt Boizenburg (Oktober 1709) in seine Familie aufgenommen und in seinen literarischen Ambitionen nachhaltig gefördert worden war, wie der Zwanzigjährige anlässlich der Amtseinführung des Superintendenten am 23.2.1714 einigen um Wohlgeformtheit bemühten Alexandrinern drucken ließ:  
 
 Du hast es mir erlaubt mit Nutzen anzuhören  
 Worin ein Musen-Sohn sein Glücke finden kan  
