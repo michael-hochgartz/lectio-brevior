@@ -9,5 +9,5 @@ Aufbauend auf langjährigen Quellenstudien werden sodann [Leben und Werk](https:
 
 Die als separates Repositorium dokumentierte vollständige Lesart: https://github.com/michael-hochgartz/lectio-difficilior ist hinsichtlich der beiden Haupttexte inhaltsgleich, die Commit-Historie reicht aber bis 2015 zurück und bleibt vorerst privat. Es ist geplant, sie inklusive aller Quellen- und Literaturnachweise als NFT (Non-Fungible Token) dem Markt zur Verfügung zu stellen.  
 
-„Es war nicht anders zu erwarten, als dass ein in seinen Ausdrucksformen unserem Zeitgeschmacke zu fern liegendes und dazu in seiner Ausführung so schwieriges Werk zuerst lau oder gar mit Abneigung aufgenommen wurde“. 
-(Wilhelm Christian Junghans, Rektor der Latinschule Johanneum, in seiner Rezension der ersten Wiederaufführung von J.S. Bach Matthäus-Passion BWV 244 am 10. Mai 1855 in der Lüneburger Johannis-Kirche über die Wirkung auf die - nicht nur damals? - mit dem Zeitgeschmack überforderten Zuhörer.)  
+„Es war nicht anders zu erwarten, als dass ein in seinen Ausdrucksformen unserem Zeitgeschmacke zu fern liegendes und dazu in seiner Aufführung so schwieriges Werk zuerst lau oder gar mit Abneigung aufgenommen wurde“. 
+(Wilhelm Christian Junghans, Rektor der Lateinschule Johanneum, in seiner Rezension der ersten Wiederaufführung von J.S. Bach Matthäus-Passion BWV 244 am 10. Mai 1855 in der Lüneburger Johannis-Kirche über die Wirkung auf die - nicht nur damals? - mit dem Zeitgeschmack überforderten Zuhörer.)  
