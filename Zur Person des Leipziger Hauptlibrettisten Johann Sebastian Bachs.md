@@ -436,7 +436,7 @@ Johann Christoph Jauchs Vorliebe für selbstbezügliche Buchstabenspielereien ze
 
 [J]esu [C]hristo [J]uvante  
 
-und ferner im Textdruck einer Trauermusik für seinen Amtsbruder an St. Nicolai, Friedrich Heinrich Oldecop (1709):  
+und ferner im Textdruck einer Trauermusik für seinen Amtsbruder an St. Nicolai, Friedrich Heinrich Oldecop (1709), denn:  
 
 Einer der  
 [M]it [I]Hm [A U C H] [P]flegte [zu] [L]ehren.  
@@ -444,7 +444,7 @@ Einer der
 lässt sich lesen als:   
 [M]agister [I] [AUCH] [P]rediger [zu] [L]üneburg.  
 
-Sie übertrug sich auf seinen Sohn Ludolph Friedrich, der 1716 (unter mehr als beiläufiger Erwähnung seines Elternhauses :„Venerandi Domini Parentes“) in einem Schulprogramm am Johanneum zu Ehren des neuerdings im fernen London residierenden Landesherrn König Georg I. dessen Namen in der drucktechnisch (im Nachbarhaus, bei Cornelius Johann von Stern) plakativ gestalteten Form eines klassischen Akrostichons lobpreiste:  
+Sie übertrug sich auf seinen Sohn Ludolph Friedrich, der 1716 (unter mehr als beiläufiger Erwähnung seines Elternhauses :„Venerandi Domini Parentes“) in einem Schulprogramm am Johanneum zu Ehren des neuerdings im fernen London residierenden Landesherrn König Georg I. dessen Namen in der typographisch  (im Nachbarhaus, bei Cornelius Johann von Stern) plakativ gestalteten Form eines klassischen Akrostichons lobpreiste:  
 
 [G]loriosus  
 [E]rectus  
@@ -455,11 +455,11 @@ Sie übertrug sich auf seinen Sohn Ludolph Friedrich, der 1716 (unter mehr als b
 [V]erax  
 [S]apiens  
 
-Den Brückenschlag zu den außergewöhnlichen Zitaten des „Votum Justinianum“ im Kopftitel der Choralkantate BWV 20 und auf dem Umschlag des Überlieferungsträgers der Frühfassung der Matthäuspassion BWV 244b bildet die zwischen 1705 und 1715 datierte Abschrift einer Michaelisfest-Kantate „di M.B.“ in der Sammlung Bokemeyer auf den Text „Satanas und sein Getümmel“, deren Kopftitel diese sieben Buchstaben anführt, die - anders gereiht und auch ohne das „Amen“- eine Art vorangestelltes Kolophon ergeben:  
+Den Brückenschlag zu den außergewöhnlichen Zitaten des „Votum Justinianum“ im Kopftitel der Choralkantate BWV 20 und auf dem Umschlag des Überlieferungsträgers der Frühfassung der Matthäuspassion BWV 244b bildet die zwischen 1705 und 1715 datierte Abschrift einer Michaelisfest-Kantate „di M.B.“ in der Sammlung Bokemeyer auf den Text „Satanas und sein Getümmel“, deren Kopftitel diese sieben Buchstaben anführt, die - anders gereiht (und notfalls auch ohne das „Amen“) - eine Art vorangestelltes Kolophon ergeben:  
 
 [I]n [N]omine [D]omini [N]ostri [J]esu [C]hristi [A]men  
 
-[N]on [D]elatur [N]omen [A]uctoris [J]ohann [C]hristoph [I]auch  
+[N]on [D]eleatur [N]omen [A]uctoris [J]o. [C]hrist. [I]auch  
 
 und die von Kümerling (1963; 1970) mit dreieinhalb guten Gründen (Stilkritik; Schreiber; Wasserzeichen; buchbinderischer Befund) nicht mehr (wie von Stein 1937/39) [M]onsieur [B]ruhns, sondern [M]onsieur [B]öhm zugeschrieben wurde. Wer immer diesen (nirgendwo sonst nachweisbaren) Text geschaffen hat - er muss in einem besonderen Vertrauensverhältnis zu Böhm gestanden oder auch nur in dessen Region gelebt haben. (Der Sammelband D-B Mus.ms. 30101 enthält ausschließlich drei norddeutsche Komponisten, deren Nachnamen mit „B“ beginnen: Bruhns, Böhm, Brunckhorst.)  
 Der Text dieser Kantate bleibt in stilometrischer Hinsicht mit den gesicherten bzw. zugeschriebenen Dichtungen Jauchs unter Berücksichtigung der mutmaßlichen Entstehungszeit abzugleichen.  
@@ -490,7 +490,7 @@ Ein Knecht darf seinen König schlagen.
 
 und als dessen Fortschreibung eine 1724 unter halbwegs geordneten Umständen auf Leipziger Befindlichkeiten zugeschnittene (und somit zwangsläufig rebiblifizierte) Brockes-Adaption in Gestalt von BWV 245 angesehen werden könnte - und als weiterer Entwicklungsschritt schließlich die kunstvoll poetisierte Schilderung der Naturgewalten in BWV 244b.  
 
-Die Zuweisungen der mit BWV 245 wiederholt in Verbindung gebrachten Pseudo-Händel-Johannespassion (HWV Anh. B 202, auf einen Text des Hamburger Juristen und Operndichters Christian Heinrich Postel), deren künstlerischer Wert „alles andere als unbestreitbar ist“, die grobstrukturell betrachtet streng genommen ein Fragment darstellt und die vielleicht ursprünglich (was keineswegs ohne Beispiel ist) in Tabulatur notiert war, an die norddeutschen Klein- bzw. Kleinstmeister Böhm (vgl. Kümmerling 1986: “satztechnische Nonchalance“) bzw. Ritter (vgl. Marx 1987) sowie die unrettbar erscheinenden Rettungsversuche zugunsten des 19jährigen Georg Friedrich Händel (vgl. zuletzt Kleinertz 2003) sollten noch einmal zur Diskussion gestellt werden, sobald alle relevanten Teile der Sammlung Bokemeyer für Schriftvergleiche digitalisiert worden sind - und natürlich das corpus delicti selbst (D-B Mus.ms. 9001).
+Die Zuweisungen der mit BWV 245 wiederholt in Verbindung gebrachten Pseudo-Händel-Johannespassion (HWV Anh. B 202, auf einen Text des Hamburger Juristen und Operndichters Christian Heinrich Postel), deren künstlerischer Wert „alles andere als unbestreitbar ist“, die grobstrukturell betrachtet streng genommen ein Fragment darstellt und die vielleicht ursprünglich (was keineswegs ohne Beispiel ist) in Tabulatur notiert war, an die norddeutschen Klein- bzw. Kleinstmeister Böhm (vgl. Kümmerling 1986: “satztechnische Nonchalance“) bzw. Ritter (vgl. Marx 1987) sowie die unrettbar erscheinenden Rettungsversuche zugunsten des 19jährigen Georg Friedrich Händel (vgl. zuletzt Kleinertz 2003) könnten noch einmal zur Diskussion gestellt werden, sobald alle relevanten Teile der Sammlung Bokemeyer für Schriftvergleiche digitalisiert worden sind - und natürlich das corpus delicti selbst (D-B Mus.ms. 9001).
 
 Die Namen Christian Flor und Georg Flor könnten bei einer nochmaligen Neubewertung der Urheberdiskussion bzgl. HWV Anh. B 202 zumindest gestreift werden, auch vor dem Hintergrund der vorsichtigen Vermutung, dass hier ein Werk vorliegt, das notationstechnisch nicht aus einem Guss stammt. Freilich wäre eine stilgeschichtliche Lücke von mindestens einem Jahrzehnt zu erklären.  
 
@@ -499,9 +499,9 @@ Zum Stichwort „Gewissens-Hahn“ in Böhms Passion ist anzumerken: Die Spur di
 Wird mir gleich der Sünden-Hahn  
 Im Gewissen krehen müssen  
 
-Auf den ersten Blick hat sich (spätestens 1724) der Textbeiträger für Bachs Johannespassion derselben Vorlage („Der grünen Jugend Nothwendige Gedancken“) bedient wie 13 Jahre zuvor der Urheber des Librettos für Georg Böhms Lukaspassion.  
+Auf den ersten Blick hat sich somit (spätestens 1724) der Textbeiträger für Bachs Johannespassion derselben Vorlage („Der grünen Jugend Nothwendige Gedancken“) bedient wie 13 Jahre zuvor der Urheber des Librettos für Georg Böhms Lukaspassion.  
 
-Weise griff nun  seinerseits auf eine 1666 publizierte Formulierung aus Heinrich Müllers „Geistlichen Erquickstunden“ zurück. Dieses Werk ist sowohl in Bachs nachgelassener Büchersammlung (Wilhelmi Nr. 42) nachweisbar, als auch in Form einer ohne Ortsangabe genannten Auflage von 1720, die als Nr. 1288 in Jauchs Bibliothekskatalog verzeichnet ist. (Vielleicht ein Parallelexemplar zu dem ebenfalls 1720 und ohne Verlagsort katalogisierten Exemplar 0001/8 Asc. 2330 der LMU München?)  
+Weise griff nun seinerseits auf eine 1666 publizierte Formulierung aus Heinrich Müllers „Geistlichen Erquickstunden“ zurück. Dieses Werk ist sowohl in Bachs nachgelassener Büchersammlung (Wilhelmi Nr. 42) nachweisbar, als auch in Form einer ohne Ortsangabe genannten Auflage von 1720, die als Nr. 1288 in Jauchs Bibliothekskatalog verzeichnet ist. (Vielleicht ein Parallelexemplar zu dem ebenfalls 1720 und ohne Verlagsort katalogisierten Exemplar 0001/8 Asc. 2330 der LMU München?)  
 Widmungsträgerin der ersten Gesamtausgabe dieser Müllerschen Texte war auf jeden Fall niemand anderes als die unmittelbare Dienstherrin von Jauchs Mutter, die Herzogin Magdalena Sybilla von Mecklenburg-Güstrow. (Ein wohl um 1700 gedrucktes Exemplar einer der bis ins 20. Jahrhundert reichenden, auch auf Ungarisch und Norwegisch erschienenen Auflagen im Eigentum des Verfassers.)  
 
 Müller schreibt unter dem Motto „Vom Lohn der Falschheit“:  
