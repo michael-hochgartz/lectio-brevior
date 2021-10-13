@@ -455,7 +455,7 @@ Sie übertrug sich auf seinen Sohn Ludolph Friedrich, der 1716 (unter mehr als b
 [V]erax  
 [S]apiens  
 
-Den Brückenschlag zu den außergewöhnlichen Zitaten des „Votum Justinianum“ im Kopftitel der Choralkantate BWV 20 und auf dem Umschlag des Überlieferungsträgers der Frühfassung der Matthäuspassion BWV 244b bildet die zwischen 1705 und 1715 datierte Abschrift einer Michaelisfest-Kantate „di M.B.“ in der Sammlung Bokemeyer auf den Text „Satanas und sein Getümmel“, deren Kopftitel diese sieben Buchstaben anführt, die - anders gereiht (und notfalls auch ohne das „Amen“) - eine Art vorangestelltes Kolophon ergeben:  
+Den Brückenschlag zu den außergewöhnlichen Zitaten des „Votum Justinianum“ im Kopftitel der Choralkantate BWV 20 und auf dem Umschlag des Überlieferungsträgers der Frühfassung der Matthäuspassion BWV 244b bildet die zwischen 1705 und 1715 datierte Abschrift einer Michaelisfest-Kantate „di M.B.“ in der Sammlung Bokemeyer auf den Text „Satanas und sein Getümmel“, deren Kopftitel diese sieben Buchstaben anführt, die - anders gereiht (und ggf. auch ohne das „Amen“) - eine Art vorgezogenes Kolophon ergeben:  
 
 [I]n [N]omine [D]omini [N]ostri [J]esu [C]hristi [A]men  
 
