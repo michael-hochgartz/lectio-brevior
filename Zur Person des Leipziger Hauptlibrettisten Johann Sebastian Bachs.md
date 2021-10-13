@@ -455,11 +455,11 @@ Sie übertrug sich auf seinen Sohn Ludolph Friedrich, der 1716 (unter mehr als b
 [V]erax  
 [S]apiens  
 
-Den Brückenschlag zu den außergewöhnlichen Zitaten des „Votum Justinianum“ im Kopftitel der Choralkantate BWV 20 und auf dem Umschlag des Überlieferungsträgers der Frühfassung der Matthäuspassion BWV 244b bildet die zwischen 1705 und 1715 datierte Abschrift einer Michaelisfest-Kantate „di M.B.“ in der Sammlung Bokemeyer auf den Text „Satanas und sein Getümmel“, deren Kopftitel diese sieben Buchstaben anführt, die - anders gereiht (und ggf. auch ohne das „Amen“) - eine Art vorgezogenes Kolophon ergeben:  
+Den Brückenschlag zu den außergewöhnlichen Zitaten des „Votum Justinianum“ im Kopftitel der Choralkantate BWV 20 und auf dem Umschlag des Überlieferungsträgers der Frühfassung der Matthäuspassion BWV 244b bildet die zwischen 1705 und 1715 datierte Abschrift einer Michaelisfest-Kantate „di M.B.“ in der Sammlung Bokemeyer auf den Text „Satanas und sein Getümmel“, deren Kopftitel diese siebenfältige Buchstabenfolge anführt, die - anders gereiht (und ggf. auch ohne das „Amen“) - eine Art vorgezogenes Kolophon ergibt:  
 
 [I]n [N]omine [D]omini [N]ostri [J]esu [C]hristi [A]men  
 
-[N]on [D]eleatur [N]omen [A]uctoris [J]o. [C]hrist. [I]auch  
+[N]on [D]eleatur [N]omen [A]uct. [J]o. [C]hrist. [I]auch  
 
 und die von Kümerling (1963; 1970) mit dreieinhalb guten Gründen (Stilkritik; Schreiber; Wasserzeichen; buchbinderischer Befund) nicht mehr (wie von Stein 1937/39) [M]onsieur [B]ruhns, sondern [M]onsieur [B]öhm zugeschrieben wurde. Wer immer diesen (nirgendwo sonst nachweisbaren) Text geschaffen hat - er muss in einem besonderen Vertrauensverhältnis zu Böhm gestanden oder auch nur in dessen Region gelebt haben. (Der Sammelband D-B Mus.ms. 30101 enthält ausschließlich drei norddeutsche Komponisten, deren Nachnamen mit „B“ beginnen: Bruhns, Böhm, Brunckhorst.)  
 Der Text dieser Kantate bleibt in stilometrischer Hinsicht mit den gesicherten bzw. zugeschriebenen Dichtungen Jauchs unter Berücksichtigung der mutmaßlichen Entstehungszeit abzugleichen.  
