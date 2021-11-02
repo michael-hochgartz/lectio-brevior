@@ -3,7 +3,7 @@
 Entwurf für ein Vortragsmanuskript (Es gilt das gesprochene Wort)  
 
 Michael Hochgartz (D 48153 Münster)  
-michael@hochgartz.de - 13.10.2021  
+michael@hochgartz.de - 02.11.2021  
 Quelltext und Literaturverzeichnis: https://github.com/michael-hochgartz/lectio-brevior  
 
 
@@ -53,7 +53,7 @@ O glückliche Chymie, die solchen Baum gebohren
 Der Hesperinnen Ast hat seinen Ruhm verlohren.  
 
 Ob Jauchs „herzbewegliche Worte“, von denen 1712 im Zusammenhang mit dem in eine Schieflage geratenen Großprojekt des aufstrebenden Lüneburger Verlegers Johann Georg Lipper berichtet wird, auf eine Wertschätzung auch der Inhalte dieses ambitionierten Prachtwerks schließen lassen, bleibt anhand der Ratsakten näher zu untersuchen. Lipper hatte versucht, mit Hilfe hoher, wiederholt aufgestockter öffentlicher Kredite und in Konkurrenz zu seinem ehemaligen Dienstherrn Johann von Stern, eine erweiterte, mit Kupferstichen reich bebilderte Neuauflage der „Mathesis Mosaica“ (alias „Mathesis Biblica“) des Kieler Universalgelehrten Samuel Reyher zu monetarisieren. 18 halbfertig gedruckte Ballen (zu je 5000 Druckbogen) wurden in einem „Gewölbe“ mit Beschlag belegt, zu dem Jauch die Schlüssel treuhänderisch verwahrte. Im Katalog seiner nachgelassenen Bibliothek findet sich später unter der Nr. 209 ein Exemplar des ersten (und offenbar einzig erschienenen) Bandes der 1714 schlussendlich vorgelegten Ausgabe.  
-Geistesgeschichtlich bewegte Reyher sich in einer Grauzone, in der biblisch beschriebene Naturphänomene (wie z.B. „Von dem Regenbogen …) mit zeitgenössischen, also nicht immer heutigen Ansprüchen genügenden, damals aber durchaus als wissenschaftlich empfundenen Erklärweisen vermengt werden (… und den durch Kunst [also wohl durch ein Prisma] angestellten Regenbogen-Farben“). Reyhers lebenslanges methodisches Manko bestand auch bei diesem Werk in seinem Hang zur kaleidoskopartigen Facettierung von fragmentarischen Einzelthemen, und Lipper bot als entlaufener Buchhalter keineswegs eine Gewähr für den unternehmerischen Erfolg eines Titels, der wegen der zahlreichen hinzugekauften Kupferstiche einen hohen Kapitaleinsatz erforderte. (Vgl. Dumrese/Schilling 1956 sowie ADB 28/1889)  
+Geistesgeschichtlich bewegte Reyher sich in einer Grauzone, in der biblisch beschriebene Naturphänomene (wie z.B. „Von dem Regenbogen …) mit zeitgenössischen, also nicht immer heutigen Ansprüchen genügenden, damals aber durchaus als wissenschaftlich empfundenen Erklärweisen vermengt werden (… und den durch Kunst [also wohl durch ein Prisma] angestellten Regenbogen-Farben“). Reyhers lebenslanges methodisches Manko bestand auch bei diesem Werk (trotz sinnvoller Großgliederung) in seinem Hang zur kaleidoskopartigen Facettierung von fragmentarischen Einzelaspekten, und Lipper bot als entlaufener Buchhalter keineswegs eine Gewähr für den unternehmerischen Erfolg eines Titels, der wegen der zahlreichen hinzugekauften Kupferstiche einen hohen Kapitaleinsatz erforderte. (Vgl. Dumrese/Schilling 1956 sowie ADB 28/1889)  
 
 
 Da eine, vielleicht geplante, aber nie zustande gekommene, (vgl. Stieber 1745; Willgeroth 1924) Bestallung als einer von mehreren Hofpredigern in Güstrow durch das seit dem Tod des Erbprinzen Karl 1688 an den Pocken erwartbare, im Oktober 1695 mit dem Dahinscheiden des letzten Herzogs Adolf eingetretene Erlöschen der dynastischen Linie gegenstandslos geworden war, wurde Jauch „nach gehaltener Abschieds-Predigt in der Schlosskirche gnädigst dimittiret“ und im Verlauf eines offenbar wohlwollend forcierten Magisterexamens auf Initiative des nicht ganz zufällig in Rostock weilenden Lüneburger Bürgermeisters und Proto-Consuls Ludolph von Stöterogge („ein grosser Gönner der Gelehrten“) als Diakonus (Inhaber der 2. Pfarrstelle) an die dortige Lambertikirche berufen - unter aktenkundigen Begleitumständen, die auf strukturell bedingte, lebenslange Misshelligkeiten im Verhältnis zu einigen seiner Kollegen vorauswiesen.  
@@ -100,7 +100,7 @@ Die Tradition regelmäßiger Aufführungen am Karfreitag reichte übrigens so la
 
 1709 wechselte Jauch als 1. Prediger an die Nikolaikirche und 1714, bedingt durch seine Wahl zum Superintendenten, nach St. Johannis. Damit wurde er auch zum „Inspector“ jenes Johanneums ernannt, dessen Chorus Symphoniacus während der beiden Kirchenjahre (1. Advent 1720 bis 1. Advent 1722) für die Aufführung von Vertonungen zweier, gemeinsam im Druck veröffentlichter Jahrgänge von Texten zur Musik zuständig war, die auf Vorlagen Erdmann Neumeisters und weiterer, noch zu identifizierender Autoren beruhten.  
 
-Aufgeführt wurden nach konstantem, aber nicht komplettem Kalendarium an den drei städtischen „Haupt“-Kirchen - mit klarer Fokussierung auf St. Johannis - ab 1. Advent 1721 auch wesentliche Teile des ersten „Concerten-Jahrgangs“ von Georg Philipp Telemann, der 1716/17 auf Texte Neumeisters in Frankfurt komponiert worden war.  
+Aufgeführt wurden nach konstantem, aber nicht komplettem Kalendarium an den drei städtischen „Haupt“-Kirchen - mit klarer Fokussierung auf St. Johannis - ab 1. Advent 1721 auch wesentliche Teile des ersten „Concerten-Jahrgangs“ von Georg Philipp Telemann, der 1716/17 auf Texte Neumeisters, (ab 1725 ergänzt durch G. Simonis, Telemann selbst und andere) in Frankfurt komponiert worden war.  
 
 Mehr als 40 dieser weitgehend durch RISM-Konkordanzen dokumentierbaren Kompositionen erklangen unter Leitung des - als finanziellem Profiteur fungierenden, als Prügelpädagoge unrühmlich aktenkundig gewordenen, als Komponist laut zeitgenössischen Urteilen nur mäßig erfolgreichen - Kantors Bernhard Christian Bohmsen in jenen Gottesdiensten in St. Johannis, in denen Jauch um 14 Uhr die mittägliche Hauptredigt hielt und Georg Böhm die Orgel spielte. Die Reihe endete - textlich und musikalisch bemerkenswert bescheiden - am 25. Sonntag nach Trinitatis 1722. Was darauf folgte, ist nicht bekannt.  
 
@@ -165,7 +165,7 @@ Ausführlichste und - trotz chronologischer Unschärfen - weitgehend zuverlässi
 
 Diese müssen derart dramatisch gewesen sein, dass man im Januar 1725 Jauchs zwanzigjährigen Sohn Tobias Christoph brieflich („bald die Post“) zurück in die Heimat beorderte. Der nachmalige Lüneburger Notar war am 14. November des Vorjahres in der Lindenstadt Leipzig, wo er dem zwei Wochen danach eingeschriebenen Nürnberger Studenten und späteren Bachlibrettisten Johann Christoph Birckmann begegnet sein dürfte, und wo er bereits fünf Tage darauf bei der Uraufführung von BWV 26 erstmals eine von Bach komponierte Musik auf einen Text seines Vaters leibhaftig miterlebt haben konnte, und wohin er vielleicht eine neue Lieferung von Kantaten- und Passionstexten aus dessen Schreibstube überbrachte - zum Studium „der edlen Weisheits-Spur“ immatrikuliert worden. (Vgl. Erler 1909). 
 
-In Lüneburg traf Tobias Jauch seinen Vater dann bei der Ankunft am Ende von 300 Kilometern winterlicher Reise über der Erde stehend an und kollabierte psychisch und physisch, wie sich aus seiner - von wem auch immer in durchaus einfühlsam, durchaus geschickt dramatisierter Diktion zum Druck aufbereiteten - Schilderung ergibt. Zu vermuten bleibt, dass mit den „im Flore“ stehenden Künsten auch die Kirchenmusik gemeint war:  
+In Lüneburg traf Tobias Jauch seinen Vater dann bei der Ankunft am Ende von 300 Kilometern winterlicher Rückreise über der Erde stehend an und kollabierte psychisch und physisch, wie sich aus seiner - von wem auch immer in durchaus einfühlsam, durchaus geschickt dramatisierter Diktion zum Druck aufbereiteten - Schilderung ergibt. Zu vermuten bleibt, dass mit den „im Flore“ stehenden Künsten auch die Kirchenmusik gemeint war:  
 
 Wenig Wochen sind es nur  
 Da ich zu den Linden-Höhen  
@@ -218,11 +218,11 @@ Ein Blick in ein medizinisches Lexikon der damaligen Zeit eröffnet wenig Hoffnu
 
 „DEr Steck-Fluß ist ein plötzlicher Zufall / der die Patienten öfters in 12. biß 24. Stunden hinrichten kan / und ihn gar selten über den 3ten Tag leben lässet; Solches aber pfleget nicht sowol hagern / als corpulenten und voll-leibigen Personen zu begegnen / welche starcke / voll-blutige / und in ihren jüngern Jahren an Blut-Flüsse / oder auch ans Schröpffen und Aderlassen gewehnte Personen / in ihrem Alter / und gemeinlich beym trüben Wetter / überfället. Vorher gehet meistentheils Engbrüstigkeit und Husten vor / womit sodann verbunden ist ein heftiger zufluß seroser Feuchtigkeit: darauf pfleget sich Schwindel und Müdigkeit einzustellen / biß sie endliche schleunig erkalten / und auf der Brust ganz voll werden / und mit der grösten Gewalt nur noch ein wenig / und darzu mit starckem Recheln / athmen können; hierauf verlieren sich die Kräffte / dabey man befürchten muß / daß der Patient ersticken werde.“ (Vgl. Deigendesch 1719; Fangerau 2011.)
 
-Zufälligerweise notifiziert der Correspondent nur wenige Tage später (10.2.1725) auch den Tod jener Person, die bislang als mutmaßlicher Urheber der Choralkantatentexte diskutiert wird (vgl. Schulze 1998):  
+Zufälligerweise notifiziert der Correspondent nur wenige Tage später (10.2.1725) auch den Tod jener Person, die bislang als mutmaßlicher Urheber der Choralkantatentexte diskutiert wird (vgl. Schulze 1999):  
 
 „Leipzig, den 2. Februar. Ehegestern hat alhier Hr. Mag. Andreas Stübel, Con-Rector der Schulen zu St. Thomas, dieses Zeitliche gesegnet, und wird derselbe morgen beygesetzet werden. Weil er einige Zeit von seinen Schul-Laboribus als Emeritus oder befreyet gelebet, so hat er seine Zeit und Mühe auf Edirung des Fabrici oder Buchneri Lexici, so er etliche mahl ausgearbeitet, wie auch auf andere Sachen angewendet, da indessen ein anderer seine gewöhnlichen Schul-Labores diese Jahre über verrichtet gehabt.“  
 
-Stübels Teilhabe am Leipziger gottesdienstlichen Leben scheint bis in seine letzten Tage immerhin passiver Natur gewesen zu sein, wie der örtliche Chronist Chistoph Ernst Sicul kolportiert:  
+Stübels Teilhabe am Leipziger gottesdienstlichen Leben scheint bis in seine letzten Tage immerhin passiver Natur gewesen zu sein (er hatte nie ein Predigtamt inne), wie der örtliche Chronist Chistoph Ernst Sicul kolportiert:  
 
 „Endlich wandelte ihm den 28. Jan. dieses 1725 Jahres unterm Gottesdienst in der Pauliner-Kirche ein Fieber an, welches ihn, seines Alters 71 Jahr 6 Wochen und 4 Tage, von der Welt genommen.“  
 
@@ -231,7 +231,7 @@ Die zeitliche Differenz zwischen Spitzmarken und Erscheinungsdaten belegt auch a
 
 Von den drei Datumsangaben (19., 21., 26. Januar), die für Jauchs Todestag genannt werden, kann naturgemäß nur eine korrekt sein. Zwar verhindert der Verlust der Begräbnisregister von St. Johannis eine endgültige Klärung. Aber:  
 
-Der im Deutschen Geschlechterbuch (200/1996) sowie (bis zu einer Korrektur am 2.10.2021) im darauf fußenden Wikipedia-Artikel genannte 26. Januar scheidet aus, da bereits für den 24. Januar in Jauchs Personalakte eine Eingabe des Ministeriums-Seniors Friedrich Georg Koltemann wegen dringlicher Regelung zusätzlicher Predigtdienste überliefert ist, die durch den „unverhofften Todt“ des Superintendenten notwendig geworden waren, der „Denselben aus der Streitenden in die Triumphirende Kirche“ versetzte. Dieses Zitat nach dem spätmittelalterlichen Mönch Alanus ab Insulis („Ecclesia militans“ / „Ecclesia triumphans“) war wohl ein letzter, (mit etwas Wohlwollen misszuverstehender oder als blanker Sarkasmus an die Adressaten gemünzter?) Nachklapp zu den jahrzehntelangen Kontroversen um die Position Jauchs.  
+Der im Deutschen Geschlechterbuch (200/1996) sowie (bis zu einer vom Verfasser veranlassten Korrektur am 2.10.2021) im darauf fußenden Wikipedia-Artikel genannte 26. Januar scheidet aus, da bereits für den 24. Januar in Jauchs Personalakte eine Eingabe des Ministeriums-Seniors Friedrich Georg Koltemann wegen dringlicher Regelung zusätzlicher Predigtdienste überliefert ist, die durch den „unverhofften Todt“ des Superintendenten notwendig geworden waren, der „Denselben aus der Streitenden in die Triumphirende Kirche“ versetzte. Dieses Zitat nach dem spätmittelalterlichen Mönch Alanus ab Insulis („Ecclesia militans“ / „Ecclesia triumphans“) war wohl ein letzter, (mit etwas Wohlwollen misszuverstehender oder als blanker Sarkasmus an die Adressaten gemünzter?) Nachklapp zu den jahrzehntelangen Kontroversen um die Position Jauchs.  
 
 Der zugehörige zeitgenössische Aktendeckel teilt übrigens nur mit (vgl. Reinhardt 1980):  
 
@@ -258,7 +258,7 @@ ein Kampfplatz werden müssen,
 so hilf, damit in dir mein Glaube siegt.  
 O seliges, gewünschtes Ende!  
 
-Individualeschatologische Ahnungen finden sich bereits zwei Wochen zuvor, am 1. Sonntag nach Epiphanias (7.1.1725), in der Kantate BWV 124/3:  
+Individualeschatologische Ahnungen dieser Art finden sich bereits zwei Wochen zuvor, am 1. Sonntag nach Epiphanias (7.1.1725), in der Kantate BWV 124/3:  
 
 Und wenn der harte Todesschlag  
 die Sinnen schwächt, die Glieder rühret,  
@@ -393,7 +393,7 @@ Am 3.11.1718 entschuldigt Jauch sich beim Dresdener Kreuzkirchen-Pfarrer und Sup
 
 „Es ist mir dieser Tage von einem aus der Leipziger Meße [29. Sept.] retournirenden Hamburgischen Kauffmann, ein von Ew. HochEhrw. Magnif. geschriebener Brieff insinuiret, der bereits am 4. Sept. datiret, und nescio quo fato so gar späte erst an mich geliefert. Ich erschreckte mich gewiß recht dabey, da der brieff schon so alt, und gedachte, es würde Ew. Magnif. ein übel concept faßen da ich ein solches geehrtes Schreiben so lange unbeantwortet bey mir liegen ließe. Allein ich kann hoch contestiren, daß ich denselben erwehnter maßen nur vor einigen tagen erhalten habe daher nicht ermangeln wollen, so fort gehorsamst darauff zu antworten.“  
 
-Als weiterer Kandidat für eine temporäre persönliche Beziehung zwischen Lüneburg und Leipzig mag der Jurist und spätere Inspektor der Ritterakademie, Johann Georg Wehrenberg (1702-1780), Sohn von Jauchs vertraulich verbundenem Vorgänger, genannt werden, der 1724 in Leipzig Mitglied der „Montäglichen Großen Predigerkollegs“ und der „Vertrauten Rednergesellschaft“ war. Freilich, ohne dass bislang konkrete briefliche Kontakte gefunden werden konnten. (Vgl. Döring/Menzel/Otto 2015.)  
+Als weiterer Kandidat für eine temporäre persönliche Beziehung zwischen Lüneburg und Leipzig mag der Jurist und spätere Inspektor der Ritterakademie, Johann Georg Wehrenberg (1702-1780), Sohn von Jauchs vertraulich verbundenem Vorgänger, genannt werden, der 1724 in Leipzig Mitglied des „Montäglichen Großen Predigerkollegs“ und der „Vertrauten Rednergesellschaft“ war. Freilich, ohne dass bislang konkrete briefliche Kontakte gefunden werden konnten. (Vgl. Döring/Menzel/Otto 2015.)  
 
 Wie schließlich in diesem Zusammenhang die Tatsache zu bewerten ist, dass C.F. Henrici unter dem Datum des 1.1.1725 ein Gedicht auf die Hochzeit des Sohnes von Jauchs Kollegen, Johann Georg Koltemann (1721-29 an St. Lamberti und St. Nikolai amtierend) verfasste, das er später in seine gedruckte Gedichtsammlung aufnahm, bleibt zu untersuchen. .
 
@@ -429,7 +429,7 @@ Dieses Motto wird fortgeführt in einer zweistrophigen „Air“ für „Cant. s
 
 Die Verteilung der sehr knappen, als solche nur durch die Beischriften erkennbaren Rezitative auf die Vokalpartien in dialogischer Form legt schließlich nahe, dass die praktische Ausführung von solistischen musikalischen Dilettanten im privaten Umfeld einer - für Wiederverheiratungen (z.B. auch derjenigen J.S. Bachs) seinerzeit oft bezeugten - äußerlich frugalen Haustrauung erfolgen sollte - und somit im idealen Experimentierfeld für neue poetische und musikalische Gestaltungsformen.  
 
-Nicht unerwähnt soll in diesem Zusammenhang die Tatsache bleiben, dass Johann Andreas Stübel - der bislang als Autor der Choralkantatentexte diskutierte Leipziger Pädagoge - am 12.5.1694 (und somit nur einen Monat vor Jauchs Rostocker Arien-Aufführung und bald nach dessen Besuch in Leipzig) ein Leichengedicht auf Anna Kunigunda Carpzov drucken ließ, dessen Anfangsbuchstaben - zeilenweise untereinander gelesen - den Namen der Verstorbenen abbilden. - nicht ohne auf diesen Umstand mit gewissem Stolz hinzuweisen.  
+Nicht unerwähnt soll in diesem Zusammenhang die Tatsache bleiben, dass Johann Andreas Stübel - der bislang als Autor der Choralkantatentexte diskutierte Leipziger Pädagoge - am 12.5.1694 (und somit nur einen Monat vor Jauchs Rostocker Arien-Aufführung und bald nach dessen Besuch in Leipzig) ein Leichengedicht auf Anna Kunigunda Carpzov drucken ließ, dessen Anfangsbuchstaben - zeilenweise untereinander gelesen - den Namen der Verstorbenen abbilden - nicht ohne auf diesen Umstand mit gewissem Stolz hinzuweisen.  
 Die beiden Texte Stübels und Jauchs bieten im übrigen die willkommene Möglichkeit, die poetische (und das bedeutet zu diesem Zeitpunkt noch auch: poetologische) Kompetenz ihrer Urheber anhand gleichzeitig entstandener Beispiele zu beurteilen, wobei freilich 15 Jahre Unterschied im Lebensalter in Rechnung gestellt werden müssen.  
 
 Johann Christoph Jauchs Vorliebe für selbstbezügliche Buchstabenspielereien zeigt sich bereits im Kopf des Titelblatts seiner Rostocker Magisterdisputation aus dem Jahr 1695:  
@@ -441,7 +441,8 @@ und ferner im Textdruck einer Trauermusik für seinen Amtsbruder an St. Nicolai,
 Einer der  
 [M]it [I]Hm [A U C H] [P]flegte [zu] [L]ehren.  
 
-lässt sich lesen als:   
+lässt sich lesen als:  
+
 [M]agister [I] [AUCH] [P]rediger [zu] [L]üneburg.  
 
 Sie übertrug sich auf seinen Sohn Ludolph Friedrich, der 1716 (unter mehr als beiläufiger Erwähnung seines Elternhauses :„Venerandi Domini Parentes“) in einem Schulprogramm am Johanneum zu Ehren des neuerdings im fernen London residierenden Landesherrn König Georg I. dessen Namen in der typographisch  (im Nachbarhaus, bei Cornelius Johann von Stern) plakativ gestalteten Form eines klassischen Akrostichons lobpreiste:  
@@ -455,23 +456,23 @@ Sie übertrug sich auf seinen Sohn Ludolph Friedrich, der 1716 (unter mehr als b
 [V]erax  
 [S]apiens  
 
-Den Brückenschlag zu den außergewöhnlichen Zitaten des „Votum Justinianum“ im Kopftitel der Choralkantate BWV 20 und auf dem Umschlag des Überlieferungsträgers der Frühfassung der Matthäuspassion BWV 244b bildet die zwischen 1705 und 1715 datierte Abschrift einer Michaelisfest-Kantate „di M.B.“ in der Sammlung Bokemeyer auf den Text „Satanas und sein Getümmel“, deren Kopftitel diese siebenfältige Buchstabenfolge anführt,
+Den Brückenschlag zu den außergewöhnlichen Zitaten des „Votum Justinianum“ J.N.D.N.J.C. im Kopftitel der Choralkantate BWV 20 und auf dem Umschlag des Überlieferungsträgers der Frühfassung der Matthäuspassion BWV 244b bildet die zwischen 1705 und 1715 datierte Abschrift einer Michaelisfest-Kantate „di M.B.“ in der Sammlung Bokemeyer auf den Text „Satanas und sein Getümmel“, deren Titel diese Buchstabenfolge anführt:
 
 [I]n [N]omine [D]omini [N]ostri [J]esu [C]hristi [A]men  
 
-die - anders gereiht (und ggf. auch ohne das „Amen“) - eine Art vorgezogenes Kolophon ergibt,  
+die - anders gereiht (und ggf. auch ohne das „Amen“) - eine Art vorangestelltes Kolophon ergibt:  
 
 [N]on [D]eleatur [N]omen [A]uct. [J]o. [C]hrist. [I]auch  
 
-und die von Kümerling (1963; 1970) mit dreieinhalb guten Gründen (Stilkritik; Schreiber; Wasserzeichen; buchbinderischer Befund) nicht mehr (wie von Stein 1937/39) [M]onsieur [B]ruhns, sondern [M]onsieur [B]öhm zugeschrieben wurde. Wer immer diesen (nirgendwo sonst nachweisbaren) Text geschaffen hat - er muss in einem besonderen Vertrauensverhältnis zu Böhm gestanden oder auch nur in dessen Region gelebt haben. (Der Sammelband D-B Mus.ms. 30101 enthält ausschließlich drei norddeutsche Komponisten, deren Nachnamen mit „B“ beginnen: Bruhns, Böhm, Brunckhorst.)  
-Der Text dieser Kantate bleibt in stilometrischer Hinsicht mit den gesicherten bzw. zugeschriebenen Dichtungen Jauchs unter Berücksichtigung der mutmaßlichen Entstehungszeit abzugleichen.  
+und die von Kümerling (1963; 1970) mit dreieinhalb guten Gründen (Stilkritik; Schreiber; Wasserzeichen; buchbinderischer Befund) nicht mehr (wie von Stein 1937/39) [M]onsieur [B]ruhns, sondern [M]onsieur [B]öhm zugeschrieben wurde. Wer immer diesen (nirgendwo sonst nachweisbaren) Kantatentext geschaffen hat - er muss in einem besonderen Vertrauensverhältnis zu Böhm gestanden oder auch nur in dessen Region gelebt haben. (Der Sammelband D-B Mus.ms. 30101 enthält ausschließlich drei norddeutsche Komponisten, deren Nachnamen mit „B“ beginnen: Bruhns, Böhm, Brunckhorst.)  
+Der gesamte Text bleibt in stilometrischer Hinsicht mit den gesicherten bzw. zugeschriebenen Dichtungen Jauchs unter Berücksichtigung der mutmaßlichen Entstehungszeit abzugleichen.  
 
 
 Die Zuschreibung der Autorschaft des lange Zeit verschollenen, 1870 ohne die entscheidenden Teile veröffentlichten, den Brand der Ratsbücherei 1959 in Form von zwei leidlich lädierten Exemplaren einigermaßen überlebenden Textbuchs der von Georg Böhm 1711 - ein Jahr vor der Uraufführung der Brockes-Passion im nahen Hamburg - dem Lüneburger Rat gewidmeten Lukaspassion (Scheitler 2005: deest) ist bislang ungesichert, liegt aufgrund der Übereinstimmung einiger Stilmerkmale mit den Hochzeitskantaten von 1705 und dem 1713/14 erschienenen, auf Texten lokaler Autoren beruhenden Kantatenjahrgang Flors aber durchaus im Bereich des Möglichen. (Vgl. Walter 1968, der neben Jauch auch dessen Vorgänger Wehrenberg - und somit einen der weiteren Beiträger für die insgesamt acht Gratulationen zur o.g. Hochzeit - zur Diskussion stellt.)  
 
 Bemerkenswert an diesem Lüneburger Libretto ist diese Dichotomie: Zum einen ziehen sich durch die Passion 14 Strophen „Auß D. Joh. Olearii Passions Liede O Jesu Gottes Lamm etc. in der Melodey O Gott du frommer Gott“ - und zwar jedesmal ausdrücklich an „Die Gemeine“ als ausführendes, nicht nur stumm rezipierendes Organ zugewiesen.  
 
-Zum anderen wird das hier wörtlich nacherzählte biblische Narrativ auf eine Weise durch Arien kommentiert, die mit ihrer moderateren Wortwahl (Ausnahme: „… „wenn kräht der Gewissens-Hahn…“) näher an dem am „Sermo humilis“ (vgl. Axmacher 1984; Haselböck 2004) orientierten, volksnahen Predigtstil angesiedelt ist als die ein Jahr darauf in Hamburg - unter gänzlich anderen Umständen, nämlich in Form eines spektakulären, großbürgerlichen, nur vorgeblich privaten musikalischen Konventikels zelebrierte Brockes-Passion - wie aus der formal und inhaltlich extrem verdichteten Arie Nr. 7 erhellt.  
+Zum anderen wird das hier wörtlich nacherzählte biblische Narrativ auf eine Weise durch Arien kommentiert, die mit ihrer moderateren Wortwahl (Ausnahme: „… wenn kräht der Gewissens-Hahn…“) näher an dem am „Sermo humilis“ (vgl. Axmacher 1984; Haselböck 2004) orientierten, volksnahen Predigtstil angesiedelt ist als die ein Jahr darauf in Hamburg - unter gänzlich anderen Umständen, nämlich in Form eines spektakulären, großbürgerlichen, nur vorgeblich privaten musikalischen Konventikels zelebrierte Brockes-Passion - wie aus der formal und inhaltlich extrem verdichteten Arie Nr. 7 erhellt.  
 Deren erste drei Zeilen sind offenkundig inpspiriert von einer an analoger Stelle platzierten Aria der Tochter Zion aus Christian Friedrich Hunolds 1706 (im Jahr seiner Flucht aus Norddeutschland) in Hamburg gedruckten, von Reinhard Keiser 1704 vertonten und unter Protesten der Geistlichkeit aufgeführten Passionsoratorium „Der blutige und sterbende Jesus“, wo es u.a heißt: „Besiege diese Nacht …; Ihr Sünden-Finsternissen, Entweicht mit Babels Flüssen …“ Böhm vertont diese Worte:  
 
 O ungeheure Nacht!  
@@ -510,9 +511,9 @@ Müller schreibt unter dem Motto „Vom Lohn der Falschheit“:
 
 „Du denckst, wann der Tuck bewiesen ist, es werd kein Haan darnach krähen, womit wiltu aber den Gewissens-Haan beschwichtigen, der in dir krähet?“  
 
-Die Stelle steht bei Müller nur unspezifisch im Passionskontext, denn er bezieht sie nicht - wie bei Weise bzw. Böhm - auf Petri Verleugnung, sondern auf „Judas Tück / Judas Strick“ - ohne weiteren Evangelien-Kontext. Die auffällige  Repetition der Stichworte „Strick“, „Netze“ sowie „Gewissen“ („du stellt mir Netze und willt mich fangen“; „dein Gewissen werd dich einmal mit solche Angst bestricken“; „das Gewissen in der letzten Todesnoth mit solcher Angst bestrickt hat“; „Indem du fromme Herzen suchst zu berücken, wirstu nur dich selbst bestricken“) verwendet frappierend ähnliche Metaphern wie der Eingang der Brockes-Passion („Mich vom Stricke meiner Sünden zu entbinden“) und die - nach bisherigem Kenntnisstand allein davon abgeleitete - Arie „Von den Stricken meiner Sünden“ BWV 245/7.  
+Die Stelle steht bei Müller nur unspezifisch im Passionskontext, denn er bezieht sie nicht - wie bei Weise bzw. Böhm - auf Petri Verleugnung, sondern auf „Judas Tück / Judas Strick“ - ohne weiteren Evangelien-Kontext. Die auffällige  Repetition der Stichworte „Strick“, „Netze“ sowie „Gewissen“ („du stellt mir Netze und willt mich fangen“; „dein Gewissen werd dich einmal mit solche Angst bestricken“; „das Gewissen in der letzten Todesnoth mit solcher Angst bestrickt hat“; „Indem du fromme Herzen suchst zu berücken, wirstu nur dich selbst bestricken“) verwendet ein frappierend ähnliches Assoziationsgewebe wie der Eingang der Brockes-Passion („Mich vom Stricke meiner Sünden zu entbinden“) und die - nach bisherigem Kenntnisstand allein davon abgeleitete - Arie „Von den Stricken meiner Sünden“ BWV 245/7.  
 
-Müllers hier in Auszügen analysierte 49. Andacht schließt mit einem vollständigen Zitat der Choralstrophe „Mir hat die Welt trüglich gericht … viel Netz und heimlich Stricke.“ (Vgl. BWV 244/32; im Torso P 26 in Gestalt von fünfeinhalb Takten der Sopranstimme als essenzieller Bestandtteil vorgemerkt).  
+Müllers hier in Auszügen analysierte 49. Andacht endet schließlich mit einem vollständigen Zitat der Choralstrophe „Mir hat die Welt trüglich gericht … viel Netz und heimlich Stricke.“ (Vgl. BWV 244/32; im Torso P 26 in Gestalt von fünfeinhalb Takten der Sopranstimme als essenzieller Bestandtteil vorgemerkt).  
 
 Eine weitere Anspielung an Müllers Text findet sich in der Choralkantate BWV 115 (5.11.1724):  
 
@@ -553,7 +554,7 @@ Damit ist die Voraussetzung für die Annahme gegeben, dass sich Dichter und Komp
 
 Je vier Titel von zwei prominenten Vertretern der Norddeutschen Reformorthodoxie, nämlich August Pfeiffer (Lübeck) und Heinrich Müller (Rostock), belegen zudem - zusammen mit weiteren Werken anderer Autoren - eine quantitativ mit 23 bzw. 32 Prozent beachtenswerte, theologisch durchaus tendenziöse Schnittmenge der hinterlassenen Bibliotheken Bachs und seines Hauptlibrettisten. (Vgl. Wilhelmi 1979: Nrn. 5, 8, 10 sic!, 11,14, 20, 36, 38, 39, 42, 51, 52 sowie die Zweifelsfälle 2, 7, 13, 35, 45.)  
 
-Zu erwähnen bleibt schließlich die Tatsache, dass unter Nr. 1881 des Jauch-Katalogs ein Exemplar des 1720 in Hamburg bei Trausold erschienenen Neuen Testaments verzeichnet ist, welches „also gedrucket [ist], daß alle Worte und Reden, Welche der HErr JESUS selber gesprochen, Mit rothen Littern, Die übrige Haupt-Sprüche aber in schwartzem Abdruck, Mit grösseren Buchstaben, Zu lesen sind.“ 
+Zu erwähnen bleibt schließlich die Tatsache, dass unter Nr. 1881 des Jauch-Katalogs ein Exemplar des 1720 in Hamburg bei Trausold erschienenen Neuen Testaments verzeichnet ist, welches „also gedrucket, daß alle Worte und Reden, Welche der HErr JESUS selber gesprochen, Mit rothen Littern, Die übrige Haupt-Sprüche aber in schwartzem Abdruck, Mit grösseren Buchstaben, Zu lesen sind.“ 
 Dieses typographische Unikat erinnert an den Umstand, dass das Autograph der Matthäuspassion (und vielleicht auch schon die verschollene Originalhandschrift der Frühfassung?) für das explizite Bibelwort und für den Cantus firmus des Exordiums rote Tinte verwendet - durch wen auch immer Bach zu dieser außergewöhnlichen Gestaltungsweise angeregt worden sein mag.  
 
 
@@ -591,8 +592,7 @@ Von Georg Böhm stammen nicht nur die Vertonungen von 23 der 27 neu hinzugefügt
 
 Elmenhorsts Passions-Arie Nr. 12 scheint mit den Anfangsworten:  
 
-Ihr Töchter Zion, gehet her, 
-Mit Seufzen, Ächzen, Weheklagen  
+Ihr Töchter Zion, gehet her, Mit Seufzen, Ächzen, Weheklagen  
 
 auf die theologisch (gehet -> kommt), aber auch poteologisch (durch geschickte Reduktion auf eine einzige achtsilbige trochäische Zeile) genial umgedeutete und verdichtete Form zum Auftakt des ein Vierteljahrhundert später entstandenen Exordiums von BWV 244b vorauszuweisen:  
 
@@ -617,7 +617,7 @@ Gänzlich im Bereich der Spekulation müssen vorerst Überlegungen bleiben, ob u
 
 Das betrifft beide Richtungen: sowohl die Frage nach der Herkunft der Vorlagen für Bachs sehr spät datierte Kopie von Georg Friedrich Händels Brockes-Passion (HWV 48), als auch die nach der Partitur für die Aufführung dieses Werks in St. Michaelis am 16.3.1723 - wohl kaum ohne kirchenamtliche Zensur oder zumindest Kenntnisnahme durch den Superintendenten Jauch und durch Einfügung eines gesprochenen(!) „Unser Vater“ (vgl. Frederichs 1975) zudem ansatzweise reliturgisiert und schon im Vorfeld seitens Johann Mattheson publizistisch ungewöhnlich wohlwollend begleitet - als auch Überlegungen hinsichtlich der Orte, wohin die von Bach praktizierten oder auch nur beabsichtigten Ausleihen seiner eigenen Passionen und Kantaten bzw. deren Libretti erfolgt sein könnten, wären unter diesem Aspekt zu untersuchen.  
 
-Auch die Tatsache, dass 1717 für eine - leider nicht näher spezifizierte - Passionsaufführung in St. Michaelis die erstaunlich hohe Anzahl von 1000 Textheften in den Kirchenrechnungen verzeichnet wurde, belegt auf jeden Fall, dass unter den - zumindest passiv beteiligten - Augen und Ohren eines theologisch und musikalisch hochkompetenten Geistlichen wie J.C. Jauch immer wieder auch Kirchenmusiken praktiziert wurden, die über liturgische Allerweltsereignisse hinaus reichten.
+Die Tatsache, dass 1717 für eine - leider nicht näher spezifizierte - Passionsaufführung in St. Michaelis die erstaunlich hohe Anzahl von 1000 Textheften in den Kirchenrechnungen verzeichnet wurde, belegt auf jeden Fall, dass unter den - zumindest passiv beteiligten - Augen und Ohren eines theologisch und musikalisch hochkompetenten Geistlichen wie J.C. Jauch immer wieder auch Kirchenmusiken praktiziert wurden, die über liturgische Allerweltsereignisse hinaus reichten.
 
 
 1722 entstand im führenden Bibel- und Gesangbuchverlag nördlich des Mains, der heute in 14. Generation in Familienbesitz befindlichen von Sternschen Druckerei, in dem Gebäudekomplex „Am Sande Nr. 31“ und somit fast Tür an Tür mit Jauchs damaliger Dienstwohnung („Am Sande Nr. 27“ - einst die „Alte Probstei“, heute das „Café Sandkrug“), die zweite Auflage (von insgesamt mindestens neun, mit einem geschätzten Aufwand von jeweils etwa 50 Mannwochen erstellten Neudrucken) der Passionspredigten des 1675 verstorbenen Rostocker Superintendenten und Theologieprofessors Heinrich Müller. (Je eines der - allesamt in Norddeutschland überlieferen - Exemplare der ca. 1800 Seiten umfassenden Auflagen Lüneburg 1722, 1736, 1743 und 1752 im Eigentum des Verfassers.)  
@@ -687,10 +687,10 @@ Aus dem Chrysostomus mit Krafft zu reden scheinet.
 
 (Zum Stichwort „Felsenherz“ vgl. Keiser/Hunold 1704/06, Brockes 1715 und BWV 181).  
 
-Jauch immatrikulierte sich am selben Tag (26.4.1689) an der Universität Jena wie Johann Anastasius Freylinghausen, der später ungleich breitenwirksamere, pietistisch operierende Gegenspieler der orthodoxen Liederfreunde, der von seinem erwünschten Tischherrn Goetze trotz Vorlage eines Empfehlungsschreibens (zugunsten wessen?) nach eigenen Worten noch am selben Tag abgewiesen wurde.  
+Jauch immatrikulierte sich am selben Tag (26.4.1689) an der Universität Jena wie Johann Anastasius Freylinghausen, der später ungleich breitenwirksamere, pietistisch orientierte Gegenspieler der orthodoxen Liederfreunde, der von seinem erwünschten Tischherrn Goetze trotz Vorlage eines Empfehlungsschreibens (zugunsten wessen?) nach eigenen Worten noch am selben Tag abgewiesen wurde.  
 
 In dem am 1. Juli 1722 datierten Vorwort einer „Melodiae Sacratissimae“ betitelten Publikation des in Celle amtierenden Garnisonpredigers Christian David Danielis - deren Haupttext unter der Invocatio [I]n [N]omine [J]esu [A]men steht - offenbart Jauch nicht nur seine profunde, mit vorwiegend regionalspezifischen, teils singulären Beispielen belegte Kenntnis der Geschichte der musikalischen Psalmbereimungen, zu denen Danielis eine bemerkenswerte Variante beitrug.  
-Der ehemalige Lüneburger Johanneumsschüler hatte versucht, unter möglichst genauer Beibehaltung des „bei den lieben Einfältigen beliebten“ Lutherschen Wortlauts alle 150 Psalmen des Alten Testaments in die metrischen Schemata der damals „gebräuchlichsten” protestantischen Kirchenlieder zu zwingen und einen Plan beigefügt, sie in dieser Form (zu jeweils einer oder mehreren passenden Melodien) über das Kirchenjahr verteilt im Rahmen sonntäglicher häuslicher Andachten zu singen. (Vgl. eine weitere, 1728 bei Förster in Hannover erschienene Auflage, deren heutige Titelaufnahmen unzutreffenderweise Jauch statt Danielis als Autor nennen.)
+Der ehemalige Lüneburger Johanneumschüler hatte versucht, unter möglichst genauer Beibehaltung des „bei den lieben Einfältigen beliebten“ Lutherschen Wortlauts alle 150 Psalmen des Alten Testaments in die metrischen Schemata der damals „gebräuchlichsten” protestantischen Kirchenlieder zu zwingen und einen Plan beigefügt, sie in dieser Form (zu jeweils einer oder mehreren passenden Melodien) über das Kirchenjahr verteilt im Rahmen sonntäglicher häuslicher Andachten zu singen. (Vgl. eine weitere, 1728 bei Förster in Hannover erschienene Auflage, deren heutige Titelaufnahmen unzutreffenderweise Jauch statt Danielis als Autor nennen.)
 
 Jauch kommentiert diesen Versuch durchaus kritisch und lässt darüber hinaus erkennen, spätestens zu diesem Zeitpunkt (Mitte 1722) selbst Erfahrungen mit der (wie er zugibt, poetologisch nicht immer einfachen) Übertragung von Texten Luthers in eine andere, musiziertaugliche Form gemacht zu haben:  
 
@@ -735,6 +735,8 @@ Der zeitlebens wenig ambitioniert wirkende Jauch hatte bei der Suche Bachs und s
 
 
 Mit Johann Christoph Jauch konnte Bach bei seiner - weitgehend vom Aufführungskalender diktierten - kompositorischen Akkulturation in Leipzig auf einen theologischen Gewährsmann setzen, der sich zwar sprachstilistisch nur sehr subtil und im Verlauf eines durchaus rekonstruierbaren Entwicklungsprozesses an die eine Tagesreise von Lüneburg residierende Avantgarde angenähert hatte - also an Barthold Hinrich Brockes und seinen Kreis (gewiss auch unter dem Einfluss seiner eigenen Schüler Michael Christoph Brandenburg, Matthias Daniel Behm und Joachim Christian Heini), der aber konfessionell deutlich unproblematischer erscheinen musste als der (offiziell wegen Häresie, inoffiziell aber wohl wegen individualspychologischer Probleme) seit 1697 amtsenthobene, zeitweise unter Hausarrest stehende, sodann unter ansatzweise ermittelbaren Bedingungen geduldete und besoldete, Bach bis Frühsommer 1723 noch nicht persönlich bekannte Conrector emeritus Johann Andreas Stübel - von dem kaum den intellektuellen und gesellschaftlichen Kinderschuhen entwachsenen Leipziger Enfant terrible Christian Friedrich Henrici ganz zu schweigen.  
+
+Stübel, der zeitweilig offenbar mit einem - von ihm selbst so empfundenen - Publikationsverbot belegt wurde, schildert die auslösenden Ereignisse in einem 1698 gedruckten Schriftenkatalog so: „Auffs Jahr 1697, hatte ich mir vorgenommen / gar viele Schrifften zu publiciren; Homo proponit, Deus disponit. Ich gerieht damals im Februario in eine sonderbare Geistliche Anfechtung / nach dessen glücklicher Ueberwindung und darauff erfolgten hart ausgestandenen halbjährigen häußlichen Verwachung ich nur das wenigste ans Licht bringen können“.  
 
 Henrici hatte sich zudem - nicht nur durch seine ständigen, gerichtsnotorischen Beißereien mit seinem, beinahe existenzgefährdend zurückschlagenden literaturpolitischen Lieblingsgegner Gottsched (vgl. Otto 2007), sondern auch in den von Woche zu Woche parallel zu den Aufführungen der Choralkantaten entstandenen und publizierten „Erbaulichen Gedancken“ - durch kaum verklausulierte (als wahrhaftige Confessio intendierte oder nur in ironischer Absicht fingierte?) Stellungnahmen im offiziell längst terminierten „Terministischen Streit“ bis auf weiteres auch theologisch als Emporen-untauglich disqualifiziert.
 
@@ -792,7 +794,7 @@ Zu fragen bleibt, ob Brandenburg in Leipzig (wo er seit 1718 immatrikuliert war)
 dieselben ferner segnen!“  
 
 
-Brandenburg (und nicht etwa Jauch) war ab 1724 das einzige externe Mitglied der Hamburger Patriotischen Gesellschaft, für deren Organ „Der Patriot“ er unter einem Pseudonym Beiträge verfasste. Der 1722-25 für den immerwährenden Freund der Familie Bach - Georg Philipp Telemann - (sicherlich nicht ohne wohlwollende Beobachtung durch seinen ehemaligen Tischherrn Jauch) in einzelnen Lieferungen bereitgestellte „Brandenburgische“ Kantatenjahrgang blieb unvollendet, da der Verfasser durch persönliche Befindlichkeiten und seine Tätigkeit als Prediger in Sterley (Herzogtum Lauenburg) ausgelastet war.  
+Brandenburg (und nicht etwa Jauch) war ab 1724 das einzige externe Mitglied der Hamburger Patriotischen Gesellschaft, für deren Organ „Der Patriot“ er unter einem Pseudonym Beiträge verfasste. Der 1722-25 für den immerwährenden Freund der Familie Bach - Georg Philipp Telemann - (sicherlich nicht ohne wohlwollende Beobachtung durch seinen ehemaligen Tischherrn Jauch) in einzelnen Lieferungen bereitgestellte „Brandenburgische“ Kantatenjahrgang blieb im Dezember 1725 unvollendet, da der Verfasser durch persönliche Befindlichkeiten und seine Tätigkeit als Prediger in Sterley (Herzogtum Lauenburg) ausgelastet war.  
 
 Zusammen mit dem ebenfalls aus arbeitsökonomischen Gründen nicht vollständig abgelieferten Jahrgang Erdmann Neumeisters für Telemann mag dies als eine bemerkenswerte zeitliche (und folgt man den hier vorgebrachten Argumenten: auch geographische) Koinzidenz zum Abbruch des Bachschen Choralkantatenjahrgangs betrachtet werden.  
 

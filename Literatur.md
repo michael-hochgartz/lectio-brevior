@@ -95,7 +95,7 @@ Bd. 1, Kassel **2004**
 **Smend**, Friedrich: Bach in Köthen, Berlin **1951**  
 **Smend**, Friedrich: Johann Sebastian Bach: Kirchen-Kantaten, 3. Auflage, Berlin **1966**  
 **Schulze**, Hans-Joachim: Schlusswort in: Bachforschung und Bachinterpretation heute : Wissenschaftler und Praktiker im Dialog ; Bericht über das Bachfest-Symposium 1978 der Philipps-Universität Marburg / hrsg. von Reinhold Brinkmann, Kassel **1981**  
-**Schulze**, Hans-Joachim: Texte und Textdicher, Christoph Wolff (Hg.), Die Welt der Bach-Kantaten / Bd. 3, Johann Sebastian Bachs Leipziger Kirchenkantaten, Stuttgart **1998**  
+**Schulze**, Hans-Joachim: Texte und Textdicher, Christoph Wolff (Hg.), Die Welt der Bach-Kantaten / Bd. 3, Johann Sebastian Bachs Leipziger Kirchenkantaten, Stuttgart **1999**  
 **Schulze** 2001 (Colloquium Dürr 1998)  
 **Schwinger**, Tobias, Der preußische Hofkomponist Johann Friedrich Agricola in seiner Rolle als Kirchenkomponist für die Kirche St. Petri in Berlin, Wilhelm Friedemann Bach und die protestantische Kirchenkantate nach 1750. Beeskow **2012**, 95-220  
 **Tatlow**, Ruth, Bach's Numbers, Compositional Proportion and Significance, Cambridge **2015**  
