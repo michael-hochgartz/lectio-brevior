@@ -4,7 +4,7 @@ Bibliographische Handreichung zu den Manuskriptentwürfen:
 - Zur Person des Leipziger Hauptlibrettisten Johann Sebastian Bachs.md
 
 Michael Hochgartz (D 48153 Münster)  
-michael@hochgartz.de - 06.10.2020  
+michael@hochgartz.de - 26.11.2020  
 https://github.com/michael-hochgartz/lectio-brevior   
 
 Fachkundige Leser der Entwürfe des Thesenpapiers und des Vortragsmanuskripts erhalten auf diesem Weg einen Zugriff auf die in kürzest möglicher Form referenzierte Standardliteratur und auf einige wenige Spezialtexte. Eine vollständige Bibliographie bleibt ebenso einer späteren Ausarbeitung vorbehalten wie der Nachweis der mit erheblichen Aufwänden ermittelten, unpublizierten Archivalien, Briefe und Originaldrucke. Wie die beiden Haupttexte, so trägt auch diese Aufstellung den Charakter eins fortlaufenden Werkstattberichts.  
@@ -36,7 +36,8 @@ Abkürzungen
 **Dumrese/Schilling**, Hans Dumrese / Friedrich Carl Schilling: Lüneburg und die Offizin der Sterne, Lüneburg **1956**  
 **Dürr**, Alfred: NBA Serie 2, Bd. 5,  Notenband **1972**  
 **Dürr**, Alfred: NBA Serie 2, Bd. 5, kritischer Bericht  **1974**  
-**Dürr**, Alfred: Die Johannes-Passion von Johann Sebastian Bach : Entstehung, Überlieferung, Werkeinführung, Kassel **1988**  
+**Dürr**, Alfred: Die Johannes-Passion von Johann Sebastian Bach : Entstehung, Überlieferung, Werkeinführung, Kassel **1985** 
+**Dürr**, Alfred: Die Entstehungsgeschichte der Matthäus-Passion, in: Johann Sebastian Bach, Matthäus-Passion, BWV 244 : Vorträge der Sommerakademie J. S. Bach 1985, Kassel **1990**, 76-93  
 **Erler**, Georg: Die jüngere Matrikel der Universität Leipzig, 1559 - 1809, 3 Bde, Leipzig **1909**  
 **Fangerau 2011**  
 **Fischer**, William B., When God sang German, o.O. **2017**  
