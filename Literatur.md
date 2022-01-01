@@ -4,7 +4,7 @@ Bibliographische Handreichung zu den Manuskriptentwürfen:
 - Zur Person des Leipziger Hauptlibrettisten Johann Sebastian Bachs.md
 
 Michael Hochgartz (D 48153 Münster)  
-michael@hochgartz.de - 26.11.2020  
+michael@hochgartz.de - 01.01.2022  
 https://github.com/michael-hochgartz/lectio-brevior   
 
 Fachkundige Leser der Entwürfe des Thesenpapiers und des Vortragsmanuskripts erhalten auf diesem Weg einen Zugriff auf die in kürzest möglicher Form referenzierte Standardliteratur und auf einige wenige Spezialtexte. Eine vollständige Bibliographie bleibt ebenso einer späteren Ausarbeitung vorbehalten wie der Nachweis der mit erheblichen Aufwänden ermittelten, unpublizierten Archivalien, Briefe und Originaldrucke. Wie die beiden Haupttexte, so trägt auch diese Aufstellung den Charakter eins fortlaufenden Werkstattberichts.  
@@ -31,6 +31,7 @@ Abkürzungen
 **Braatz**, Thomas https://www.bach-cantatas.com/Articles/SMP244avsb.pdf **2006**  
 **Braatz**, Thomas, The Rise and Fall of the Stübel-Theory, https://www.bach-cantatas.com/Articles/Stubel-Theory.htm **2007**  
 **Brainard**, Paul: ‘Bach’s Parody Procedure and the St Matthew Passion’, Journal of the American Musicological Society 22 (**1969**), 241–60  
+**Brischwein**, Olaf: Die Johannes-Passion von Johann Sebastian Bach. Eine Untersuchung ihrer freien Dichtung, Phil. Diss. Bamberg **2001**  
 **Chafe**, Eric Thomas: J. S. Bach's 'St. Matthew Passion: Aspects of Planning, Structure, and Chronology, Journal of the American Musicological Society 35 (**1982**), 49-114  
 **Cyprian**, Ernst Salomon: Hilaria Evangelica, Gotha **1719**  
 **Dumrese/Schilling**, Hans Dumrese / Friedrich Carl Schilling: Lüneburg und die Offizin der Sterne, Lüneburg **1956**  
