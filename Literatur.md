@@ -9,8 +9,7 @@ https://github.com/michael-hochgartz/lectio-brevior
 
 Fachkundige Leser der Entwürfe des Thesenpapiers und des Vortragsmanuskripts erhalten auf diesem Weg einen Zugriff auf die in kürzest möglicher Form referenzierte Standardliteratur und auf einige wenige Spezialtexte. Eine vollständige Bibliographie bleibt ebenso einer späteren Ausarbeitung vorbehalten wie der Nachweis der mit erheblichen Aufwänden ermittelten, unpublizierten Archivalien, Briefe und Originaldrucke. Wie die beiden Haupttexte, so trägt auch diese Aufstellung den Charakter eins fortlaufenden Werkstattberichts.  
 
-Digitalisate der Musikhandschriften P25, P26 und AmB 6+7 sind in teils hervorragender Qualität via www.bach-digital.de verfügbar; desgl. neuerdings (Dezember 2020) auch die autographe Partitur von BWV 20, für deren Erwerb durch das Bach Archiv Leipzig der Verfasser und sein familiäres Umfeld jeweils bescheidene finanzielle Beiträge leisteten.  
-
+Digitalisate der Musikhandschriften P25, P26 und AmB 6+7 sind in teils hervorragender Qualität via www.bach-digital.de verfügbar; desgl. neuerdings (Dezember 2020) auch die autographe Partitur von BWV 20.
 Abkürzungen  
 
 **ADB**: Allgemeine Deutsche Biographie  
@@ -61,6 +60,7 @@ Abkürzungen
 **Kleck**, Konrad: Dein ist allein die Ehre : Johann Sebastian Bachs geistliche Kantaten erklärt, 3 Bde. Leipzig 2015,2016,2017 **2015**  
 **Kleinertz**, Rainer: Zur Frage der Autorschaft von Händels Johannespassion, Händel-Jahrbuch 49 (**2003**), S. 341-376  
 **Kohlfeldt**, G. Eine akademische Ferienreise von Rostock bis Königsberg im Jahre 1694. in: Baltische Studien IX (**1905**), 1–54  
+**Krausse**, Helmut K., Erdmann Neumeister und die Kantatentexte Johann Sebastian Bachs, in BJ **1986**, 7-32  
 **Krummacher**, Friedhelm: Bachs Zyklus der Choralkantaten: Aufgaben und Lösungen, Göttingen **1995**  
 **Krummacher**, Friedhelm: Johann Sebastian Bach: Die Kantaten und Passionen, 3 Bde, Kassel **2018**  
 **Kümmerling**, Harald „Difficile est satyram non scribere“ oder: Über eine gewisse Passion eine so genannten weltberühmten Mannes“, Beiträge zur Geschichte des Oratoriums seit Händel, R. Cadenbach / H. Loos (Hrsg), Festschrift Günther Massenkeil, Bonn **1986**, 57-69  
