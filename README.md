@@ -1,6 +1,6 @@
 
 Michael Hochgartz (D 48153 Münster)  
-michael@hochgartz.de - 10.10.2021  
+michael@hochgartz.de - 09.01.2022  
 [https://independent.academia.edu/MichaelHochgartz](https://independent.academia.edu/MichaelHochgartz)  
 
 
