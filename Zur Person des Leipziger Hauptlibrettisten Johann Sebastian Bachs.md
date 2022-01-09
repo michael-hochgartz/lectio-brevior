@@ -3,13 +3,10 @@
 Entwurf für ein Vortragsmanuskript (Es gilt das gesprochene Wort)  
 
 Michael Hochgartz (D 48153 Münster)  
-michael@hochgartz.de - 03.12.2021  
+michael@hochgartz.de - 09.01.2022  
 Quelltext und Literaturverzeichnis: https://github.com/michael-hochgartz/lectio-brevior  
 
 
-Phantasie ist wichtiger als Wissen, denn Wissen ist begrenzt.  
-Probleme kann man niemals mit derselben Denkweise lösen, durch die sie entstanden sind.  
-Wenn die Menschen nur über das sprächen, was sie begreifen, dann würde es sehr still auf der Welt sein. (Albert Einstein)  
 
 Learn the facts - then try on the stories like clothes. (John Le Carré, 1967)  
 
@@ -32,7 +29,7 @@ Kurz nach einer - zunächst nur pro Forma erfolgten - Immatrikulation an der Uni
 
 Unter dessen Führung hatte er „als der erste und liebste“ von sechs per Pedes Apostolorum mitreisenden Studiosi am Ziel einer von Juli bis September 1694 währenden, vom nachmaligen Rostocker Universitätsbibliothekar Carl Arndt sorgfältigst dokumentierten theologischen Exkursion (die später so titulierte „Preußische Reise“) durch Pommern, Ostpreußen und Brandenburg kurz vor dessen Tod den Frühaufklärer Samuel von Pufendorff in Berlin besucht.  
 
-Leider wurde bei der Publikation des Reisetagebuchs (vgl. Kohlfeldt 1905) mehr Wert auf die - zweifelsohne interessanten - touristischen und landeskundlichen Aspekte der Tour gelegt und die angeblich schwer zu entziffernden Diskussionen mit den besuchten Theologen ausgelassen. Sie dürften aber anhand des handschriftlichen Originals zu ergänzen sein. Stichproben anhand einer Parallelquelle lassen erhoffen, dass es mehr um akademischen Smalltalk ging als um dogmatische Auseinandersetzungen.  
+Leider wurde bei der Publikation des Reisetagebuchs (vgl. Kohlfeldt 1905) mehr Wert auf die - zweifelsohne interessanten - touristischen und landeskundlichen Aspekte der Tour gelegt und die angeblich schwer zu entziffernden Diskussionen mit den besuchten Theologen ausgelassen. Sie dürften aber durch das handschriftliche Original zu ergänzen sein. Stichproben anhand einer Parallelquelle lassen erhoffen, dass es mehr um akademischen Smalltalk ging als um dogmatische Auseinandersetzungen.  
 
 Es ergibt sich die Überlegung, ob die drei Jahrzehnte nach diesem Ereignis in Leipziger Kantatentexten anzutreffenden rationalismuskritischen Floskeln - z.B. in BWV 2 („Und was der eigen Witz erdenket, … der eine wählet dies, der andre das, die törichte Vernunft ist ihr Kompaß“), BWV 178 („Schweig, schweig nur, taumelnde Vernunft“) und BWV 121 („Was Wunder, daß allhie Verstand und Witz gebricht“), aber auch - syntaktisch recht verstanden - BWV 180 („noch durch Vernunft das hohe Werk ergründet“) ihren Urgrund in diesen prägenden Begegnungen hatten und inwieweit sie ferner als aktuelle, unterschwellige Kommentare des Autors zu den seit 1723 eskalierenden Kontroversen um den Philosophen Christian Wolff zu interpretieren sind. (Vgl Fischer 2017.)  
 
@@ -89,7 +86,7 @@ Dass Jauch eine oder mehrere Wiederaufführungen der 1667 für St. Lamberti ents
 
 Ob die am 18.3.1667(sic!; nicht 1664) abgeschlossene Tabulatur einer fast gleichartig (mit Chor, Gambenconsort, Continuo) besetzten Matthäuspassion aus der Sammlung Düben der Universitätsbibliothek Uppsala tatsächlich (wie vom Herausgeber einer Neuausgabe vermutet; vgl. N.N. 2012) etwas mit Lüneburg, genauer: mit Flor zu tun hat, bleibt vorerst rätselhaft.  
 
-Immerhin ist nicht auszuschließen, dass am selben Karfreitag 1667 in gleich zwei Lüneburger Kirchen (St. Lamberti und St. Johannis) zeitversetzt zwei etwa einstündige Passionsmusiken aufgeführt wurden, an denen jeweils bis zu vier Gambisten beteiligt waren - die aber naturgemäß nur von zwei verschiedenen Komponisten stammen konnten. Es sei denn, man betrachtet den Fall als spektakulären Auftakt Christian Flors in seiner Doppelfunktion als zeitweiliger Organist beider Kirchen - und damit die Stücke zwangläufig als Organisten- statt als Kantoren-Musiken, was angesichts der überschaubaren, Orgelemporen-tauglichen Besetzung durchaus denkbar erscheint und wofür diskrete Spuren in späteren Ratsakten vorhanden zu sein scheinen.  
+Immerhin ist nicht auszuschließen, dass am selben Karfreitag 1667 in gleich zwei Lüneburger Kirchen (St. Lamberti und St. Johannis) zeitversetzt zwei etwa einstündige Passionsmusiken aufgeführt wurden, an denen jeweils bis zu vier Gambisten beteiligt waren - die aber naturgemäß nur von zwei verschiedenen Komponisten stammen konnten. Es sei denn, man betrachtet den Fall als spektakulären Auftakt Christian Flors in seiner Doppelfunktion als zeitweiliger Organist beider Kirchen - und damit die Stücke zwangsläufig als Organisten- statt als Kantoren-Musiken, was angesichts der überschaubaren, Orgelemporen-tauglichen Besetzung durchaus denkbar erscheint und wofür diskrete Spuren in späteren Ratsakten vorhanden zu sein scheinen.  
 
 Auf jeden Fall ergibt sich aus diesem Befund und seiner weiteren Betrachtung, dass Norddeutschland zwischen Hamburg, Rostock und Danzig (und auch Lüneburg) mehr denn je zu den frühesten Pflegestätten innovativer protestantischer Passionsmusiken zu zählen ist - und dass die Florsche Komposition allein schon in struktureller Hinsicht das erheblich modernere Werk darstellen dürfte.  
 
@@ -112,7 +109,7 @@ Weiterhin sind Einzeltextdrucke von Trauerkantaten für die Beisetzungen Lünebu
 Die Beförderung zum Superintendenten, die unter Berufung auf Sparbemühungen mit einem nur geringen Einkommenszuwachs verbunden war, wurde gleichwohl von einem höher rangierenden Amtsbruder auf ausführlich dokumentierte, erschreckend intrigenhafte Weise bekämpft. Sie erfolgte gegen den wiederholt „unter Thränen“ erklärten Willen Jauchs, der sich bald darauf, am 17. April 1714, in einem sehr persönlich gehaltenen Brief (nach Inhalt und Diktion durchaus vergleichbar mit Bachs Schreiben an seinen Thüringer / Lüneburger Jugendfreund Georg Erdmann) an seinen ehemaligen Kommilitonen, den seinerzeitigen Jenaer Universitätsorganisten, nunmehrigen Universitätsrektor und späteren Bach-Bewunderer Johann Jakob Syrbius, zu den näheren Umständen seiner Ernennung äußerte.  
 
 Diese wurden überlagert von langjährigen Präzedenzstreitigkeiten zwischen Patriziat und Geistlichem Ministerium (es ging - zumindest vordergründig - tatsächlich um die Rangfolge bei öffentlichen Auftritten), als dessen penibel, wegen der erwähnten Anfeindungen fast ängstlich agierender theologischer Geschäftsführer Jauch ein Jahrzehnt lang fungieren sollte. (Vgl. Wiesenfeldt 2016.)  
-Das jährliche Gehalt Jauchs setzte sich laut Anstellungsvertrag zuammen aus einem Fixum von 500 Rthlr. sowie aus ortsüblichen Naturalleistungen im Wert von 32 plus 16 Rthlr. (Für 1735 werden pauschal 800 Rthlr. genannt; vgl. Meyer 1941.) Bzgl. des Lebensstandards dürfte Jauch damit in etwa mit J.S. Bachs Leipziger Lebensverhältnissen vergleichbar sein (vgl. Wolff 2000).  
+Das jährliche Gehalt Jauchs setzte sich laut Anstellungsvertrag zuammen aus einem Fixum von 500 Rthlr. sowie aus ortsüblichen Naturalleistungen im Wert von 32 plus 16 Rthlr. (Für 1735 werden pauschal 800 Rthlr. genannt; vgl. Meyer 1941.) Bzgl. des Lebensstandards dürfte Jauch damit in etwa mit J.S. Bachs Leipziger Verhältnissen vergleichbar sein (vgl. Wolff 2000).  
 An Akzidenzien gebührten Jauch zwar keine Einnahmen aus Taufen, wohl aber ein Teil der in St. Johannis proclamierten Copulationen und die Zahlungen für Leichenbegängnisse und Beichten.  
 Letztere waren in Lüneburg nach dem Prinzip der Personalgemeinden - also Pfarrgrenzen übergreifend - organisiert. (Die Entlassung des „Häretikers“ Petersen 1692 war übrigens durch dessen Absicht ausgelöst worden, den obligatorischen Beichtpfennig abzuschaffen, und der Reformtheologe Heinrich Müller hatte zu seiner Zeit in Rostock diese Einkunftsart zwar nicht eliminiert, deren Erträge aber unter den Armen verteilt.) 
 Bei wem der junge J.S. Bach während seiner Lüneburger Zeit beichtete, und ob (und ggf. wann und wo und von wem) der 15jährige konfirmiert wurde, ist bislang nicht einmal ansatzweise Gegenstand von Überlegungen.  
@@ -143,7 +140,7 @@ Ja, redet nur die Wahrheit spärlich,
 seid immer falsch, was tut mir das?  
 Ihr Spötter seid mir ungefährlich.  
 
-Und BWV 126 (4.2.1725) - vordergründig gemünzt auf Luthers (heute zuweilen als despektierlich emfpundenen) Invektiven gegen „des Papsts und Türken Mord“ - erinnert zumindest unterschwellig an die falschen Amtsbrüder, als diese sich übergangen fühlten und darob (so Jauch gegenüber Syrbius) „gar böse geworden“ waren:  
+Und BWV 126 (4.2.1725) - vordergründig gemünzt auf Luthers (heute zuweilen als despektierlich emfpundene) Invektiven gegen „des Papsts und Türken Mord“ - erinnert zumindest unterschwellig an die falschen Amtsbrüder, als diese sich übergangen fühlten und darob (so Jauch gegenüber Syrbius) „gar böse geworden“ waren:  
 
 Du weißt, daß die verfolgte Gottesstadt  
 den ärgsten Feind nur in sich selber hat  
@@ -153,7 +150,7 @@ durch die Gefährlichkeit der falschen Brüder
 
 Ein Wechsel an die Marktkirche St. Georg in Hannover (die „dortige Haupt Kirchen“ des Kurfürstentums Braunschweig-Lüneburg - und somit eine „sehr avantageuse Verbeßerung“ - so Jauch in einer Eingabe von 1709 ) gelangte 1705 nicht zum Erfolg, da er - motiviert durch eine „aus hochgeneigter affection ohne mein Ansuchen“ gewährte Gehaltszulage seiner Patronatsherren, den für St. Lamberti zuständigen, mit dem Niedergang der Salzausbeutung finanzsensibel gewordenen Bar- und Sülfmeistern in Höhe von immerhin 100 Rthlr. p.a. - noch vor dem Ende des Verfahrens abgesagt hatte - obwohl er sich in Hannover hinsichtlich seiner Einkünfte „wohl dreyfach“ hätte verbessern können.  
 
-Als einer von 30, durch das örtliche Leitungsgremium vorgeschlagenen und von einer reisenden Berufungskommission beim Predigen evaluierten Kandidaten (unter diesen auch Bachs Mühlhausener Vorgesetzter und Taufpate der erstgeborenen Tochter Catharina Dorothea, der Konsistorialrat und Superintendent Georg Eilmar) unterlag er 1715 denkbar knapp im fünften Wahlgang dem einflussreichsten Propagator und Produzenten moderner protestantischer Kantatentextformen - Erdmann Neumeister - bei der Wahl zum Hauptpastor der Hamburger Hauptkirche St. Jakobi.  
+Als einer von 30, durch das örtliche Leitungsgremium vorgeschlagenen und von einer reisenden Berufungskommission beim Predigen evaluierten Kandidaten (unter diesen auch Bachs Mühlhausener Vorgesetzter und Taufpate der erstgeborenen Tochter Catharina Dorothea, der Konsistorialrat Georg Eilmar) unterlag er 1715 denkbar knapp im fünften Wahlgang dem einflussreichsten Propagator und Produzenten moderner protestantischer Kantatentextformen - Erdmann Neumeister - bei der Wahl zum Hauptpastor der Hamburger Hauptkirche St. Jakobi.  
 
 Bereits 1707 hatte Jauch eine Anstellung als „Capellan“ dortselbst vorzeitig abgesagt, obgleich er als einer der acht verbliebenen (von zunächst 22) Bewerbern durchaus Chancen gehabt hätte.  
 
@@ -395,7 +392,7 @@ Am 3.11.1718 entschuldigt Jauch sich beim Dresdener Kreuzkirchen-Pfarrer und Sup
 
 Als weiterer Kandidat für eine temporäre persönliche Beziehung zwischen Lüneburg und Leipzig mag der Jurist und spätere Inspektor der Ritterakademie, Johann Georg Wehrenberg (1702-1780), Sohn von Jauchs vertraulich verbundenem Vorgänger, genannt werden, der 1724 in Leipzig Mitglied des „Montäglichen Großen Predigerkollegs“ und der „Vertrauten Rednergesellschaft“ war. Freilich, ohne dass bislang konkrete briefliche Kontakte gefunden werden konnten. (Vgl. Döring/Menzel/Otto 2015.)  
 
-Wie schließlich in diesem Zusammenhang die Tatsache zu bewerten ist, dass C.F. Henrici unter dem Datum des 1.1.1725 ein Gedicht auf die Hochzeit des Sohnes von Jauchs Kollegen, Johann Georg Koltemann (1721-29 an St. Lamberti und St. Nikolai amtierend) verfasste, das er später in seine gedruckte Gedichtsammlung aufnahm, bleibt zu untersuchen. .
+Wie schließlich in diesem Zusammenhang die Tatsache zu bewerten ist, dass C.F. Henrici unter dem Datum des 1.1.1725 ein Gedicht auf die Hochzeit des Sohnes von Jauchs Kollegen, Johann Georg Koltemann (1721-29 an St. Lamberti und St. Nikolai amtierend) verfasste, das er später in seine gedruckte Gedichtsammlung aufnahm, bleibt zu untersuchen.  
 
 Diese konkreten Beispiele belegen, dass die Kommunikation zwischen Nord- und Mitteldeutschland nicht nur auf die reguläre, reitende Reichspost und die immer wieder mühsam regulierten, fahrenden Nebenposten („Gelbe Kutsche“; „Braunschweiger Küchenpost“) angewiesen war, sondern - trotz aller Unwägbarkeiten - auch auf die persönliche Überbringung durch reisende Vertrauenspersonen setzen konnte - und dass Jauch durchaus Wert auf eine zeitnahe Beantwortung von Anfragen legte.  
 
@@ -420,7 +417,7 @@ lässt sich lesen als:
 [J]auch [Pr]ediger [zu] [L]üneburg (und des)  
 [I]ohann [G]eorg [F]lor [O]rganist.  
 
-Zu einem kaum widerlegbaren Beweis erhoben wird dieses Indiz für den Autorennachweis durch die Tatsache, dass das Titelblatt des Kantatendrucks mit einem leicht umformulierten Zitat des Psalms 73, 23-24 beginnt, welches als lebenslanges theologisches Motto Jauchs belegt ist - z.B. durch das bis heute verwendete Familienwappen, welches auf einen Abdruck seines Ringsiegels zurück geht: „Die Leitung Gottes nach seinem Raht.“  
+Zu einem kaum widerlegbaren Beweis erhoben wird dieses Indiz für den Autorennachweis (neben der engen beruflichen Beziehung der Protagonisten) durch die Tatsache, dass das Titelblatt des Kantatendrucks mit einem leicht umformulierten Zitat des Psalms 73, 23-24 beginnt, welches als lebenslanges theologisches Motto Jauchs belegt ist - z.B. durch das bis heute verwendete Familienwappen, welches auf einen Abdruck seines Ringsiegels zurück geht: „Die Leitung Gottes nach seinem Raht.“  
 Mit diesem alttesttamentlichen Dictum beginnt auch das „Concert. a 4. Voc. C.A.T.B.“, mit dem die Kantate anhebt, als deren Komponist in der o.g. obfuszierten Form der Lamberti-Organist Johann Georg Flor genannt wird. 
 
 „Herr, dennoch bleibe ich stets an dir, denn du hältest mich bei meiner rechten Hand, du leitest mich nach deinen Raht, und nimmst mich endlich mit Ehren an.“  
@@ -474,7 +471,9 @@ Bemerkenswert an diesem Lüneburger Libretto ist diese Dichotomie: Zum einen zie
 
 Zum anderen wird das hier wörtlich nacherzählte biblische Narrativ auf eine Weise durch Arien kommentiert, die mit ihrer moderateren Wortwahl (Ausnahme: „… wenn kräht der Gewissens-Hahn…“) näher an dem am „Sermo humilis“ (vgl. Axmacher 1984; Haselböck 2004) orientierten, volksnahen Predigtstil angesiedelt ist als die ein Jahr darauf in Hamburg - unter gänzlich anderen Umständen, nämlich in Form eines spektakulären, großbürgerlichen, nur vorgeblich privaten musikalischen Konventikels zelebrierte Brockes-Passion - wie aus der formal und inhaltlich extrem verdichteten Arie Nr. 7 erhellt.  
 
-Deren erste drei Zeilen sind offenkundig inpspiriert von einer an analoger Stelle platzierten Aria der Tochter Zion aus Christian Friedrich Hunolds 1706 (im Jahr seiner Flucht aus Norddeutschland) in Hamburg gedruckten, von Reinhard Keiser 1704 vertonten und unter Protesten der Geistlichkeit aufgeführten Passionsoratorium „Der blutige und sterbende Jesus“, wo es u.a heißt: „Besiege diese Nacht …; Ihr Sünden-Finsternissen, Entweicht mit Babels Flüssen …“ Böhm vertont diese Worte:  
+Deren erste drei Zeilen sind offenkundig inpspiriert von einer an analoger Stelle platzierten Aria der Tochter Zion aus Christian Friedrich Hunolds 1706 (im Jahr seiner Flucht aus Norddeutschland) in Hamburg gedruckten, von Reinhard Keiser 1704 vertonten und unter Protesten der Geistlichkeit aufgeführten Passionsoratorium „Der blutige und sterbende Jesus“, wo es u.a heißt: „Besiege diese Nacht …; Ihr Sünden-Finsternissen, Entweicht mit Babels Flüssen …“  
+
+Böhm vertont diese Worte:  
 
 O ungeheure Nacht!  
 Derer Sünd und Finsternissen  
@@ -498,7 +497,7 @@ Die Zuweisungen der mit BWV 245 wiederholt in Verbindung gebrachten Pseudo-Händ
 
 Die Namen Christian Flor und Georg Flor könnten bei einer nochmaligen Neubewertung der Urheberdiskussion bzgl. HWV Anh. B 202 zumindest gestreift werden, auch vor dem Hintergrund der vorsichtigen Vermutung, dass hier ein Werk vorliegt, das notationstechnisch nicht aus einem Guss stammt. Freilich wäre eine stilgeschichtliche Lücke von mindestens einem Jahrzehnt zu erklären.  
 
-Zum Stichwort „Gewissens-Hahn“ in Böhms Passion ist anzumerken: Die Spur dieses (laut Grimm 6/6321 scheinbar einzigartigen) Kopulativkompositums führt zunächst zu Strophe IV jenes 1675 gedruckten Gedichts des Zittauer Rektors Christian Weise, dessen erste Strophe durch Bach in der Arie „Ach mein Sinn“ der Johannespassion BWV 245/13 vertont wurde. Nur 20 Druckzeilen später heißt es bei Weise:  
+Zum Stichwort „Gewissens-Hahn“ in Böhms Passion ist anzumerken: Die Spur dieses (laut Grimm 6/6321 scheinbar einzigartigen) Kopulativkompositums führt zunächst zu Strophe IV jenes 1675 gedruckten Gedichts des Zittauer Rektors Christian Weise, dessen I. Strophe durch Bach in der Arie „Ach mein Sinn“ der Johannespassion BWV 245/13 vertont wurde. Nur 20 Druckzeilen später heißt es bei Weise:  
 
 Wird mir gleich der Sünden-Hahn  
 Im Gewissen krehen müssen  
@@ -541,13 +540,13 @@ Bei dieser Gelegenheit hatte er sich „mit dasigen berühmten Männern“ (und 
 
 Die Gemahlin Augusts des Starken, Christiane Eberhardine von Brandenburg-Bayreuth, lud Jauch (wohl durch Vermittlung ihrer elterlichen Entourage) nach der kontrovers diskutierten Konversion ihres kurfürstlich / königlichen Gatten zum Predigen während einer „Brunnen-Cur“ in ihre Privatgemächer auf Schloss Pretzsch und in die nahe gelegene Stadtkirche ein.  
 Dort hätte er in Kontakt mit dem späteren Leipziger Thomaspastor und Beichtvater Bachs, Christian Weise d.Ä. treten können, der 1724/25 bei den Uraufführungen eines Teils der Choralkantaten auf der Kanzel stehen sollte. Weise war aufgrund seiner homiletischen Kompetenz von 1696 bis 1699 als Diakonus in das benachbarte Torgau berufen worden und predigte ebenfalls öffentlich und privatim vor der Fürstin.  
-Dem steht aber eventuell entgegen, dass dieser Vorgang laut Bertram (1719) erst nach Jauchs Bewerbung für Hannover 1705 erfolgt sein sollte - freilich ein schwaches Argument in Anbetracht der sehr kursorisch wirkenden Chronologie von Bertrams Erzählweise.  
+Dem steht aber eventuell entgegen, dass dieser Vorgang laut Bertram (1719) erst nach Jauchs Bewerbung für Hannover 1705 erfolgt sein soll - freilich ein schwaches Argument in Anbetracht der sehr kursorisch wirkenden Chronologie von Bertrams Erzählweise.  
 
 
 Jauchs besondere seelsorgerische Kompetenz wurde auch propagiert durch ein (ebenfalls von Bertram 1719 kolportiertes) Ereignis, das zu dem sehr speziellen Phänomen der „Maleficantenberichte“ gehört. Demnach hatte er einen zum Tode verurteilten römisch-katholischen Dragoner aus dem Regiment des Generalmajors Villars (alias Villiers / Villers, 1691-1708) auf dem etwa eine halbe Meile (3-4 Kilometer) langen Weg zur Exekution durch provisorische Glaubensinstruktion, Examination und Verabreichung des Abendmahls zum „wahren Glaubens-Grund“ überzeugt - nachdem dieser noch kurz zuvor von einem Pater Le Blanche „in einem Gartenhause“ die Heilige Kommunion „nach päbstlicher Weise“ empfangen hatte. (Vgl. Jakubowski-Tiessen 2011)  
 
 
-Der 1765 aus dem Nachlass des 1698 erstgeborenen Sohnes, des Lüneburger Michaelispastors Ludolph Friedrich Jauch, versteigerte Bibliotheksbestand ermöglicht anhand eines Auktionskatalogs, der etwa 5.000 Bände, Konvolute, Faszikel und leider nicht näher spezifizierte Kapseln verzeichnet, detaillierte Einblicke in Bildungsstand und Interessenlage der beiden Besitzer, wobei (möglicherweise erhebliche, teilweise verfolgbare) Abspaltungen im Rahmen einer mutmaßlichen Erbteilung 1725f ebenso im Blick behalten werden müssen wie die offenkundigen Zukäufe nach dem Tod des Erstbesitzers. 
+Der 1765 aus dem Nachlass des 1698 erstgeborenen Sohnes, des Lüneburger Michaelispastors Ludolph Friedrich Jauch, versteigerte Bibliotheksbestand ermöglicht anhand eines Auktionskatalogs, der etwa 5.000 Bände, Konvolute, Faszikel und leider nicht näher spezifizierte Kapseln verzeichnet, detaillierte Einblicke in Bildungsstand und Interessenlage der beiden Besitzer, wobei (möglicherweise erhebliche, teilweise verfolgbare) Abspaltungen im Rahmen einer mutmaßlichen Erbteilung 1725f ebenso im Blick behalten werden müssen wie die offenkundigen Zukäufe nach dem Tod des Erstbesitzers.  
 
 Auf Johann Christoph Jauch dürfte zum Beispiel die Anschaffung jener achtbändigen Ausgabe des 1697 erschienenen „Wagnerschen Gesangbuchs“ zurückgehen (Nr. 2645 - 2652 des Katalogs), einer enzyklopädischen, allein schon aus materiellen Gründen keineswegs für den Massengebrauch konzipierten Choraltextanthologie, die auch für die theologische Bibliothek Bachs belegt ist.  
 
@@ -737,7 +736,7 @@ Der zeitlebens wenig ambitioniert wirkende Jauch hatte bei der Suche Bachs und s
 
 Mit Johann Christoph Jauch konnte Bach bei seiner - weitgehend vom Aufführungskalender diktierten - kompositorischen Akkulturation in Leipzig auf einen theologischen Gewährsmann setzen, der sich zwar sprachstilistisch nur sehr subtil und im Verlauf eines durchaus rekonstruierbaren Entwicklungsprozesses an die eine Tagesreise von Lüneburg residierende Avantgarde angenähert hatte - also an Barthold Hinrich Brockes und seinen Kreis (gewiss auch unter dem Einfluss seiner eigenen Schüler Michael Christoph Brandenburg, Matthias Daniel Behm und Joachim Christian Heini), der aber konfessionell deutlich unproblematischer erscheinen musste als der (offiziell wegen Häresie, inoffiziell aber wohl wegen individualspychologischer Probleme) seit 1697 amtsenthobene, zeitweise unter Hausarrest stehende, sodann unter ansatzweise ermittelbaren Bedingungen geduldete und besoldete, Bach bis Frühsommer 1723 noch nicht persönlich bekannte Conrector emeritus Johann Andreas Stübel - von dem kaum den intellektuellen und gesellschaftlichen Kinderschuhen entwachsenen Leipziger Enfant terrible Christian Friedrich Henrici ganz zu schweigen.  
 
-Stübel, der zeitweilig offenbar mit einem - von ihm selbst detailliert dokumentierten - Publikationsverbot belegt wurde, schildert die auslösenden Ereignisse in einem 1698 gedruckten Schriftenkatalog so: „Auffs Jahr 1697, hatte ich mir vorgenommen / gar viele Schrifften zu publiciren; Homo proponit, Deus disponit. Ich gerieht damals im Februario in eine sonderbare Geistliche Anfechtung / nach dessen glücklicher Ueberwindung und darauff erfolgten hart ausgestandenen halbjährigen häußlichen Verwachung ich nur das wenigste ans Licht bringen können“.  
+Stübel, der zeitweise offenbar mit einem - von ihm selbst detailliert dokumentierten - Publikationsverbot belegt wurde, schildert die auslösenden Ereignisse in einem 1698 gedruckten Schriftenkatalog so: „Auffs Jahr 1697, hatte ich mir vorgenommen / gar viele Schrifften zu publiciren; Homo proponit, Deus disponit. Ich gerieht damals im Februario in eine sonderbare Geistliche Anfechtung / nach dessen glücklicher Ueberwindung und darauff erfolgten hart ausgestandenen halbjährigen häußlichen Verwachung ich nur das wenigste ans Licht bringen können“.  
 
 Was Henrici betrifft, so hatte sich dieser - nicht nur durch seine ständigen, gerichtsnotorischen Beißereien mit seinem, beinahe existenzgefährdend zurückschlagenden literaturpolitischen Lieblingsgegner Gottsched (vgl. Otto 2007), sondern auch in den von Woche zu Woche parallel zu den Aufführungen der Choralkantaten entstandenen und publizierten „Erbaulichen Gedancken“ - durch kaum verklausulierte (als wahrhaftige Confessio intendierte oder nur in ironischer Absicht fingierte?) Stellungnahmen im offiziell längst terminierten „Terministischen Streit“ bis auf weiteres auch theologisch als Emporen-untauglich disqualifiziert.
 

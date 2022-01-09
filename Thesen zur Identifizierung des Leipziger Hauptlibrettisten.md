@@ -2,7 +2,7 @@
 des „Leipziger“ Hauptlibrettisten  
 Johann Sebastian Bachs  
 Michael Hochgartz (D 48153 Münster)  
-michael@hochgartz.de - 26.11.2021  
+michael@hochgartz.de - 09.01.2022  
 Quelltext und Literaturverzeichnis: https://github.com/michael-hochgartz/lectio-brevior  
 
 Amore et studio elucidandae veritatis haec subscripta disputabuntur (Martin Luther 1517)  
@@ -46,16 +46,16 @@ Ein in Teilen der Fachliteratur (vgl. z.B. Gardiner 2013) unterstellter Erschöp
 
 Im übrigen verursachten Erstellung bzw. Umarbeitung der nachgewiesenen Ersatzkompositionen organisatorisch und intellektuell mindestens identische, emotional vielleicht sogar überdurchschnittliche Unkosten.  
 
-Dass bis heute keine Parallelvertonung aus diesem Textkorpus durch einen anderen Komponisten bekannt geworden ist, lässt sich als Indiz dafür werten, dass das handschriftliche Material Bachs und des Autors Besitz zu Lebzeiten niemals verlassen hat - und auch nicht den der jeweiligen Nachkommen.  
+Dass bis heute keine Parallelvertonung aus diesem Textkorpus durch einen anderen Komponisten bekannt geworden ist (so schon Krausse 1986), lässt sich als Indiz dafür werten, dass das handschriftliche Material Bachs und des Autors Besitz zu Lebzeiten niemals verlassen hat - und auch nicht den der jeweiligen Nachkommen.  
 
-Da aufgrund dieses Befunds nicht damit zu rechnen ist, dass jemals ein - zwangsläufig nur posthum denkbarer - Sammeldruck des unvollständigen Jahrgangs in Form eines (urheberische Initiativen oder gar verlegerische Investitionen der Erben) erfordernden Buchs auftauchen könnte, das analog zum Fall J.C. Birckmann (vgl. Blanken 2015) eine Attribution anhand textlicher Konkordanzen ermöglichen würde, müssen andere Ansätze zur Identitätsermittlung herangezogen werden.  
+Da aufgrund dieses Befunds nicht damit zu rechnen ist, dass jemals ein - zwangsläufig nur posthum denkbarer - Sammeldruck des unvollständigen Jahrgangs in Form eines (urheberische Initiativen oder gar verlegerische Investitionen der Erben) erfordernden Buches auftauchen könnte, das analog zum Fall J.C. Birckmann (vgl. Blanken 2015) eine Attribution anhand textlicher Konkordanzen ermöglichen würde, müssen andere Ansätze zur Identitätsermittlung herangezogen werden.  
 
 Diese konzentrieren sich auf die Suche nach einem Anfang 1725 verstorbenen lutherischen Theologen mit dichterischer Kompetenz, homiletischer Reputation, hymnologischem Hintergrund und untadelhaftem Lebenswandel - allerdings ohne (anders als Schulze 1999 und die ihm Folgenden) Leipzig als Lebensmittelpunkt zur impliziten Conditio sine qua non zu machen.  
 
 
 4. Auch aus der Tatsache, dass der Autor des (ansonsten idealtypisch - inklusive überzähliger Termine - angelegten) Choralkantatenjahrgangs auf die Lieferung von Texten für den Ratswechsel und für das Reformationsfest 1724 verzichtete, lässt sich ableiten, dass sein Wirkungsort eher außerhalb Leipzigs bzw. außerhalb Kursachsens zu suchen ist.  
 
-Dazu passt die Beobachtung, dass in der Kantate BWV 93 das Luther-Zitat aus 2Kön 4,38-41 („mors in olla“) nicht in der obersächsisch-böhmischen Form („Der Tod im Topf“) sondern als thüringisch-niedersächsische Variante („Der Tod in Töpfen“) verwendet wird - vorausgesetzt, der sprachlich in Thüringen sozialisierte Komponist gibt hier die Formulierung des Dichters unverändert wieder.  
+Dazu passt die Beobachtung, dass in der Kantate BWV 93 das Luther-Zitat aus 2Kön 4,38-41 („mors in olla“) nicht in der obersächsisch-böhmischen Form („Der Tod im Topf“) sondern als thüringisch-niedersächsische Variante („Der Tod in Töpfen“) verwendet wird - vorausgesetzt, der sprachlich in Thüringen (zeitweise aber auch in Niederdeutschland) sozialisierte Komponist gibt hier die Formulierung des Dichters unverändert wieder.  
 
 
 5. Derselbe Autor hat möglicherweise auch die Textauswahl und das theologische Konzept für die am Karfreitag 1724 aufgeführte Johannespassion (BWV 245 Fassung I) mitgestaltet.  
@@ -64,7 +64,7 @@ Dazu passt die Beobachtung, dass in der Kantate BWV 93 das Luther-Zitat aus 2Kö
 6. Von diesem Autor stammen ebenfalls das theologische und das hymnologische Konzept sowie die bis dahin vorliegende „Poesia“ für eine Anfang 1725 abgebrochene, spätestens 1729 durch Christian Friedrich Henrici vervollständigte Erstfassung der Matthäuspassion BWV 244b, die als integraler Teil des Choralkantatenjahrgangs geplant war. (Zur Grundidee vgl. Chafe 1982 und die ihrerseits nicht unangreifbare, vom Verfasser selbst als „betont rüde“ bezeichnete Zurückweisung durch Dürr 1988 und besonders 1990; ferner mit anderem Begründungszusammenhang Gardiner 2013.)  
 
 
-7. Einziger Grund für die vorzeitige Wiederaufführung einer provisorisch modifizierten Version der Johannespassion (BWV 245 II) am Karfreitag 1725 war der Ausfall des Autors als Librettist einer für diesen Termin vorgesehenen Erstaufführung der Matthäuspassion BWV 244b. (Vgl. Leisinger 2002 sowie Gardiner 2013.) Das von Walter (2016) erhobene Postulat einer beabsichtigten, auf einem einzigen Choral („O Mensch bewein“) basierenden Passion wird damit überflüssig.  
+7. Einziger Grund für die vorzeitige Wiederaufführung einer provisorisch modifizierten Version der Johannespassion (BWV 245 II) am Karfreitag 1725 war der Ausfall des Autors als Librettist einer für diesen Termin vorgesehenen Erstaufführung der Matthäuspassion BWV 244b. (Vgl. Brischwein 2001; Leisinger 2002; Gardiner 2013.) Das von Walter (2016) erhobene Postulat einer beabsichtigten, auf einem einzigen Choral („O Mensch bewein“) basierenden Passion wird damit überflüssig.  
 
 
 
@@ -74,7 +74,7 @@ Als strukturelle Folie zur Darstellung des Umfangs fehlender Teile diente ihm ei
 
 Bei der Kollationierung der Vorlagen durch Agricola kam es zu der von Dürr (1972) editionstechnisch pragmatisch behandelten, gleichwohl von ihm (1974) aufgrund erheblicher Restzweifel exemplarisch dokumentierten, von Chafe (1982) kontrovers gedeuteten, von Glöckner (2004) kritiklos im Sinne Dürrs akzeptierten, bislang ohne fundamentale Erklärung gebliebenen Kreuzkontamination von Lesarten, die allenthalben durch Lesefehler des sichtlich überforderten Farlau und - in deutlich weniger Fällen als von Dürr unterstellt - durch kluge Konjekturen des kompositionserfahrenen Agricola überlagert wurden.  
 
-Diese Betrachtungsweise ermöglicht erstmals eine weitgehend widerspruchsfreie Erklärung der Herkunft der von Dürr (1974) als authentisch eingestuften (da durch das Autograph der Spätfassung P 25 indirekt bezeugten) Lesarten in der Handschrift P 26, die Agricola nicht aus AmB. 6+7, sondern nur aus einer heute verschollenen originalen Entwurfspartitur bezogen haben kann - den eingangs postulierten Relikten vom Januar 1725 - deren abstrakter philologischer Status näherungsweise mit demjenigen der „Logienquelle Q“ bei der Überlieferung des Neuen Testaments vergleichbar ist.  
+Diese Betrachtungsweise ermöglicht erstmals eine weitgehend widerspruchsfreie Erklärung der Herkunft der von Dürr (1974) als authentisch eingestuften (da durch das Autograph der Spätfassung P 25 indirekt bezeugten, als Trennfehler zu klassifizierenden) Lesarten in der Handschrift P 26, die Agricola nicht aus AmB. 6+7, sondern nur aus einer heute verschollenen originalen Entwurfspartitur bezogen haben kann - den eingangs postulierten Relikten vom Januar 1725 - deren abstrakter philologischer Status näherungsweise mit demjenigen der „Logienquelle Q“ bei der Überlieferung des Neuen Testaments vergleichbar ist.  
 
 Der Charakter der Handschrift P 26 ist somit keineswegs defizitär, wie seit Jahrzehnten von der Forschung in fast einhelliger Ratlosigkeit unterstellt wird, (etwa aufgrund einer auf den ersten Blick willkürlich erscheinenden Selektion durch den Schreiber), sondern erlaubt vielmehr durch seinen präzisen, erstaunlich modern wirkenden musikarchäologischen Ansatz bislang beispiellose Einblicke in Bachs Vorgehensweise bei der Entstehung eines seiner umfangreichsten Großwerke, dessen erster Versuch einer Niederschrift durch außergewöhnliche äußere Umstände in singulärer Weise beeinflusst worden war.  
 
@@ -126,7 +126,7 @@ Als alternativer Erklärungsansatz wäre eine - von Dürr (1988) zur Diskussion 
 Durch Umkehrung der bisher angenommenen Entstehungsreihenfolge wird somit auch eine von Arthur Mendel postulierte, in Weimar lokalisierte Frühfassung des Satzes (BC D1) obsolet. Vielmehr fügt sich dieser Chor durch seine - in der Fachliteratur nachhaltig bestätigte - kompositorische Reife, formale Opulenz und hymnologische / theologische Tendenz zwar notationstechnisch scheinbar leicht korrumpiert, aber substanziell bruchlos in ein Gesamtprojekt „Choralkantaten und Matthäuspassion“ ein.  
 
 
-13. Bei Bestätigung der Annahme einer Entstehung und Vollendung der Frühfassung der Matthäuspassion in zwei, in größerem zeitlichen Abstand aufeinander folgenden Etappen könnten sich alternative Antworten auf die bis heute nicht abschließend beantwortete Frage nach der Parodiebeziehung zur Köthener Trauermusik BWV 244a ergeben. (Vgl. Gojowy 1965; Brainard 1969; Braatz 2006). Das beträfe gegebenenfalls auch den Zeitpunkt der Vervollständigung der fragmentarischen Teile von BWV 244b - und damit den Termin der Uraufführung der Passion. 1727 ist durch eine von Rifkin (1975) aufgezeigte, allerdings nicht voll belastbare Spur in einer Instrumentalstimme indiziert, die von der Forschung gleichwohl überwiegend akzeptiert wird. (Vgl. Dürr 1974; Schulze 2001.)  
+13. Bei Bestätigung der Annahme einer Entstehung und Vollendung der Frühfassung der Matthäuspassion in zwei, in größerem zeitlichen Abstand aufeinander folgenden Etappen könnten sich alternative Antworten auf die bis heute nicht abschließend beantwortete Frage nach den Prioritäten der Parodiebeziehungen zur Köthener Trauermusik BWV 244a ergeben. (Vgl. Gojowy 1965; Brainard 1969; Schulze 2004; Braatz 2006). Das beträfe gegebenenfalls auch den Zeitpunkt der Vervollständigung der fragmentarischen Teile von BWV 244b - und damit den Termin der Uraufführung der Passion. 1727 ist durch eine von Rifkin (1975) aufgezeigte, allerdings nicht voll belastbare Spur in einer Instrumentalstimme indiziert, die von der Forschung gleichwohl überwiegend akzeptiert wird. (Vgl. Dürr 1974; Schulze 2001.)  
 
 Unter diesem Aspekt wäre (entgegen Smend 1951) auch zu überlegen, ob und auf welche Weise der ungewöhnlich lange Zeitraum zwischen Entstehungsanlass (19.11.1728) und Aufführung (24.3.1729) der Trauermusik als Katalysator bei der Wiederaufnahme der Arbeiten an der Passion gewirkt haben könnte.  
 
@@ -136,7 +136,7 @@ Henricis Textentwurf lag zwar (laut Smend 1951 zwecks formaler Approbation) zeit
 
 Weiter zugespitzt: Ist es vorstellbar, dass Bach die erheblichen Einkünfte (230 Rtlr. brutto; vgl. Heber 2017) aus den beiden Köthener Aufführungen (es erklang am Abend der Beisetzung auch die fertig vorliegende doppelchörige Musik „O Herr, ich bin dein Knecht“ seines Meininger Vetters Johann Ludwig Bach) gleichsam als Quersubventionierung genutzt hat, um sein 1725 vorläufig gescheitertes Passions-Projekt unter optimalen Bedingungen für Leipzig zu vollenden und zu präsentieren? (Vgl. Hofmann 1983)  
 
-Das Ganze wäre auch zu betrachten vor dem Hintergrund der anschwellenden Auseinandersetzungen mit seinen komplex organisierten Dienstherrschaften (Stadt; Landesherrschaft; Universität; Konsistorium; Ferne Fürsten) um eine halbwegs hinreichende Ausstattung des chronisch defizitären Leipziger Aufführungsapparts - also gleichsam als „demonstratio ad aures“ dessen, was er als Director Musices bei angemessener Subventionierung zu leisten im Stande sein könnte.  Und das übrigens in direkter zeitlicher Konkurrenz zur Aufführung einer - von einem nicht bekannten Komponisten vertonten - Brockes-Passion in der Leipziger Neukirche. (Vgl. Glöckner 1990)  
+Das Ganze wäre auch zu betrachten vor dem Hintergrund der anschwellenden Auseinandersetzungen mit seinen komplex organisierten Dienstherrschaften (Stadt; Landesherrschaft; Universität; Konsistorium; Ferne Fürsten) um eine halbwegs hinreichende Ausstattung des chronisch defizitären Leipziger Aufführungsapparts - also gleichsam als „demonstratio ad aures“ dessen, was er als Director Musices bei angemessener Subventionierung zu leisten im Stande sein könnte. Und das übrigens in direkter zeitlicher Konkurrenz zur Aufführung einer - von einem nicht bekannten Komponisten vertonten - Brockes-Passion in der Leipziger Neukirche. (Vgl. Glöckner 1990)  
 
 Für den Zusammenhang von Trauermusik und Passion ist anhand eines Schnittmengenmodells folgendes Schema denkbar: Den 1725 in Konzeptschrift vorliegenden Sätzen 20,39,57 wurden 1728/29 in den Vokalstimmen (und nur dort!) neue Texte unterlegt. Keiner, alle oder (am wahrscheinlichsten:) einige wenige der Sätze 6,8,13,23,49,65 lagen 1725 als unvertonte Texte vor, wurden 1728 von Henrici parodiert und von Bach mit Blick auf die Doppelverwendung vertont. Bei der verbleibenden Menge handelt es sich um komplette Neuschöpfungen, die dann bald darauf oder parallel dazu in die Passion übernommen wurden.  
 
@@ -209,7 +209,7 @@ Ob den an der Vorbereitung bzw. Vollendung des Werks Beteiligten bewußt war, da
 
 [J]ohann [G]eorg [C]hurfürst [z]u [S]achsen  
 
-Das bekannteste Beispiel der Verwendung von Buchstabenspielen bei Bach selbst (der dieses Prinzip spätestens seit seiner Vertonung der 2004 zutage getretenen Strophenarie BWV 1127 im Jahr 1713 kannte; vgl. Maul 2005) findet sich bald vor Ende seines Lebens im RICERCAR des Musikalischen Opfers BWV 1077 für Friedrich II. von Preußen, im Beisein von C.E.P. Bach, W.F. Bach (und wohl auch J.F. Agricola) in Potsdam zunächst dreistimmig extemporiert, später sechsstimmig neu ausgearbeitet, in Kupfer gestochen und nachträglich (durch eigens gedruckte und eingeklebte Zettel) mit dieser Bedeutungserklärung und Sinnerhöhung versehen:  
+Das bekannteste Beispiel der Verwendung von Buchstabenspielen bei Bach selbst (der dieses Prinzip vielleicht schon aus dem Akrostichon in der Kantate BWV 150, spätestens aber seit seiner Vertonung der 2004 zutage getretenen Strophenarie BWV 1127 im Jahr 1713 kannte; vgl. Schulze 2021; Maul 2005) findet sich bald vor Ende seines Lebens im RICERCAR des Musikalischen Opfers BWV 1077 für Friedrich II. von Preußen, im Beisein von C.E.P. Bach, W.F. Bach (und wohl auch J.F. Agricola) in Potsdam zunächst dreistimmig extemporiert, später sechsstimmig neu ausgearbeitet, in Kupfer gestochen und nachträglich (durch eigens gedruckte und eingeklebte Zettel) mit dieser Bedeutungserklärung und Sinnerhöhung versehen:  
 
 [R]egis [I]ussu [C]antio [E]t [R]eliqua [C]anonica [A]rte [R]esoluta  
 
