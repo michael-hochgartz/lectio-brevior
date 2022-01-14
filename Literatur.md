@@ -87,6 +87,7 @@ Bd. 1, Kassel **2004**
 **Rathey**, Markus, Die geistliche Hirten-Freude - eine Leipziger Weihnachtsmusik im Jahre 1685 und die Transformation weihnachtlicher Bukolik im späten 17. Jahrhundert, in: Daphnis 40 (**2011b**), 567-606  
 **Rathey**, Markus, Der zweite Leipziger Jahrgang - Choralkantaten, in: Bachs Kantaten: Das Handbuch, Laaber **2012a**, 331-449  
 **Reinhardt**, Uta: Die evangelischen Pastoren in Lüneburg 1530-1980, in: Reformation vor 450 Jahren. Lüneburg **1980**, 113-169  
+**Schabalina**, Tatjana: "Texte zur Music" in St. Petersburg. Weitere Funde, in BJ 95 **2009**, 11-48  
 **Scheide**, William H.: Die Choralkantaten von 1724 und Bachs Köthener Besuch, in BJ 89 **2003**, 47-65  
 **Scheide 1976**  
 **Scheitler**, Irmgard:  **2004**  
