@@ -2,7 +2,7 @@
 des „Leipziger“ Hauptlibrettisten  
 Johann Sebastian Bachs  
 Michael Hochgartz (D 48153 Münster)  
-michael@hochgartz.de - 09.01.2022  
+michael@hochgartz.de - 14.01.2022  
 Quelltext und Literaturverzeichnis: https://github.com/michael-hochgartz/lectio-brevior  
 
 Amore et studio elucidandae veritatis haec subscripta disputabuntur (Martin Luther 1517)  
@@ -96,11 +96,13 @@ Die Antwort kann nur Nein lauten, denn Ziel von Agricolas Bemühungen war keines
 
 Zu klären bleibt, warum Agricola in dieser Partitur Gebrauch von zahlreichen notationstechnischen Abbreviaturen macht („col vl. primo“ etc.; auch da, wo es sich kaum zu lohnen scheint) - wie sie für viele seiner übrigen Handschriften (auch eigener Kompositionen) typisch sind. (Vgl. dazu möglicherweise die unveröffentlichte, 2021 an der Universität Oxford verteidigte Dissertation von Andrew Frampton.)  
 
+Ohne weiteres erklärbar ist hingegen der Umstand, dass sich Agricola bei der Rekonstruktion des - in den Fragmenten naturgemäß noch fehlenden, in der Farlau-Kopie nur in knappest möglicher Form vorhandenen - Titelblatts für eine repräsentative Lösung auf der Basis eines nicht erhaltenen Textdrucks entschied, der ganz offensichtlich für mehrere, jeweils handschriftlich zu ergänzende Aufführungsdaten aus den 1730er Jahren bestimmt war. (Vgl. Schabalina 2009). Wortwahl und Zeilenfall weisen derart typisch auf einen „Text zur Music“, dass keine Zweifel an der Verwendung als bewusstes Versatzstück durch Agricola möglich sind.  
+
 
 
 9. Agricolas - örtlich und wohl auch zeitlich im nahen Umfeld der Entstehung und von ihm geleiteten Erstaufführung von C.H. Grauns Passionsoratorium „Der Tod Jesu“ (vgl. Schwinger 2012) anzusiedelnde - Dokumentation des unfreiwillig unterbrochenen Entstehungsprozesses hätte die Wahrnehmung von Bachs Matthäuspassion bereits ein Menschenleben vor ihrer Wiederaufführung durch Felix Mendelssohn Bartholdy vom Status einer theologisch und sprachlich nicht mehr auf der Höhe der Zeit befindlichen, bestenfalls nur lokal rezipierbaren Gebrauchsmusik (Otto 2007 mit der typischen Herablassung neuerer Germanisten: „musikalisches Kleinod … kontaminiert mit abgeschmacktem Wortmaterial…“) in den Rang eines zeitlosen musikalischen Kunstwerks heben können und wohl auch sollen, sofern dieser Ansatz über den engsten Zirkel Berliner Bach-Kenner (C.P.E. Bach, Kirnberger, Anna Amalia von Preußen, Marpurg und einige wenige Andere) hinaus bekannt geworden wäre. (Vgl. Schulze 1981; Wollny 2020).  
 
-Die Intention dieses Vorgangs ist vergleichbar mit der im selben Zeitraum von Agricola begleiteten Edition der (auch aus kaufmännischen Zwängen) als raffiniert ergänztem Torso konfektionierten Kunst der Fuge BWV 1080, seines (nach dessen eigenen Worten) mit C.P.E. Bach in Berlin „zusammengestoppelten“ Nekrologs, seinem Interesse an Sammlung und Herausgabe der „Vierstimmigen Choralgesänge“ und seiner erst in jüngster Zeit thematisierten Erhebung Bachs in den Rang eines „Genies“ wie Isaac Newton (Vgl. Wolff 2007).  
+Die Intention dieses Vorgangs im Rahmen einer „Sichtbarmachung der eigenen Historizität“ (Wollny 2009) ist vergleichbar mit der im selben Zeitraum von Agricola begleiteten Edition der (auch aus kaufmännischen Zwängen) als raffiniert ergänztem Torso konfektionierten Kunst der Fuge BWV 1080, seines (nach dessen eigenen Worten) mit C.P.E. Bach in Berlin „zusammengestoppelten“ Nekrologs, seinem Interesse an Sammlung und Herausgabe der „Vierstimmigen Choralgesänge“ und seiner erst in jüngster Zeit thematisierten Erhebung Bachs in den Rang eines „Genies“ wie Isaac Newton (Vgl. Wolff 2007).  
 
 Nicht übersehen werden sollte in diesem Zusammenhang der Umstand, dass Agricola in Potsdam über längere Zeit täglich Gelegenheit hatte, jene klassischen Torsi auf sich wirken zu lassen, die sein Dienstherr Friedrich II. von Preußen 1742 mit der 300 Objekte umfassenden Antikensammlung des französischen Kardinals Melchior de Polignac erworben hatte. (Vgl. Schleuning 1993.)  
 
@@ -126,7 +128,7 @@ Als alternativer Erklärungsansatz wäre eine - von Dürr (1988) zur Diskussion 
 Durch Umkehrung der bisher angenommenen Entstehungsreihenfolge wird somit auch eine von Arthur Mendel postulierte, in Weimar lokalisierte Frühfassung des Satzes (BC D1) obsolet. Vielmehr fügt sich dieser Chor durch seine - in der Fachliteratur nachhaltig bestätigte - kompositorische Reife, formale Opulenz und hymnologische / theologische Tendenz zwar notationstechnisch scheinbar leicht korrumpiert, aber substanziell bruchlos in ein Gesamtprojekt „Choralkantaten und Matthäuspassion“ ein.  
 
 
-13. Bei Bestätigung der Annahme einer Entstehung und Vollendung der Frühfassung der Matthäuspassion in zwei, in größerem zeitlichen Abstand aufeinander folgenden Etappen könnten sich alternative Antworten auf die bis heute nicht abschließend beantwortete Frage nach den Prioritäten der Parodiebeziehungen zur Köthener Trauermusik BWV 244a ergeben. (Vgl. Gojowy 1965; Brainard 1969; Schulze 2004; Braatz 2006). Das beträfe gegebenenfalls auch den Zeitpunkt der Vervollständigung der fragmentarischen Teile von BWV 244b - und damit den Termin der Uraufführung der Passion. 1727 ist durch eine von Rifkin (1975) aufgezeigte, allerdings nicht voll belastbare Spur in einer Instrumentalstimme indiziert, die von der Forschung gleichwohl überwiegend akzeptiert wird. (Vgl. Dürr 1974; Schulze 2001.)  
+13. Bei Bestätigung der Annahme einer Entstehung und Vollendung der Frühfassung der Matthäuspassion in zwei, in größerem zeitlichen Abstand aufeinander folgenden Etappen könnten sich alternative Antworten auf die bis heute nicht abschließend beantwortete Frage nach den Prioritäten der Parodiebeziehungen zur Köthener Trauermusik BWV 244a ergeben. (Vgl. Gojowy 1965; Brainard 1969; Schulze 2004; Braatz 2006). Das beträfe gegebenenfalls auch den Zeitpunkt der Vervollständigung der fragmentarischen Teile von BWV 244b - und damit den Termin der Uraufführung der Passion. 1727 ist durch eine von Rifkin (1975) aufgezeigte, allerdings nicht voll belastbare Spur in einer - ohne Textbezug überlieferten - Instrumentalstimme indiziert, die von der Forschung gleichwohl überwiegend akzeptiert wird. (Vgl. Dürr 1974; Schulze 2001.)  
 
 Unter diesem Aspekt wäre (entgegen Smend 1951) auch zu überlegen, ob und auf welche Weise der ungewöhnlich lange Zeitraum zwischen Entstehungsanlass (19.11.1728) und Aufführung (24.3.1729) der Trauermusik als Katalysator bei der Wiederaufnahme der Arbeiten an der Passion gewirkt haben könnte.  
 
@@ -142,7 +144,7 @@ Für den Zusammenhang von Trauermusik und Passion ist anhand eines Schnittmengen
 
 Dass ein aus diesem komplexen Procedere hervorgegangenes Partitur- bzw. Stimmenmaterial mit einer Mischung aus vorübergehend eingefügten Einlagestücken und Neuentwürfen, aus hin- und her- parodierten Textunterlegungen zur (Ur)aufführung der Passion 1729 nach einer Konsolidierung in Form einer klärenden Reinschrift verlangte (die dann später als Kopiervorlage für AmB. 6+7 dienen konnte), erscheint - etwa am Beispiel von Satz 20 mit seinen teils nur exemplarisch skizzierten Chorpartien - ebenso einleuchtend wie die anschließende Überflüssigkeit der Entwürfe und Umarbeitungen - die dann (direkt durch Bach oder durch die Hand seines Sohnes Carl Philipp Emanuel?) als Memorabilien an Agricola gelangten.  
 
-Erklärungsbedürftig bleibt in diesem Zusammenhang vorerst der Umstand, dass Henrici in Satz 20 der Trauermusik BWV 244a ganz offenkundig drei Zeilen aus dem letzten Satz der am 6.2.1725 aufgeführten, als Einzeldruck in wohl vierstelliger Auflage lokal verteilten, aber erst 1738 als Sammeldruck überregional publizierten Trauerkantate für den als Textautor zur Diskussion stehenden Theologen in kaum verändertem Wortlaut plagiiert hat:  
+Erklärungsbedürftig bleibt in diesem Zusammenhang auf jeden Fall der Umstand, dass Henrici in Satz 20 der Trauermusik BWV 244a ganz offenkundig drei Zeilen aus dem letzten Satz der am 6.2.1725 aufgeführten, als Einzeldruck in wohl vierstelliger Auflage lokal verteilten, aber erst 1738 als Sammeldruck überregional publizierten Trauerkantate für den als Textautor zur Diskussion stehenden Theologen in kaum verändertem Wortlaut plagiiert hat:  
 
 Ihr indessen, matte Glieder,  
 Bleibt in einer süssen Ruh!  
@@ -160,7 +162,7 @@ Während des Entstehungsvorgangs mutierte die Kantate BWV 127 von einer distanz�
 
 Dazu passt, dass in einem für den Wirkungsort des Autors verbindlichen Gesangbuch eine Variante des Chorals „Herr Jesu Christ …“ abgedruckt ist, die für den Fall, dass der Sterbende den Text nicht mehr selbst bewältigen konnte, den „Umstehenden“ zum stellvertretenden Singen oder Beten in Herz und Mund gelegt wurde.  
 
-In demselben Gesangbuch gibt es wenige Ordnungsnummern später eine Paraphrase auf „Herr Jesu Christ…“, in welcher auffällige Entsprechungen zu BWV 127/2 enthalten sind, die im originalen Choraltext fehlen..  
+In demselben Gesangbuch gibt es wenige Ordnungsnummern später eine Paraphrase auf „Herr Jesu Christ…“, in welcher auffällige Entsprechungen zu BWV 127/2 enthalten sind, die im originalen Choraltext fehlen.  
 
 In etlichen weiteren Choralkantaten - nicht nur vom Januar 1725 - finden sich explizite Aussagen (keineswegs nur Subtexte), die sich - bei Kenntnis der Hintergründe - als Auseinandersetzungen des Autors mir seiner aktuellen, durch eine chronische Krankheit geprägten Situation deuten lassen.  
 

@@ -112,6 +112,7 @@ Bd. 1, Kassel **2004**
 **Wilhelmi**, Thomas: Bachs Bibliothek : eine Weiterführung der Arbeit von Hans Preuß, BJ 65 (**1979**), 107-129  
 **Wolff**, Christoph: Johann Sebastian Bach: The Learned Musician Oxford/New York **2000**  
 **Wolff**, Christoph: Bach's musical universe : The composer and his work, New York **2020**  
+**Wollny**, Peter: Beobachtungen am Autograph der h-Moll-Messe, BJ 95 **2009**, 135-151  
 **Wollny**, Peter: "Missing link" : acht unbekannte Vokalstimmen zum Schlusschor der Matthäus-Passion bringen Licht ins Dunkel, Bach-Magazin 35 ***2020**, 24-26  
 **Zedler**, Günter, Die erhaltenen Choralkantaten Johann Sebastian Bachs, Norderstedt **2007**  
 **Zedler**, Johann Heinrich, Grosses Vollständiges Universal-Lexikon, Halle/Leipzig  
