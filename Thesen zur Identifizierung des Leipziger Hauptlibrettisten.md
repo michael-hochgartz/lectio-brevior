@@ -2,7 +2,7 @@
 des „Leipziger“ Hauptlibrettisten  
 Johann Sebastian Bachs  
 Michael Hochgartz (D 48153 Münster)  
-michael@hochgartz.de - 14.01.2022  
+michael@hochgartz.de - 15.01.2022  
 Quelltext und Literaturverzeichnis: https://github.com/michael-hochgartz/lectio-brevior  
 
 Amore et studio elucidandae veritatis haec subscripta disputabuntur (Martin Luther 1517)  
@@ -90,13 +90,13 @@ Unter diesem Blickwinkel betrachtet, erscheint die Erklärung dieser in P 26 wie
 
 Andernfalls wäre mit dem - ebenfalls sikzzenhaften - Satz 4d zu fragen: „Wozu dienet dieser Unrat?“, den Agricola hier - mit dem später (aber noch vor der äußerlich routiniert wirkenden, strukturell aber durchaus komplexen buchbinderischen Vereinigung bald nach 1800) von unbekannter Hand um rezyklierbare Leerbögen erleichterten Manuskript aus ursprünglich IX plus VII Ternionen kostbaren Doppelpapiers der Mitwelt zu präsentieren versuchte - der Nachwelt aber bislang nur als Rätsel zu hinterlassen vermochte. (Vgl. den Katalog Poelchau 1832, der - entgegen Dürr 1974 - offenbar noch um den Charakter als skizzenbasiertes Elaborat wusste: „… nach einer späteren Bearbeitung, von Agricolas Hand. Unvollständig.“)  
 
-Ferner: Belegt die durch Ziffern signalisierte Zählung von 18 bzw. 16 Pausentakten in fol. 43v und 44v der Partitur P 26, dass Agricola bei der Niederschrift dieses vollständig notieren Satzes (27b) an die Anfertigung von Aufführungsmaterial dachte? (Nach einer Grundidee von Kümmerling 1986.)  
+Ferner: Belegt die durch Ziffern signalisierte Zählung von 18 bzw. 16 Pausentakten in fol. 43v und 44v der Partitur P 26, dass Agricola bei der Niederschrift dieses vollständig notierten Satzes (27b) an die Anfertigung von Aufführungsmaterial dachte? (Nach einer Grundidee von Kümmerling 1986.)  
 
 Die Antwort kann nur Nein lauten, denn Ziel von Agricolas Bemühungen war keineswegs eine Aufführung anhand von P 26. Eine solche hätte er durch Ausschreiben(lassen) von Stimmen nach AmB. 6+7 sehr viel leichter verwirklichen können - oder am einfachsten, indem er seinen langjährigen Kollegen C.P.E. Bach um die leihweise Überlassung des kompletten, aufführungserprobten Materials der Spätfassung (D-B Mus.ms. Bach P 25 / D-B Mus.ms. Bach St 110) gebeten hätte. Zudem bliebe zu fragen, warum er sich für die praktische Verwendung der Frühfassung interessiert haben könnte, die auch heute nur äußerst selten und aus eher akademischen Interessen herangezogen wird. Somit ist davon auszugehen, dass die numerisch markierten Pausentakte bereits in der Vorlage vorhanden waren, also auf den Komponisten zurück gehen.  
 
 Zu klären bleibt, warum Agricola in dieser Partitur Gebrauch von zahlreichen notationstechnischen Abbreviaturen macht („col vl. primo“ etc.; auch da, wo es sich kaum zu lohnen scheint) - wie sie für viele seiner übrigen Handschriften (auch eigener Kompositionen) typisch sind. (Vgl. dazu möglicherweise die unveröffentlichte, 2021 an der Universität Oxford verteidigte Dissertation von Andrew Frampton.)  
 
-Ohne weiteres erklärbar ist hingegen der Umstand, dass sich Agricola bei der Rekonstruktion des - in den Fragmenten naturgemäß noch fehlenden, in der Farlau-Kopie nur in knappest möglicher Form vorhandenen - Titelblatts für eine repräsentative Lösung auf der Basis eines nicht erhaltenen Textdrucks entschied, der ganz offensichtlich für mehrere, jeweils handschriftlich zu ergänzende Aufführungsdaten aus den 1730er Jahren bestimmt war. (Vgl. Schabalina 2009). Wortwahl und Zeilenfall weisen derart typisch auf einen „Text zur Music“, dass keine Zweifel an der Verwendung als bewusstes Versatzstück durch Agricola möglich sind.  
+Ohne weiteres erklärbar ist hingegen der Umstand, dass sich Agricola bei der Rekonstruktion des - in den Fragmenten naturgemäß noch fehlenden, in der Farlau-Kopie nur in kürzest möglicher Form (Kopftitel und das davon später abgeleitete Einband-Etikett) vorhandenen - Titels für eine repräsentative Lösung auf der Basis eines nicht erhaltenen Textdrucks entschied, der ganz offensichtlich ursprünglich für mehrere, jeweils handschriftlich zu ergänzende Aufführungstermine aus den 1730er Jahren bestimmt war. (Zum Prinzip am Beispiel BWV 247 vgl. Schabalina 2009). Wortwahl und Zeilenfall weisen derart typisch auf einen „Text zur Music“, dass keine Zweifel an der Verwendung als bewusstes Versatzstück durch Agricola möglich sind. Ein nachträglicher Sammeldruck als Vorlage scheidet wegen der handschriftlichen „Variable“ bei der letzten Ziffer des Datums ebenso aus wie eine Originalpartitur. Im Gegensatz zu anderen Passionsaufführungen war der Aufführungsort eindeutig fixiert und konnte somit gedruckt werden, da BWV 244 aufführungspraktisch (Platzgründe; Doppelchörigkeit; evtl. separat aufgestellter Cantus firmus-Chor) nur in St. Thomae realisierbar war. Mögliche Konsequenzen für den Aufführungskalender zwischen 1730 und 1736 bleiben zu prüfen.  
 
 
 
