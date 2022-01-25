@@ -47,6 +47,7 @@ Abkürzungen
 **Geck**, Martin: Bach. Leben und Werk, Reinbek **2000**  
 **Glöckner**, Andreas, Die Musikpflege an der Leipziger Neukirche zur Zeit Johann Sebastian Bachs, Leipzig **1990**  
 **Glöckner**, Andreas: NBA Serie 2 Bd. 5b kritischer Bericht **2004**  
+**Glöckner**, Andreas: Johann Sebastian Bachs „Große Passion“ – Neue Überlegungen zu ihrer Vorgeschichte, BJ 2021, 127-142  
 **Gojowy**, Detlef: Zur Frage der Köthener Trauermusik und der Matthäuspassion, BJ **1965**, 86–134  
 **Gojowy**, Detlef: Kirchenlieder im Umkreis von J.S. Bach,  BJ **1978**, 79-123  
 **Heber**, Noelle: Bach and money : sources of salary and supplemental income in Leipzig from 1723 to 1750, Understanding Bach, 12 **2017**, S. 111-125  
@@ -92,15 +93,16 @@ Bd. 1, Kassel **2004**
 **Scheide 1976**  
 **Scheitler**, Irmgard:  **2004**  
 **Scheitler**, Irmgard: Deutschsprachige Oratorienlibretti : von den Anfängen bis 1730, Paderborn **2005**  
-**Sehlke**, Stephan, Das geistige Boizenburg: Bildung und Gebildete im und aus dem Raum Boizenburg vom 13. Jahrhundert bis 1945, Books on Demand **2011**  
-**Siegele**, Ulrich: Bachs Stellung in der Leipziger Kulturpolitik seiner Zeit, BJ 69 (**1983**), 7-50 und 70 (**1984**), 7-43  
 **Schleuning**, Peter: Johann Sebastian Bachs "Kunst der Fuge" : Ideologien, Entstehung, Analyse. Kassel **1993**  
-**Smend**, Friedrich: Bach in Köthen, Berlin **1951**  
-**Smend**, Friedrich: Johann Sebastian Bach: Kirchen-Kantaten, 3. Auflage, Berlin **1966**  
 **Schulze**, Hans-Joachim: Schlusswort in: Bachforschung und Bachinterpretation heute : Wissenschaftler und Praktiker im Dialog ; Bericht über das Bachfest-Symposium 1978 der Philipps-Universität Marburg / hrsg. von Reinhold Brinkmann, Kassel **1981**  
 **Schulze**, Hans-Joachim: Texte und Textdicher, Christoph Wolff (Hg.), Die Welt der Bach-Kantaten / Bd. 3, Johann Sebastian Bachs Leipziger Kirchenkantaten, Stuttgart **1999**  
 **Schulze** 2001 (Colloquium Dürr 1998)  
 **Schwinger**, Tobias, Der preußische Hofkomponist Johann Friedrich Agricola in seiner Rolle als Kirchenkomponist für die Kirche St. Petri in Berlin, Wilhelm Friedemann Bach und die protestantische Kirchenkantate nach 1750. Beeskow **2012**, 95-220  
+**Sehlke**, Stephan, Das geistige Boizenburg: Bildung und Gebildete im und aus dem Raum Boizenburg vom 13. Jahrhundert bis 1945, Books on Demand **2011**  
+**Siegele**, Ulrich: Bachs Stellung in der Leipziger Kulturpolitik seiner Zeit, BJ 69 (**1983**), 7-50 und 70 (**1984**), 7-43  
+**Smend**, Friedrich: Bach in Köthen, Berlin **1951**  
+**Smend**, Friedrich: Johann Sebastian Bach: Kirchen-Kantaten, 3. Auflage, Berlin **1966**  
+**Stauder**, Burkhard: Zur Entstehungsgeschichte der Matthäuspassion BWV 244 und der Köthener Trauermusik BWV 244a, Die Musikforschung 73 (**2020**), 235-258  
 **Tatlow**, Ruth, Bach's Numbers, Compositional Proportion and Significance, Cambridge **2015**  
 **Tschirner**, Ulfert: Das Lüneburger Raritätenkabinett des Tobias Reimers (1653-1716), Lüneburger Blätter 37 **2020**, 129-160  
 **Walter**, Horst: Musikgeschichte der Stadt Lüneburg Vom Ende d. 16. bis zum Anfang d. 18. Jh. Tutzing **1967** (und früher)  
