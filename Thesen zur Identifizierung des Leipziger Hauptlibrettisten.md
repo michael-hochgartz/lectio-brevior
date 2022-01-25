@@ -2,7 +2,7 @@
 des „Leipziger“ Hauptlibrettisten  
 Johann Sebastian Bachs  
 Michael Hochgartz (D 48153 Münster)  
-michael@hochgartz.de - 19.01.2022  
+michael@hochgartz.de - 25.01.2022  
 Quelltext und Literaturverzeichnis: https://github.com/michael-hochgartz/lectio-brevior  
 
 Amore et studio elucidandae veritatis haec subscripta disputabuntur (Martin Luther 1517)  
@@ -13,7 +13,7 @@ Pro captu lectoris habent sua fata libretti (nach Terentianus Maurus)
 
 
 
-0. Ausgangspunkt für die Überlegungen zur namentlichen Ermittlung des „Leipziger“ Hauptlibrettisten Johann Sebastian Bachs ist die Annahme, dass die Entstehung der anonym überlieferten Texte für einen bedeutenden Teil der  zwischen Trinitatis 1724 und Annuntiatio Domini 1725 entstandenen geistlichen Vokalwerke zwar aufgrund eines Einvernehmens zwischen den Beteiligten (Autor, Komponist; Prediger, Zensor) stattfand, nicht aber an demselben Ort wie die Komposition der Musik.  
+0. Ausgangspunkt für die Überlegungen zur namentlichen Ermittlung des „Leipziger“ Hauptlibrettisten Johann Sebastian Bachs ist die Annahme, dass die Entstehung der anonym überlieferten Texte für einen bedeutenden Teil der zwischen Trinitatis 1724 und Annuntiatio Domini 1725 entstandenen geistlichen Vokalwerke zwar aufgrund eines Einvernehmens zwischen den Beteiligten (Autor, Komponist; Prediger, Zensor) stattfand, nicht aber an demselben Ort wie die Komposition der Musik.  
 
 Der auf knapp drei Dutzend Produktionswochen verdichtete Prozess war vielmehr geprägt durch eine erhebliche räumliche Distanz zwischen Autor und Komponist, die eine Übermittlung des Materials in Form von zusammenfassenden Lieferungen nach sich zog, deren Stückelungen den Anforderungen der vorauszuplanenden Drucklegungen für die in Leipzig üblichen, für den Komponisten (entgegen Heber 2017) durchaus auch als Einnahmequelle relevanten Sammellibretti entsprechen mussten.  
 
@@ -102,7 +102,7 @@ Im Gegensatz zu anderen Passionsaufführungen (BWV 247) war der Aufführungsort 
 Die fehlende Endziffer könnte schließlich darauf hindeuten, dass es sich bei der Vorlage um ein Exemplar handelte, welches nach Fertigstellung der Spätfassung 1736 wegen Fehlens der strukturell bedeutsamen Textänderungen („O Mensch bewein“ etc.) unverkäuflich geworden war. 
 Mögliche Konsequenzen für den Aufführungskalender zwischen 1730 und 1736 bleiben zu prüfen.  
 
-Der an P 26 angebundene, von anderer Hand nach anderer Vorlage auf anderem Papier kopierte Schlusschor steht - das ist unbestritten - mit Agricolas Konstrukt in keinem ursprünglichen Zusammenhang.  
+Der an P 26 angebundene, von anderer Hand nach anderer Vorlage auf anderem Papier kopierte Schlusschor (BWV 244/68: „Wir setzen uns…“) steht - das ist unbestritten - mit Agricolas Konstrukt in keinem ursprünglichen Zusammenhang.  
 
 
 
@@ -134,7 +134,7 @@ Als alternativer Erklärungsansatz wäre eine - von Dürr (1988) zur Diskussion 
 Durch Umkehrung der bisher angenommenen Entstehungsreihenfolge wird somit auch eine von Arthur Mendel postulierte, in Weimar lokalisierte Frühfassung des Satzes (BC D1) obsolet. Vielmehr fügt sich dieser Chor durch seine - in der Fachliteratur nachhaltig bestätigte - kompositorische Reife, formale Opulenz und hymnologische / theologische Tendenz zwar notationstechnisch scheinbar leicht korrumpiert, aber substanziell bruchlos in ein Gesamtprojekt „Choralkantaten und Matthäuspassion“ ein.  
 
 
-13. Bei Bestätigung der Annahme einer Entstehung und Vollendung der Frühfassung der Matthäuspassion in zwei, in größerem zeitlichen Abstand aufeinander folgenden Etappen könnten sich alternative Antworten auf die bis heute nicht abschließend beantwortete Frage nach den Prioritäten der Parodiebeziehungen zur Köthener Trauermusik BWV 244a ergeben. (Vgl. Gojowy 1965; Brainard 1969; Schulze 2004; Braatz 2006). Das beträfe gegebenenfalls auch den Zeitpunkt der Vervollständigung der fragmentarischen Teile von BWV 244b - und damit den Termin der Uraufführung der Passion. 1727 ist durch eine von Rifkin (1975) aufgezeigte, allerdings nicht voll belastbare Spur in einer - ohne Textbezug überlieferten - Instrumentalstimme indiziert, die von der Forschung gleichwohl überwiegend akzeptiert wird. (Vgl. Dürr 1974; Schulze 2001.)  
+13. Bei Bestätigung der Annahme einer Entstehung und Vollendung der Frühfassung der Matthäuspassion in zwei, in größerem zeitlichen Abstand aufeinander folgenden Etappen könnten sich alternative Antworten auf die bis heute nicht abschließend beantwortete Frage nach den Prioritäten der Parodiebeziehungen zur Köthener Trauermusik BWV 244a ergeben. (Vgl. Gojowy 1965; Brainard 1969; Schulze 2004; Braatz 2006). Das beträfe gegebenenfalls auch den Zeitpunkt der Vervollständigung der fragmentarischen Teile von BWV 244b - und damit den Termin der Uraufführung der Passion. 1727 ist durch eine von Rifkin (1975) aufgezeigte, allerdings nicht voll belastbare Spur in einer - ohne Textbezug überlieferten - Instrumentalstimme indiziert, die von der Forschung überwiegend (vgl. Dürr 1974; Schulze 2001), aber nicht einhellig (vgl. Stauber 2020; Glöckner 2021) akzeptiert wird.  
 
 Unter diesem Aspekt wäre (entgegen Smend 1951) auch zu überlegen, ob und auf welche Weise der ungewöhnlich lange Zeitraum zwischen Entstehungsanlass (19.11.1728) und Aufführung (24.3.1729) der Trauermusik als Katalysator bei der Wiederaufnahme der Arbeiten an der Passion gewirkt haben könnte.  
 
