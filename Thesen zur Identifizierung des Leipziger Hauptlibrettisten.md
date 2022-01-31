@@ -172,7 +172,7 @@ I. Trinitatis 1724 - Ende Januar 1725: Sukzessive Vertonung des madrialischen Ma
 
 II. Karfreitag 1727: Erste aufführbare Fassung der Matthäus-Passion auf der Basis der Fragmente von 1725, älterer Versatzstücke aus BC D1 (und eventuell schon einiger Ergänzungen durch Henrici?) - ebenfalls als kreative „Notlösung“ zu betrachten. Es lagen noch nicht alle heute aus BWV 244b bekannten madrigalischen Sätze vor, weshalb (und wegen des noch recht hohen Anteils an Fremdmaterial) Henrici auf einen Abdruck in seiner Gedichtsammlung verzichtete.  
 
-III. 1728-29: Erweiterung und Konsolidierung der Fassung II synchron zu den Parodiearbeiten an der Trauermusik BWV 244a unter Eliminierung der  1727 eingefügten „Versatzstücke“ und deren Ersatz und Ergänzung durch Texte Henricis. Aufführung am Karfreitag 1725 mit den auch für Köthen eingesetzten Kräften auf der Basis einer heute verschollenen Partiturneuschrift, die 1755ff als Vorlage für die Kopie J.C. Farlaus diente. Erster Abdruck des Textes in Henricis Sammlung.  
+III. 1728-29: Erweiterung und Konsolidierung der Fassung II synchron zu den Parodiearbeiten an der Trauermusik BWV 244a unter Eliminierung der  1727 eingefügten „Versatzstücke“ und deren Ersatz und Ergänzung durch Texte Henricis. Aufführung am Karfreitag 1729 mit den auch für Köthen eingesetzten Kräften auf der Basis einer heute verschollenen Partiturneuschrift, die 1755ff als Vorlage für die Kopie J.C. Farlaus diente. Erster Abdruck des Textes in Henricis Sammlung.  
 
 IV. 1736 Aufführung der - heute üblicherweise verwendeten - Spätfassung auf der Basis der autographen Partitur P 25 und der zugehörigen Stimmen.  
 
