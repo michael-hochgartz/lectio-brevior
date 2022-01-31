@@ -164,7 +164,21 @@ Schließt uns auch die Thränen zu. (Henrici 1728/29)
 
 
 
-14. Mit der - durch eine starke „individualeschatologische Komponente“ (vgl. Petzoldt 2004) und durch ein für Bachs Erfindungsweise selten eindeutiges musikalisches Zitat aus BWV 244b-27b geprägten - Kantate BWV 127 auf den traditionsreichsten protestantischen Sterbechoral „Herr Jesu Christ, wahr’ Mensch und Gott“ schuf Bach eine subtile Würdigung des Textautors des Choralkantatenjahrgangs und der Matthäus-Passion - komponiert in derselben Woche (möglicherweise an demselben Tag), an dem dieser in seiner Predigtstätte unter einem Totengeläut zu Grabe getragen wurde, dessen heute noch erlebbarer Klang Bach aus früher Hörerfahrung bekannt war.  
+14. Nach dem Vorliegen von Andreas Glöckners Aufsatz „Johann Sebastian Bachs ‚Große Passion‘ - Neue Überlegungen zu ihrer Vorgeschichte“ (BJ 2021; Januar bzw. Mai 2022) ergeben sich auch für die vorliegenden Thesen interessante Ergänzungsmöglichkeiten. Ausgehend von der bisherigen Forschungslage (Gojowy 1965; Stauder 2020; leider nicht auch Chafe 1982 und Brainard 1969) hält Glöckner es aufgrund von Stilvergleichen (insbes. Wort-/Ton-Verhältnis) mit der Trauermusik BWV 244a für nicht ausgeschlossen, dass es bereits 1727 eine aufführbare Fassung der Passion gegeben haben könnte, die zwar das biblische Narrativ komplett enthielt, freilich aber hinsichtlich der kontemplativen (madrigalischen) Texte als um einiges kürzer anzunehmen wäre als die heute bekannten Fassungen von 1729 bzw. 1736.  
+Folgt man Glöckners, durch zahlreiche weitere Argumente überzeugend gestützten Überlegungen, dann ergibt sich eine überraschend plausible Antwort auf die alte Frage nach der Frühfassung der Passion: 1727 ODER 1729?, die da lautet: 1727 UND 1729!  
+Diese Betrachtungeweise wiederum lässt sich fast bruchlos, gleichsam als „missing link“, in die hier ausgeführte These 13 zur Prioritätenfrage von BWV 244a und BWV 244b einfügen: die gemeinsamen Teile entstanden gleichzeitig und teils unter Rückgriff auf Material von 1725 bzw. 1727. Die Frage nach Vorlage und Parodie wäre unter diesem Aspekt noch einmal Satz für Satz neu zu untersuchen. Die Entstehungsgeschichte von J.S. Bachs „Großer Passion“ könnte, wie von Glöckner vorsichtig formuliert, somit durchaus erheblich komplexer gewesen sein, als bislang angenommen wurde - nämlich so:  
+
+I. Trinitatis 1724 - Ende Januar 1725: Sukzessive Vertonung des madrialischen Materials, das vom Dichter der Choralkantatentexte alle 5 bis 8 Wochen per Post geliefert wurde sowie der Choralbearbeitung „O Mensch bewein“ und etlicher, inselartiger angeordneter sonstiger Sätze (Rezitative; Turbae; Choräle). Abbruch der Arbeiten wegen des Todes des Dichters am 21.1.1725. Dieser Zustand wurde von Agricola nach 1755 in der Handschrift P 26 sorgfältig dokumentiert. Vorzeitige Wiederauffürung der Johannes-Passion am Karfreitag 1725 als „Notlösung“ (Leisinger). Henrici erhält (im Zusammenhang mit den Arbeiten an BWV 249/249a?) einen ersten Einblick in die vorliegenden Texte und paraphrasiert die „Rache-Arie“ BWV 244b Satz 27b in der Schlußszene seines 1725 gedrucken Lustspiels „Der akademische Schlendrian“ in Form von Bühnenprosa.  
+
+II. Karfreitag 1727: Erste aufführbare Fassung der Matthäus-Passion auf der Basis der Fragmente von 1725, älterer Versatzstücke aus BC D1 (und eventuell schon einiger Ergänzungen durch Henrici?) - ebenfalls als kreative „Notlösung“ zu betrachten. Es lagen noch nicht alle heute aus BWV 244b bekannten madrigalischen Sätze vor, weshalb (und wegen des noch recht hohen Anteils an Fremdmaterial) Henrici auf einen Abdruck in seiner Gedichtsammlung verzichtete.  
+
+III. 1728-29: Erweiterung und Konsolidierung der Fassung II synchron zu den Parodiearbeiten an der Trauermusik BWV 244a unter Eliminierung der  1727 eingefügten „Versatzstücke“ und deren Ersatz und Ergänzung durch Texte Henricis. Aufführung am Karfreitag 1725 mit den auch für Köthen eingesetzten Kräften auf der Basis einer heute verschollenen Partiturneuschrift, die 1755ff als Vorlage für die Kopie J.C. Farlaus diente. Erster Abdruck des Textes in Henricis Sammlung.  
+
+IV. 1736 Aufführung der - heute üblicherweise verwendeten - Spätfassung auf der Basis der autographen Partitur P 25 und der zugehörigen Stimmen.  
+
+
+
+15. Mit der - durch eine starke „individualeschatologische Komponente“ (vgl. Petzoldt 2004) und durch ein für Bachs Erfindungsweise selten eindeutiges musikalisches Zitat aus BWV 244b-27b geprägten - Kantate BWV 127 auf den traditionsreichsten protestantischen Sterbechoral „Herr Jesu Christ, wahr’ Mensch und Gott“ schuf Bach eine subtile Würdigung des Textautors des Choralkantatenjahrgangs und der Matthäus-Passion - komponiert in derselben Woche (möglicherweise an demselben Tag), an dem dieser in seiner Predigtstätte unter einem Totengeläut zu Grabe getragen wurde, dessen heute noch erlebbarer Klang Bach aus früher Hörerfahrung bekannt war.  
 
 Während des Entstehungsvorgangs mutierte die Kantate BWV 127 von einer distanzübergreifenden Sterbebegleitung zum musikalischen Epitaph.  
 
@@ -175,7 +189,7 @@ In demselben Gesangbuch gibt es wenige Ordnungsnummern später eine Paraphrase a
 In etlichen weiteren Choralkantaten - nicht nur vom Januar 1725 - finden sich explizite Aussagen (keineswegs nur Subtexte), die sich - bei Kenntnis der Hintergründe - als Auseinandersetzungen des Autors mir seiner aktuellen, durch eine chronische Krankheit geprägten Situation deuten lassen.  
 
 
-15. Die - erst anhand der seit 2018 verfügbaren Faksimile-Edition zweifelsfrei entzifferbare - Invocationsformel „J.N.D.N.J.C.“ (auf den ersten Blick vielleicht nur das Votum Justinianum: „In Nomine Domini Nostri Jesu Christi“) im eigenhändigen Kopftitel der Kantate BWV 20 (dem Auftaktwerk des Jahrgangs 1724/25) stellt - mit ihrer scheinbar einzigartigen Prolongation von Bachs vor- und nachher ca. 100 mal nachweisbaren Standardformel „J. J.“ (neutestamentlich: „Jesu Juva“ - alttestamentlich: „Jehova Juva“) - ein Bekenntnis des Komponisten zu seinem damaligen Textdichter dar, enthält sie doch als Rahmenbestandtteile dessen Initialen (Nachname vorangestellt) - zumal eine zeitübliche orthographische Inkonsequenz (J vor einem Vokal statt I vor einem Konsonanten) zugunsten der Eindeutigkeit dieser Namensandeutung in Kauf genommen wird.  
+16. Die - erst anhand der seit 2018 verfügbaren Faksimile-Edition zweifelsfrei entzifferbare - Invocationsformel „J.N.D.N.J.C.“ (auf den ersten Blick vielleicht nur das Votum Justinianum: „In Nomine Domini Nostri Jesu Christi“) im eigenhändigen Kopftitel der Kantate BWV 20 (dem Auftaktwerk des Jahrgangs 1724/25) stellt - mit ihrer scheinbar einzigartigen Prolongation von Bachs vor- und nachher ca. 100 mal nachweisbaren Standardformel „J. J.“ (neutestamentlich: „Jesu Juva“ - alttestamentlich: „Jehova Juva“) - ein Bekenntnis des Komponisten zu seinem damaligen Textdichter dar, enthält sie doch als Rahmenbestandtteile dessen Initialen (Nachname vorangestellt) - zumal eine zeitübliche orthographische Inkonsequenz (J vor einem Vokal statt I vor einem Konsonanten) zugunsten der Eindeutigkeit dieser Namensandeutung in Kauf genommen wird.  
 
 Das Herzstück „N.D.N.“ bildet dabei mit der sicherlich aus Deuteronomium 25,7 als solitärer biblischer Konkordanz entnommenen Bitte:  „ut [N]on [D]eleatur [N]omen eius ex Israel“ (Luther: „daß sein Name nicht getilgt werde“; King James: „that his name be not put out“) einen sehr aktuell wirkenden „Copyright-Vermerk“ - entsprechend der „BY“-Komponente heutiger Creative Commons Lizenzen.  
 
@@ -246,7 +260,7 @@ zu lesen als:
 [B][A][C][H] [I]senacum-[T]uringum.  
 
 
-16. FINIS! ENDE!! Des freuen sich die Hände.  
+17. FINIS! ENDE!! Des freuen sich die Hände.  
 (Aus einer norddeutschen Orgelhandschrift.)  
 
 Eine Geschichte ist dann zu Ende gedacht, wenn sie ihre schlimmstmögliche Wendung genommen hat. (Friedrich Dürrenmatt, Die Physiker, 1961)  
