@@ -184,7 +184,7 @@ A. Fassungen:
 
 I. 1725: belegt duch Agricola, P26  
 II. 1727: hypothetisch bzw. erschlossen aus Parodiebeziehung zu IIIa/b  
-IIIa. 1728:  BWV 244a belegt durch multiple (primär Köthener) Textüberlieferungen vom November 1728  
+IIIa. 1728: BWV 244a belegt durch multiple (primär Köthener) Textüberlieferungen vom November 1728  
 IIIb. 1729: BWV 244b belegt durch Farlau Am.B 6+7 und Textdruck Henrici  
 IV. 1736: BWV 244: belegt durch Autograph P 25 und St.110  
 
@@ -217,7 +217,7 @@ B. Satzfolgen nach NBA:
 1729: wie 1727  
 1736: wie 1729  
 
-26. Ich will bei meinem 
+26. Ich will bei meinem  
 1725: Text und Solostimme vollständig  
 1727: Solostimme wie 1725; Chorpartie vervollständigt (so auch P26!)  
 1728: Geh Leopold  
@@ -239,7 +239,7 @@ B. Satzfolgen nach NBA:
 1736: wie 1729  
 
 29. O Mensch bewein  
-1725:  in D-Dur?; in Es-Dur transloziert nach BWV 245  
+1725:  in D-Dur?; Stimmen in Es-Dur transloziert nach BWV 245  
 1727: ersetzt durch Jesum lass ich nicht  
 1728: -  
 1729: wie 1727  
@@ -271,7 +271,7 @@ B. Satzfolgen nach NBA:
 42. Gebt mir meinen  
 1725: Text und Musik vollständig  
 1727: wie 1725  
-1728: -   
+1728: -  
 1729: wie 1727  
 1736: wie 1729  
 
@@ -312,7 +312,7 @@ B. Satzfolgen nach NBA:
 
 
 68. Wir setzen uns  
-1725: deest (später in P 26 assoziiert)  
+1725: deest (um 1800 an P 26 assoziiert)  
 1727: ??  
 1728: Die Augen sehn  
 1729: Wir setzen uns  
