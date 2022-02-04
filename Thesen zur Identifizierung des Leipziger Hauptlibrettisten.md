@@ -164,17 +164,160 @@ Schließt uns auch die Thränen zu. (Henrici 1728/29)
 
 
 
-14. Nach dem Erscheinen von Andreas Glöckners Aufsatz „Johann Sebastian Bachs ‚Große Passion‘ - Neue Überlegungen zu ihrer Vorgeschichte“ (BJ 2021; Januar 2022 für Nichtmitglieder / Mai 2022 für Mitglieder der NBG lieferbar) ergeben sich auch für die vorliegenden Thesen weiterführende Ergänzungsmöglichkeiten. Ausgehend von der bisherigen Forschungslage (u.a. Gojowy 1965; Stauder 2020; leider nicht auch Brainard 1969 und Chafe 1982) hält Glöckner es aufgrund von Stilvergleichen (insbesondere zum Wort-Ton-Verhältnis) mit der Trauermusik BWV 244a für nicht ausgeschlossen, dass es bereits 1727 eine aufführbare Fassung der Passion gegeben haben könnte, die zwar das biblische Narrativ umfasste, aber hinsichtlich der kontemplativen (madrigalischen) Texte als um etwas kürzer anzunehmen wäre als die heute bekannten Fassungen von 1729 bzw. 1736.  
+14. Nach dem Erscheinen von Andreas Glöckners Aufsatz „Johann Sebastian Bachs ‚Große Passion‘ - Neue Überlegungen zu ihrer Vorgeschichte“ (BJ 2021; Januar 2022 für Nichtmitglieder / Mai 2022 für Mitglieder der NBG lieferbar) ergeben sich auch für die vorliegenden Thesen weiterführende Ergänzungsmöglichkeiten. Ausgehend von der bisherigen Forschungslage (u.a. Gojowy 1965; Stauder 2020; leider nicht auch Brainard 1969 und Chafe 1982) hält Glöckner es aufgrund von Stilvergleichen (insbesondere zum Wort-Ton-Verhältnis) mit der Trauermusik BWV 244a für nicht ausgeschlossen, dass es bereits 1727 eine aufführbare Fassung der Passion gegeben haben könnte, die zwar das biblische Narrativ umfasste, aber hinsichtlich der kontemplativen (madrigalischen) Texte als um deutlich kürzer anzunehmen wäre als die heute bekannten Fassungen von 1729 bzw. 1736.  
 Folgt man Glöckners, durch seine weiteren Argumente überzeugend gestützten Überlegungen, dann ergibt sich eine überraschende Antwort auf die alte Frage nach der frühesten Fassung der Passion: 1727 oder 1729? - die lauten könnte: 1727 und 1729!  
 Diese Betrachtungeweise wiederum lässt sich fast bruchlos, gleichsam als „missing link“, in die zuvor ausgeführte These 13 zur Prioritätenfrage von BWV 244a und BWV 244b einfügen: Die 1728/29 erstellten Teile entstanden teils unter Rückgriff auf Material von 1725 bzw. 1727, teils wurden sie genuin für eine Doppelverwendung konzipiert und realisiert. Die Frage nach Vorlage und Parodie wäre unter diesem Aspekt im Rahmen einer separten Untersuchung noch einmal Satz für Satz neu auszudifferenzieren - wobei selbst „Zweitparodien“ (vgl. Dürr 1974; Stauber 2020) nicht ausgeschlossen werden sollten. Die Ur- und Frühgeschichte von J.S. Bachs „Großer Passion“ könnte somit - weniger vorsichtig als von Glöckner formuliert - noch entscheidend komplexer beschrieben werden. Zum Beispiel so:  
 
-I. Trinitatis 1724 bis Ende Januar 1725: Sukzessive Vertonung jenes madrialischen Materials, das vom „Dichter der Choralkantatentexte“ stückweise alle fünf bis acht Wochen per Post (mit)geliefert wurde sowie der Choralbearbeitung „O Mensch bewein“ und etlicher, inselartig kumulierter (Chafe 1982) sonstiger Sätze (Rezitative; Turbae; Choräle). Abbruch der Arbeiten wegen des Todes des Dichters am 21.1.1725. Dieser Zustand wurde von Agricola nach 1755 in der Handschrift P 26 unter Voranstellung eines nach einem Textdruck aus den 1730er Jahren konstruierten Titelblatts dokumentiert. Vorzeitige Wiederaufführung der Johannes-Passion am Karfreitag 1725 als „Notlösung“ (Leisinger). Henrici erhält (im zeitlichen Umfeld der Arbeiten an BWV 249/249a?, also noch Anfang 1725) einen ersten Einblick in die Bach vorliegenden Texte und paraphrasiert die (von der Brockes-Passion inspirierte) „Rache-Arie“ BWV 244b Satz 27b in der Schlüsselszene („neunter“ - recte: elfter - Auftritt) seines 1726 an den (fingierten?) Erscheinungsorten Berlin/Frankfurt/Hamburg publizierten Lustspiels „Der akademische Schlendrian“ in Form von subtil feinstrukturierter Bühnenprosa.  
+I. Trinitatis 1724 bis Ende Januar 1725: Sukzessive Vertonung jenes madrialischen Materials, das vom „Dichter der Choralkantatentexte“ stückweise alle fünf bis acht Wochen per Post (mit)geliefert wurde sowie der Choralbearbeitung „O Mensch bewein“ und etlicher, inselartig kumulierter (Chafe 1982) sonstiger Sätze (Rezitative; Turbae; Choräle). Abbruch der Arbeiten wegen des Todes des Dichters am 21.1.1725. Dieser Zustand wurde von Agricola nach 1755 in der Handschrift P 26 unter Voranstellung eines - nach einem anderweitig nicht überlieferten Textdruck aus den 1730er Jahren - konstruierten Titelblatts dokumentiert. Vorzeitige Wiederaufführung der Johannes-Passion am Karfreitag 1725 als „… mehr als eine Notlösung?“ (Leisinger). Henrici erhält (im zeitlichen Umfeld der Arbeiten an BWV 249/249a?, also noch im ersten Quartal 1725) einen Einblick in die Bach vorliegenden Texte und paraphrasiert die (von der Brockes-Passion inspirierte) „Rache-Arie“ BWV 244b Satz 27b in der Schlüsselszene („neunter“ - recte: elfter - Auftritt) seines 1726 an den (fingierten?) Erscheinungsorten Berlin/Frankfurt/Hamburg publizierten Lustspiels „Der akademische Schlendrian“ in Form von subtil feinstrukturierter Bühnenprosa.  
 
 II. Karfreitag 1727: Erste aufführbare Fassung der Matthäus-Passion auf der Basis der Fragmente von 1725 sowie älterer Versatzstücke aus BWV 245 (bzw. BC D1) und einiger Ergänzungen durch Henrici. Ebenfalls als kreative „Notlösung“ zu betrachten. Es lagen noch nicht alle heute aus BWV 244b bekannten madrigalischen Sätze vor, weshalb (und wegen des somit noch hohen Anteils an Fremdmaterial) Henrici auf einen Abdruck in seiner Gedichtsammlung verzichtete. Christoph Gottlob Wecker lernt das Werk in dieser Fassung kennen.  
 
-III. 1728-29: Erweiterung und Konsolidierung der Fassung II synchron zu den Parodiearbeiten an der Trauermusik BWV 244a (vgl. Stauber 2020) unter Eliminierung der 1727 eingefügten Versatzstücke und deren Ersatz und Ergänzung durch Texte Henricis. Aufführung am Karfreitag 1729 mit den auch für Köthen eingesetzten (und aus den dort realisierten Einnahmen subventionierten?) Kräften auf der Basis einer heute verschollenen Partiturneuschrift, die 1755ff als Vorlage für die Kopie J.C. Farlaus diente. Erster Abdruck des Textes in Henricis Sammlung. Christoph Gottlob Weckers Bitte um „Zusendung“ des Werks wird von Bach abschlägig beschieden, da er Partitur und Stimmen für seine eigene Aufführung benötigt.  
+III. 1728-29: Erweiterung und Konsolidierung der Fassung II synchron zu den Parodiearbeiten an der Trauermusik BWV 244a (vgl. Stauber 2020) unter Eliminierung der 1727 eingefügten Versatzstücke und deren Ersatz und Ergänzung durch Texte Henricis. Aufführung am Karfreitag 1729 mit den auch für Köthen eingesetzten (und aus den dort realisierten Einnahmen subventionierten?) Kräften auf der Basis einer heute verschollenen Partiturneuschrift, die 1755ff als Vorlage für die Kopie J.C. Farlaus diente. Erster Abdruck des Textes in Henricis Sammlung. Christoph Gottlob Weckers Bitte um „Zusendung“ des Werks wird von Bach abschlägig beschieden, da er Partitur und Stimmen „heuer“ für seine eigene Aufführung benötigt.  
 
-IV. 1736 Aufführung der bis heute ganz überwiegend verwendeten Spätfassung auf der Basis der autographen Partitur P 25 und der zugehörigen Stimmen, welche - nunmehr durchaus berechtigt - mit der für Bachs Usus einzigartigen Formulierung „per Dominum Henrici alias Picander dictus“ den Verantwortlichen für die Fassung letzter Hand der „Poesia“ explizit nennt.
+IV. 1736 Aufführung der bis heute ganz überwiegend verwendeten Spätfassung auf der Basis der autographen Partitur P 25 und der zugehörigen Stimmen, deren Titel - nunmehr völlig zu Recht - mit der für Bachs Usus einzigartigen Formulierung „per Dominum Henrici alias Picander dictus“ den Verantwortlichen für die Fassung letzter Hand der „Poesia“ explizit nennt - und damit die Forschungsgeschichte bis in die Jetztzeit scheinbar alternativlos präformiert.  
+
+
+
+14.b  Synopse der auf madrigalische Texte komponierten Teile der Matthäuspassion BWV 244  
+
+A. Fassungen:  
+
+I. 1725: belegt duch Agricola, P26  
+II. 1727: hypothetisch bzw. erschlossen aus Parodiebeziehung zu IIIa/b  
+IIIa. 1728:  BWV 244a belegt durch multiple (primär Köthener) Textüberlieferungen vom November 1728  
+IIIb. 1729: BWV 244b belegt durch Farlau Am.B 6+7 und Textdruck Henrici  
+IV. 1736: BWV 244: belegt durch Autograph P 25 und St.110  
+
+B. Satzfolgen nach NBA:  
+
+1. Kommt ihr Töchter  
+1725: Text und Musik vollständig  
+1727: wie 1725  
+1729: wie 1727  
+1736: wie 1729  
+
+10. Buß und Reu  
+1725: deest  
+1727: deest  
+1728: Weh und ach  
+1729: Buß und Reu  
+1736: wie 1729  
+
+12. Blute nur  
+1725: deest  
+1727: deest  
+1728: Zage nur  
+1729: Blute nur  
+1736: wie 1729  
+
+19. Ich will dir  
+1725: deest  
+1727: Ich will dir (Glöckner)  
+1728: Hemme dein  
+1729: wie 1727  
+1736: wie 1729  
+
+26. Ich will bei meinem 
+1725: Text und Solostimme vollständig  
+1727: Solostimme wie 1725; Chorpartie vervollständigt (so auch P26!)  
+1728: Geh Leopold  
+1729:  wie 1727  
+1736:  wie 1729  
+
+29. Gerne will ich  
+1725: deest  
+1727: Gerne will ich (Glöckner)  
+1728: Wird auch gleich  
+1729: wie 1727  
+1736: wie 1729  
+
+27a/b. So ist/Sind Blitze  
+1725: Text und Musik vollständig  
+1727: wie 1725  
+1728: -  
+1729: wie 1727  
+1736: wie 1729  
+
+29. O Mensch bewein  
+1725:  in D-Dur?; in Es-Dur transloziert nach BWV 245  
+1727: ersetzt durch Jesum lass ich nicht  
+1728: -  
+1729: wie 1727  
+1736: wie 1725; nun endültig in E-Dur  
+
+—
+
+30. Ach nun ist mein Jesus  
+1725: deest  
+1727: ??
+1728: -  
+1729: Ach nun ist mein Jesus  
+1736: Wie 1729  
+
+35. Geduld, wenn mich  
+1725: deest  
+1727: ??  
+1728 -  
+1729: Geduld, wenn mich  
+1736:  wie 1729  
+
+39. Erbarme dich  
+1725: Text und Musik vollständig  
+1727: wie 1725  
+1728: Erhalte mich  
+1729: wie 1727  
+1736: wie 1729  
+
+42. Gebt mir meinen  
+1725: Text und Musik vollständig  
+1727: wie 1725  
+1728: -   
+1729: wie 1727  
+1736: wie 1729  
+
+49. Aus Liebe  
+1725: deest  
+1727: ??  
+1728: Mit Freuden  
+1729: Aus Liebe  
+1736: wie 1729  
+
+52. ???
+
+
+56. Ja freilich will in uns  
+1725: Text und Musik vollständig  
+1727: wie 1725  
+1728 : -  
+1729: wie 1727  
+1736: wie 1729  
+
+
+57. Komm süßes Kreuz  
+1725: Text und Musik vollständig  
+1727: wie 1725  
+1728: Laß Leopold  
+1729: wie 1727  
+1736: wie 1736  
+
+
+60. Sehet Jesus hat / Himmel reisse … ???  
+
+65. Mache dich  
+1725:  deest  
+1727: ??  
+1728: Bleibet nur  
+1729: ??  
+1736: Mache dich  
+
+
+68. Wir setzen uns  
+1725: deest (später in P 26 assoziiert)  
+1727: ??  
+1728: Die Augen sehn  
+1729: Wir setzen uns  
+1736: wie 1729  
+
 
 
 
