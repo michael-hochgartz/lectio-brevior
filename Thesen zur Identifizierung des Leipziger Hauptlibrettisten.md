@@ -2,7 +2,7 @@
 des „Leipziger“ Hauptlibrettisten  
 Johann Sebastian Bachs  
 Michael Hochgartz (D 48153 Münster)  
-michael@hochgartz.de - 04.02.2022  
+michael@hochgartz.de - 05.02.2022  
 Quelltext und Literaturverzeichnis: https://github.com/michael-hochgartz/lectio-brevior  
 
 Amore et studio elucidandae veritatis haec subscripta disputabuntur (Martin Luther 1517)  
@@ -42,7 +42,7 @@ Schließlich bleibt zu bedenken: auch der produktivste Komponist protestantische
 
 3. Grund für den vorzeitigen Abbruch der Vertonung des Choralkantatenjahrgangs war (wie u.a. von Marshall 1972 und Krummacher 1995 unspezifisch vermutet, von Schulze 1999 systemisch analysiert und personenbezogen präzisiert, von Wolff 2000 einstweilen akzeptiert, 2020 jedoch explizit ignoriert und u.a. von Petzoldt 1999, Geck 2000, Walter 2006, Braatz 2007, Zedler 2007, Walter 2012, Bärwald 2012, Rathey 2012a, Klek 2015, Marquard 2019 mit unterschiedlichen Zielrichtungen diskutiert) der plötzliche, dauerhafte Ausfall des Autors Ende Januar 1725.  
 
-Ein in Teilen der Fachliteratur (vgl. z.B. Gardiner 2013) unterstellter Erschöpfungszustand des Komponisten mag zwar existiert haben, taugt aber nicht als Erklärung für die zwar zeitverzögert wirkende, ursächlich aber spontan bedingte Beendigung dieses in der Musikgeschichte einzigartigen Projekts, da für die Vollendung des Zyklus und der Passion im Tempus clausum während der vierzigtägigen Fastenzeit eine hinreichende - und für die verbleibenden gut ein Dutzend Kantatentermine zwischen Ostern und Trinitatis mit ca. 12 Wochen sogar eine ganz gewöhnlich bemessene Zeit für eine geordnete Vollendung nach Bachs vorweihnachtlichem Standardrhythmus vorhanden gewesen wäre.  
+Ein in Teilen der Fachliteratur (vgl. z.B. Gardiner 2013) unterstellter Erschöpfungszustand des Komponisten mag zwar existiert haben, taugt aber nicht als Erklärung für die zwar zeitverzögert wirkende, ursächlich aber spontan bedingte Beendigung dieses in der Musikgeschichte einzigartigen Projekts, da für die Vollendung des Zyklus und der Passion im Tempus clausum während der vierzigtägigen Fastenzeit eine hinreichende (vgl. Stauder 2020) - und für die verbleibenden gut ein Dutzend Kantatentermine zwischen Ostern und Trinitatis mit ca. 12 Wochen sogar eine ganz gewöhnlich bemessene Zeit für eine geordnete Vollendung nach Bachs vorweihnachtlichem Standardrhythmus vorhanden gewesen wäre.  
 
 Im übrigen verursachten Erstellung bzw. Umarbeitung der nachgewiesenen Ersatzkompositionen organisatorisch und intellektuell mindestens identische, emotional vielleicht sogar überdurchschnittliche Unkosten.  
 
@@ -172,7 +172,7 @@ I. Trinitatis 1724 bis Ende Januar 1725: Sukzessive Vertonung jenes madrialische
 
 II. Karfreitag 1727: Erste aufführbare Fassung der Matthäus-Passion auf der Basis der Fragmente von 1725 sowie älterer Versatzstücke aus BWV 245 (bzw. BC D1) und einiger Ergänzungen durch Henrici. Ebenfalls als kreative „Notlösung“ zu betrachten. Es lagen noch nicht alle heute aus BWV 244b bekannten madrigalischen Sätze vor, weshalb (und wegen des somit noch hohen Anteils an Fremdmaterial) Henrici auf einen Abdruck in seiner Gedichtsammlung verzichtete. Christoph Gottlob Wecker lernt das Werk in dieser Fassung kennen.  
 
-III. 1728-29: Erweiterung und Konsolidierung der Fassung II synchron zu den Parodiearbeiten an der Trauermusik BWV 244a (vgl. Stauber 2020) unter Eliminierung der 1727 eingefügten Versatzstücke und deren Ersatz und Ergänzung durch Texte Henricis. Aufführung am Karfreitag 1729 mit den auch für Köthen eingesetzten (und aus den dort realisierten Einnahmen subventionierten?) Kräften auf der Basis einer heute verschollenen Partiturneuschrift, die 1755ff als Vorlage für die Kopie J.C. Farlaus diente. Erster Abdruck des Textes in Henricis Sammlung. Christoph Gottlob Weckers Bitte um „Zusendung“ des Werks wird von Bach abschlägig beschieden, da er Partitur und Stimmen „heuer“ für seine eigene Aufführung benötigt.  
+IIIa/b. 1728-29: Erweiterung und Konsolidierung der Fassung II synchron zu den Parodiearbeiten an der Trauermusik BWV 244a (vgl. Stauber 2020) unter Eliminierung der 1727 eingefügten Versatzstücke und deren Ersatz und Ergänzung durch Texte Henricis. Aufführung am Karfreitag 1729 mit den auch für Köthen eingesetzten (und aus den dort realisierten Einnahmen subventionierten?) Kräften auf der Basis einer heute verschollenen Partiturneuschrift, die 1755ff als Vorlage für die Kopie J.C. Farlaus diente. Erster Abdruck des Textes in Henricis Sammlung. Christoph Gottlob Weckers Bitte um „Zusendung“ des Werks wird von Bach abschlägig beschieden, da er Partitur und Stimmen „heuer“ für seine eigene Aufführung benötigt.  
 
 IV. 1736 Aufführung der bis heute ganz überwiegend verwendeten Spätfassung auf der Basis der autographen Partitur P 25 und der zugehörigen Stimmen, deren Titel - nunmehr völlig zu Recht - mit der für Bachs Usus einzigartigen Formulierung „per Dominum Henrici alias Picander dictus“ den Verantwortlichen für die Fassung letzter Hand der „Poesia“ explizit nennt - und damit die Forschungsgeschichte bis in die Jetztzeit scheinbar alternativlos präformiert.  
 
@@ -184,51 +184,52 @@ A. Fassungen:
 
 I. 1725: belegt duch Agricola, P26  
 II. 1727: hypothetisch bzw. erschlossen aus Parodiebeziehung zu IIIa/b  
-IIIa. 1728: BWV 244a belegt durch multiple (primär Köthener) Textüberlieferungen vom November 1728  
+IIIa. 1728: BWV 244a belegt durch Textüberlieferungen  
 IIIb. 1729: BWV 244b belegt durch Farlau Am.B 6+7 und Textdruck Henrici  
-IV. 1736: BWV 244: belegt durch Autograph P 25 und St.110  
+IV. 1736: BWV 244: belegt durch Autograph P 25 und St 110  
 
-B. Satzfolgen nach NBA:  
+B. Satzfolgen (nach NBA):  
 
 1. Kommt ihr Töchter  
 1725: Text und Musik vollständig  
 1727: wie 1725  
+1728: -  
 1729: wie 1727  
 1736: wie 1729  
 
 10. Buß und Reu  
 1725: deest  
 1727: deest  
-1728: Weh und ach  
-1729: Buß und Reu  
+1728: Weh und ach Original (Stauder; Glöckner; entgegen Brainard)  
+1729: Buß und Reu Parodie (Stauder; Glöckner; entgegen Brainard)  
 1736: wie 1729  
 
 12. Blute nur  
 1725: deest  
 1727: deest  
-1728: Zage nur  
-1729: Blute nur  
+1728: Zage nur Original (Stauder; Glöckner)  
+1729: Blute nur Parodie (Stauder; Glöckner)  
 1736: wie 1729  
 
 19. Ich will dir  
 1725: deest  
-1727: Ich will dir (Glöckner)  
-1728: Hemme dein  
-1729: wie 1727  
+1727: wie 1729?  
+1728: Hemme dein Parodie (Brainard; Stauder; Glöckner; entgegen Gojowy)  
+1729: Ich will dir Original (Brainard; Stauder; Glöckner; entgegen Gojowy)  
 1736: wie 1729  
 
 26. Ich will bei meinem  
-1725: Text und Solostimme vollständig  
-1727: Solostimme wie 1725; Chorpartie vervollständigt (so auch P26!)  
-1728: Geh Leopold  
+1725: Solostimme vollständig; Chorpartie fragmentarisch (so auch P 26!)  
+1727: Solostimme wie 1725 (entgegen Stauder); Chorpartie vervollständigt  
+1728: Geh Leopold Parodie (Brainard: uneindeutig)  
 1729:  wie 1727  
 1736:  wie 1729  
 
 29. Gerne will ich  
 1725: deest  
-1727: Gerne will ich (Glöckner)  
-1728: Wird auch gleich  
-1729: wie 1727  
+1727: wie 1729?  
+1728: Wird auch gleich Parodie (Brainard; Stauder; Glöckner; entgegen Gojowy)  
+1729: Gerne will ich Original (Brainard; Stauder; Glöckner; entgegen Gojowy)  
 1736: wie 1729  
 
 27a/b. So ist/Sind Blitze  
@@ -251,26 +252,26 @@ B. Satzfolgen nach NBA:
 1725: deest  
 1727: ??
 1728: -  
-1729: Ach nun ist mein Jesus  
+1729: Ach nun ist mein Jesus Original (Glöckner)  
 1736: Wie 1729  
 
 35. Geduld, wenn mich  
 1725: deest  
 1727: ??  
 1728 -  
-1729: Geduld, wenn mich  
+1729: Geduld, wenn mich Original? (Glöckner)  
 1736:  wie 1729  
 
 39. Erbarme dich  
 1725: Text und Musik vollständig  
 1727: wie 1725  
-1728: Erhalte mich  
+1728: Erhalte mich Parodie (Brainard; Glöckner)  
 1729: wie 1727  
 1736: wie 1729  
 
 42. Gebt mir meinen  
 1725: Text und Musik vollständig  
-1727: wie 1725  
+1727: wie 1725 Original? (Glöckner)  
 1728: -  
 1729: wie 1727  
 1736: wie 1729  
@@ -278,8 +279,8 @@ B. Satzfolgen nach NBA:
 49. Aus Liebe  
 1725: deest  
 1727: ??  
-1728: Mit Freuden  
-1729: Aus Liebe  
+1728: Mit Freuden Original (Stauder; Glöckner; entgegen Brainard)  
+1729: Aus Liebe Parodie (Stauder; Glöckner; entgegen Brainard)  
 1736: wie 1729  
 
 52. ???
@@ -289,14 +290,14 @@ B. Satzfolgen nach NBA:
 1725: Text und Musik vollständig  
 1727: wie 1725  
 1728 : -  
-1729: wie 1727  
+1729: wie 1727 Original (Glöckner)  
 1736: wie 1729  
 
 
 57. Komm süßes Kreuz  
 1725: Text und Musik vollständig  
 1727: wie 1725  
-1728: Laß Leopold  
+1728: Laß Leopold Parodie (Gojowy; Stauder; Glöckner: uneindeutig)  
 1729: wie 1727  
 1736: wie 1736  
 
@@ -305,17 +306,17 @@ B. Satzfolgen nach NBA:
 
 65. Mache dich  
 1725:  deest  
-1727: ??  
-1728: Bleibet nur  
-1729: ??  
-1736: Mache dich  
+1727: Instrumentalstimme vorhanden? (Rifkin)  
+1728: Bleibet nur Original (Gojowy; Stauder; Glöckner; entgegen Brainard)  
+1729: Mache dich Parodie (Gojowy, Stauder, Glöcker; entgegen Brainard)  
+1736: wie 1729  
 
 
 68. Wir setzen uns  
-1725: deest (um 1800 an P 26 assoziiert)  
-1727: ??  
-1728: Die Augen sehn  
-1729: Wir setzen uns  
+1725: deest (erst um 1800 buchbinderisch an P 26 assoziiert)  
+1727:  
+1728: Die Augen sehn Original (Stauder; Glöckner; entgegen Brainard)  
+1729: Wir setzen uns Parodie (Stauder; Glöckner; entgegen Brainard)  
 1736: wie 1729  
 
 
