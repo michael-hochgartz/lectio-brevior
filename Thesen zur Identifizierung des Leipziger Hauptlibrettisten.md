@@ -218,6 +218,13 @@ B. Satzfolgen (nach NBA):
 1729: Ich will dir Original (Brainard; Stauder; Glöckner; entgegen Gojowy)  
 1736: wie 1729  
 
+23. Gerne will ich  
+1725: nur als Satzbezeichnung in P 26 („Aria“); nur Text vorhanden?  
+1727: Musik nachkomponiert?  
+1728: Wird auch gleich Parodie (Brainard; Stauder; Glöckner; entgegen Gojowy)  
+1729: Gerne will ich Original (Brainard; Stauder; Glöckner; entgegen Gojowy)  
+1736: wie 1727/29  
+
 26. Ich will bei meinem  
 1725: Solostimme vollständig; Chorpartie fragmentarisch (so auch P 26!)  
 1727: Solostimme wie 1725 (entgegen Stauder); Chorpartie vervollständigt  
@@ -225,12 +232,6 @@ B. Satzfolgen (nach NBA):
 1729:  wie 1727  
 1736:  wie 1729  
 
-29. Gerne will ich  
-1725: deest  
-1727: wie 1729?  
-1728: Wird auch gleich Parodie (Brainard; Stauder; Glöckner; entgegen Gojowy)  
-1729: Gerne will ich Original (Brainard; Stauder; Glöckner; entgegen Gojowy)  
-1736: wie 1729  
 
 27a/b. So ist/Sind Blitze  
 1725: Text und Musik vollständig  
@@ -313,7 +314,7 @@ B. Satzfolgen (nach NBA):
 
 
 68. Wir setzen uns  
-1725: deest (erst um 1800 buchbinderisch an P 26 assoziiert)  
+1725: deest (aus anderer Quelle um 1800 buchbinderisch an P 26 assoziiert)  
 1727:  
 1728: Die Augen sehn Original (Stauder; Glöckner; entgegen Brainard)  
 1729: Wir setzen uns Parodie (Stauder; Glöckner; entgegen Brainard)  
