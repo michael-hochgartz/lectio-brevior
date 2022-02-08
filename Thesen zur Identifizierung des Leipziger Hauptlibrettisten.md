@@ -68,7 +68,7 @@ Dazu passt die Beobachtung, dass in der Kantate BWV 93 das Luther-Zitat aus 2Kö
 
 
 
-8. Anhand der (vielleicht schon während seiner Leipziger Studienzeit in seinen Besitz gelangten) Relikte einer Anfang 1725 unvollständig gebliebenen, aus ungehefteten Papieren bestehenden, spätestens in den 1730er Jahren kompositions- und aufführungspraktisch obsolet gewordenen Konzeptpartitur der Erstfassung der Matthäusp-Passion konstruierte Johann Friedrich Agricola zwischen 1755 und 1770 einen musikphilologisch elaborierten Partitur-Torso (D-B Mus.ms. Bach P 26).  
+8. Anhand der (vielleicht schon während seiner Leipziger Studienzeit in seinen Besitz gelangten) Relikte einer Anfang 1725 unvollständig gebliebenen, aus ungehefteten Papieren bestehenden, spätestens in den 1730er Jahren kompositions- und aufführungspraktisch obsolet gewordenen Konzeptpartitur der Erstfassung der Matthäus-Passion konstruierte Johann Friedrich Agricola zwischen 1755 und 1770 einen musikphilologisch elaborierten Partitur-Torso (D-B Mus.ms. Bach P 26).  
 
 Als strukturelle Folie zur Darstellung des Umfangs fehlender Teile diente ihm eine Abschrift (D-B AmB. 6+7) der spätestens 1729 mit Textergänzungen durch die Hand Christian Friedrich Henricis vervollständigten, von Bach (während oder nach der Verwendung für die Köthener Tauermusik BWV 244a) neu geschriebenen Partitur der Frühfassung, die der Gelegenheitskopist Johann Christoph Farlau anhand einer (aus Naumburg beschafften oder in Leipzig vorgefundenen) Originalhandschrift angefertigt hatte. (Vgl. Wollny 2002).  
 
@@ -78,13 +78,13 @@ Diese Betrachtungsweise ermöglicht erstmals eine weitgehend widerspruchsfreie E
 
 Der Charakter der Handschrift P 26 ist somit keineswegs defizitär, wie seit Jahrzehnten von der Forschung in fast einhelliger Ratlosigkeit unterstellt wird, (etwa aufgrund einer auf den ersten Blick willkürlich erscheinenden Selektion durch den Schreiber), sondern erlaubt vielmehr durch seinen präzisen, erstaunlich modern wirkenden musikarchäologischen Ansatz bislang beispiellose Einblicke in Bachs Vorgehensweise bei der Entstehung eines seiner umfangreichsten Großwerke, dessen erster Versuch einer Niederschrift durch außergewöhnliche äußere Umstände in singulärer Weise beeinflusst worden war.  
 
-Insbesondere dokumentieren die Erscheinungsformen einiger Turbae-Chöre (z.B. Nr. 4d oder Nr. 41b) oder der Aria Nr. 20 als Momentaufnahmen unfertiger, aber als zielgerichtet erkennbarer Prozesse das Vorgehen des Komponisten bei der provisorischen Fixierung komplexer musikalischer Gedanken. (Vgl. Marshall 1972; 2011 sowie speziell zur Aria Chafe 1982.)  
+Insbesondere dokumentieren die Erscheinungsformen einiger Turbae-Chöre (z.B. Nr. 4d oder Nr. 41b) oder der Aria Nr. 20 als Momentaufnahmen unfertiger, aber als zielgerichtet erkennbarer Prozesse das Vorgehen des Komponisten bei der provisorischen Fixierung komplexer musikalischer Gedanken. (Vgl. Marshall 1972; 2011; sowie speziell zur Aria Chafe 1982.)  
 
 Selbst scheinbar nebensächliche, unmotiviert anmutende Details, wie die isoliert herausgehobene Platzierung des - gegenüber den später, durch simple notationstechnische Handgriffe geradegerückten Varianten h-a-g bzw. g-a-h-a „falsch“ erscheinenden - provisorischen Zieltons a (hier noch ohne den ausgehaltenen Baßton G) in Takt 7 des Rezitativs Nr. 2 auf dem seltenen, deklamatorisch unkonventionell wirkenden, für den Sänger riskanten Vokal ü (nach explizitem, sonst meist fehlendem Taktstrich) und die am Ende dieser Wortfolge chromatisierte Schlußklausel („…gekreuziget werde“), deren erster notierter Ton nach einem Zeilenwechsel eine Rückbindung ins Nirwana aufweist, nämlich in den vorangehenden, noch leeren Halbtakt, vermögen die Annahme zu stützen, dass hier ursprünglich niemand anderes als der Komponist selbst am Werk gewesen sein kann.  
 
 Zudem konterkariert gerade dieses Beispiel Dürrs Verlegenheitshypothese einer außergewöhnlichen „Konjekturfreudigkeit“ Agricolas, der diesen extrem exponiert erscheinenden Fehler (der in diesem fragmentarischen Zustand des Satzbildes noch gar keiner war!) sicherlich mit einem Federstrich nach einem einzigen Blick in AmB. 6 oder durch eigene kompositorische Kompetenz hätte korrigieren können - wie Bach es bei der späteren Fertigstellung, als nach Aufschiebung des Harmoniewechsels G-(A7)-D6 (bedingt durch die buchstäblich überbordende Streichergloriole der Christusworte) um einen halben Takt die Vokalnote tatsächlich fehlerhaft wurde, durch Verkürzung des a mittels eines zusätzlichen Fähnchens, Anfügung eines Sechszehntel g und Voranstellung einer Achtelnote h dann auch selbst mit seiner typisch pragmatischen Eleganz tat.  
 
-Oder hatte Bach ursprünglich an dieser dramaturgisch herausgehobenen Stelle (Vorankündigung des Verrats) gar eine dissonant definierte, wortverstärkende Harmonie im Sinn, die sich im zweiten Anlauf - nach Ausformulierung der Streicherstimmen - als unausführbar erwies und deshalb die Degradierung des betonten Zieltons a zur Durchgangsnote erforderte? (Vgl. auch Leisinger 2002 zu BWV 245/12c und 245 13II.).  
+Oder hatte Bach ursprünglich an dieser dramaturgisch herausgehobenen Stelle (Vorankündigung des Verrats, wenige Takte nach Ende des Exordiums) gar eine dissonant definierte, wortverstärkende Harmonie im Sinn, die sich im zweiten Anlauf - nach Ausformulierung der Streicherstimmen - als unausführbar erwies und deshalb die Degradierung des betonten Zieltons a zur Durchgangsnote erforderte? (Vgl. auch Leisinger 2002 zu BWV 245/12c und 245 13II.).  
 
 Unter diesem Blickwinkel betrachtet, erscheint die Erklärung dieser in P 26 wie auf dem Präsentierteller platziert wirkenden Stelle als getreue Wiedergabe einer Bachschen Entwurfsskizze als alternativlos. Bestärkt wird dieser Eindruck durch die final verfeinerte (durch aufführungspraktische Erfahrungen motivierte?) Endfassung im Spätautograph P 25.  
 
@@ -99,7 +99,7 @@ Zu klären bleibt, warum Agricola in dieser Partitur Gebrauch von zahlreichen no
 Ohne weiteres erklärbar ist hingegen der Umstand, dass sich Agricola bei der Rekonstruktion des - in den Fragmenten naturgemäß noch fehlenden, in der Farlau-Kopie nur in kürzest möglicher Form vorhandenen Titels (Kopftitel und das später davon durch Kirnberger abgeleitete Einband-Etikett) - für eine repräsentative Lösung auf der Basis eines nicht erhaltenen Textdrucks entschied, dessen auf Vorrat erstellte Exemplare für mehrere geplante, jeweils handschriftlich zu ergänzende Aufführungstermine aus den 1730er Jahren bestimmt waren. (Zum Prinzip am Beispiel von BWV 247 vgl. Schabalina 2009).  
 Wortwahl und Zeilenfall weisen derart typisch auf einen „Text zur Music“ hin, dass keine Zweifel an der Verwendung als bewusstes Versatzstück durch Agricola möglich sind. Eine Originalpartitur (nicht nur P 26) als Vorlage scheidet wegen der handschriftlichen „Variable“ bei der letzten Ziffer des Datums ebenso aus wie der Originaldruck Henricis, welcher (seit wann?) der Farlau-Kopie in Form einer undatierten Abschrift von Agricolas Hand beigegeben ist. Agricola war sich demnach der verschiedenen Fassungen bzw. Bearbeitungsstände des Werks stets bewusst.  
 Im Gegensatz zu anderen Passionsaufführungen (BWV 247) war der Aufführungsort hier eindeutig fixiert und konnte somit ausgedruckt bzw. ausgeschrieben werden, da BWV 244 aufführungspraktisch (Platzgründe; Doppelchörigkeit; evtl. separat aufgestellter Cantus firmus-Chor) nur in St. Thomae realisierbar war. 
-Die fehlende Endziffer könnte schließlich darauf hindeuten, dass es sich bei der Vorlage um ein Exemplar handelte, welches nach Fertigstellung der Spätfassung 1736 wegen Fehlens der strukturell bedeutsamen Textänderungen („O Mensch bewein“ etc.) unverkäuflich geworden war. 
+Die fehlende Endziffer könnte schließlich darauf hindeuten, dass es sich bei der Vorlage um ein Exemplar handelte, welches zur Fertigstellung der Spätfassung 1736 wegen Fehlens der strukturell bedeutsamen Textänderungen („O Mensch bewein“ etc.) unverkäuflich geworden war. 
 Mögliche Konsequenzen für den Aufführungskalender zwischen 1730 und 1736 bleiben zu prüfen.  
 
 Der an P 26 angebundene, von anderer Hand nach anderer Vorlage auf anderem Papier kopierte Schlusschor (BWV 244/68: „Wir setzen uns…“) steht - das ist unbestritten - mit Agricolas Konstrukt in keinem ursprünglichen Zusammenhang.  
@@ -114,11 +114,11 @@ Nicht übersehen werden sollte in diesem Zusammenhang der Umstand, dass Agricola
 
 
 
-10. Die Entstehungsgeschichten des Anfang 1725 abgebrochenen Choralkantatenjahrgangs und der zur selben Zeit beiseite gelegten Erstfassung der Matthäusp-Passion sind auf eine Weise verschränkt, die sich auch in der blockhaft wirkenden, von Eric Chafe (1982) tonartentheologisch gedeuteten Grobstruktur der von Agricola durch Einfügung exakt ermittelter Leerzeilen und (später von unbekannter Hand zum Teil wieder entnommenen) Blankobögen akribisch zum präsentierfähigen Torso gestalteten Passionsteile widerspiegelt.  
+10. Die Entstehungsgeschichten des Anfang 1725 abgebrochenen Choralkantatenjahrgangs und der zur selben Zeit beiseite gelegten Erstfassung der Matthäus-Passion sind auf eine Weise verschränkt, die sich auch in der blockhaft wirkenden, von Eric Chafe (1982) tonartentheologisch gedeuteten Grobstruktur der von Agricola durch Einfügung exakt ermittelter Leerzeilen und (später von unbekannter Hand zum Teil wieder entnommenen) Blankobögen akribisch zum präsentierfähigen Torso gestalteten Passionsteile widerspiegelt.  
 
 Die Postlieferungen für beide Projekte durch kostensparende Sammelsendungen „per couvert“ je nach den terminlichen Erfordernissen der Drucklegungen für die jeweils fünf bis acht Aufführungen umfassenden Leipziger Libretti der Kantaten schlugen in außergewöhnlicher Weise auf die vorausgeplante Architektur der - zur Zeit ihrer Entstehung naturgemäß noch ungehefteten - Passionsfragmente durch.  
 
-Bach begann vielleicht schon um Trinitatis, spätestens aber im letzten Quartal 1724 mit der teils vollständigen, teils skizzenhaften Komposition unzusammenhängender Kerne (dramaturgisch zusammengehörige Szenen wäre zuviel gesagt) rund um die sukzessive, aber nicht immer der Chronologie des biblischen Narrativs folgenden, zusammen mit der zweiten Kantatenlieferung offenbar verzögert eintreffenden madrigalischen Texte, sicher auch in der Absicht, für die immense Arbeitslast auch Zeiten wie das Tempus clausum (nicht nur die Fastenzeit 1725, sondern auch bereits den 2. bis 4. Advent 1724) zu nutzen - möglicherweise aber auch schon die relativ gut planbare Abfolge der fast festlosen Wochen seit Trinitatis.  
+Bach begann vielleicht schon um Trinitatis, spätestens aber im letzten Quartal 1724 mit der teils vollständigen, teils skizzenhaften Komposition unzusammenhängender Kerne (dramaturgisch zusammengehörige Szenen wäre zuviel gesagt) rund um die sukzessive, aber nicht immer der Chronologie des biblischen Narrativs folgenden, zusammen mit der zweiten Kantatenlieferung offenbar verzögert eintreffenden madrigalischen Texte, sicher auch in der Absicht, für die immense Arbeitslast auch Zeiten wie das Tempus clausum (nicht nur die Fastenzeit 1725, sondern auch bereits den 2. bis 4. Advent 1724) zu nutzen - und wohl auch schon die relativ gut planbare Abfolge der fast festlosen Wochen seit Trinitatis.  
 
 Die sechs madrigalischen Texte für die Passionssätze 1, 20, 39, 42 und für die Doppelsätze 27a/b und 56/57 lassen sich auf den ersten Blick als je eine Beigabe zu den mindestens sechs, wahrscheinlich eher sieben Briefsendungen seit dem Beginn des Kantatenprojekts vorstellen.  
 
@@ -164,17 +164,17 @@ Schließt uns auch die Thränen zu. (Henrici 1728/29)
 
 
 
-14. Nach dem Erscheinen von Andreas Glöckners Aufsatz „Johann Sebastian Bachs ‚Große Passion‘ - Neue Überlegungen zu ihrer Vorgeschichte“ (BJ 2021; Januar 2022 für Nichtmitglieder / Mai 2022 für Mitglieder der NBG lieferbar) ergeben sich auch für die vorliegenden Thesen weiterführende Ergänzungsmöglichkeiten. Ausgehend von der bisherigen Forschungslage (u.a. Gojowy 1965; Stauder 2020; leider nicht auch Brainard 1969 und Chafe 1982) hält Glöckner es aufgrund von Stilvergleichen (insbesondere zum Wort-Ton-Verhältnis) mit der Trauermusik BWV 244a für nicht ausgeschlossen, dass es bereits 1727 (vgl. Rifkin 1975) eine aufführbare Fassung der Passion gegeben haben könnte, die zwar das biblische Narrativ vollständig umfasste, aber hinsichtlich der kontemplativen (madrigalischen) Texte als um deutlich kürzer anzunehmen wäre als die heute bekannten Fassungen von 1729 bzw. 1736.  
+14. Nach dem Erscheinen von Andreas Glöckners Aufsatz „Johann Sebastian Bachs ‚Große Passion‘ - Neue Überlegungen zu ihrer Vorgeschichte“ (BJ 2021; Januar 2022 für Nichtmitglieder / Mai 2022 für Mitglieder der NBG lieferbar) ergeben sich auch für die vorliegenden Thesen weiterführende Ergänzungsmöglichkeiten. Ausgehend von der bisherigen Forschungslage (u.a. Gojowy 1965; Stauber 2020; leider nicht auch Brainard 1969 und Chafe 1982) hält Glöckner es aufgrund von Stilvergleichen (insbesondere zum Wort-Ton-Verhältnis) mit der Trauermusik BWV 244a für nicht ausgeschlossen, dass es bereits 1727 (vgl. Rifkin 1975) eine aufführbare Fassung der Passion gegeben haben könnte, die zwar das biblische Narrativ vollständig umfasste, aber hinsichtlich der kontemplativen (madrigalischen) Texte als um deutlich kürzer anzunehmen wäre als die heute bekannten Fassungen von 1729 bzw. 1736.  
 Folgt man Glöckners, durch seine weiteren Argumente überzeugend gestützten Überlegungen, dann ergibt sich eine überraschende Antwort auf die alte Frage nach der frühesten Fassung der Passion: 1727 oder 1729? - die lauten könnte: 1727 und 1729!  
-Diese Betrachtungeweise wiederum lässt sich fast bruchlos, gleichsam als „missing link“, in die zuvor ausgeführte These 13 zur Prioritätenfrage von BWV 244a und BWV 244b einfügen: Die 1728/29 erstellten Teile entstanden teils unter Rückgriff auf Material von 1725 bzw. 1727, teils wurden sie genuin für eine Doppelverwendung konzipiert und realisiert. Die Frage nach Vorlage und Parodie wäre unter diesem Aspekt im Rahmen einer separten Untersuchung noch einmal Satz für Satz auszudifferenzieren - wobei selbst „Zweitparodien“ (vgl. Dürr 1974; Stauder 2020) nicht ausgeschlossen werden sollten. Die Ur- und Frühgeschichte von J.S. Bachs „Großer Passion“ könnte somit - weniger vorsichtig als von Glöckner formuliert - noch entscheidend komplexer beschrieben werden. Zum Beispiel so:  
+Diese Betrachtungeweise wiederum lässt sich fast bruchlos, gleichsam als „missing link“, in die zuvor ausgeführte These 13 zur Prioritätenfrage von BWV 244a und BWV 244b einfügen: Die 1728/29 erstellten Teile entstanden teils nicht nur unter Rückgriff auf Material von 1725, sondern auch von 1727, teils wurden sie genuin für eine Doppelverwendung konzipiert und realisiert. Die Frage nach Vorlage und Parodie wäre unter diesem Aspekt im Rahmen einer separten Untersuchung noch einmal Satz für Satz auszudifferenzieren - wobei selbst „Zweitparodien“ (vgl. Dürr 1974; Stauber 2020) nicht ausgeschlossen werden sollten. Die Ur- und Frühgeschichte von J.S. Bachs „Großer Passion“ könnte somit - weniger vorsichtig als von Glöckner formuliert - noch entscheidend komplexer beschrieben werden. Zum Beispiel so:  
 
 I. Trinitatis 1724 bis Ende Januar 1725: Sukzessive Vertonung jenes madrialischen Materials, das vom „Dichter der Choralkantatentexte“ stückweise alle fünf bis acht Wochen per Post mitgeliefert wurde sowie der Choralbearbeitung „O Mensch bewein“ und etlicher, inselartig kumulierter (Chafe 1982) sonstiger Sätze (Rezitative; Turbae; Choräle). Abbruch der Arbeiten wegen des Todes des Dichters am 21.1.1725. Dieser Zustand wurde von Agricola nach 1755 in der Handschrift P 26 unter Voranstellung eines (nach einem anderweitig nicht überlieferten Textdruck aus den 1730er Jahren konstruierten) Titelblatts dokumentiert. Vorzeitige Wiederaufführung der Johannes-Passion am Karfreitag 1725 als „… mehr als eine Notlösung?“ (Leisinger 2002). Henrici erhält (im zeitlichen Umfeld der Arbeiten an BWV 249/249a?, also noch im ersten Quartal 1725) einen Einblick in die Bach vorliegenden Texte und paraphrasiert die (von der Brockes-Passion inspirierte) „Rache-Arie“ BWV 244b Satz 27b in der Schlüsselszene („neunter“ - recte: „elfter“ - Auftritt) seines 1725 einzeln und Anfang 1726 an den (fingierten?) Erscheinungsorten Berlin/Frankfurt/Hamburg gesammelt publizierten Lustspiels „Der akademische Schlendrian“ in Form von subtil feinstrukturierter Bühnenprosa.  
 
-II. Karfreitag 1727: Erste aufführbare Fassung der Matthäus-Passion auf der Basis der Fragmente von 1725 sowie älterer Versatzstücke aus BWV 245/BC D1 (und erster, nicht genau bestimmbarer Ergänzungen durch Henrici?) Ebenfalls als kreative „Notlösung“ zu betrachten. Es lagen noch nicht alle heute aus BWV 244b bekannten madrigalischen Sätze vor, weshalb (und wegen des somit noch hohen Anteils an Fremdmaterial) Henrici auf einen Abdruck in seiner Gedichtsammlung verzichtete. Christoph Gottlob Wecker lernt das Werk in dieser Fassung kennen - sicherlich nicht nur in Papierform.  
+II. Karfreitag 1727: Erste aufführbare Fassung der Matthäus-Passion auf der Basis der Fragmente von 1725 sowie provisorisch dort integrierter Versatzstücke aus BWV 245/BC D1 (und erster, nicht genau bestimmbarer Ergänzungen durch Henrici?) Ebenfalls als kreative „Notlösung“ zu betrachten. Es lagen noch nicht alle heute aus BWV 244b bekannten madrigalischen Sätze vor, weshalb (und wegen des somit noch hohen Anteils an Fremdmaterial) Henrici auf einen Abdruck in seiner Gedichtsammlung verzichtete. Christoph Gottlob Wecker lernt das Werk in dieser Fassung kennen - sicherlich nicht nur in Papierform.  
 
-IIIa/b. 1728-29: Erweiterung und Konsolidierung der Fassung II synchron zu den Arbeiten an der Trauermusik BWV 244a (vgl. Stauber 2020) unter Eliminierung der 1727 eingefügten Versatzstücke und deren Ersatz und Ergänzung durch Texte Henricis. Aufführung am Karfreitag 1729 mit den auch für und in Köthen eingesetzten (und aus den dort realisierten Einnahmen subventionierten?) Kräften auf der Basis einer heute verschollenen Partiturneuschrift, die 1755ff als Vorlage für die Kopie J.C. Farlaus diente. Erster Abdruck des Textes in Henricis Sammlung zur Ostermesse 1729. Christoph Gottlob Weckers Bitte um „Zusendung“ des Werks wird von Bach abschlägig beschieden, da er Partitur und Stimmen „heuer“ für seine eigene Aufführung benötigt. Dem Argument einer Überforderung von Weckers Chor in Schweidnitz wäre im übrigen mit einem Hinweis auf jene Lösung zu entgegnen, die auch für die legendäre Wiederaufführung 1829 gewählt wurde: die Streichung von Sätzen.  
+IIIa/b. 1728-29: Erweiterung und Konsolidierung der Fassung II synchron zu den Arbeiten an der Trauermusik BWV 244a (vgl. Stauber 2020) unter Eliminierung der 1727 eingefügten Versatzstücke und deren Ersatz und Ergänzung durch Texte Henricis. Aufführung am Karfreitag 1729 mit den auch für und in Köthen eingesetzten (und aus den dort realisierten Einnahmen subventionierten?) Kräften auf der Basis einer heute verschollenen Partiturneuschrift, die 1755ff als Vorlage für die Kopie J.C. Farlaus diente. Erster Abdruck des Textes in Henricis Sammlung zur Ostermesse 1729. Christoph Gottlob Weckers Bitte um „Zusendung“ des Werks wird von Bach abschlägig beschieden, da er Partitur und Stimmen „heuer“ für seine eigene Aufführung benötigt. Dem Argument einer Überforderung von Weckers Ensemble in Schweidnitz wäre im übrigen mit einem Hinweis auf jene Lösung zu entgegnen, die auch für die legendäre Wiederaufführung 1829 gewählt wurde: die Streichung von Sätzen.  
 
-IV. 1736 Aufführung der bis heute ganz überwiegend verwendeten Spätfassung auf der Basis der autographen Partitur P 25 und der zugehörigen Stimmen St 110, deren Titel - nunmehr völlig zu Recht - mit der für Bachs Usus einzigartigen Formulierung „per Dominum Henrici alias Picander dictus“ den Verantwortlichen für die Fassung letzter Hand der „Poesia“ explizit nennt - und damit die Forschungsgeschichte bis in die Jetztzeit scheinbar alternativlos präformiert.  
+IV. 1736 Aufführung der bis heute ganz überwiegend verwendeten Spätfassung auf der Basis der autographen Partitur P 25 und der zugehörigen Stimmen St 110, deren Titel - nunmehr völlig zu Recht - mit der für Bachs Usus einzigartigen Formulierung „per Dominum Henrici alias Picander dictus“ den Verantwortlichen für die Fassung letzter Hand der „Poesia“ explizit nennt - und damit die Forschungsgeschichte auch der Frühfassungen bis in die Jetztzeit scheinbar alternativlos präformiert.  
 
 
 
@@ -207,30 +207,32 @@ B. Satzfolgen (nach NBA):
 12. Blute nur  
 1725: deest  
 1727: deest  
-1728: Zage nur Original (Stauder; Glöckner)  
-1729: Blute nur Parodie (Stauder; Glöckner)  
+1728: Zage nur Original (Stauber; Glöckner)  
+1729: Blute nur Parodie (Stauber; Glöckner)  
 1736: wie 1729  
 
 19. Ich will dir  
 1725: deest  
 1727: wie 1729?  
-1728: Hemme dein Parodie (Brainard; Stauder; Glöckner; entgegen Gojowy)  
-1729: Ich will dir Original (Brainard; Stauder; Glöckner; entgegen Gojowy)  
+1728: Hemme dein Parodie (Brainard; Stauber; Glöckner; entgegen Gojowy)  
+1729: Ich will dir Original (Brainard; Stauber; Glöckner; entgegen Gojowy)  
 1736: wie 1729  
+
+
+20. Ich will bei meinem  
+1725: Solostimme vollständig; Chorpartie fragmentarisch (so auch P 26!)  
+1727: Solostimme wie 1725 (entgegen Stauber); Chorpartie vervollständigt  
+1728: Geh Leopold Parodie (Brainard: uneindeutig)  
+1729:  wie 1727  
+1736:  wie 1729  
+
 
 23. Gerne will ich  
 1725: nur als Satzbezeichnung in P 26 („Aria“); nur Text vorhanden?  
 1727: Musik nachkomponiert?  
-1728: Wird auch gleich Parodie (Brainard; Stauder; Glöckner; entgegen Gojowy)  
-1729: Gerne will ich Original (Brainard; Stauder; Glöckner; entgegen Gojowy)  
+1728: Wird auch gleich Parodie (Brainard; Stauber; Glöckner; entgegen Gojowy)  
+1729: Gerne will ich Original (Brainard; Stauber; Glöckner; entgegen Gojowy)  
 1736: wie 1727/29  
-
-26. Ich will bei meinem  
-1725: Solostimme vollständig; Chorpartie fragmentarisch (so auch P 26!)  
-1727: Solostimme wie 1725 (entgegen Stauder); Chorpartie vervollständigt  
-1728: Geh Leopold Parodie (Brainard: uneindeutig)  
-1729:  wie 1727  
-1736:  wie 1729  
 
 
 27a/b. So ist/Sind Blitze  
@@ -261,7 +263,7 @@ B. Satzfolgen (nach NBA):
 1727: wie 1729?  
 1728 -  
 1729: Geduld, wenn mich Original? (Glöckner)  
-1736:  wie 1729  
+1736:  wie 1729 (umgearbeitet)  
 
 39. Erbarme dich  
 1725: Text und Musik vollständig  
@@ -275,13 +277,13 @@ B. Satzfolgen (nach NBA):
 1727: wie 1725  
 1728: -  
 1729: wie 1727  
-1736: wie 1729  
+1736: wie 1729 (umgearbeitet)  
 
 49. Aus Liebe  
 1725: deest  
 1727: wie 1729??  
-1728: Mit Freuden Original (Stauder; Glöckner; entgegen Brainard)  
-1729: Aus Liebe Parodie (Stauder; Glöckner; entgegen Brainard)  
+1728: Mit Freuden Original (Stauber; Glöckner; entgegen Brainard)  
+1729: Aus Liebe Parodie (Stauber; Glöckner; entgegen Brainard)  
 1736: wie 1729  
 
 52. Können Tränen  
@@ -303,7 +305,7 @@ B. Satzfolgen (nach NBA):
 57. Komm süßes Kreuz  
 1725: Text und Musik vollständig  
 1727: wie 1725  
-1728: Laß Leopold Parodie (Gojowy; Stauder; Glöckner: uneindeutig)  
+1728: Laß Leopold Parodie (Gojowy; Stauber; Glöckner: uneindeutig)  
 1729: wie 1727  
 1736: wie 1736  
 
@@ -318,16 +320,16 @@ B. Satzfolgen (nach NBA):
 65. Mache dich  
 1725: deest  
 1727: Instrumentalstimme vorhanden? (Rifkin)  
-1728: Bleibet nur Original (Gojowy; Stauder; Glöckner; entgegen Brainard)  
-1729: Mache dich Parodie (Gojowy, Stauder, Glöcker; entgegen Brainard)  
+1728: Bleibet nur Original (Gojowy; Stauber; Glöckner; entgegen Brainard)  
+1729: Mache dich Parodie (Gojowy, Stauber, Glöcker; entgegen Brainard)  
 1736: wie 1729  
 
 
 68. Wir setzen uns  
 1725: deest (aus anderer Quelle um 1800 an P 26 assoziiert)  
 1727:  
-1728: Die Augen sehn Original (Stauder; Glöckner; entgegen Brainard)  
-1729: Wir setzen uns Parodie (Stauder; Glöckner; entgegen Brainard)  
+1728: Die Augen sehn Original (Stauber; Glöckner; entgegen Brainard)  
+1729: Wir setzen uns Parodie (Stauber; Glöckner; entgegen Brainard)  
 1736: wie 1729  
 
 
