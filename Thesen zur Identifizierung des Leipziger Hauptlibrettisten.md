@@ -2,7 +2,7 @@
 des „Leipziger“ Hauptlibrettisten  
 Johann Sebastian Bachs  
 Michael Hochgartz (D 48153 Münster)  
-michael@hochgartz.de - 06.02.2022  
+michael@hochgartz.de - 08.02.2022  
 Quelltext und Literaturverzeichnis: https://github.com/michael-hochgartz/lectio-brevior  
 
 Amore et studio elucidandae veritatis haec subscripta disputabuntur (Martin Luther 1517)  
@@ -42,7 +42,7 @@ Schließlich bleibt zu bedenken: auch der produktivste Komponist protestantische
 
 3. Grund für den vorzeitigen Abbruch der Vertonung des Choralkantatenjahrgangs war (wie u.a. von Marshall 1972 und Krummacher 1995 unspezifisch vermutet, von Schulze 1999 systemisch analysiert und personenbezogen präzisiert, von Wolff 2000 einstweilen akzeptiert, 2020 jedoch explizit ignoriert und u.a. von Petzoldt 1999, Geck 2000, Walter 2006, Braatz 2007, Zedler 2007, Walter 2012, Bärwald 2012, Rathey 2012a, Klek 2015, Marquard 2019 mit unterschiedlichen Zielrichtungen diskutiert) der plötzliche, dauerhafte Ausfall des Autors Ende Januar 1725.  
 
-Ein in Teilen der Fachliteratur (vgl. z.B. Gardiner 2013) unterstellter Erschöpfungszustand des Komponisten mag zwar existiert haben, taugt aber nicht als Erklärung für die zwar zeitverzögert wirkende, ursächlich aber spontan bedingte Beendigung dieses in der Musikgeschichte einzigartigen Projekts, da für die Vollendung des Zyklus und der Passion im Tempus clausum während der vierzigtägigen Fastenzeit eine hinreichende (vgl. Stauder 2020) - und für die verbleibenden gut ein Dutzend Kantatentermine zwischen Ostern und Trinitatis mit ca. 12 Wochen sogar eine ganz gewöhnlich bemessene Zeit für eine geordnete Vollendung nach Bachs vorweihnachtlichem Standardrhythmus vorhanden gewesen wäre.  
+Ein in Teilen der Fachliteratur (vgl. z.B. Gardiner 2013) unterstellter Erschöpfungszustand des Komponisten mag zwar existiert haben, taugt aber nicht als Erklärung für die zwar zeitverzögert wirkende, ursächlich aber spontan bedingte Beendigung dieses in der Musikgeschichte einzigartigen Projekts, da für die Vollendung des Zyklus und der Passion im Tempus clausum während der vierzigtägigen Fastenzeit eine hinreichende (vgl. Stauber 2020) - und für die verbleibenden gut ein Dutzend Kantatentermine zwischen Ostern und Trinitatis mit ca. 12 Wochen sogar eine ganz gewöhnlich bemessene Zeit für eine geordnete Vollendung nach Bachs vorweihnachtlichem Standardrhythmus vorhanden gewesen wäre.  
 
 Im übrigen verursachten Erstellung bzw. Umarbeitung der nachgewiesenen Ersatzkompositionen organisatorisch und intellektuell mindestens identische, emotional vielleicht sogar überdurchschnittliche Unkosten.  
 
@@ -172,7 +172,7 @@ I. Trinitatis 1724 bis Ende Januar 1725: Sukzessive Vertonung jenes madrialische
 
 II. Karfreitag 1727: Erste aufführbare Fassung der Matthäus-Passion auf der Basis der Fragmente von 1725 sowie älterer Versatzstücke aus BWV 245/BC D1 (und erster, nicht genau bestimmbarer Ergänzungen durch Henrici?) Ebenfalls als kreative „Notlösung“ zu betrachten. Es lagen noch nicht alle heute aus BWV 244b bekannten madrigalischen Sätze vor, weshalb (und wegen des somit noch hohen Anteils an Fremdmaterial) Henrici auf einen Abdruck in seiner Gedichtsammlung verzichtete. Christoph Gottlob Wecker lernt das Werk in dieser Fassung kennen - sicherlich nicht nur in Papierform.  
 
-IIIa/b. 1728-29: Erweiterung und Konsolidierung der Fassung II synchron zu den Arbeiten an der Trauermusik BWV 244a (vgl. Stauder 2020) unter Eliminierung der 1727 eingefügten Versatzstücke und deren Ersatz und Ergänzung durch Texte Henricis. Aufführung am Karfreitag 1729 mit den auch für und in Köthen eingesetzten (und aus den dort realisierten Einnahmen subventionierten?) Kräften auf der Basis einer heute verschollenen Partiturneuschrift, die 1755ff als Vorlage für die Kopie J.C. Farlaus diente. Erster Abdruck des Textes in Henricis Sammlung zur Ostermesse 1729. Christoph Gottlob Weckers Bitte um „Zusendung“ des Werks wird von Bach abschlägig beschieden, da er Partitur und Stimmen „heuer“ für seine eigene Aufführung benötigt.  
+IIIa/b. 1728-29: Erweiterung und Konsolidierung der Fassung II synchron zu den Arbeiten an der Trauermusik BWV 244a (vgl. Stauber 2020) unter Eliminierung der 1727 eingefügten Versatzstücke und deren Ersatz und Ergänzung durch Texte Henricis. Aufführung am Karfreitag 1729 mit den auch für und in Köthen eingesetzten (und aus den dort realisierten Einnahmen subventionierten?) Kräften auf der Basis einer heute verschollenen Partiturneuschrift, die 1755ff als Vorlage für die Kopie J.C. Farlaus diente. Erster Abdruck des Textes in Henricis Sammlung zur Ostermesse 1729. Christoph Gottlob Weckers Bitte um „Zusendung“ des Werks wird von Bach abschlägig beschieden, da er Partitur und Stimmen „heuer“ für seine eigene Aufführung benötigt. Dem Argument einer Überforderung von Weckers Chor in Schweidnitz wäre im übrigen mit einem Hinweis auf jene Lösung zu entgegnen, die auch für die legendäre Wiederaufführung 1829 gewählt wurde: die Streichung von Sätzen.  
 
 IV. 1736 Aufführung der bis heute ganz überwiegend verwendeten Spätfassung auf der Basis der autographen Partitur P 25 und der zugehörigen Stimmen St 110, deren Titel - nunmehr völlig zu Recht - mit der für Bachs Usus einzigartigen Formulierung „per Dominum Henrici alias Picander dictus“ den Verantwortlichen für die Fassung letzter Hand der „Poesia“ explizit nennt - und damit die Forschungsgeschichte bis in die Jetztzeit scheinbar alternativlos präformiert.  
 
@@ -182,7 +182,7 @@ IV. 1736 Aufführung der bis heute ganz überwiegend verwendeten Spätfassung au
 
 A. Fassungen:  
 
-I. 1725: belegt duch Agricola, P26  
+I. 1725: belegt duch Agricola, P 26  
 II. 1727: hypothetisch nach BC/D1 bzw. wegen Parodiebeziehung zu IIIa/b  
 IIIa. 1728: BWV 244a belegt durch Textüberlieferungen  
 IIIb. 1729: BWV 244b belegt durch Farlau Am.B 6+7 und Textdruck Henrici  
@@ -200,8 +200,8 @@ B. Satzfolgen (nach NBA):
 10. Buß und Reu  
 1725: deest  
 1727: deest  
-1728: Weh und ach Original (Stauder; Glöckner; entgegen Brainard)  
-1729: Buß und Reu Parodie (Stauder; Glöckner; entgegen Brainard)  
+1728: Weh und ach Original (Stauber; Glöckner; entgegen Brainard)  
+1729: Buß und Reu Parodie (Stauber; Glöckner; entgegen Brainard)  
 1736: wie 1729  
 
 12. Blute nur  
