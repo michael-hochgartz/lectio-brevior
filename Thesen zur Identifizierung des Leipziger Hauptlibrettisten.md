@@ -2,7 +2,7 @@
 des „Leipziger“ Hauptlibrettisten  
 Johann Sebastian Bachs  
 Michael Hochgartz (D 48153 Münster)  
-michael@hochgartz.de - 10.02.2022  
+michael@hochgartz.de - 11.02.2022  
 Quelltext und Literaturverzeichnis: https://github.com/michael-hochgartz/lectio-brevior  
 
 Amore et studio elucidandae veritatis haec subscripta disputabuntur (Martin Luther 1517)  
@@ -102,11 +102,11 @@ Im Gegensatz zu anderen Passionsaufführungen (BWV 247) war der Aufführungsort 
 Die fehlende Endziffer könnte schließlich darauf hindeuten, dass es sich bei der Vorlage um ein Exemplar handelte, welches zur Fertigstellung der Spätfassung 1736 wegen Fehlens der strukturell bedeutsamen Textänderungen („O Mensch bewein“ etc.) unverkäuflich geworden war. 
 Mögliche Konsequenzen für den Aufführungskalender zwischen 1730 und 1736 bleiben zu prüfen.  
 
-Der an P 26 angebundene, von anderer Hand nach anderer Vorlage auf anderem Papier kopierte Schlusschor (BWV 244/68: „Wir setzen uns…“) steht - das ist unbestritten - mit Agricolas Konstrukt in keinem ursprünglichen Zusammenhang.  
+Der an P 26 angebundene, von anderer Hand nach anderer Vorlage auf anderem Papier kopierte Schlusschor (BWV 244/68: „Wir setzen uns…“) steht - das ist unbestritten - mit Agricolas Konstrukt in keinem ursprünglichen Zusammenhang. Die Integration in den Band dürfte wohl auf den Handschriftensammler Georg Poelchau zurückgehen.  
 
 
 
-9. Agricolas - örtlich und wohl auch zeitlich im nahen Umfeld der Entstehung und von ihm geleiteten Erstaufführung von C.H. Grauns Passionsoratorium „Der Tod Jesu“ (vgl. Schwinger 2012) anzusiedelnde - Dokumentation des unfreiwillig unterbrochenen Entstehungsprozesses hätte die Wahrnehmung von Bachs Matthäus-Passion bereits ein Menschenleben vor ihrer Wiederaufführung durch Felix Mendelssohn Bartholdy vom Status einer theologisch und sprachlich nicht mehr auf der Höhe der Zeit befindlichen, bestenfalls nur lokal rezipierbaren Gebrauchsmusik (Otto 2007 mit der typischen Herablassung neuerer Germanisten: „musikalisches Kleinod … kontaminiert mit abgeschmacktem Wortmaterial…“) in den Rang eines zeitlosen musikalischen Kunstwerks heben können und wohl auch sollen, sofern dieser Ansatz über den engsten Zirkel Berliner Bach-Kenner (C.P.E. Bach, Kirnberger, Anna Amalia von Preußen, Marpurg und einige wenige Andere) hinaus bekannt geworden wäre. (Vgl. Schulze 1981; Wollny 2020).  
+9. Agricolas - örtlich und wohl auch zeitlich im nahen Umfeld der Entstehung und von ihm geleiteten Erstaufführung von C.H. Grauns Passionsoratorium „Der Tod Jesu“ (vgl. Schwinger 2012) anzusiedelnde - Dokumentation des unfreiwillig unterbrochenen Entstehungsprozesses hätte die Wahrnehmung von Bachs Matthäus-Passion bereits ein Menschenleben vor ihrer Wiederaufführung durch Felix Mendelssohn Bartholdy vom Status einer theologisch und sprachlich nicht mehr auf der Höhe der Zeit befindlichen, bestenfalls nur lokal rezipierbaren Gebrauchsmusik (Otto 2007 mit der typischen Herablassung auch neuerer Germanisten: „musikalisches Kleinod … kontaminiert mit abgeschmacktem Wortmaterial…“) in den Rang eines zeitlosen musikalischen Kunstwerks heben können und wohl auch sollen, sofern dieser Ansatz über den engsten Zirkel Berliner Bach-Kenner (C.P.E. Bach, Kirnberger, Anna Amalia von Preußen, Marpurg und einige wenige Andere) hinaus bekannt geworden wäre. (Vgl. Schulze 1981; Wollny 2020).  
 
 Die Intention dieses Vorgangs im Rahmen einer „Sichtbarmachung der eigenen Historizität“ (Wollny 2009) ist vergleichbar mit der im selben Zeitraum von Agricola begleiteten Edition der (auch aus kaufmännischen Zwängen) als raffiniert ergänztem Torso konfektionierten Kunst der Fuge BWV 1080, seines (nach dessen eigenen Worten) mit C.P.E. Bach in Berlin „zusammengestoppelten“ Nekrologs, seinem Interesse an Sammlung und Herausgabe der Vierstimmigen Choralgesänge und seiner erst in jüngster Zeit thematisierten Erhebung Bachs in den Rang eines „Genies“ wie Isaac Newton (Vgl. Wolff 2007).  
 
@@ -164,7 +164,7 @@ Schließt uns auch die Thränen zu. (Henrici 1728/29)
 
 
 
-14. Nach dem Erscheinen von Andreas Glöckners Aufsatz „Johann Sebastian Bachs ‚Große Passion‘ - Neue Überlegungen zu ihrer Vorgeschichte“ (BJ 2021; Januar 2022 für Nichtmitglieder / Mai 2022 für Mitglieder der NBG lieferbar) ergeben sich auch für die vorliegenden Thesen weiterführende Ergänzungsmöglichkeiten. Ausgehend von der bisherigen Forschungslage (u.a. Gojowy 1965; Stauber 2020; leider nicht auch Brainard 1969 und Chafe 1982) hält Glöckner es aufgrund von Stilvergleichen zum Wort-Ton-Verhältnis mit der Trauermusik BWV 244a für nicht ausgeschlossen, dass es bereits 1727 (vgl. Rifkin 1975) eine aufführbare Fassung der Passion gegeben haben könnte, die zwar das biblische Narrativ vollständig umfasste, aber hinsichtlich der kontemplativen (madrigalischen) Texte als um deutlich kürzer anzunehmen wäre als die heute bekannten Versionen.  
+14. Nach dem Erscheinen von Andreas Glöckners Aufsatz „Johann Sebastian Bachs ‚Große Passion‘ - Neue Überlegungen zu ihrer Vorgeschichte“ (BJ 2021; Januar 2022 für Nichtmitglieder / Mai 2022 für Mitglieder der NBG lieferbar) ergeben sich auch für die vorliegenden Thesen weiterführende Ergänzungsmöglichkeiten. Ausgehend von der bisherigen Forschungslage (u.a. Gojowy 1965; Stauber 2020; leider nicht auch Brainard 1969 und Chafe 1982) hält Glöckner es aufgrund von Stilvergleichen zum Wort-Ton-Verhältnis mit der Trauermusik BWV 244a für nicht ausgeschlossen, dass es bereits 1727 (vgl. Rifkin 1975) eine aufführbare Fassung der Passion gegeben haben könnte, die zwar das biblische Narrativ vollständig umfasste, aber - und das ist die Neubewertung - hinsichtlich der kontemplativen (madrigalischen) Texte als um deutlich kürzer anzunehmen wäre als die heute bekannten Versionen.  
 Folgt man Glöckners, durch seine weiteren Argumente überzeugend gestützten Überlegungen, dann ergibt sich eine überraschende Antwort auf die alte Frage nach der frühesten Fassung der Passion: 1727 oder 1729? - die lauten könnte: 1727 und 1729!  
 Diese Betrachtungeweise wiederum lässt sich fast bruchlos, gleichsam als „missing link“, in die zuvor ausgeführte These 13 zur Prioritätenfrage von BWV 244a und BWV 244b einfügen: Die 1728/29 erstellten Teile entstanden teils nicht nur unter Rückgriff auf Material von 1725, sondern auch von 1727, teils wurden sie genuin für eine Doppelverwendung konzipiert und realisiert. Die Frage nach Vorlage und Parodie wäre unter diesem Aspekt im Rahmen einer separten Untersuchung noch einmal Satz für Satz auszudifferenzieren - wobei selbst „Zweitparodien“ (vgl. Dürr 1974; Stauber 2020) nicht ausgeschlossen werden sollten. Die Ur- und Frühgeschichte von J.S. Bachs „Großer Passion“ könnte somit - weniger vorsichtig als von Glöckner formuliert - noch entscheidend komplexer beschrieben werden. Zum Beispiel so:  
 
@@ -183,7 +183,7 @@ IV. 1736 Aufführung der bis heute ganz überwiegend verwendeten Spätfassung au
 A. Fassungen:  
 
 I. 1725: belegt duch Agricola, P 26  
-II. 1727: hypothetisch nach BC/D1 bzw. wegen Parodiebeziehung zu IIIa/b  
+II. 1727: hypothetisch nach BC/D1 bzw. wegen Parodiebeziehung zu IIIa/b und Rifkin 1975  
 IIIa. 1728: BWV 244a belegt durch Textüberlieferungen  
 IIIb. 1729: BWV 244b belegt durch Farlau Am.B 6+7 und Textdruck Henrici  
 IV. 1736: BWV 244: belegt durch Autographe P 25 und St 110  
@@ -229,7 +229,7 @@ B. Satzfolgen (nach NBA):
 
 23. Gerne will ich  
 1725: nur als Satzbezeichnung in P 26 („Aria“); nur Text vorhanden?  
-1727: Musik nachkomponiert?  
+1727: Musik nachkomponiert; zzgl. Satz 22?  
 1728: Wird auch gleich Parodie (Brainard; Stauber; Glöckner; entgegen Gojowy)  
 1729: Gerne will ich Original (Brainard; Stauber; Glöckner; entgegen Gojowy)  
 1736: wie 1727/29  
@@ -313,7 +313,7 @@ B. Satzfolgen (nach NBA):
 
 60. Sehet Jesus hat  
 1725: deest  
-1727: Himmel reiße aus D1/2  
+1727: Himmel reiße aus D1/2?  
 1728: -  
 1729: Sehet Jesus hat  
 1736: wie 1729  
