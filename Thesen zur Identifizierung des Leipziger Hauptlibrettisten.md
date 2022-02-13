@@ -192,28 +192,28 @@ IV. 1736: BWV 244: belegt durch Autographe P 25 und St 110
 
 B. Entstehungsstadien der Einzelsätze:  
 
-1. Kommt ihr Töchter …  
+Satz 1 Kommt ihr Töchter …  
 1725: Text und Musik vollständig  
 1727: wie 1725  
 1728: -  
 1729: wie 1727  
 1736: wie 1729  
 
-10. Buß und Reu …  
+Satz 10 Buß und Reu …  
 1725: deest  
 1727: deest  
 1728: Weh und ach … Original (Stauber; Glöckner; entgegen Brainard)  
 1729: Buß und Reu … Parodie (Stauber; Glöckner; entgegen Brainard)  
 1736: wie 1729  
 
-12. Blute nur …  
+Satz 12 Blute nur …  
 1725: deest  
 1727: deest  
 1728: Zage nur … Original (Stauber; Glöckner)  
 1729: Blute nur … Parodie (Stauber; Glöckner)  
 1736: wie 1729  
 
-19. Ich will dir …  
+Satz 19 Ich will dir …  
 1725: deest  
 1727: wie 1729?  
 1728: Hemme dein … Parodie (Brainard; Stauber; Glöckner; entgegen Gojowy)  
@@ -221,7 +221,7 @@ B. Entstehungsstadien der Einzelsätze:
 1736: wie 1729  
 
 
-20. Ich will bei meinem …  
+Satz 20 Ich will bei meinem …  
 1725: Solostimme vollständig; Chorpartie fragmentarisch (so in P 26!)  
 1727: Solostimme wie 1725 (entgegen Stauber); Chorpartie vervollständigt  
 1728: Geh Leopold … Parodie (Brainard: uneindeutig)  
@@ -229,7 +229,7 @@ B. Entstehungsstadien der Einzelsätze:
 1736:  wie 1729  
 
 
-23. Gerne will ich …  
+Satz 23 Gerne will ich …  
 1725: nur als Satzbezeichnung in P 26 („Aria“); nur Text vorhanden?  
 1727: Musik nachkomponiert; (zzgl. Satz 22?)  
 1728: Wird auch gleich … Parodie (Brainard; Stauber; Glöckner; entgegen Gojowy)  
@@ -237,7 +237,7 @@ B. Entstehungsstadien der Einzelsätze:
 1736: wie 1727/29  
 
 
-27a/b. So ist/Sind Blitze …  
+Satz 27a/b So ist/Sind Blitze …  
 1725: Text und Musik vollständig  
 1725/26: Profane Paraphrase in Henricis „Der akademische Schlendrian“  
 1727: wie 1725  
@@ -245,7 +245,7 @@ B. Entstehungsstadien der Einzelsätze:
 1729: wie 1727  
 1736: wie 1729  
 
-29. O Mensch bewein … (reiner Choraltext)  
+Satz 29 O Mensch bewein … (reiner Choraltext)  
 1725: in D- oder E-Dur?; Stimmen in Es-Dur transloziert nach BWV 245  
 1727: ersetzt durch Jesum lass ich nicht …  
 1728: -  
@@ -254,42 +254,42 @@ B. Entstehungsstadien der Einzelsätze:
 
 —
 
-30. Ach nun ist mein Jesus …  
+Satz 30 Ach nun ist mein Jesus …  
 1725: deest  
 1727: wie 1729?  
 1728: -  
 1729: Ach nun ist mein Jesus … Original (Glöckner)  
 1736: Wie 1729  
 
-35. Geduld, wenn mich …  
+Satz 35 Geduld, wenn mich …  
 1725: deest  
 1727: wie 1729?  
 1728 -  
 1729: Geduld, wenn mich … Original? (Glöckner)  
 1736: wie 1729 (musikalisch umgearbeitet)  
 
-39. Erbarme dich …  
+Satz 39 Erbarme dich …  
 1725: Text und Musik vollständig  
 1727: wie 1725  
 1728: Erhalte mich … Parodie (Brainard; Glöckner)  
 1729: wie 1727  
 1736: wie 1729  
 
-42. Gebt mir meinen …  
+Satz 42 Gebt mir meinen …  
 1725: Text und Musik vollständig  
 1727: wie 1725  
 1728: -  
 1729: wie 1727  
 1736: wie 1729 (umgearbeitet)  
 
-49. Aus Liebe …  
+Satz 49 Aus Liebe …  
 1725: deest  
 1727: wie 1729??  
 1728: Mit Freuden … Original (Stauber; Glöckner; entgegen Brainard)  
 1729: Aus Liebe … Parodie (Stauber; Glöckner; entgegen Brainard)  
 1736: wie 1729  
 
-52. Können Tränen …  
+Satz 52 Können Tränen …  
 1725: deest  
 1727: Ach windet euch nicht so … aus D1/4?  
 1728: -  
@@ -297,7 +297,7 @@ B. Entstehungsstadien der Einzelsätze:
 1736: wie 1729  
 
 
-56. Ja freilich will in uns …  
+Satz 56 Ja freilich will in uns …  
 1725: Text und Musik vollständig  
 1727: wie 1725  
 1728 : -  
@@ -305,7 +305,7 @@ B. Entstehungsstadien der Einzelsätze:
 1736: wie 1729  
 
 
-57. Komm süßes Kreuz …  
+Satz 57 Komm süßes Kreuz …  
 1725: Text und Musik vollständig  
 1727: wie 1725  
 1728: Laß Leopold … Parodie (Gojowy; Stauber; Glöckner: uneindeutig)  
@@ -313,22 +313,22 @@ B. Entstehungsstadien der Einzelsätze:
 1736: wie 1736  
 
 
-60. Sehet Jesus hat …  
+Satz 60 Sehet Jesus hat …  
 1725: deest  
-1727: Himmel reiße aus … D1/2?  
+1727: Himmel reiße … aus D1/2?  
 1728: -  
 1729: Sehet Jesus hat …  
 1736: wie 1729  
 
-65. Mache dich …  
+Satz 65 Mache dich …  
 1725: deest  
-1727: Instrumentalstimme vorhanden? (Rifkin)  
+1727: Zwei Takte einer Instrumentalstimme nachweissbar (Rifkin)  
 1728: Bleibet nur … Original (Gojowy; Stauber; Glöckner; entgegen Brainard)  
 1729: Mache dich … Parodie (Gojowy, Stauber, Glöcker; entgegen Brainard)  
 1736: wie 1729  
 
 
-68. Wir setzen uns …  
+Satz 68 Wir setzen uns …  
 1725: deest (aus anderer Quelle um 1800 an P 26 assoziiert)  
 1727:  
 1728: Die Augen sehn … Original (Stauber; Glöckner; entgegen Brainard)  
