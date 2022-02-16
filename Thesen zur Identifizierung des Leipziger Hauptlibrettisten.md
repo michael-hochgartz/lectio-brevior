@@ -2,7 +2,7 @@
 des „Leipziger“ Hauptlibrettisten  
 Johann Sebastian Bachs  
 Michael Hochgartz (D 48153 Münster)  
-michael@hochgartz.de - 13.02.2022  
+michael@hochgartz.de - 16.02.2022  
 Quelltext und Literaturverzeichnis: https://github.com/michael-hochgartz/lectio-brevior  
 
 Amore et studio elucidandae veritatis haec subscripta disputabuntur (Martin Luther 1517)  
@@ -170,7 +170,9 @@ Diese Betrachtungsweise wiederum lässt sich fast bruchlos, gleichsam als „mis
 
 Die Ur- und Frühgeschichte von J.S. Bachs „Großer Passion“ könnte somit - weniger vorsichtig als von Glöckner formuliert - noch entscheidend komplexer beschrieben werden. Zum Beispiel so:  
 
-I. Trinitatis 1724 bis Ende Januar 1725: Sukzessive Vertonung jenes madrialischen Materials, das vom „Dichter der Choralkantatentexte“ stückweise alle fünf bis acht Wochen per Post mitgeliefert wurde sowie der Choralbearbeitung „O Mensch bewein“ und etlicher, inselartig kumulierter (Chafe 1982) sonstiger Sätze (Rezitative; Turbae; Choräle). Abbruch der Arbeiten wegen des Todes des Dichters am 21.1.1725. Dieser Zustand wurde von Agricola nach 1755 in der Handschrift P 26 unter Voranstellung eines (nach einem anderweitig nicht überlieferten Textdruck aus den 1730er Jahren konstruierten) Titelblatts dokumentiert. Vorzeitige Wiederaufführung der Johannes-Passion am Karfreitag 1725 als „… mehr als eine Notlösung?“ (Leisinger 2002). Henrici erhält (im zeitlichen Umfeld der Arbeiten an BWV 249/249a, also noch im ersten Quartal 1725) einen Einblick in die Bach vorliegenden Texte und paraphrasiert die (von der Brockes-Passion inspirierte) „Rache-Arie“ BWV 244b Satz 27b in der Schlüsselszene („neunter“ - recte: „elfter“ - Auftritt) seines 1725 einzeln und Anfang 1726 an den (fingierten?) Erscheinungsorten Berlin/Frankfurt/Hamburg gesammelt publizierten Lustspiels „Der akademische Schlendrian“ in Form von subtil feinstrukturierter Bühnenprosa.  
+I. Trinitatis 1724 bis Ende Januar 1725: Sukzessive Vertonung jenes madrialischen Materials, das vom „Dichter der Choralkantatentexte“ stückweise alle fünf bis acht Wochen per Post mitgeliefert wurde sowie der Choralbearbeitung „O Mensch bewein“ und etlicher, inselartig kumulierter (Chafe 1982) sonstiger Sätze (Rezitative; Turbae; Choräle). Abbruch der Arbeiten wegen des Todes des Dichters am 21.1.1725. Dieser Zustand wurde von Agricola nach 1755 in der Handschrift P 26 unter Voranstellung eines (nach einem anderweitig nicht überlieferten Textdruck aus den 1730er Jahren konstruierten) Titelblatts dokumentiert.  
+Vorzeitige Wiederaufführung der Johannes-Passion am Karfreitag 1725 als „… mehr als eine Notlösung?“ (Leisinger 2002); möglicherweise unter Übernahme einiger Sätze (BC D1, 1-4), die textlich für BWV 244 bestimmt und eventuell sogar schon in Musik gesetzt waren.  
+Henrici erhält (im zeitlichen Umfeld der Arbeiten an BWV 249/249a, also noch im ersten Quartal 1725) einen Einblick in die Bach vorliegenden Texte und paraphrasiert die (von der Brockes-Passion inspirierte) „Rache-Arie“ BWV 244b Satz 27b in der Schlüsselszene („neunter“ - recte: „elfter“ - Auftritt) seines 1725 einzeln und Anfang 1726 an den (fingierten?) Erscheinungsorten Berlin/Frankfurt/Hamburg gesammelt publizierten Lustspiels „Der akademische Schlendrian“ in Form von subtil feinstrukturierter Bühnenprosa.  
 
 II. Karfreitag 1727: Erste aufführbare Fassung der Matthäus-Passion auf der Basis der vervollständigten Fragmente von 1725 sowie provisorisch dort integrierter Versatzstücke aus BWV 245/BC D1 (und erster, nicht genau bestimmbarer Ergänzungen durch Henrici?) Ebenfalls als kreative „Notlösung“ zu betrachten. Es lagen noch nicht alle heute aus BWV 244b bekannten madrigalischen Sätze vor, weshalb (und wegen des somit noch hohen Anteils an Fremdmaterial) Henrici auf einen Abdruck in seiner Gedichtsammlung verzichtete. Christoph Gottlob Wecker lernt das Werk in dieser Fassung kennen - wenn, dann sicherlich nicht nur in Papierform.  
 
@@ -290,7 +292,7 @@ Satz 49 Aus Liebe …
 1736: wie 1729  
 
 Satz 52 Können Tränen …  
-1725: deest  
+1725: in P 26 deest; evtl. schon wie 1727?  
 1727: Ach windet euch nicht so … aus D1/4?  
 1728: -  
 1729: Können Tränen …  
@@ -314,7 +316,7 @@ Satz 57 Komm süßes Kreuz …
 
 
 Satz 60 Sehet Jesus hat …  
-1725: deest  
+1725: in P 26 deest; evtl. schon wie 1727?  
 1727: Himmel reiße … aus D1/2?  
 1728: -  
 1729: Sehet Jesus hat …  
