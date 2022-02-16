@@ -174,11 +174,12 @@ I. Trinitatis 1724 bis Ende Januar 1725: Sukzessive Vertonung jenes madrialische
 Vorzeitige Wiederaufführung der Johannes-Passion am Karfreitag 1725 als „… mehr als eine Notlösung?“ (Leisinger 2002); möglicherweise unter Übernahme einiger Sätze (BC D1, 1-4), die textlich für BWV 244 bestimmt und eventuell sogar schon in Musik gesetzt waren.  
 Henrici erhält (im zeitlichen Umfeld der Arbeiten an BWV 249/249a, also noch im ersten Quartal 1725) einen Einblick in die Bach vorliegenden Texte und paraphrasiert die (von der Brockes-Passion inspirierte) „Rache-Arie“ BWV 244b Satz 27b in der Schlüsselszene („neunter“ - recte: „elfter“ - Auftritt) seines 1725 einzeln und Anfang 1726 an den (fingierten?) Erscheinungsorten Berlin/Frankfurt/Hamburg gesammelt publizierten Lustspiels „Der akademische Schlendrian“ in Form von subtil feinstrukturierter Bühnenprosa.  
 
-II. Karfreitag 1727: Erste aufführbare Fassung der Matthäus-Passion auf der Basis der vervollständigten Fragmente von 1725 sowie provisorisch dort integrierter Versatzstücke aus BWV 245/BC D1 (und erster, nicht genau bestimmbarer Ergänzungen durch Henrici?) Ebenfalls als kreative „Notlösung“ zu betrachten. Es lagen noch nicht alle heute aus BWV 244b bekannten madrigalischen Sätze vor, weshalb (und wegen des somit noch hohen Anteils an Fremdmaterial) Henrici auf einen Abdruck in seiner Gedichtsammlung verzichtete. Christoph Gottlob Wecker lernt das Werk in dieser Fassung kennen - wenn, dann sicherlich nicht nur in Papierform.  
+II. Karfreitag 1727: Erste aufführbare Fassung der Matthäus-Passion auf der Basis der vervollständigten Fragmente von 1725 sowie provisorisch dort integrierter Versatzstücke aus BWV 245/BC D1 (und erster, nicht genau bestimmbarer Ergänzungen durch Henrici?) Ebenfalls als kreative „Notlösung“ zu betrachten. Es lagen noch nicht alle heute aus BWV 244b bekannten madrigalischen Sätze vor, weshalb (und wegen des somit noch hohen Anteils an Fremdmaterial) Henrici auf einen Abdruck in seiner Gedichtsammlung zunächst verzichtete. Christoph Gottlob Wecker lernt das Werk in dieser Fassung kennen sicherlich nicht nur in Papierform.  
 
-IIIa/b. 1728-29: Erweiterung und Konsolidierung der Fassung II synchron zu den Arbeiten an der Trauermusik BWV 244a (vgl. Stauber 2020) unter Eliminierung der 1727 eingefügten Versatzstücke und deren Ersatz und Ergänzung durch Texte Henricis. Aufführung am Karfreitag 1729 mit den auch für und in Köthen eingesetzten (und aus den dort realisierten Einnahmen subventionierten?) Kräften auf der Basis einer heute verschollenen Partiturneuschrift, die 1755ff als Vorlage für die Auftragskopie J.C. Farlaus diente. Erster Abdruck des Textes in Henricis Sammlung zur Ostermesse 1729. Christoph Gottlob Weckers Bitte um „Zusendung“ des Werks wird von Bach abschlägig beschieden, da er Partitur und Stimmen „heuer“ für seine eigene Aufführung benötigt. Dem Argument einer Überforderung von Weckers Ensemble in Schweidnitz wäre im Übrigen mit einem Hinweis auf jene Lösung zu entgegnen, die auch für die legendäre Wiederaufführung 1829 gewählt wurde: die ad hoc vorgenommene Streichung von allzu anspruchsvollen Sätzen.  
+IIIa/b. 1728-29: Erweiterung und Konsolidierung der Fassung II synchron zu den Arbeiten an der Trauermusik BWV 244a (vgl. Stauber 2020) unter Eliminierung der 1727 eingefügten Versatzstücke und deren Ersatz und Ergänzung durch Texte Henricis. Aufführung am Karfreitag 1729 mit den auch für und in Köthen eingesetzten (und aus den dort realisierten Einnahmen subventionierten?) Kräften auf der Basis einer heute verschollenen Partiturneuschrift, die 1755ff als Vorlage für die Auftragskopie J.C. Farlaus diente.  
+Erster Abdruck des Textes in Henricis Sammlung zur Ostermesse 1729. Christoph Gottlob Weckers Bitte um „Zusendung“ des Werks wird von Bach abschlägig beschieden, da er Partitur und Stimmen „heuer“ für seine eigene Aufführung benötigt. Dem Argument einer Überforderung von Weckers Ensemble in Schweidnitz wäre im Übrigen mit einem Hinweis auf jene Lösung zu entgegnen, die auch für die legendäre Wiederaufführung 1829 gewählt wurde: die ad hoc vorgenommene Streichung von allzu anspruchsvollen Sätzen.  
 
-IV. 1736 Aufführung der bis heute ganz überwiegend verwendeten Spätfassung auf der Basis der autographen Partitur P 25 und der zugehörigen Stimmen St 110, deren Titel - nunmehr nach den Urheberrechts-Regeln der Zeit völlig zu Recht - mit der für Bachs Usus einzigartigen Formulierung „per Dominum Henrici alias Picander dictus“ den Verantwortlichen für die Fassung letzter Hand der „Poesia“ explizit nennt - und damit die Forschungsgeschichte leider auch hinsichtlich der Frühfassungen bis in die Jetztzeit scheinbar alternativlos präformiert. Integration in einen neuerdings von diversen (hier noch zu nennenden) Autoren als solchen erkannten „Christological Cycle“ und möglicherweise auch Höhepunkt einer Wiederaufführung des teilweise ergänzten Choralkantaten-Jahrgangs.  
+IV. 1736 Aufführung der bis heute in der Praxis verwendeten Spätfassung auf der Basis der autographen Partitur P 25 und der zugehörigen Stimmen St 110, deren Titel - nunmehr nach den Urheberrechts-Regeln der Zeit völlig zu Recht - mit der für Bachs Usus einzigartigen Formulierung „per Dominum Henrici alias Picander dictus“ den Verantwortlichen für die Fassung letzter Hand der „Poesia“ explizit nennt - und damit die Forschungsgeschichte leider auch hinsichtlich der Frühfassungen bis in die Jetztzeit scheinbar alternativlos präformiert. Ideelle Integration in einen neuerdings von diversen Autoren (zuletzt Wolff 2020) als solchen erkannten „Christological Cycle“ und möglicherweise auch Höhepunkt einer Wiederaufführung des teilweise ergänzten Choralkantaten-Jahrgangs.  
 
 
 
@@ -187,7 +188,7 @@ IV. 1736 Aufführung der bis heute ganz überwiegend verwendeten Spätfassung au
 A. Fassungen  
 
 I. 1725: belegt durch Agricolas Torso P 26 und die dort sonst nicht erklärbaren, P 25 entsprechenden originalen Lesarten  
-II. 1727: hypothetisch nach BC/D1, 1-4, wegen Parodiebeziehung zu IIIa/b und nach Rifkin 1975  
+II. 1727: hypothetisch wegen Parodiebeziehung zu IIIa/b, nach BC D1, 1-4 und nach Rifkin 1975  
 IIIa. 1728: BWV 244a belegt durch Köthener Textüberlieferungen  
 IIIb. 1729: BWV 244b belegt durch Farlau Am.B 6+7 und Textdruck Henrici  
 IV. 1736: BWV 244: belegt durch Autographe P 25 und St 110  
@@ -240,15 +241,14 @@ Satz 23 Gerne will ich …
 
 
 Satz 27a/b So ist/Sind Blitze …  
-1725: Text und Musik vollständig  
-1725/26: Profane Paraphrase in Henricis „Der akademische Schlendrian“  
+1725: Text und Musik vollständig; 1725/26: Profane Paraphrase in Henricis „Der akademische Schlendrian“  
 1727: wie 1725  
 1728: -  
 1729: wie 1727  
 1736: wie 1729  
 
 Satz 29 O Mensch bewein … (reiner Choraltext)  
-1725: in D- oder E-Dur?; Stimmen in Es-Dur transloziert nach BWV 245  
+1725: Partitur in D- oder E-Dur?; Stimmen in Es-Dur für BWV 245  
 1727: ersetzt durch Jesum lass ich nicht …  
 1728: -  
 1729: wie 1727  
@@ -293,7 +293,7 @@ Satz 49 Aus Liebe …
 
 Satz 52 Können Tränen …  
 1725: in P 26 deest; evtl. schon wie 1727?  
-1727: Ach windet euch nicht so … aus D1/4?  
+1727: Ach windet euch nicht so … aus BC D1/4?  
 1728: -  
 1729: Können Tränen …  
 1736: wie 1729  
@@ -317,14 +317,14 @@ Satz 57 Komm süßes Kreuz …
 
 Satz 60 Sehet Jesus hat …  
 1725: in P 26 deest; evtl. schon wie 1727?  
-1727: Himmel reiße … aus D1/2?  
+1727: Himmel reiße … aus BC D1/2?  
 1728: -  
 1729: Sehet Jesus hat …  
 1736: wie 1729  
 
 Satz 65 Mache dich …  
 1725: deest  
-1727: Zwei Takte einer Instrumentalstimme nachweissbar (Rifkin)  
+1727: Zwei Takte in einer anderenorts überlieferten Instrumentalstimme nachweisbar (Rifkin)  
 1728: Bleibet nur … Original (Gojowy; Stauber; Glöckner; entgegen Brainard)  
 1729: Mache dich … Parodie (Gojowy, Stauber, Glöcker; entgegen Brainard)  
 1736: wie 1729  
