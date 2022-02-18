@@ -185,8 +185,6 @@ IV. 1736 Aufführung der bis heute in der Praxis verwendeten Spätfassung auf de
 
 14.b Serielle Synopse der auf madrigalische Texte komponierten Fassungen und Sätze der Matthäuspassion BWV 244  
 
-Manchmal sieht man die Bäume vor lauter Wald nicht.
-
 A. Fassungen  
 
 I. 1725: belegt durch Agricolas Torso P 26 und die daraus sonst nicht genuin erklärbaren, P 25 entsprechenden originalen Lesarten  
@@ -196,6 +194,7 @@ IIIb. 1729: BWV 244b belegt durch Farlau Am.B 6+7 und Textdruck Henrici
 IV. 1736: BWV 244 belegt durch Autographe P 25 und St 110  
 
 B. Entstehungsstadien der Einzelsätze:  
+(* = 1728/29 synchron entstanden)  
 
 Satz 1 Kommt ihr Töchter …  
 1725: Text und Musik vollständig  
@@ -207,15 +206,15 @@ Satz 1 Kommt ihr Töchter …
 Satz 10 Buß und Reu …  
 1725: deest  
 1727: deest  
-1728: Weh und ach … Original (Stauber; Glöckner; entgegen Brainard)  
-1729: Buß und Reu … Parodie (Stauber; Glöckner; entgegen Brainard)  
+1728: Weh und ach … Original* (Stauber; Glöckner; entgegen Brainard)  
+1729: Buß und Reu … Parodie* (Stauber; Glöckner; entgegen Brainard)  
 1736: wie 1729  
 
 Satz 12 Blute nur …  
 1725: deest  
 1727: deest  
-1728: Zage nur … Original (Stauber; Glöckner)  
-1729: Blute nur … Parodie (Stauber; Glöckner)  
+1728: Zage nur … Original* (Stauber; Glöckner)  
+1729: Blute nur … Parodie* (Stauber; Glöckner)  
 1736: wie 1729  
 
 Satz 19 Ich will dir …  
@@ -295,7 +294,7 @@ Satz 49 Aus Liebe …
 
 Satz 52 Können Tränen …  
 1725: in P 26 deest; evtl. schon wie 1727?  
-1727: Ach windet euch nicht so … aus BC D1/4?  
+1727: Ach windet euch nicht so … aus BC D1,4?  
 1728: -  
 1729: Können Tränen …  
 1736: wie 1729  
@@ -319,7 +318,7 @@ Satz 57 Komm süßes Kreuz …
 
 Satz 60 Sehet Jesus hat …  
 1725: in P 26 deest; evtl. schon wie 1727?  
-1727: Himmel reiße … aus BC D1/2?  
+1727: Himmel reiße … aus BC D1,2?  
 1728: -  
 1729: Sehet Jesus hat …  
 1736: wie 1729  
@@ -335,8 +334,8 @@ Satz 65 Mache dich …
 Satz 68 Wir setzen uns …  
 1725: deest (aus anderer Quelle um 1800 an P 26 assoziiert)  
 1727:  
-1728: Die Augen sehn … Original (Stauber; Glöckner; entgegen Brainard)  
-1729: Wir setzen uns … Parodie (Stauber; Glöckner; entgegen Brainard)  
+1728: Die Augen sehn … Original* (Stauber; Glöckner; entgegen Brainard)  
+1729: Wir setzen uns … Parodie* (Stauber; Glöckner; entgegen Brainard)  
 1736: wie 1729  
 
 
