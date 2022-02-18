@@ -341,7 +341,7 @@ Satz 68 Wir setzen uns …
 
 
 
-15. Mit der - durch eine starke „individualeschatologische Komponente“ (vgl. Petzoldt 2004) und durch ein für Bachs Erfindungsweise selten eindeutiges musikalisches Zitat aus BWV 244b-27b geprägten - Kantate BWV 127 auf den traditionsreichsten protestantischen Sterbechoral „Herr Jesu Christ, wahr’ Mensch und Gott“ schuf Bach eine subtile Würdigung des Textautors des Choralkantatenjahrgangs und der Matthäus-Passion - komponiert in derselben Woche (möglicherweise an demselben Tag), an dem dieser in seiner Predigtstätte unter einem Totengeläut zu Grabe getragen wurde, dessen heute noch erlebbarer Klang Bach aus früher Hörerfahrung bekannt war.  
+15. Mit der - durch eine starke „individualeschatologische Komponente“ (vgl. Petzoldt 2004) und durch ein für Bachs Erfindungsweise selten eindeutiges musikalisches Zitat aus BWV 244b,27b geprägten - Kantate BWV 127 auf den traditionsreichsten protestantischen Sterbechoral „Herr Jesu Christ, wahr’ Mensch und Gott“ schuf Bach eine subtile Würdigung des Textautors des Choralkantatenjahrgangs und der Matthäus-Passion - komponiert in derselben Woche (möglicherweise an demselben Tag), an dem dieser in seiner Predigtstätte unter einem Totengeläut zu Grabe getragen wurde, dessen heute noch erlebbarer Klang Bach aus früher Hörerfahrung bekannt war.  
 
 Während des Entstehungsvorgangs mutierte die Kantate BWV 127 von einer distanzübergreifenden Sterbebegleitung zum musikalischen Epitaph.  
 
@@ -392,7 +392,7 @@ Zum anderen hatte der Autor Gelegenheit mitzuerleben, wie eine lebensgroße Skul
 
 Spätes, schwaches Nachwehen dieser eigentümlichen Praxis ist die - für Bachs wortgebundenes Werk gleichfalls singuläre - zwar gelehrtensprachliche, aber ungewöhnliche und unverschleierte Nennung „Poesia per Dominum Henrici alias Picander dictus“ als genialem Vollender und Verantwortlichem für die Textfassung zweiter bzw. letzter Hand der Matthäus-Passion, die für den Komponisten, dessen Aufführungshelfer und auch dessen Erben nicht zuletzt auch einen praktischen Nutzen besaß zur Unterscheidung der Manuskripte bei der Handhabung der Notenbibliothek.  
 
-Ob den an der Vorbereitung bzw. Vollendung des Werks Beteiligten bewußt war, dass der Platzhalter für den Schluss des ersten Teils der MatthäusP-Passion BWV 244b, (anstelle von „O Mensch bewein…“), die letzte Strophe des Chorals „Meinen Jesum lass ich nicht“, den Namen desjenigen luthertreuen Prominenten in Form eines Akrostichons abbildet, dessen auf dem Sterbebett geäußerter Bekenntnissatz den Kern dieses Liedes darstellt?  
+Ob den an der Vorbereitung bzw. Vollendung des Werks Beteiligten bewußt war, dass der Platzhalter für den Schluss des ersten Teils der Matthäus-Passion BWV 244b, (anstelle von „O Mensch bewein…“), die letzte Strophe des Chorals „Meinen Jesum lass ich nicht“, den Namen desjenigen luthertreuen Prominenten in Form eines Akrostichons abbildet, dessen auf dem Sterbebett geäußerter Bekenntnissatz den Kern dieses Liedes darstellt?  
 
 [J]ohann [G]eorg [C]hurfürst [z]u [S]achsen  
 
@@ -421,6 +421,8 @@ und sodann literal:
 
 zu lesen als: 
 [B][A][C][H] [I]senacum-[T]uringum.  
+
+Fazit: J.S. Bach hat in praktisch allen Phasen seines Wirkens Akrosticha unterschiedlichster Ausprägung selbst konstruiert - und somit entsprechende Beispiele Anderer geschätzt oder zumindest verstanden.  
 
 
 17. FINIS! ENDE!! Des freuen sich die Hände.  
