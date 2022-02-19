@@ -2,7 +2,7 @@
 des „Leipziger“ Hauptlibrettisten  
 Johann Sebastian Bachs  
 Michael Hochgartz (D 48153 Münster)  
-michael@hochgartz.de - 16.02.2022  
+michael@hochgartz.de - 19.02.2022  
 Quelltext und Literaturverzeichnis: https://github.com/michael-hochgartz/lectio-brevior  
 
 Amore et studio elucidandae veritatis haec subscripta disputabuntur (Martin Luther 1517)  
@@ -134,13 +134,13 @@ Als alternativer Erklärungsansatz wäre eine - von Dürr (zuletzt 1988) zur Dis
 Durch Umkehrung der bisher angenommenen Entstehungsreihenfolge wird somit auch eine von Arthur Mendel postulierte, in Weimar lokalisierte Frühfassung des Satzes (BC D1) obsolet. Vielmehr fügt sich dieser Chor durch seine - in der Fachliteratur nachhaltig bestätigte - kompositorische Reife, formale Opulenz und hymnologische / theologische Tendenz zwar notationstechnisch scheinbar leicht korrumpiert, aber substanziell bruchlos in ein Gesamtprojekt „Choralkantaten und Matthäus-Passion“ ein.  
 
 
-13. Bei Bestätigung der Annahme einer Entstehung und Vollendung der Frühfassung der Matthäus-Passion in zwei, in größerem zeitlichen Abstand aufeinander folgenden Etappen könnten sich alternative Antworten auf die bis heute nicht abschließend beantwortete Frage nach den Prioritäten der Parodiebeziehungen zur Köthener Trauermusik BWV 244a ergeben. (Vgl. zunächst Gojowy 1965; Brainard 1969; Schulze 2004; Braatz 2006).  
+13. Bei Bestätigung der Annahme einer Entstehung und Vollendung der Frühfassung der Matthäus-P	assion in zwei, in größerem zeitlichen Abstand aufeinander folgenden Etappen könnten sich alternative Antworten auf die bis heute nicht abschließend beantwortete Frage nach den Prioritäten der Parodiebeziehungen zur Köthener Trauermusik BWV 244a ergeben. (Vgl. zunächst Gojowy 1965; Brainard 1969; Schulze 2004; Braatz 2006).  
 
 Das beträfe gegebenenfalls auch den Zeitpunkt der Vervollständigung der fragmentarischen Teile von BWV 244b - und damit den Termin für die Uraufführung der Passion. 1727 ist durch eine von Rifkin (1975) aufgezeigte, allerdings nicht voll belastbare Spur in einer - ohne Textbezug überlieferten - Instrumentalstimme indiziert, die von der Forschung anfangs kritisch beurteilt (vgl. Dürr 1974; Schulze 2001), sodann weitgehend angenommen wurde, neuerdings (vgl. Stauber 2020; Glöckner 2021) aber wiederum hinterfragt wird.  
 
 Unter diesem Aspekt wäre (entgegen Smend 1951) auch zu überlegen, ob und auf welche Weise der ungewöhnlich lange Zeitraum zwischen Entstehungsanlass (19.11.1728) und Aufführung (24.3.1729) der Trauermusik als Katalysator bei der Wiederaufnahme der Arbeiten an der Passion gewirkt haben könnte.  
 
-Anders gefragt: hatte das monatelange Zuwarten der Köthener Autoritäten auf einen Bestattungszeitpunkt sieben Tage vor dem Gründonnerstag / Karfreitag 1729 andere als lokale organisatorische Gründe? Wenn ja, diente dieses großzügige Zeitfenster vielleicht auch dazu, es Bach zu ermöglichen, nicht nur einfach eine (vielleicht schon 1727) erprobte Lösung mit flinker Hand zu adaptieren, sondern ein seit 1725 brachliegendes, fragmentarisches, einst existenziell wichtiges Großprojekt aufwändig wiederzubeleben?  
+Anders gefragt: hatte das monatelange Zuwarten der Köthener Autoritäten auf einen Bestattungszeitpunkt drei Wochen vor dem Gründonnerstag / Karfreitag 1729 andere als lokale organisatorische Gründe? Wenn ja, diente dieses großzügige Zeitfenster vielleicht auch dazu, es Bach zu ermöglichen, nicht nur einfach eine (vielleicht schon 1727) erprobte Lösung mit flinker Hand zu adaptieren, sondern ein seit 1725 brachliegendes, fragmentarisches, einst existenziell wichtiges Großprojekt aufwändig wiederzubeleben?  
 
 Henricis Textentwurf lag zwar (laut Smend 1951 zwecks formaler Approbation) zeitnah in Köthen vor, allein es fehlte die Musik aus der Feder jenes Komponisten, der wusste, dass er erst sehr viel später (am Karfreitag 1729) eine oratorische Passion in St. Thomae, sieben Tage davor jedoch eine textlich teils divergierende, musikalisch und aufführungspraktisch aber durchaus kostenparend verwertbare weitere Aufführung zu präsentieren hatte.  
 
@@ -176,7 +176,7 @@ Henrici erhält (im zeitlichen Umfeld der Arbeiten an BWV 249/249a, also noch im
 
 II. Karfreitag 1727: Erste aufführbare Fassung der Matthäus-Passion auf der Basis der vervollständigten Fragmente von 1725 sowie provisorisch integrierter Versatzstücke aus BWV 245/BC D1 (und erster, nicht genau bestimmbarer Ergänzungen durch Henrici?) Ebenfalls als kreative „Notlösung“ zu betrachten. Es lagen noch nicht alle heute aus BWV 244b bekannten madrigalischen Sätze vor, weshalb (und wegen des somit noch hohen Anteils an Fremdmaterial) Henrici auf einen Abdruck in seiner Gedichtsammlung zunächst verzichtet. Christoph Gottlob Wecker lernt das Werk in dieser etwas einfacheren Fassung kennen - sicherlich nicht nur in Papierform.  
 
-IIIa/b. 1728-29: Erweiterung und Konsolidierung der Fassung II synchron zu den Arbeiten an der Trauermusik BWV 244a (vgl. Stauber 2020) unter Eliminierung der 1727 eingefügten Versatzstücke und deren Ersatz und Ergänzung nach Texten Henricis. Aufführung am Karfreitag 1729 mit den auch für und in Köthen eingesetzten (und aus den dort realisierten Einnahmen subventionierten?) Kräften, darunter das soeben übernommene Collegium Musicum, auf der Basis einer heute verschollenen Partiturneuschrift, die 1755ff als Vorlage für die Auftragskopie J.C. Farlaus dienen sollte.  
+IIIa/b. November 1728 bis März/April 1729: Erweiterung und Konsolidierung der Fassung II synchron zu den Arbeiten an der Trauermusik BWV 244a (vgl. Stauber 2020) unter Eliminierung der 1727 eingefügten Versatzstücke und deren Ersatz und Ergänzung nach Texten Henricis. Aufführung am Karfreitag 1729 mit den auch für und in Köthen eingesetzten (und aus den dort realisierten Einnahmen subventionierten?) Kräften, darunter das soeben übernommene Collegium Musicum, auf der Basis einer heute verschollenen Partiturneuschrift, die 1755ff als Vorlage für die Auftragskopie J.C. Farlaus dienen sollte. Für die finale Umarbeitung des Aufführungsmaterials verblieben Bach immerhin noch drei Arbeitswochen im Tempus clausum (24. März. bis 14. April).  
 Erster Abdruck des Textes in Henricis Sammlung zur Ostermesse 1729. Christoph Gottlob Weckers Bitte um „Zusendung“ des Werks wird von Bach abschlägig beschieden, da er Partitur und Stimmen „heuer“ für seine eigene Aufführung benötigt. Dem Argument einer Überforderung von Weckers Ensemble in Schweidnitz wäre mit einem Hinweis auf jene Lösung zu entgegnen, die - freilich mit anderer Auswahl und Zielsetzung - für die legendäre Wiederaufführung 1829 gewählt wurde: eine ad hoc vorgenommene Streichung von Sätzen.  
 
 IV. 1736 Aufführung der bis heute in der Praxis verwendeten Spätfassung auf der Basis der autographen Partitur P 25 und der zugehörigen Stimmen St 110, deren Titel - nunmehr nach den Urheberrechts-Regeln der Zeit völlig zu Recht - mit der für Bachs Usus einzigartigen Formulierung „per Dominum Henrici alias Picander dictus“ den Verantwortlichen für die Fassung letzter Hand der „Poesia“ explizit nennt - und damit die Forschungsgeschichte leider auch hinsichtlich der Frühfassungen bis in die Jetztzeit scheinbar alternativlos präformiert. Ideelle Integration in einen neuerdings von diversen Autoren (vgl. z.B. Wolff 2020) als solchen erkannten „Christological Cycle“ und möglicherweise auch Höhepunkt einer Wiederaufführung des teilweise ergänzten Choralkantaten-Jahrgangs.  
@@ -422,7 +422,6 @@ und sodann literal:
 zu lesen als: 
 [B][A][C][H] [I]senacum-[T]uringum.  
 
-Fazit: J.S. Bach hat in praktisch allen Phasen seines Wirkens Akrosticha unterschiedlichster Ausprägung selbst konstruiert - und somit entsprechende Beispiele Anderer geschätzt oder zumindest verstanden.  
 
 
 17. FINIS! ENDE!! Des freuen sich die Hände.  
