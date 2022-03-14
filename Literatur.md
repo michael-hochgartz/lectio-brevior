@@ -53,6 +53,7 @@ Abkürzungen
 **Heber**, Noelle: Bach and money : sources of salary and supplemental income in Leipzig from 1723 to 1750, Understanding Bach, 12 **2017**, S. 111-125  
 **Hobohm**, Wolf: ‘Neue “Texte zur Leipziger Kirchen-Music” ’, BJ **1973**, 5–32  
 **Hofmann**, Klaus: Forkel und die Köthener Trauermusik Johann Sebastian Bachs, BJ **1983**, 115-122  
+**Hofmann**, Klaus: Die Frühfassung der Matthäus-Passion – ohne Blockflöten?, BJ **2020**. 259-260  
 **Jakubowski-Tiessen**, Manfred (Hg.): Bekehrung unterm Galgen. Malefikantenberichte. Leipzig **2011**  
 **Jauch** Deutsches Geschlechterbuch Bd. 200 **1996**  
 **Junghans 1870**  
