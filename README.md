@@ -12,3 +12,4 @@ Aufbauend auf langjährigen Quellenstudien werden sodann Leben und Werk dieses T
 2. Zur Person des Leipziger Hauptlibrettisten Johann Sebastian Bachs.md  
 3. Literatur.md  
 4. Müller_Herzensspiegel.drawio
+5. Synopse_BWV_244.png
