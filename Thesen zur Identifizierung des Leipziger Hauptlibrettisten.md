@@ -2,7 +2,7 @@
 des „Leipziger“ Hauptlibrettisten  
 Johann Sebastian Bachs  
 Michael Hochgartz (D 48153 Münster)  
-michael@hochgartz.de - 12.03.2022  
+michael@hochgartz.de - 14.03.2022  
 Quelltext und Literaturverzeichnis: https://github.com/michael-hochgartz/lectio-brevior  
 
 Amore et studio elucidandae veritatis haec subscripta disputabuntur (Martin Luther 1517)  
@@ -205,21 +205,21 @@ Satz 1 Kommt ihr Töchter …
 1729: wie 1727  
 1736: wie 1729  
 
-Satz 10 Buß und Reu …  
+Satz 6 Buß und Reu …  
 1725: deest  
 1727: deest  
 1728: Weh und ach … Original* (Stauber; Glöckner; entgegen Brainard)  
 1729: Buß und Reu … Parodie* (Stauber; Glöckner; entgegen Brainard)  
 1736: wie 1729  
 
-Satz 12 Blute nur …  
+Satz 8 Blute nur …  
 1725: deest  
 1727: deest  
 1728: Zage nur … Original* (Stauber; Glöckner)  
 1729: Blute nur … Parodie* (Stauber; Glöckner)  
 1736: wie 1729  
 
-Satz 19 Ich will dir …  
+Satz 13 Ich will dir …  
 1725: deest  
 1727: wie 1729? (anderfalls synchron entstanden)  
 1728: Hemme dein … Parodie (Brainard; Stauber; Glöckner; entgegen Gojowy)  
