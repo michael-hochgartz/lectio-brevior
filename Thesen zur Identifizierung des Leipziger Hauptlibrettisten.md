@@ -2,7 +2,7 @@
 des „Leipziger“ Hauptlibrettisten  
 Johann Sebastian Bachs  
 Michael Hochgartz (D 48153 Münster)  
-michael@hochgartz.de - 26.03.2022  
+michael@hochgartz.de - 30.03.2022  
 Quelltext und Literaturverzeichnis: https://github.com/michael-hochgartz/lectio-brevior  
 
 Amore et studio elucidandae veritatis haec subscripta disputabuntur (Martin Luther 1517)  
@@ -97,12 +97,12 @@ Die Antwort kann nur Nein lauten, denn Ziel von Agricolas Bemühungen war keines
 Zu klären bleibt, warum Agricola in dieser Partitur Gebrauch von zahlreichen notationstechnischen Abbreviaturen macht („col vl. primo“ etc.; auch da, wo es sich kaum zu lohnen scheint) - wie sie für viele seiner übrigen Handschriften (auch eigener Kompositionen) typisch sind. (Vgl. dazu möglicherweise die unveröffentlichte, 2021 an der Universität Oxford verteidigte Dissertation von Andrew Frampton.)  
 
 Ohne weiteres erklärbar ist hingegen der Umstand, dass sich Agricola bei der Rekonstruktion des - in den Fragmenten naturgemäß noch fehlenden, in der Farlau-Kopie nur in kürzest möglicher Form vorhandenen Titels (Kopftitel und das später davon durch Kirnberger abgeleitete Einband-Etikett) - für eine repräsentative Lösung auf der Basis eines nicht erhaltenen Textdrucks entschied, dessen auf Vorrat erstellte Exemplare für mehrere geplante, jeweils handschriftlich zu ergänzende Aufführungstermine aus den 1730er Jahren bestimmt waren. (Zum Prinzip am Beispiel von BWV 247 vgl. Schabalina 2009).  
-Wortwahl und Zeilenfall weisen derart typisch auf einen „Text zur Music“ hin, dass keine Zweifel an der Verwendung als bewusstes Versatzstück durch Agricola möglich sind. Eine Originalpartitur (nicht nur P 26) als Vorlage scheidet wegen der handschriftlichen „Variable“ bei der letzten Ziffer des Datums ebenso aus wie der Originaldruck Henricis, welcher (seit wann?) der Farlau-Kopie in Form einer undatierten Abschrift von Agricolas Hand beigegeben ist. Agricola war sich demnach der verschiedenen Fassungen bzw. Bearbeitungsstände des Werks stets bewusst.  
+Wortwahl und Zeilenfall weisen derart typisch auf einen „Text zur Music“ hin, dass keine Zweifel an der Verwendung als bewusstes Versatzstück durch Agricola möglich sind. Eine Originalpartitur als Vorlage scheidet wegen der handschriftlichen „Variable“ bei der letzten Ziffer des Datums ebenso aus wie der Originaldruck Henricis, welcher (seit wann?) der Farlau-Kopie in Form einer undatierten Abschrift von Agricolas Hand beigegeben ist. Agricola war sich demnach der verschiedenen Fassungen bzw. Bearbeitungsstände des Werks stets bewusst.  
 Im Gegensatz zu anderen Passionsaufführungen (BWV 247) war der Aufführungsort hier eindeutig fixiert und konnte somit ausgedruckt bzw. ausgeschrieben werden, da BWV 244 aufführungspraktisch (Platzgründe; Doppelchörigkeit; evtl. separat aufgestellter Cantus firmus-Chor) nur in St. Thomae realisierbar war. 
-Die fehlende Endziffer könnte schließlich darauf hindeuten, dass es sich bei der Vorlage um ein Exemplar handelte, welches zur Fertigstellung der Spätfassung 1736 wegen Fehlens des strukturell bedeutsamen Komponententauschs („O Mensch bewein“ etc.) unverkäuflich geworden war. 
+Die fehlende Endziffer könnte schließlich darauf hindeuten, dass es sich bei der Vorlage um ein Exemplar handelte, welches zur Fertigstellung der Spätfassung 1736 wegen Fehlens des strukturell bedeutsamen Tausch-Komponete („O Mensch bewein“ etc.) unverkäuflich geworden war. 
 Mögliche Konsequenzen für den Aufführungskalender zwischen 1730 und 1736 bleiben zu prüfen.  
 
-Der an P 26 angebundene, von anderer Hand nach anderer Vorlage auf anderem Papier kopierte Schlusschor (BWV 244/68: „Wir setzen uns…“) steht - das ist unbestritten - mit Agricolas Konstrukt in keinem ursprünglichen Zusammenhang. Die buchbinderische Integration in den Band dürfte wohl auf den Handschriftensammler Georg Poelchau zurückgehen.  
+Der an P 26 angebundene, von anderer Hand nach anderer Vorlage auf anderem Papier kopierte Schlusschor (BWV 244/68: „Wir setzen uns…“) steht - das ist unbestritten - mit Agricolas Konstrukt in keinem Zusammenhang. Die buchbinderische Integration in den Band dürfte wohl auf den Handschriftensammler Georg Poelchau zurückgehen.  
 
 
 
