@@ -2,7 +2,7 @@
 des „Leipziger“ Hauptlibrettisten  
 Johann Sebastian Bachs  
 Michael Hochgartz (D 48153 Münster)  
-michael@hochgartz.de - 13.04.2022  
+michael@hochgartz.de - 19.04.2022  
 Quelltext und Literaturverzeichnis: https://github.com/michael-hochgartz/lectio-brevior  
 
 Amore et studio elucidandae veritatis haec subscripta disputabuntur (Martin Luther 1517)  
@@ -371,7 +371,7 @@ In etlichen weiteren Choralkantaten - nicht nur vom Januar 1725 - finden sich ex
 
 16. Die - erst anhand der seit 2018 verfügbaren Faksimile-Edition zweifelsfrei entzifferbare - Invocationsformel „J.N.D.N.J.C.“ (auf den ersten Blick vielleicht nur das Votum Justinianum: „In Nomine Domini Nostri Jesu Christi“) im eigenhändigen Kopftitel der Kantate BWV 20 (dem Auftaktwerk des Jahrgangs 1724/25) stellt - mit ihrer scheinbar einzigartigen Prolongation von Bachs vor- und nachher ca. 100 mal nachweisbaren Standardformel „J. J.“ (neutestamentlich: „Jesu Juva“ - alttestamentlich: „Jehova Juva“) - ein Bekenntnis des Komponisten zu seinem damaligen Textdichter dar, enthält sie doch als Rahmenbestandtteile dessen Initialen (Nachname vorangestellt) - zumal eine zeitübliche orthographische Inkonsequenz (J vor einem Vokal statt I vor einem Konsonanten) zugunsten der Eindeutigkeit dieser Namensandeutung in Kauf genommen wird.  
 
-Die Umstellung der Reihenfolge (Nachname, „N“, „D“, „N“, Vorname, Vorname) korrespondiert mit der, an bislang ungezählten Beispielen aus dem Kantaten-Corpus belegbaren, Neigung des Autors zu „Syntaktischen Diskontinuitäten“ - einem Begriff aus der strukturalistischen Linguistik, welcher die kreative (also formverändernde, aber sinnerhaltende) Verschiebung von Elementen beschreibt - hier angewendet auf Wort- statt auf Satzbestandteile. (Beliebiges Beispiel aus BWV 133/5: „des Todes Furcht und Schmerz“ statt „Furcht und Schmerz des Todes.“)  
+Die Umstellung der Reihenfolge (Nachname, „N“, „D“, „N“, Vorname, Vorname) korrespondiert mit der, an bislang ungezählten Beispielen aus dem Kantaten-Corpus belegbaren, Neigung des Autors zu „Syntaktischen Diskontinuitäten“ - einem Begriff aus der strukturalistischen Linguistik, welcher die kreative, formverändernde, aber sinnerhaltende) „Syntaktische Verschiebung“ von Elementen beschreibt - hier auf Wortbestandteile einer - im Kern genitivischen („Domini“) - Abkürzung angewendet statt auf Satzbestandteile. (Beliebiges Beispiel aus BWV 133/5: „des Todes Furcht und Schmerz“ statt „Furcht und Schmerz des Todes.“ Exzessiv verwendet u.a. in BWV 99.)  
 
 Das Herzstück „N.D.N.“ bildet dabei mit der sicherlich aus Deuteronomium 25,7 als solitärer biblischer Konkordanz entnommenen Bitte:  „ut [N]on [D]eleatur [N]omen eius ex Israel“ (Luther: „daß sein Name nicht getilgt werde“; King James: „that his name be not put out“) einen sehr aktuell wirkenden „Copyright-Vermerk“ - entsprechend der „BY“-Komponente heutiger Creative Commons Lizenzen.  
 
@@ -383,7 +383,9 @@ Das „Nostri“ in der traditionellen Deutung dieser Formulierung mag zudem als
 „ … samt allen denen, die anrufen den Namen unsers Herrn Jesu Christi an allen ihren und unsern Orten“ (Luther);  
 „… to them that are sanctified in Christ Jesus, called to be saints, with all that in every place call upon the name of Jesus Christ our Lord, both theirs and ours“ (King James Bible).  
 
-Dass auch dem ersten Band der Farlau-Abschrift (D-B AmB. 6) - dem einzigen bisher anerkannten Überlieferungsträger der Frühfassung der Matthäus-Passion - genau diese Formel vorangestellt ist, mag als weiter Beleg für die Gleichzeitigkeit der Entstehungsprozesse von Choralkantaten und Passion betrachtet werden. Ein von dem - bereits an dieser Stelle überforderten - Kopisten spontan, aber durchaus elegant korrigierter Schreibfehler (D.J. -> D.N.) ist als Indiz dafür zu werten, dass diese spezielle Invocatio bereits in der - als autograph zu unterstellenden - Vorlage vorhanden war. Band II dieser Abschrift (D-B AmB. 7) beginnt mit dem allenthalben bekannten „J.J.“ - in knappest möglicher Notation zum Auftakt des Kopftitels.  
+Dass auch dem ersten Band der Farlau-Abschrift (D-B AmB. 6) - dem einzigen bisher anerkannten Überlieferungsträger der Frühfassung der Matthäus-Passion - genau diese Formel vorangestellt ist, mag als weiter Beleg für die Gleichzeitigkeit der Entstehungsprozesse von Choralkantaten und Passion betrachtet werden. Ein von dem - bereits an dieser Stelle überforderten - Kopisten spontan, aber durchaus elegant korrigierter Schreibfehler (D.J. -> D.N.) ist als Indiz dafür zu werten, dass diese spezielle Invocatio bereits in der - als autograph zu unterstellenden - Vorlage vorhanden war.  
+
+Band II dieser Abschrift (D-B AmB. 7) beginnt mit dem allenthalben bekannten „J.J.“ - in knappest möglicher Notation zum Auftakt des Kopftitels.  
 
 Bemerkt zu werden verdient auch die Tatsache, dass die Abschrift einer zwischen 1705 und 1715 entstandenen Michaelisfest-Kantate eines mit Bach befreundeten Komponisten, dem der Autor fast drei Jahrzehnte lang täglich begegnete und mit dem er ein Dezennium lang sehr eng zusammenarbeitete, im Kopftitel verzeichnet: „J.N.D.N.J.C.A.“ - also die oben genannte Formel, vermehrt um ein „Amen“ und somit rekombinierbar als: „… Non Deleatur Nomen … Auctoris“. Eine an entlegener Stelle überlieferte Motette dieses Komponisten beginnt mit der - nota bene ausgeschriebenen - Anrufung „Jehova Juva!“ - ebenso wie ein weiteres, 1734 kopiertes Werk ähnlichen Typs.  
 
@@ -413,7 +415,14 @@ Spätes, schwaches Nachwehen dieser eigentümlichen Praxis ist die - für Bachs 
 
 Ob den an der Vorbereitung bzw. Vollendung des Werks Beteiligten bewußt war, dass der Platzhalter für den Schluss des ersten Teils der Matthäus-Passion BWV 244b, (anstelle von „O Mensch bewein…“), die letzte Strophe des Chorals „Meinen Jesum lass ich nicht“, den Namen desjenigen luthertreuen Prominenten in Form eines Akrostichons abbildet, dessen auf dem Sterbebett geäußerter Bekenntnissatz den Kern dieses Liedes darstellt?  
 
-[J]ohann [G]eorg [C]hurfürst [z]u [S]achsen  
+[J]ohann [Ge]org [Ch]urfürst [zu] [S]achsen [M]arkgraf von [Mei]ssen  
+
+[J]esus lass ich nicht von mir,  
+[Ge]h ihm ewig an der Seiten;  
+[Ch]ristus lässt mich für und für  
+[zu] dem Lebensbächlein leiten.  
+[S]elig, wer mit mir so spricht: 
+[Mei]nen Jesus lass ich nicht. 
 
 Das bekannteste Beispiel der Verwendung von Buchstabenspielen bei Bach selbst (der dieses Prinzip vielleicht schon aus dem Akrostichon in der Kantate BWV 150, spätestens aber seit seiner Vertonung der 2004 zutage getretenen Strophenarie BWV 1127 im Jahr 1713 kannte; vgl. Schulze 2021; Maul 2005) findet sich bald vor Ende seines Lebens im RICERCAR des Musikalischen Opfers BWV 1077 für Friedrich II. von Preußen, im Beisein von C.E.P. Bach, W.F. Bach (und wohl auch J.F. Agricola) in Potsdam zunächst dreistimmig extemporiert, später sechsstimmig neu ausgearbeitet, in Kupfer gestochen und nachträglich (durch eigens gedruckte und eingeklebte Zettel) mit dieser Bedeutungserklärung und Sinnerhöhung versehen:  
 
@@ -439,6 +448,7 @@ und sodann literal:
 [B]onae [A]rtis [C]ultorem [H]abeas verum am[I]cum [T]uum
 
 zu lesen als: 
+
 [B][A][C][H] [I]senacum-[T]uringum.  
 
 
