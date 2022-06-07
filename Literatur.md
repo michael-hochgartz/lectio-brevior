@@ -28,7 +28,8 @@ Abkürzungen
 **Bertram**, Johann Georg, Das evangelische Lüneburg, Braunschweig **1719**  
 **Blanken**, Christine:  Der Kantatenzyklus ‚GOtt-geheiligte Sabbaths-Zehnden‘ von 1728 und die Leipziger Kirchenmusik unter J. S. Bach in den Jahren 1724–1727, BJ **2015**, 13–74  
 **Braatz**, Thomas https://www.bach-cantatas.com/Articles/SMP244avsb.pdf **2006**  
-**Braatz**, Thomas, The Rise and Fall of the Stübel-Theory, https://www.bach-cantatas.com/Articles/Stubel-Theory.htm **2007**  
+**Braatz**, Thomas, The Rise and Fall of the Stübel-Theory, https://www.bach-cantatas.com/Articles/Stubel-Theory.htm **2007a**
+**Braatz**, Thomas, Use of Concerto, J.J. and SDG in Bach's Sacred Works, https://www.bach-cantatas.com/Term/Terms-8.htm **2007b**  
 **Brainard**, Paul: ‘Bach’s Parody Procedure and the St Matthew Passion’, Journal of the American Musicological Society 22 (**1969**), 241–60  
 **Brischwein**, Olaf: Die Johannes-Passion von Johann Sebastian Bach. Eine Untersuchung ihrer freien Dichtung, Phil. Diss. Bamberg **2001**  
 **Chafe**, Eric Thomas: J. S. Bach's 'St. Matthew Passion: Aspects of Planning, Structure, and Chronology, Journal of the American Musicological Society 35 (**1982**), 49-114  
