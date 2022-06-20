@@ -360,7 +360,7 @@ Satz 68 Wir setzen uns …
 
 
 
-15. Mit der - durch eine starke „individualeschatologische Komponente“ (vgl. Petzoldt 2004) und durch ein für Bachs Erfindungsweise selten eindeutiges musikalisches Zitat aus BWV 244b,27b geprägten - Kantate BWV 127 auf den traditionsreichsten protestantischen Sterbechoral „Herr Jesu Christ, wahr’ Mensch und Gott“ schuf Bach eine subtile Würdigung des Textautors des Choralkantatenjahrgangs und der Matthäus-Passion - komponiert in derselben Woche (möglicherweise an demselben Tag), an dem dieser in seiner Predigtstätte unter einem Totengeläut zu Grabe getragen wurde, dessen heute noch erlebbarer Klang Bach aus früher Hörerfahrung bekannt war.  
+15. Mit der - durch eine starke „individualeschatologische Komponente“ (vgl. Petzoldt 2004) und durch ein für Bachs Erfindungsweise selten eindeutiges musikalisches Zitat aus BWV 244b,27b geprägten - Kantate BWV 127 (zum 11.2.1725) auf den traditionsreichsten protestantischen Sterbechoral „Herr Jesu Christ, wahr’ Mensch und Gott“ schuf Bach eine subtile Würdigung des Textautors des Choralkantatenjahrgangs und der Matthäus-Passion - komponiert in derselben Woche (möglicherweise an demselben Tag, dem 6.2.1725), an dem dieser in seiner Predigtstätte unter einem Totengeläut zu Grabe getragen wurde, dessen heute noch erlebbarer Klang Bach aus früher Hörerfahrung bekannt war.  
 
 Während des Entstehungsvorgangs mutierte die Kantate BWV 127 von einer distanzübergreifenden Sterbebegleitung zum musikalischen Epitaph.  
 
