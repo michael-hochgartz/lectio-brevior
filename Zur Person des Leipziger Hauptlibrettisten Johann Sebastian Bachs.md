@@ -615,7 +615,7 @@ Elmenhorsts Passions-Arie Nr. 12 scheint mit den Anfangsworten:
 Ihr Töchter Zion, gehet her,  
 Mit Seufzen, Ächzen, Weheklagen  
 
-auf die theologisch (gehet -> kommt), aber auch poteologisch (durch geschickte Reduktion auf eine einzige achtsilbige trochäische Zeile) genial umgedeutete und verdichtete Form zum Auftakt des ein Vierteljahrhundert später entstandenen Exordiums von BWV 244b vorauszuweisen:  
+auf die theologisch (gehet -> kommt), aber auch poetologisch (durch geschickte Reduktion auf eine einzige achtsilbige trochäische Zeile) genial umgedeutete und verdichtete Form zum Auftakt des ein Vierteljahrhundert später entstandenen Exordiums von BWV 244b vorauszuweisen:  
 
 Kommt Ihr Töchter, helft mir klagen  
 
