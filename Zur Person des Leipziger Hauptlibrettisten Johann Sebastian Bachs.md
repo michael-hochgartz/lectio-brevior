@@ -454,9 +454,10 @@ Sie übertrug sich auf seinen Sohn Ludolph Friedrich, der 1716 (unter mehr als b
 [V]erax  
 [S]apiens  
 
-Auch Jauchs - in königlich polnischen Diensten stehender - Bruder Johann Daniel (1688-1754) wurde nach seinem Tode mit einem namesbezüglichen Buchstabenspiel von anonymen Beiträgern gedacht. In seinem hinterlassenen Stammbuch findet sich gegen Ende ein posthum eingefügter, emblemartiger Kupferstich mit einem, aus den Buchstaben I und D gebildeten und mit lateinischen Datumsangaben und einem SOLI DEO GLORIA in Spiegelschrift versehen Kreuz. Darunter ein eingeklebter Typendruck mit folgendem, im Original polnischen Text (Übersetzung mit DeepL; Hervorhebungen in halbfetten Versalien):  
+Auch an Jauchs - in königlich polnischen Diensten stehenden - Bruder Johann Daniel (1688-1754) wurde nach dessen Tod mit einem namesbezüglichen Buchstabenspiel von anonymen Beiträgern gedacht. In dessen hinterlassenem Stammbuch findet sich gegen Ende ein posthum eingefügter, emblemartiger Kupferstich (Entwurf oder Wiedergabe seines Grabmals?) mit einem, aus den Buchstaben I und D gebildeten und mit lateinischen Datumsangaben und einem SOLI DEO GLORIA in Spiegelschrift versehen Kreuz. Darunter ein eingeklebter Typendruck mit folgendem, im Original polnischen Text (Übersetzung mit DeepL; Hervorhebungen hier nach den halbfetten Versalien):  
 
-„Am dritten Mai habe ich mich unter das Zeichen des Kreuzes begeben, da ich ein Kreuzritter für den Himmel geworden bin.
+„Am dritten Mai habe ich mich unter das Zeichen des Kreuzes begeben, 
+da ich ein Kreuzritter für den Himmel geworden bin.
 Und wenn du nicht weißt, wessen Name in diesem Abriss steht?
 Dan[I]el Jo[A]chim im Kre[U]z, und das Kreuz in Joa[CH]im.  
 Unter diesem Zeichen bin ich der Sieger für immer,
