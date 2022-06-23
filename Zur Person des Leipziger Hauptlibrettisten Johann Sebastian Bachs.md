@@ -454,7 +454,7 @@ Sie übertrug sich auf seinen Sohn Ludolph Friedrich, der 1716 (unter mehr als b
 [V]erax  
 [S]apiens  
 
-Auch an Jauchs - in königlich polnischen Diensten stehenden - Bruder Joachim Daniel (1688-1754) wurde nach dessen Tod mit einem namesbezüglichen Buchstabenspiel von anonymen Beiträgern gedacht. In dessen hinterlassenem Stammbuch findet sich gegen Ende ein posthum eingefügter, emblemartiger Kupferstich (Entwurf oder Wiedergabe seines Grabmals?) mit einem, aus zwei Buchstaben I und einem D gebildeten und mit lateinischen Datumsangaben und einem SOLI DEO GLORIA in Spiegelschrift versehenen Kreuz. Daneben zwei mal zwei Ziffern, die wohl das Jahr seiner Ernennung zum Generalmajor betreffen: 1746. Darunter ein eingeklebter Typendruck mit folgendem, im Original polnischen Text (Übersetzung mit DeepL; Hervorhebungen hier nach den halbfetten Versalien des Drucks):  
+Auch an Jauchs - in königlich polnischen Diensten stehenden - Bruder Joachim Daniel (1688-1754) wurde nach dessen Tod mit einem namesbezüglichen Buchstabenspiel von anonymen Beiträgern gedacht. In dessen hinterlassenem Stammbuch findet sich gegen Ende ein posthum eingefügter, emblemartiger Kupferstich (Entwurf eines Grabmals für die Kapuzinerkirche Warschau?) mit einem, aus zwei Buchstaben I und einem D gebildeten und mit lateinischen Datumsangaben (u.a. seiner Konversion drei Tage vor seinem Tod) und einem SOLI DEO GLORIA in Spiegelschrift versehenen Kreuz. Daneben zwei mal zwei Ziffern, die wohl das Jahr seiner Ernennung zum Generalmajor betreffen: 1746. Darunter ein eingeklebter Typendruck mit folgendem, im Original polnischen Text (Übersetzung mit DeepL; Hervorhebungen hier nach den halbfetten Versalien des Drucks):  
 
 „Am dritten Mai habe ich mich unter das Zeichen des Kreuzes begeben, 
 da ich ein Kreuzritter für den Himmel geworden bin.
@@ -463,7 +463,7 @@ Dan[I]el Jo[A]chim im Kre[U]z, und das Kreuz in Joa[CH]im.
 Unter diesem Zeichen bin ich der Sieger für immer,
 GOTT hat mir seine Gnade erwiesen.“  
 
-Man beachte auch in diesem Fall die syntaktische Umstellung (Joachim Daniel -> Daniel Joachim zugunsten der Konstituierung des Achrostichons.  
+Man beachte auch in diesem Fall die syntaktische Umstellung (Joachim Daniel -> Daniel Joachim zugunsten der korrekten Konstituierung des Achrostichons. Dass der Umgang mit Buchstaben seine Tücken haben kann, belegt ein Vorfall während des „Zeithainer Lustlagers“ zu Ehren Augusts des Starken 1730. Jauch hatte ein Feuerwerk arrangieren lassen, welches statt eines „VIVAT“ jedoch „FIFAT“ produzierte, welches verlegenheitshalber zu „FAUSTA IUBILA FECERUNT AUGUSTI TEMPORA“ umgedeutet wurde.  
 
 Den Brückenschlag zu den außergewöhnlichen Zitaten des „Votum Justinianum“ J.N.D.N.J.C. im Kopftitel der Choralkantate BWV 20 und auf dem Umschlag des Überlieferungsträgers der Frühfassung der Matthäus-Passion BWV 244b bildet die zwischen 1705 und 1715 datierte Abschrift einer Michaelisfest-Kantate „di M.B.“ in der Sammlung Bokemeyer auf den Text „Satanas und sein Getümmel“, deren Titel diese Buchstabenfolge anführt:
 
