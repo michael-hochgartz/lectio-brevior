@@ -3,7 +3,7 @@ Ob ein Superintendens wohl Poete seyn könne? - Zur Person des „Leipziger“ H
 Entwurf für ein Vortragsmanuskript (Es gilt das gesprochene Wort.)  
 
 Michael Hochgartz (D 48153 Münster)  
-michael@hochgartz.de - 24.06.2022  
+michael@hochgartz.de - 25.06.2022  
 Quelltext und Literaturverzeichnis: https://github.com/michael-hochgartz/lectio-brevior  
 
 
@@ -443,7 +443,7 @@ lässt sich lesen als:
 
 [M]agister [I] [AUCH] [P]rediger [zu] [L]üneburg.  
 
-Sie übertrug sich auf seinen Sohn Ludolph Friedrich, der 1716 (unter mehr als beiläufiger Erwähnung seines Elternhauses :„Venerandi Domini Parentes“) in einem Schulprogramm am Johanneum zu Ehren des neuerdings im fernen London residierenden Landesherrn König Georg I. dessen Namen in der typographisch (im Nachbarhaus, bei Cornelius Johann von Stern) plakativ gestalteten Form eines klassischen Akrostichons lobpreiste:  
+Sie übertrug sich auf seinen Sohn Ludolph Friedrich, der 1716 (unter mehr als beiläufiger Erwähnung seines Elternhauses : „Venerandi Domini Parentes“) in einem Schulprogramm am Johanneum zu Ehren des neuerdings im fernen London residierenden Landesherrn König Georg I. dessen Namen in der typographisch (im Nachbarhaus, bei Cornelius Johann von Stern) plakativ gestalteten Form eines klassischen Akrostichons lobpreiste:  
 
 [G]loriosus  
 [E]rectus  
@@ -454,7 +454,7 @@ Sie übertrug sich auf seinen Sohn Ludolph Friedrich, der 1716 (unter mehr als b
 [V]erax  
 [S]apiens  
 
-Auch an Jauchs - in königlich polnischen Diensten stehenden - Bruder Joachim Daniel (1688-1754) wurde nach dessen Tod mit einem namesbezüglichen Buchstabenspiel von anonymen Beiträgern gedacht. In dessen hinterlassenem Stammbuch findet sich gegen Ende ein posthum eingefügter, emblemartiger Kupferstich (Entwurf eines Grabmals für die Kapuzinerkirche Warschau?) mit einem, aus zwei Buchstaben I und einem D gebildeten und mit lateinischen Datumsangaben (u.a. seiner Konversion drei Tage vor seinem Tod) und einem SOLI DEO GLORIA in Spiegelschrift versehenen Kreuz. Daneben zwei mal zwei übereinanderliegende Ziffern, die wohl das Jahr seiner Ernennung zum Generalmajor betreffen: 1746. Darunter ein eingeklebter Typendruck mit folgendem, im Original polnischen Text (Übersetzung mit DeepL; Hervorhebungen hier nach den halbfetten Versalien des Drucks):  
+Auch an Jauchs - in königlich polnischen Diensten stehenden - jüngsten Bruder (eines von 14 Geschwistern) Joachim Daniel (1688-1754) wurde nach dessen Tod mit einem namesbezüglichen Buchstabenspiel von anonymen Beiträgern gedacht. In seinem hinterlassenem Stammbuch (in dessen zahlreichen Rötel-Portraits wohl leider keine Abbildungen von Familienmitgliedern enthalten sind), findet sich gegen Ende ein posthum eingefügter, emblemartiger Kupferstich (Entwurf oder Abbild eines Grabmals für die Kapuzinerkirche Warschau?) mit einem, aus zwei verschränkten Buchstaben I und einem D als Plinthe gebildeten und mit lateinischen Datumsangaben (u.a. seiner Konversion drei Tage vor seinem Tod) sowie einem SOLI DEO GLORIA in Spiegelschrift versehenen Kreuz. Daneben zwei mal zwei übereinandergestapelte Ziffern, die wohl das Jahr seiner Ernennung zum Generalmajor betreffen: 1746. Darunter ein darauf applizierter Zettel in Typendruck mit folgendem, im Original polnischen Text (Übersetzung unter Ignorierung der diakritischen Zeichen mit DeepL; Hervorhebungen [] auch hier nach den halbfetten Versalien des Drucks):  
 
 „Am dritten Mai habe ich mich unter das Zeichen des Kreuzes begeben, 
 da ich ein Kreuzritter für den Himmel geworden bin.
@@ -463,7 +463,9 @@ Dan[I]el Jo[A]chim im Kre[U]z, und das Kreuz in Joa[CH]im.
 Unter diesem Zeichen bin ich der Sieger für immer,
 GOTT hat mir seine Gnade erwiesen.“  
 
-Man beachte auch in diesem Fall die syntaktische Umstellung (Joachim Daniel -> Daniel Joachim zugunsten der korrekten Konstituierung des Achrostichons. Dass der Umgang mit Buchstaben seine Tücken haben kann, belegt ein Vorfall während des „Zeithainer Lustlagers“ zu Ehren Augusts des Starken 1730. Jauch hatte ein Feuerwerk arrangieren lassen, welches - wohl durch ein phonetisches Missverständnis - statt eines „VIVAT“ jedoch „FIFAT“ produzierte, was nachträglich verlegenheitshalber zu „FAUSTA IUBILA FECERUNT AUGUSTI TEMPORA“ umgedeutet wurde.  
+Man beachte auch in diesem Fall die syntaktische Umstellung (Joachim Daniel -> Daniel Joachim zugunsten der korrekten Konstituierung des Achrostichons, die in diesem Fall zu einem - zusammen mit dem graphischen Emblem -  mehrschichtigen Chiliasmus überhöht wird.  
+
+Dass der schöpferische Umgang mit Einzelbuchstaben seine Tücken haben kann, belegt ein Vorfall während des „Zeithainer Lustlagers“ zu Ehren Augusts des Starken 1730. Daniel Jauch hatte ein Feuerwerk arrangieren lassen, welches - wohl durch ein phonetisches Missverständnis - statt eines „VIVAT“ ein peinlich missverständliches „FIFAT“ in den Nachthimmel malte, was nachträglich verlegenheitshalber zu „FAUSTA IUBILA FECERUNT AUGUSTI TEMPORA“ verschlimmbessert wurde und bis vor ganz wenigen Jahren als Autoren-Pseudonym in familienbezüglichen Wikipedia-Artikeln nachzuweisen ist.  
 
 Den Brückenschlag zu den außergewöhnlichen Zitaten des „Votum Justinianum“ J.N.D.N.J.C. im Kopftitel der Choralkantate BWV 20 und auf dem Umschlag des Überlieferungsträgers der Frühfassung der Matthäus-Passion BWV 244b bildet die zwischen 1705 und 1715 datierte Abschrift einer Michaelisfest-Kantate „di M.B.“ in der Sammlung Bokemeyer auf den Text „Satanas und sein Getümmel“, deren Titel diese Buchstabenfolge anführt:
 
