@@ -1,4 +1,4 @@
-
+<meta name="google-site-verification" content="vkqscMFNUZttIo1NwseeHUJRUa-fM3L_F4nSQ9upQaQ" />
 Michael Hochgartz (D 48153 Münster)  
 michael@hochgartz.de - 09.01.2022  
 [https://independent.academia.edu/MichaelHochgartz](https://independent.academia.edu/MichaelHochgartz)  
