@@ -1,6 +1,7 @@
-[<head>
+<head>
 <meta name="google-site-verification" content="vkqscMFNUZttIo1NwseeHUJRUa-fM3L_F4nSQ9upQaQ" />
-  </head>](https://michael-hochgartz.github.io/lectio-brevior/)
+</head>
+  
 Michael Hochgartz (D 48153 Münster)  
 michael@hochgartz.de - 10.10.2021  
 [Startseite auf github.com](https://github.com/michael-hochgartz/lectio-brevior/)  
