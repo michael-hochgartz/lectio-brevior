@@ -1,6 +1,14 @@
 <head>
 <meta name="google-site-verification" content="vkqscMFNUZttIo1NwseeHUJRUa-fM3L_F4nSQ9upQaQ" />
 </head>
+<body>
+  <a href="
+  https://github.com/michael-hochgartz/lectio-brevior/blob/main/Thesen%20zur%20Identifizierung%20des%20Leipziger%20Hauptlibrettisten.md">Link1</a>
+  
+   <a href="
+    https://github.com/michael-hochgartz/lectio-brevior/blob/main/Zur%20Person%20des%20Leipziger%20Hauptlibrettisten%20Johann%20Sebastian%20Bachs.mdd">Link2</a>
+  
+</body>
   
 Michael Hochgartz (D 48153 Münster)  
 michael@hochgartz.de - 10.10.2021  
