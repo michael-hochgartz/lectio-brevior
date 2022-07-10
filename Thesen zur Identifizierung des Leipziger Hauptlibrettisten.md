@@ -2,7 +2,7 @@
 des „Leipziger“ Hauptlibrettisten  
 Johann Sebastian Bachs  
 Michael Hochgartz (D 48153 Münster)  
-michael@hochgartz.de - 05.07.2022  
+michael@hochgartz.de - 10.07.2022  
 Quelltext und Literaturverzeichnis: https://github.com/michael-hochgartz/lectio-brevior  
 
 Amore et studio elucidandae veritatis haec subscripta disputabuntur (Martin Luther 1517)  
@@ -142,7 +142,7 @@ Die bei der provisorischen Einschleusung in die vorzeitig wiederaufgeführte Joh
 
 Als alternativer Erklärungsansatz wäre eine - von Dürr (zuletzt 1988) zur Diskussion gestellte Erstfassung in D-Dur denkbar, zumal das vorangehende Rezitativ im Torso P 26 aufgrund etlicher fehlender Schlusstakte hinsichtlich der Zieltonart unbestimmt bleibt - freilich um den Preis eines Bruchs in der tonartlichen Symmetrie der Rahmensätze des ersten Teils der Passion.  
 
-Durch Umkehrung der bisher angenommenen Entstehungsreihenfolge wird somit auch eine von Arthur Mendel postulierte, in Weimar lokalisierte Frühfassung (Notname: BC D1 …) des Satzes obsolet. Vielmehr fügt sich dieser Chor durch seine - in der Fachliteratur nachhaltig bestätigte - kompositorische Reife, formale Opulenz und hymnologische / theologische Tendenz zwar notationstechnisch scheinbar leicht korrumpiert, aber substanziell bruchlos in ein Gesamtprojekt „Choralkantaten und Matthäus-Passion“ ein.  
+Durch Umkehrung der bisher angenommenen Entstehungsreihenfolge wird somit auch eine von Arthur Mendel postulierte, in Weimar lokalisierte Frühfassung (Notname bis zum Erscheinen von BWV#3: BC D1 …) des Satzes obsolet. Vielmehr fügt sich dieser Chor durch seine - in der Fachliteratur nachhaltig bestätigte - kompositorische Reife, formale Opulenz und hymnologische / theologische Tendenz zwar notationstechnisch scheinbar leicht korrumpiert, aber substanziell bruchlos in ein Gesamtprojekt „Choralkantaten und Matthäus-Passion“ ein.  
 
 
 13. Bei Bestätigung der Annahme einer Entstehung und Vollendung der Frühfassung der Matthäus-Passion in zwei, in größerem zeitlichen Abstand aufeinander folgenden Etappen könnten sich alternative Antworten auf die bis heute nicht abschließend beantwortete Frage nach den Prioritäten der Parodiebeziehungen zur Köthener Trauermusik BWV 244a ergeben. (Vgl. zunächst Gojowy 1965; Brainard 1969; Schulze 2004; Braatz 2006).  
@@ -175,19 +175,43 @@ Schließt uns auch die Thränen zu. (Henrici 1728/29)
 
 
 
-14a. <provisorische Version> Nach dem Erscheinen von Andreas Glöckners Aufsatz „Johann Sebastian Bachs ‚Große Passion‘ - Neue Überlegungen zu ihrer Vorgeschichte“ (BJ 2021; Januar 2022 für Nichtmitglieder / April 2022 für Mitglieder der NBG) ergeben sich auch für die vorliegende These 13 weiterführende Ergänzungsmöglichkeiten. Ausgehend von der bisherigen Forschungslage (u.a. Gojowy 1965; Stauber 2020; jedoch ohne Brainard 1969 und Chafe 1982) hält Glöckner es aufgrund von Stilvergleichen zum Wort-Ton-Verhältnis mit der Trauermusik BWV 244a für nicht ausgeschlossen, dass es bereits 1727 (vgl. auch Rifkin 1975) eine aufführbare Fassung der Passion gegeben haben könnte, die zwar das biblische Narrativ vollständig umfasste, aber - und das ist die wesentliche Neubewertung - hinsichtlich der Anzahl der madrigalischen (kontemplativen) Texte als um einiges kürzer anzunehmen wäre als die seit 1729 bekannte Version.  
-Folgt man Glöckners durch seine weiteren Argumente gestützten Überlegungen, dann ergibt sich eine überraschende Antwort auf die alte Streitfrage nach der frühesten Fassung der Passion: „1727 oder 1729?“ - die lautet: „1727 und 1729!“  
+14a. <provisorische Version> Nach dem Erscheinen von Andreas Glöckners Aufsatz „Johann Sebastian Bachs ‚Große Passion‘ - Neue Überlegungen zu ihrer Vorgeschichte“ (BJ 2021; Januar 2022 für Nichtmitglieder / April 2022 für Mitglieder der NBG) ergeben sich auch für die vorliegende These Nr. 13 weiterführende Ergänzungsmöglichkeiten. Ausgehend von der bisherigen Forschungslage (u.a. Gojowy 1965; Stauber 2020; jedoch ohne Brainard 1969 und Chafe 1982) hält Glöckner es aufgrund von Stilvergleichen zum Wort-Ton-Verhältnis mit der Trauermusik BWV 244a für nicht ausgeschlossen, dass es bereits 1727 (vgl. auch Rifkin 1975) eine aufführbare Fassung der Passion gegeben haben könnte, die zwar das biblische Narrativ vollständig umfasste, aber - und das ist die wesentliche Neubewertung - hinsichtlich der Anzahl der madrigalischen (kontemplativen) Texte als um einiges kürzer anzunehmen wäre als die seit 1729 bekannte Version.  
+Folgt man Glöckners durch seine weiteren Argumente gestützten Überlegungen, dann ergibt sich eine überraschende Antwort auf die alte Streitfrage nach der frühesten aufführbaren Fassung der Passion: „1727 oder 1729?“ - die lautet: „1727 und 1729!“  
 Diese Betrachtungsweise lässt sich wiederum fast bruchlos, gleichsam als „missing link“, in die zuvor ausgeführte These 13 zur Prioritätenfrage von BWV 244a und BWV 244b einfügen: Die 1728/29 erstellten Teile entstanden teils nicht nur unter Rückgriff auf das Material von 1725, sondern auch auf dasjenige von 1727, teils wurden sie genuin für eine Doppelverwendung konzipiert und realisiert. Die Frage nach Vorlage und Parodie wäre unter diesem Aspekt im Rahmen einer separten Untersuchung noch einmal Satz für Satz auszudifferenzieren - wobei selbst „Zweitparodien“ (vgl. Dürr 1974; Stauber 2020) nicht ausgeschlossen werden sollten. (Als ersten Zugriff vgl. These 14b.)  
 
 Die Ur- und Frühgeschichte von J.S. Bachs „Großer Passion“ könnte somit - weniger vorsichtig als von Glöckner formuliert - noch entscheidend komplexer beschrieben werden. Zum Beispiel so:  
 
-I. Trinitatis 1724 bis Ende Januar 1725: Sukzessive Vertonung jenes poetischen Materials, das vom „Dichter der Choralkantatentexte“ stückweise alle fünf bis acht Wochen per Post mitgeliefert wurde sowie der Choralbearbeitung „O Mensch bewein“ und einiger, inselartig kumulierter (Chafe 1982: Tonarten-theologisch strukturierter) sonstiger Sätze (Rezitative; Turbae; Choräle). Abbruch der Arbeiten an der Konzeptpartitur nach dem Tod des Dichters am 21.1.1725. Dieser Zustand wird von Agricola nach 1755 in der Handschrift P 26 unter Voranstellung eines (nach einem anderweitig nicht überlieferten Einzel-Textdruck aus den 1730er Jahren konstruierten) Titelblatts dokumentiert.  
-Vorzeitige Wiederaufführung der Johannes-Passion am Karfreitag 1725 als mehr als „…nur ein Notbehelf?“ (Leisinger 2002) unter Übernahme einiger Sätze aus BC D1,  die möglicherweise ursprünglich textlich für BWV 244 bestimmt und eventuell sogar schon in Musik gesetzt waren. Noch bis zur Epiphaniaszeit muss Bach „…von der Aufführung einer Neukomposition am Karfreitag 1725 überzeugt gewesen“ sein - andernfalls hätte er das Stimmen-Material für BWV 245 nicht außer Haus verliehen (ebd.).  
-C. F. Henrici erhält (im zeitlichen Umfeld der Arbeiten an BWV 249/249a, also noch im ersten Quartal 1725) einen ersten Einblick in die Bach vorliegenden Texte und paraphrasiert die von der Brockes-Passion und weiteren Oratorien inspirierte „Rache-Arie“ BWV 244b Satz 27b in der Schlüsselszene („neunter“ - recte: „eilfter“ - Auftritt) seines Ende 1725 einzeln und Anfang 1726 an den (fingierten?) Erscheinungsorten Berlin/Frankfurt/Hamburg gesammelt publizierten Lustspiels „Der akademische Schlendrian“ in Form von subtil feinstrukturierter Bühnenprosa.  
-Neben einem musikalischen Selbstzitat Bachs in BWV 127 finden sich sprachliche Allusionen in Henricis Text für BWV 205 (zum 3.8.1725) und in seinen „Erbaulichen Gedancken“ von 1725, deren Inhalt und Publikationsgeschichte - nicht nur mangels öffentlich verfügbaren Digitalisats - bislang (d.h. seit Spitta 1871!) nur unzureichend erforscht wurden.  
+I. Trinitatis 1724 bis Ende Januar 1725: Sukzessive Vertonung jenes poetischen Materials, das vom „Dichter der Choralkantatentexte“ stückweise alle fünf bis acht Wochen per Post mitgeliefert wurde sowie der Choralbearbeitung „O Mensch bewein“ und einiger, inselartig kumulierter (Chafe 1982: Tonarten-theologisch strukturierter) sonstiger Sätze (Rezitative; Turbae; Choräle). Abbruch der Arbeiten an der Konzeptpartitur nach dem Tod des Dichters am 21.1.1725. Dieser Zustand wird von Agricola nach 1755 in seiner Handschrift P 26 unter Voranstellung eines (nach einem anderweitig nicht überlieferten Einzel-Textdrucks aus den frühen 1730er Jahren konstruierten) Titelblatts dokumentiert.  
+Vorzeitige Wiederaufführung der Johannes-Passion am Karfreitag 1725 als mehr als „…nur ein Notbehelf?“ (Leisinger 2002) unter Übernahme einiger Sätze aus BC D1, die möglicherweise ursprünglich textlich für BWV 244 bestimmt und eventuell sogar schon in Musik gesetzt waren. Noch bis zur Epiphaniaszeit muss Bach „…von der Aufführung einer Neukomposition am Karfreitag 1725 überzeugt gewesen“ sein - andernfalls hätte er das Stimmen-Material für BWV 245 nicht außer Haus verliehen (ebd.).  
+C. F. Henrici erhält (im zeitlichen Umfeld der Arbeiten an BWV 249/249a, also noch im ersten Quartal 1725) einen ersten Einblick in die Bach vorliegenden Texte, denn er paraphrasiert die von der Brockes-Passion und weiteren Oratorien inspirierte „Rache-Arie“ BWV 244b Satz 27b in der Schlüsselszene („neunter“ - recte: „eilfter“ - Auftritt) seines Ende 1725 einzeln und Anfang 1726 an den (fingierten?) Erscheinungsorten Berlin/Frankfurt/Hamburg gesammelt publizierten Lustspiels „Der akademische Schlendrian“ in Form von subtil feinstrukturierter Bühnenprosa.  
 
-II. Karfreitag 1727: Erste aufführbare Fassung der Matthäus-Passion auf der Basis der vervollständigten Fragmente von 1725 sowie provisorisch integrierter Versatzstücke aus BWV 245/BC D1 (Text: J.C. Birckmann?) Ebenfalls als kreative Notlösung zu betrachten. Es lagen noch nicht alle heute aus BWV 244b bekannten madrigalischen Sätze vor, weshalb (und wegen des somit noch hohen Anteils an Fremdmaterial) Henrici auf einen Abdruck in seiner Gedichtsammlung zunächst verzichtet. Christoph Gottlob Wecker lernt das Werk akustisch in dieser formal einfacheren Fassung kennen - sicherlich aber nicht auch optisch in einer Papierform, deren mutmaßlich sehr heterogene Zusammensetzung für einen Außenstehenden kaum praktisch zu verwenden war - es sei denn, es gab bereits in diesem Stadium eine Neuschrift. Die Partitur könnte wohl eher aus einer partiellen Neuschrift des vervollständigten biblischen Textgerüsts bestanden haben, in das die 1725 fertig vorhandenen großen madrigalischen Sätze und die Versatzstücke ideell und materiell eingefügt wurden.  
-Eine klare klassische Klassifizierung als Konzeptschrift oder Reinschrift verbietet sich unter diesen Annahmen. Die ungeklärte (scheinbar unklärbare) Frage nach dem vollständig verschollenen Stimmenmaterial der Frühfassung(en) ist unter diesen Umständen zwar nicht substantiell, möglicherweise aber systemisch erforschbar.  
+Akademischer Schlendrian V. Aufzug, 11. Szene.  
+Carolingen [nachdem sie erfahren musste, dass ihr studentischer Liebhaber sie geschwängert und verlassen hat]:  
+
+O! Du verfluchter und Meyneidiger Bösewicht;  
+
+  Fahre, daß dir der Halß zerbreche!  
+  Kommt ihr Furien aus der Hölle,  
+    und zerreißet das ungetreue Herz!  
+
+    Verfinstert euch ihr blauen Wolcken,  
+      und ersäuffet die tyrannische Seele!  
+-------------------------------------------------------  
+    Brüllet ihr entsetzlichen Donner,  
+      und zerschmettert das Marck in den Eydbrüchigen Gebeinen.  
+
+  Eröffne, o Erde, deinen Schlund,  
+  verschlinge den verhaßten Cörper eines solchen Unmenschens,  
+    und verwandle ihn in die abscheulichste Pech- und Schwefels-Grube!  
+
+Du Tyger-Seele, du Unthier, Verräther, Betrüger!  
+
+(bricht in herzzerreißendes Schluchzen aus.)  
+
+Neben einem - genau diesen Satz betreffenden - musikalischen Selbstzitat Bachs in BWV 127 finden sich sprachliche Allusionen in Henricis Text für BWV 205 (zum 3.8.1725) und in seinen „Erbaulichen Gedancken“ von 1725, deren Inhalt und Publikationsgeschichte - nicht nur mangels öffentlich verfügbaren Digitalisats - bis vor kurzem (seit Spitta 1871!) nur unzureichend erforscht wurden.   
+
+II. Karfreitag 1727: Erste aufführbare Fassung der Matthäus-Passion auf der Basis der vervollständigten Fragmente von 1725 sowie provisorisch integrierter Versatzstücke aus BWV 245/BC D1; eventuell schon unter Mitwirkung von J.C. Birkmann. Ebenfalls als kreative Notlösung zu betrachten. Es lagen noch nicht alle heute aus BWV 244b bekannten madrigalischen Sätze vor, weshalb (und wegen des somit noch hohen Anteils an Fremdmaterial) Henrici auf einen Abdruck in seiner Gedichtsammlung zunächst verzichtet. Christoph Gottlob Wecker lernt das Werk akustisch in dieser formal einfacheren Fassung kennen - sicherlich aber nicht auch optisch in einer Papierform, deren mutmaßlich sehr heterogene Zusammensetzung für einen Außenstehenden kaum praktisch zu verwenden war - es sei denn, es gab bereits in diesem Stadium eine Neuschrift. Die Partitur könnte wohl eher aus einer partiellen Neuerfassung des vervollständigten biblischen Textgerüsts bestanden haben, in das die 1725 fertig vorhandenen großen madrigalischen Sätze und die Versatzstücke ideell und materiell eingefügt wurden.  
+Eine klare klassische Klassifizierung als Konzeptschrift oder Reinschrift verbietet sich unter diesen Annahmen. Die ungeklärte (scheinbar unklärbare) Frage nach dem vollständig verschollenen Stimmenmaterial der Frühfassung(en) ist unter diesen Umständen zwar nicht substanziell, möglicherweise aber systemisch erforschbar.  
 Zum Beispiel: War ein erstmals angefertigter Stimmensatz für ein „Provisorium 1727“ zwei Jahre später, (nach den Umarbeitungen für BWV 244a im März 1729,) am Karfreitag dieses Jahres, für BWV 244b noch einsatztauglich? Wenn nicht: erforderte ein neuer Stimmensatz unter diesen Umständen eine neue Partitur als Vorlage für die Kopisten? Oder ergab sich ein damals heilloser - heute philologisch unheilbarer - Mischbefund, wie er für BWV 245 überliefert ist?  
 
 IIIa/b. November 1728 bis März/April 1729: Erweiterung und Konsolidierung der Fassung II synchron zu den Arbeiten an der Trauermusik BWV 244a (vgl. zuletzt Stauber 2020) unter Eliminierung der 1727 eingefügten Versatzstücke und deren Ersatz und Ergänzung nach Texten Henricis. Aufführung am Karfreitag 1729 mit den auch für und in Köthen eingesetzten (und aus den dort realisierten Einnahmen subventionierten?) Kräften, darunter das soeben übernommene Collegium Musicum, auf der Basis einer heute verschollenen Partiturneuschrift, die 1755ff als Vorlage für die Auftragskopie J.C. Farlaus dienen sollte.  
@@ -266,7 +290,7 @@ Satz 23 Gerne will ich …
 
 
 Satz 27a/b So ist … / Sind Blitze sind Donner …  
-1725: Text und Musik vollständig; 1725/26: Profane Paraphrase von 27b in Henricis Lustspiel „Der akademische Schlendrian“  
+1725: Text und Musik vollständig; 1725/26: Profane Paraphrase von 27b in Henricis Lustspiel „Der akademische Schlendrian“ V/11  
 1727: wie 1725  
 1728: -  
 1729: wie 1727  
@@ -274,7 +298,7 @@ Satz 27a/b So ist … / Sind Blitze sind Donner …
 
 Satz 29 O Mensch bewein … (unmodifizierter Choraltext)  
 1725: Partitur in D- oder E-Dur?; Stimmen in Es-Dur als „Notlösung“ für BWV 245  
-1727: ersetzt durch Jesum lass ich nicht … (Text: Birckmann?)  
+1727: ersetzt durch Jesum lass ich nicht … (Text: Birkmann?)  
 1728: -  
 1729: wie 1727  
 1736: wie 1725; nun endültig in E-Dur  
@@ -318,7 +342,7 @@ Satz 49 Aus Liebe …
 
 Satz 52 Können Tränen …  
 1725: in P 26 deest; evtl. schon wie 1727?  
-1727: Ach windet euch nicht so … (Text: Birckmann?)  
+1727: Ach windet euch nicht so … (Text: Birkmann?)  
 1728: -  
 1729: Können Tränen …  
 1736: wie 1729  
@@ -435,7 +459,7 @@ Ob den an der Vorbereitung bzw. Vollendung des Werks Beteiligten bewußt war, da
 [S]elig, wer mit mir so spricht: 
 [Mei]nen Jesus lass ich nicht.  
 
-Ein ergänzender Beleg für eine Verwendung der hier diskutierten Invocation in ihrer usprünglichen Fassung findet sich übgrigens in einer 108-seitigen Festschrift zur Ehren der Ernennung von Bachs Leipziger Dichterin Christiane Mariane von Ziegler zur Kaiserlich Gekrönten Poetin durch die Universität Wittenberg (Lamprecht 1734). Der erste Gratulant (Johann Gottlieb Kraus(e), 1723-27 a.o. Prof. für Rhetorik in Leipzig und - zusammen mit J.B. Mencke - ein früher Wissenschaftspublizist), lässt auf dem Titelblatt der lateinischen Version seines Textes die bekannte Buchstabenfolge drucken: I.N.D.N.J.C. In der folgenden deutschen Übersetzung findet sich (in Frakturbuchstaben) „J.N.U.H.J.C.“ - kaum anders zu lesen als [I]m [N]amen [U]nseres [H]errn [J]esu [C]hristi.  
+Ein ergänzender Beleg für eine Verwendung der hier diskutierten Invocation in ihrer usprünglichen Fassung findet sich übgrigens in einer 108-seitigen Festschrift zur Ehren der Ernennung von Bachs Leipziger Dichterin Christiane Mariane von Ziegler zur Kaiserlich Gekrönten Poetin durch die Universität Wittenberg (Lamprecht 1734). Der erste Gratulant (Johann Gottlieb Kraus(e), 1723-27 a.o. Prof. für Rhetorik in Leipzig und - zusammen mit J.B. Mencke - ein früher Wissenschaftspublizist), lässt auf dem Titelblatt der lateinischen Version seines Textes die Buchstabenfolge drucken: I.N.D.N.J.C. In der folgenden deutschen Übersetzung findet sich (in Frakturbuchstaben) „J.N.U.H.J.C.“ - kaum anders zu lesen als [I]m [N]amen [U]nseres [H]errn [J]esu [C]hristi.  
 
 Das bekannteste Beispiel der Verwendung von Buchstabenspielen bei Bach selbst (der dieses Prinzip vielleicht schon aus dem Akrostichon in der sehr frühen Kantate BWV 150 („Doctor … Meckbach“), spätestens aber seit seiner Vertonung der 2004 zutage getretenen Strophenarie BWV 1127 im Jahr 1713 kannte; vgl. Schulze 2021; Maul 2005) findet sich bald vor Ende seines Lebens im RICERCAR des Musikalischen Opfers BWV 1077 für Friedrich II. von Preußen, im Beisein von C.E.P. Bach, W.F. Bach (und wohl auch J.F. Agricola) in Potsdam zunächst dreistimmig extemporiert, später sechsstimmig neu ausgearbeitet, in Kupfer gestochen und nachträglich (durch eigens gedruckte und eingeklebte Zettel) mit dieser Bedeutungserklärung und Sinnerhöhung versehen:  
 
