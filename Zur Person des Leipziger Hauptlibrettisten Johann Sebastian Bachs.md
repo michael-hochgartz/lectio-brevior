@@ -164,8 +164,21 @@ Vorgänger in jenem Amt war der durch seine literarischen Werke bekannt geworden
 Dass Neumeister (später mit feiner Ironie - nämlich in schönstem niederdeutschen Genitiv - formulierend: „Geld ist der Hamburger ihr Gott!“) seine neue Gemeinde unter Hinweis auf die erwartete Niederkunft seiner Frau monatelang auf die Übersiedlung aus dem damals brandenburgischen Sorau (Żary) warten ließ, wäre bei einer erfolgreichen Wahl Jauchs nicht nur wegen der geographischen Nähe, sondern auch wegen dessen völlig anders gearteter Persönlichkeitsstruktur kaum denkbar gewesen. Gleichwohl „renovirten“ die Kirchgeschworenen 1715 die Kanzel in St. Jakobi - unter Anbringung einer vom Kirchenvolk bis heute zu bewundernden Gedenkinschrift.  
 
 Ausführlichste und - trotz chronologischer Unschärfen - weitgehend zuverlässige Quelle für Jauchs Lebensumstände ist (zu ergänzen durch Analysen von Personalakten und autographen Briefen an norddeutsche, thüringische und kursächsische Gelehrte sowie an Leipziger Verleger) die aus erster Hand schöpfende Schilderung: „Das evangelische Lüneburg“ eines anderen Jenaischen Kommilitonen - des Hildesheimer Pfarrers Georg Bertram - die dieser 1719 (etliche Jahre nach Abschluß des Manuskripts) „seiner geliebtesten Vater-Stadt“ Lüneburg widmete, und die leider nicht mehr die Zeit bis 1725 und die außergewöhnlichen Umstände von Jauchs plötzlichem Tod umfasst.  
+Bertram hatte bis 1687 für drei Jahre „… auf speciale Gnade des Durchl. Landes-Herrn, Herrn Hertzogs Georg Wilhelms, in dem berühmten S. Michaelis Closter auf drey Jahre einen freyen Tisch bekommen, und der information der damaligen Schul-Collegen überlassen worden.“ Das könnte übrigens darauf hindeuten, dass eine derartige Gratifikation (nicht zu verwechseln mit Bachs zeitweiliger Mitgliedschaft im Mettenchor) allerhöchster Protektion bedurfte.  
+Seine enge persönliche Beziehung zur Familie Jauchs spiegelt sich auch im Leichengedicht des Sohnes Ludolph Friedrich aus dem Jahr 1728 wider:  
 
-Diese müssen derart dramatisch gewesen sein, dass man im Januar 1725 Jauchs zwanzigjährigen Sohn Tobias Christoph brieflich („bald die Post“) zurück in die Heimat beorderte. Der nachmalige Lüneburger Notar war am 14. November des Vorjahres in der Lindenstadt Leipzig, wo er dem zwei Wochen danach eingeschriebenen, aus Nürnberg stammenden Studenten und späteren Bach-Librettisten Johann Christoph Birckmann begegnet sein dürfte, und wo er bereits fünf Tage darauf bei der Uraufführung von BWV 26 erstmals eine von Bach komponierte Musik auf einen Text seines Vaters leibhaftig miterlebt haben konnte, und wohin er vielleicht eine neue Lieferung von Kantaten- und Passionstexten aus dessen Schreibstube überbrachte - zum Studium „der edlen Weisheits-Spur“ immatrikuliert worden. (Vgl. Erler 1909).  
+Du warst es, den mein Vater schon  
+Seit vielen Jahren liebt’ und ehrte,  
+Und den Er mich, als seinen Sohn,  
+Zu ehren und zu lieben lehrte.  
+Ihr zeigtet euch in Leid und Schmertz  
+Ein immer treugesinntes Hertz;  
+Gleichwie es jeden von euch rührte,  
+Wenn er des andern Wolseyn spürte:  
+So daß ihr von der ächten Art  
+Ein paar getreuer Freunde war’t.  
+
+Jauchs Todesumstände müssen derart dramatisch gewesen sein, dass man im Januar 1725 Jauchs zwanzigjährigen Sohn Tobias Christoph brieflich („bald die Post“) zurück in die Heimat beorderte. Der nachmalige Lüneburger Notar war am 14. November des Vorjahres in der Lindenstadt Leipzig, wo er dem zwei Wochen danach eingeschriebenen, aus Nürnberg stammenden Studenten und späteren Bach-Librettisten Johann Christoph Birckmann begegnet sein dürfte, und wo er bereits fünf Tage darauf bei der Uraufführung von BWV 26 erstmals eine von Bach komponierte Musik auf einen Text seines Vaters leibhaftig miterlebt haben konnte, und wohin er vielleicht eine neue Lieferung von Kantaten- und Passionstexten aus dessen Schreibstube überbrachte - zum Studium „der edlen Weisheits-Spur“ immatrikuliert worden. (Vgl. Erler 1909).  
 
 In Lüneburg traf Tobias Jauch seinen Vater dann bei der Ankunft am Ende von 300 Kilometern winterlicher Rückreise über der Erde stehend an (also noch vor der Beisetzung am 6. Februar) und kollabierte psychisch und physisch, wie sich aus seiner - von wem auch immer in durchaus einfühlsam, durchaus geschickt dramatisierter Diktion zum Druck aufbereiteten - Schilderung ergibt. Zu vermuten bleibt, dass mit den „im Flore“ stehenden Künsten auch die Kirchenmusik gemeint war:  
 
@@ -242,6 +255,7 @@ Der zugehörige zeitgenössische Aktendeckel teilt übrigens nur mit (vgl. Reinh
 Der vom „Correspondenten“ genannte 19. Januar ist deshalb weniger wahrscheinlich, weil bis zum Erscheinungsdatum (29./30.) mit 10 Tagen ungewöhnlich viel Zeit für die Kommunikation zwischen Lüneburg und dem statt (Hamburg-) Schiffbek üblicherweise fingierten Erscheinungort „Nieder-Elbe“ vergangen wäre. (Vgl. Zedler 24/367). Eventuell markiert dieser Tag den Beginn der Endphase der Erkrankung, was zu der oben zitierten pulmologischen Prognose („… gar selten über den 3ten Tag …“) passt.  
 
 Deshalb erscheint die Angabe Wilhelm Linkes am vertrauenswürdigsten, der bei der Katalogisierung norddeutscher Personalschriften zunächst (1912) pauschal 1725 angegeben hatte, dann (1931) aber konkret den 21.1.1725 nennen konnte - anhand des einzigen bislang nachgewiesenen Exemplars einer Leichenpredigt im ehemaligen Staatsarchiv Hannover (Signatur: St.A. 2° 26), das dort in der Nacht zum 9. Oktober 1943 verbrannte.  
+Leider findet sich unter den norddeutschen Leichenschriften des Jahres 1725 im Sammelband Am. 6-2 der SBB, der auch den erwähnten Rostocker Valedictionsbrief enthält, kein Exemplar dieser mutmaßlich für Jauchs Lebens- und Todesumstände sehr wertvollen Schrift.  
 
 Demnach ist Jauch an jenem dritten und letzten Sonntag nach Epiphanias 1725 in Lüneburg gestorben, an dem J.S. Bach 300 Kilometer entfernt in der Leipziger Nikolaikirche zur Predigt des Superintendenten Salomon Deyling die Choralkantate „Was mein Gott will das gscheh allzeit“ (BWV 111) uraufführte, in deren spätestens zwei Wochen zuvor nach Leipzig übermitteltem Text es heißt:  
 
