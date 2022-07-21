@@ -3,7 +3,7 @@ Ob ein Superintendens wohl Poete seyn könne? - Zur Person des „Leipziger“ H
 Entwurf für ein Vortragsmanuskript (Es gilt das gesprochene Wort.)  
 
 Michael Hochgartz (D 48153 Münster)  
-michael@hochgartz.de - 18.07.2022  
+michael@hochgartz.de - 21.07.2022  
 Quelltext und Literaturverzeichnis: https://github.com/michael-hochgartz/lectio-brevior  
 
 
@@ -164,7 +164,8 @@ Vorgänger in jenem Amt war der durch seine literarischen Werke bekannt geworden
 Dass Neumeister (später mit feiner Ironie - nämlich in schönstem niederdeutschen Genitiv - formulierend: „Geld ist der Hamburger ihr Gott!“) seine neue Gemeinde unter Hinweis auf die erwartete Niederkunft seiner Frau monatelang auf die Übersiedlung aus dem damals brandenburgischen Sorau (Żary) warten ließ, wäre bei einer erfolgreichen Wahl Jauchs nicht nur wegen der geographischen Nähe, sondern auch wegen dessen völlig anders gearteter Persönlichkeitsstruktur kaum denkbar gewesen. Gleichwohl „renovirten“ die Kirchgeschworenen 1715 die Kanzel in St. Jakobi - unter Anbringung einer vom Kirchenvolk bis heute zu bewundernden Gedenkinschrift.  
 
 Ausführlichste und - trotz chronologischer Unschärfen - weitgehend zuverlässige Quelle für Jauchs Lebensumstände ist (zu ergänzen durch Analysen von Personalakten und autographen Briefen an norddeutsche, thüringische und kursächsische Gelehrte sowie an Leipziger Verleger) die aus erster Hand schöpfende Schilderung: „Das evangelische Lüneburg“ eines anderen Jenaischen Kommilitonen - des Hildesheimer Pfarrers Georg Bertram - die dieser 1719 (etliche Jahre nach Abschluß des Manuskripts) „seiner geliebtesten Vater-Stadt“ Lüneburg widmete, und die leider nicht mehr die Zeit bis 1725 und die außergewöhnlichen Umstände von Jauchs plötzlichem Tod umfasst.  
-Bertram hatte bis 1687 für drei Jahre „… auf speciale Gnade des Durchl. Landes-Herrn, Herrn Hertzogs Georg Wilhelms, in dem berühmten S. Michaelis Closter auf drey Jahre einen freyen Tisch bekommen, und der information der damaligen Schul-Collegen überlassen worden.“ Das könnte übrigens darauf hindeuten, dass eine derartige Gratifikation (nicht zu verwechseln mit Bachs zeitweiliger Mitgliedschaft im Mettenchor) allerhöchster Protektion bedurfte.  
+Bertram hatte bis 1687 „… auf speciale Gnade des Durchl. Landes-Herrn, Herrn Hertzogs Georg Wilhelms, in dem berühmten S. Michaelis Closter auf drey Jahre einen freyen Tisch bekommen, und der information der damaligen Schul-Collegen überlassen worden.“ Das könnte übrigens darauf hindeuten, dass eine derartige Gratifikation (nicht zu verwechseln mit Bachs zeitweiliger Mitgliedschaft im Mettenchor) allerhöchster Protektion bedurfte.  
+
 Seine enge persönliche Beziehung zur Familie Jauchs spiegelt sich auch im Leichengedicht des Sohnes Ludolph Friedrich aus dem Jahr 1728 wider:  
 
 Du warst es, den mein Vater schon  
@@ -255,7 +256,8 @@ Der zugehörige zeitgenössische Aktendeckel teilt übrigens nur mit (vgl. Reinh
 Der vom „Correspondenten“ genannte 19. Januar ist deshalb weniger wahrscheinlich, weil bis zum Erscheinungsdatum (29./30.) mit 10 Tagen ungewöhnlich viel Zeit für die Kommunikation zwischen Lüneburg und dem statt (Hamburg-) Schiffbek üblicherweise fingierten Erscheinungort „Nieder-Elbe“ vergangen wäre. (Vgl. Zedler 24/367). Eventuell markiert dieser Tag den Beginn der Endphase der Erkrankung, was zu der oben zitierten pulmologischen Prognose („… gar selten über den 3ten Tag …“) passt.  
 
 Deshalb erscheint die Angabe Wilhelm Linkes am vertrauenswürdigsten, der bei der Katalogisierung norddeutscher Personalschriften zunächst (1912) pauschal 1725 angegeben hatte, dann (1931) aber konkret den 21.1.1725 nennen konnte - anhand des einzigen bislang nachgewiesenen Exemplars einer Leichenpredigt im ehemaligen Staatsarchiv Hannover (Signatur: St.A. 2° 26), das dort in der Nacht zum 9. Oktober 1943 verbrannte.  
-Leider findet sich unter den norddeutschen Leichenschriften des Jahres 1725 im Sammelband Am. 6-2 der SBB, der auch den erwähnten Rostocker Valedictionsbrief enthält, kein Exemplar dieser mutmaßlich für Jauchs Lebens- und Todesumstände sehr wertvollen Schrift.  
+
+Leider findet sich unter den norddeutschen Leichenschriften des Jahres 1725 im Sammelband Am. 6-2 der SBB, der auch den erwähnten Rostocker Valedictionsbrief enthält, kein Exemplar dieser mutmaßlich für die weitere Erhellung von Jauchs Lebens- und Todesumständen sehr sachdienlichen Schrift.  
 
 Demnach ist Jauch an jenem dritten und letzten Sonntag nach Epiphanias 1725 in Lüneburg gestorben, an dem J.S. Bach 300 Kilometer entfernt in der Leipziger Nikolaikirche zur Predigt des Superintendenten Salomon Deyling die Choralkantate „Was mein Gott will das gscheh allzeit“ (BWV 111) uraufführte, in deren spätestens zwei Wochen zuvor nach Leipzig übermitteltem Text es heißt:  
 
@@ -432,9 +434,9 @@ D[I]e [G]ütigste [F]ügung g[O]ttes.
 
 lässt sich lesen als:  
 
-[E]ntsprungen [der] [die]nstbereiten [F]eder (des)  
+[E]ntsprungen [der] [die]nstbereiten [F]eder  
 [M]agister [J]ohann [C]hristoph  
-[J]auch [Pr]ediger [zu] [L]üneburg (und des)  
+[J]auchs [Pr]ediger [zu] [L]üneburg  
 [I]ohann [G]eorg [F]lor [O]rganist.  
 
 Zu einem kaum widerlegbaren Beweis erhoben wird dieses Indiz für den Autorennachweis (neben der engen beruflichen Beziehungen der Protagonisten) durch die Tatsache, dass das Titelblatt des Kantatendrucks mit einem leicht umformulierten Zitat des Psalms 73, 23-24 beginnt, welches als lebenslanges theologisches Motto Jauchs belegt ist - z.B. durch das bis heute verwendete Familienwappen, welches auf einen Abdruck seines Ringsiegels zurück geht: „Die Leitung Gottes nach seinem Raht.“  
@@ -473,7 +475,7 @@ Sie übertrug sich auf seinen Sohn Ludolph Friedrich, der 1716 (unter mehr als b
 [V]erax  
 [S]apiens  
 
-Auch an Jauchs - in königlich-polnischen Diensten stehenden - jüngsten Bruder, den angeblich nobilitierten Joachim Daniel „von“ Jauch (1688-1754; eines von 14 Geschwistern), wurde nach dessen Tod mit einem namesbezüglichen Buchstabenspiel von anonymen Beiträgern gedacht. In seinem hinterlassenem „sztambuch“ (so der apographe Bleistifttitel im Exemplar der Nationalbibliothek Warschau; aber wohl eher als ein Sammelalbum zu betrachten, in dessen zahlreichen Rötel-Portraits leider keine Abbildungen von Familienmitgliedern enthalten sind), findet sich gegen Ende ein posthum eingefügter, emblemartiger Kupferstich (Entwurf oder Abbild eines Grabmals für die Kapuzinerkirche Warschau?) mit einem, aus zwei verschränkten Buchstaben I und einem D als Plinthe gebildeten und mit lateinischen Datumsangaben (u.a. demjenigen seiner Konversion drei Tage vor seinem Tod) sowie einem SOLI DEO GLORIA jeweils in Spiegelschrift versehenen Kreuz. Daneben zwei mal zwei übereinander drapierte, plastisch geformte Ziffern, die wohl das Jahr seiner Ernennung zum Generalmajor betreffen: 1746. Darunter ein darauf applizierter Zettel in Typendruck mit folgendem, im Original polnischen Text (die Übersetzung unter Ignorierung der diakritischen Zeichen mit DeepL; Hervorhebungen [] auch hier nach den halbfetten Versalien des Drucks):  
+Auch an Jauchs - in königlich-polnischen Diensten stehenden - jüngsten Bruder, den angeblich nobilitierten Joachim Daniel „von“ Jauch (1688-1754; eines von 14 Geschwistern), wurde nach dessen Tod mit einem namesbezüglichen Buchstabenspiel von anonymen Beiträgern gedacht. In seinem hinterlassenem „sztambuch“ (so der apographe Bleistifttitel im Exemplar der Nationalbibliothek Warschau; aber wohl eher als ein Sammelalbum zu betrachten, unter dessen zahlreichen Rötel-Portraits leider keine Abbildungen von Familienmitgliedern enthalten sind), findet sich gegen Ende ein posthum eingefügter, emblemartiger Kupferstich (Entwurf oder Abbild eines Grabmals für die Kapuzinerkirche Warschau?) mit einem, aus zwei verschränkten Buchstaben I und einem D als Plinthe gebildeten und mit lateinischen Datumsangaben (u.a. demjenigen seiner Konversion drei Tage vor seinem Tod) sowie einem SOLI DEO GLORIA jeweils in Spiegelschrift versehenen Kreuz. Daneben zwei mal zwei übereinander drapierte, plastisch geformte Ziffern, die wohl das Jahr seiner Ernennung zum Generalmajor betreffen: 1746. Darunter ein darauf applizierter Zettel in Typendruck mit folgendem, im Original polnischen Text (die Übersetzung unter Ignorierung der diakritischen Zeichen mit DeepL; Hervorhebungen [] auch hier nach den halbfetten Versalien des Drucks):  
 
 „Am dritten Mai habe ich mich unter das Zeichen des Kreuzes begeben,  
 da ich ein Kreuzritter für den Himmel geworden bin.  
@@ -482,7 +484,7 @@ Dan[I]el Jo[A]chim im Kre[U]z, und das Kreuz in Joa[CH]im.
 Unter diesem Zeichen bin ich der Sieger für immer,  
 GOTT hat mir seine Gnade erwiesen.“  
 
-Man beachte auch in diesem Fall die syntaktische Umstellung (Joachim Daniel -> Daniel Joachim zugunsten der korrekten Konstituierung des Achrostichons, das in diesem Fall zu einem - zusammen mit dem graphischen Emblem -  mehrschichtigen Chiasmus überhöht wird - obwohl, oder weil, theoretisch statt Dan[I]el Jo[A]chim auch Joach[I]m D[A]niel möglich gewesen wäre. Und zwar auch in der polnischen Version.  
+Man beachte auch in diesem Fall die syntaktische Umstellung (Joachim Daniel -> Daniel Joachim zugunsten der korrekten Konstituierung des Achrostichons, das hier zu einem - zusammen mit dem graphischen Emblem -  mehrschichtigen Chiasmus überhöht wird - obwohl, oder weil, theoretisch statt Dan[I]el Jo[A]chim auch Joach[I]m D[A]niel möglich gewesen wäre. Und zwar auch in der polnischen Version.  
 
 Dass ein schöpferischer Umgang mit einzelnen Lettern seine Tücken haben kann, belegt ein spektakulöser Vorfall während des „Zeithainer Lustlagers“ zu Ehren Augusts des Starken und seiner Gäste 1730. Daniel Jauch hatte ein Feuerwerk arrangieren dürfen, welches - wohl durch ein phonetisches Missverständnis seiner amtlichen polnisch/sächsischen Sekretäre - statt eines „VIVAT“ ein peinlich missverstehbares „FIFAT“ in den Nachthimmel projizierte, was nachträglich verlegenheitshalber zu „FAUSTA IUBILA FECERUNT AUGUSTI TEMPORA“ verschlimmbessert wurde und welches bis vor wenigen Jahren als selbstironisch genutztes Autoren-Pseudonym in zahlreichen familienbezüglichen Wikipedia-Beiträgen nachzuweisen ist.  
 
@@ -502,7 +504,7 @@ Die Zuschreibung der Autorschaft des lange Zeit verschollenen, 1870 ohne die ent
 
 Bemerkenswert an diesem Lüneburger Libretto ist diese Dichotomie: Zum einen ziehen sich durch die Passion 14 Strophen „Auß D. Joh. Olearii Passions Liede O Jesu Gottes Lamm etc. in der Melodey O Gott du frommer Gott“ - und zwar jedesmal ausdrücklich an „Die Gemeine“ als ausführendes, nicht nur stumm rezipierendes Organ zugewiesen.  
 
-Zum anderen wird das hier wörtlich nacherzählte biblische Narrativ auf eine Weise durch Arien kommentiert, die mit ihrer moderateren Wortwahl (Ausnahme: „… wenn kräht der Gewissens-Hahn…“) näher an dem am „Sermo humilis“ (vgl. Axmacher 1984; Haselböck 2004) orientierten, volksnahen Predigtstil angesiedelt ist als die ein Jahr darauf in Hamburg - unter gänzlich anderen Umständen, nämlich in Form eines spektakulären, großbürgerlichen, nur vorgeblich privaten musikalischen Konventikels zelebrierte Brockes-Passion - wie aus der formal und inhaltlich extrem verdichteten Arie Nr. 7 erhellt.  
+Zum anderen wird das hier wörtlich nacherzählte biblische Narrativ auf eine Weise durch Arien kommentiert, die mit ihrer moderateren Wortwahl (Ausnahme: „… wenn kräht der Gewissens-Hahn …“) näher an dem am „Sermo humilis“ (vgl. Axmacher 1984; Haselböck 2004) orientierten, volksnahen Predigtstil angesiedelt ist als die ein Jahr darauf in Hamburg - unter gänzlich anderen Umständen, nämlich in Form eines spektakulären, großbürgerlichen, nur vorgeblich privaten musikalischen Konventikels zelebrierte Brockes-Passion - wie aus der formal und inhaltlich extrem verdichteten Arie Nr. 7 erhellt.  
 
 Deren erste drei Zeilen sind offenkundig inpspiriert von einer an analoger Stelle platzierten Aria der Tochter Zion aus Christian Friedrich Hunolds 1706 (im Jahr seiner Flucht aus Norddeutschland) in Hamburg gedruckten, von Reinhard Keiser schon 1704 vertonten und unter Protesten der Geistlichkeit aufgeführten Passionsoratorium „Der blutige und sterbende Jesus“, wo es u.a heißt:  
 
@@ -587,11 +589,9 @@ Dem steht aber eventuell entgegen, dass dieser Vorgang laut Bertram (1719) erst 
 Jauchs besondere seelsorgerische Kompetenz wurde auch propagiert durch ein (ebenfalls von Bertram 1719 kolportiertes) Ereignis, das zu dem sehr speziellen Phänomen der „Maleficantenberichte“ gehört. Demnach hatte er einen zum Tode verurteilten römisch-katholischen Dragoner aus dem Regiment des Generalmajors Villars (alias Villiers / Villers, 1691-1708) auf dem etwa eine halbe Meile (3-4 Kilometer) langen Weg zur militärischen Exekution durch provisorische Glaubensinstruktion, Examination und Verabreichung des Abendmahls zum „wahren Glaubens-Grund“ überzeugt - nachdem dieser noch kurz zuvor von einem Pater Le Blanche „in einem Gartenhause“ die Heilige Kommunion „nach päbstlicher Weise“ empfangen hatte. (Vgl. Jakubowski-Tiessen 2011)  
 
 
-Der 1765 aus dem Nachlass des 1698 erstgeborenen Sohnes, des Lüneburger Michaelispastors Ludolph Friedrich Jauch, versteigerte Bibliotheksbestand ermöglicht anhand eines Auktionskatalogs, der etwa 5.000 Bände, Konvolute, Faszikel und leider nicht näher spezifizierte Kapseln verzeichnet, detaillierte Einblicke in Bildungsstand und Interessenlage der beiden Besitzer, wobei (möglicherweise erhebliche, teilweise verfolgbaren) Abspaltungen im Rahmen einer mutmaßlichen Erbteilung 1725f ebenso im Blick behalten werden müssen wie die offenkundigen Zukäufe nach dem Tod des Erstbesitzers.  
+Der 1765 aus dem Nachlass des 1698 erstgeborenen Sohnes, des Lüneburger Michaelispastors Ludolph Friedrich Jauch, versteigerte Bibliotheksbestand ermöglicht anhand eines Auktionskatalogs, der etwa 5.000 Bände, Konvolute, Faszikel und leider nicht näher spezifizierte Kapseln verzeichnet, detaillierte Einblicke in Bildungsstand und Interessenlage der beiden Besitzer, wobei (möglicherweise erhebliche, teilweise verfolgbare) Abspaltungen im Rahmen einer mutmaßlichen Erbteilung 1725f ebenso im Blick behalten werden müssen wie die offenkundigen Zukäufe nach dem Tod des Erstbesitzers.  
 
-Auf Johann Christoph Jauch dürfte zum Beispiel die Anschaffung jener achtbändigen Ausgabe des 1697 erschienenen „Wagnerschen Gesangbuchs“ zurückgehen (Nr. 2645 - 2652 des Katalogs), einer enzyklopädischen, allein schon aus materiellen Gründen keineswegs für den Massengebrauch konzipierten Choraltext-Anthologie, die auch für die theologische Bibliothek Bachs belegt ist.  
-
-Damit ist die Voraussetzung für die Annahme gegeben, dass sich Dichter und Komponist bei einer Abstimmung über das hymnologische Programm der Choralkantaten auf das gleiche, umfangreiche Repertorium von Kirchenliedern stützen konnten.  
+Auf Johann Christoph Jauch dürfte zum Beispiel die Anschaffung jener achtbändigen Ausgabe des 1697 erschienenen „Wagnerschen Gesangbuchs“ zurückgehen (Nr. 2645 - 2652 des Katalogs), einer enzyklopädischen, allein schon aus materiellen Gründen keineswegs für den Massengebrauch konzipierten Choraltext-Anthologie, die auch für die theologische Bibliothek Bachs belegt ist. Damit ist die Voraussetzung für die Annahme gegeben, dass sich Dichter und Komponist bei einer Abstimmung über das hymnologische Programm der Choralkantaten auf das gleiche, umfangreiche Repertorium von Kirchenliedern stützen konnten.  
 
 Je vier Titel von zwei prominenten Vertretern der Norddeutschen Reformorthodoxie, nämlich August Pfeiffer (Lübeck) und Heinrich Müller (Rostock), belegen zudem - zusammen mit weiteren Werken anderer Autoren - eine quantitativ mit 23 bzw. 32 Prozent beachtenswerte, theologisch durchaus tendenziöse Schnittmenge der hinterlassenen Bibliotheken Bachs und seines Hauptlibrettisten. (Vgl. Wilhelmi 1979: Nrn. 5, 8, 10 sic!, 11,14, 20, 36, 38, 39, 42, 51, 52 sowie die Zweifelsfälle 2, 7, 13, 35, 45.)  
 
