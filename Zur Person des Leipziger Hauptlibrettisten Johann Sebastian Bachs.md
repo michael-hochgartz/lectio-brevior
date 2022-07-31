@@ -3,7 +3,7 @@ Ob ein Superintendens wohl Poete seyn könne? - Zur Person des „Leipziger“ H
 Entwurf für ein Vortragsmanuskript (Es gilt das gesprochene Wort.)  
 
 Michael Hochgartz (D 48153 Münster)  
-michael@hochgartz.de - 29.07.2022  
+michael@hochgartz.de - 31.07.2022  
 Quelltext und Literaturverzeichnis: https://github.com/michael-hochgartz/lectio-brevior  
 
 
@@ -166,10 +166,10 @@ Dass Neumeister (später mit feiner Ironie - nämlich in schönstem niederdeutsc
 
 Ausführlichste und - trotz chronologischer Unschärfen - weitgehend zuverlässige Quelle für Jauchs Lebensumstände ist (zu ergänzen durch Analysen von Personalakten und autographen Briefen an norddeutsche, thüringische und kursächsische Gelehrte sowie an Leipziger Verleger) die aus erster Hand schöpfende Schilderung: „Das evangelische Lüneburg“ eines anderen Jenaischen Kommilitonen - des 1728 in Braunschweig gestorbenen Pfarrers Georg Bertram - die dieser 1719 (etliche Jahre nach Abschluß des Manuskripts) „seiner geliebtesten Vater-Stadt“ Lüneburg widmete, und die leider nicht mehr die Zeit bis 1725 und die außergewöhnlichen Umstände von Jauchs plötzlichem Tod umfasst.  
 
-Bertram hatte bis 1687 „… auf speciale Gnade des Durchl. Landes-Herrn, Herrn Hertzogs Georg Wilhelms, in dem berühmten S. Michaelis Closter auf drey Jahre einen freyen Tisch bekommen, und war der information der damaligen Schul-Collegen überlassen worden.“ Das deutet zunächst einmal darauf hin, dass eine derartige Gratifikation (nicht zu verwechseln mit Bachs zeitweiliger Mitgliedschaft im Mettenchor dieser Institution) allerhöchster Protektion bedurfte.  
+Bertram hatte bis 1687 „… auf speciale Gnade des Durchl. Landes-Herrn, Herrn Hertzogs Georg Wilhelms, in dem berühmten S. Michaelis Closter auf drey Jahre einen freyen Tisch bekommen, und war der information der damaligen Schul-Collegen überlassen worden.“ Das deutet zunächst einmal darauf hin, dass eine derartige Gratifikation (nicht zu verwechseln mit einer Mitgliedschaft im Mettenchor dieser Institution) allerhöchster Protektion bedurfte.  
 
-Bei der Diskussion von Bachs konkreten Lebensumständen wäre überdies - genauer als von der bisherigen Forschung - zu differenzieren nach monetären Einkunftsarten (regulierter Chorgesang im Gottesdienst und auf den - nicht immer konfliktfrei organisierten - Altstadtgassen; private Gefälligkeiten für Insassen der Akademie), Kost (Freitisch-Prinzip, finanziert aus öffentlichen Umlagen), Logis (dauerhafte Unterbringung im nachweislich heruntergewirtschafteten, chronisch überfüllten Klostergebäude oder aber wechselnde Schlafstätten bei Privatleuten gegen pädagogische Betreuung von deren Heranwachsenden) und der kostenfreien Teilnahme am Untericht (sicherlich eher in der baulich um 1700 noch halbwegs intakten Partikularschule als an der wenige Schritte entfernten Ritterakademie, die den Mitgliederns des ständisch streng organisierten Lüneburgischen Landadels vorbehalten war).  
-Was Georg Böhm andererseits von Bach als Gegenleistungen für die Bereitstellung von Kopiervorlagen für Tastenmusiken erwarten konnte, bleibt der Vorstellungskraft des Betrachters überlassen. Zu denken wäre an gelegentliche Mitwirkung als Aushilfe - zunächst als Vokalist, nach dem Stimmbruch nur noch als Instrumentalist - bei Casualgottesdiensten in St. Johannis außerhalb der Schulstunden und der Hauptgottesdienste. Angesichts der nachgewiesenen beruflichen Differenzen zwischen Böhm und Georg Flor jun. (vgl. Walter 1968) bleibt zu vermuten, dass die durch Bach überlieferten Kopien von Werken Christian Flors sen. in der „Möllerschen Handschrift“ wohl eher auf Vorlagen aus zweiter Hand zurückgehen - nämlich auf Bestände Böhms.  
+Bei der Diskussion von Bachs konkreten Lebensumständen wäre überdies - genauer als von der bisherigen Forschung - zu differenzieren nach monetären Einkunftsarten (regulierter Chorgesang im Gottesdienst und auf den - nicht immer konfliktfrei organisierten - Altstadtgassen; private Gefälligkeiten für Insassen der Akademie), Kost (Freitisch-Prinzip, finanziert aus öffentlichen Umlagen), Logis (dauerhafte Unterbringung im heruntergewirtschafteten Klostergebäude oder aber wechselnde Schlafstätten bei Privatleuten gegen pädagogische Betreuung von deren Heranwachsenden) und der kostenfreien Teilnahme am Untericht (sicherlich eher in der baulich um 1700 noch halbwegs intakten Partikularschule als an der wenige Schritte entfernten Ritterakademie, die den Mitgliederns des ständisch streng organisierten Lüneburgischen Landadels und einigen, von höchster Stelle protegierten Gratifikanten vorbehalten war).  
+Was Georg Böhm andererseits von Bach als Gegenleistungen für die Bereitstellung von Kopiervorlagen für Tastenmusiken erwarten konnte, bleibt der Vorstellungskraft des Betrachters überlassen. Zu denken wäre an gelegentliche Mitwirkung als Aushilfe - zunächst als Vokalist, nach dem Stimmbruch nur noch als Instrumentalist - bei Casualgottesdiensten in St. Johannis (außerhalb der Schulstunden und der Gottesdienste an St. Michaelis). Angesichts der nachgewiesenen beruflichen Differenzen zwischen Böhm und Georg Flor jun. (vgl. Walter 1968) bleibt zu vermuten, dass die durch Bach überlieferten Kopien von Werken Christian Flors sen. in der „Möllerschen Handschrift“ wohl eher auf Vorlagen aus zweiter Hand zurückgehen - nämlich auf Bestände Böhms.  
 
 Bertrams enge persönliche Beziehung zur Familie Jauchs spiegelt sich auch im Leichengedicht des Sohnes Ludolph Friedrich aus dem Jahr 1728 wider:  
 
@@ -262,7 +262,6 @@ Der vom „Correspondenten“ genannte 19. Januar ist deshalb weniger wahrschein
 
 Deshalb erscheint die Angabe Wilhelm Linkes am vertrauenswürdigsten, der bei der Katalogisierung norddeutscher Personalschriften zunächst (1912) pauschal 1725 angegeben hatte, dann (1931) aber konkret den 21.1.1725 nennen konnte - anhand des einzigen bislang nachgewiesenen Exemplars einer Leichenpredigt im ehemaligen Staatsarchiv Hannover (Signatur: St.A. 2° 26), das dort in der Nacht zum 9. Oktober 1943 verbrannte.  
 
-Leider findet sich unter den Lüneburger Leichenschriften des Jahres 1725 im Sammelband Am. 6-2 der SBB, der auch den erwähnten Rostocker Valedictionsbrief enthält, kein Exemplar dieser mutmaßlich für die weitere Erhellung von Jauchs Lebens- und Todesumständen sehr sachdienlichen Quelle.  
 
 Demnach ist Jauch an jenem dritten und letzten Sonntag nach Epiphanias 1725 in Lüneburg gestorben, an dem J.S. Bach 300 Kilometer entfernt in der Leipziger Nikolaikirche zur Predigt des Superintendenten Salomon Deyling die Choralkantate „Was mein Gott will das gscheh allzeit“ (BWV 111) uraufführte, in deren spätestens zwei Wochen zuvor nach Leipzig übermitteltem Text es heißt:  
 
@@ -281,7 +280,7 @@ ein Kampfplatz werden müssen,
 so hilf, damit in dir mein Glaube siegt.  
 O seliges, gewünschtes Ende!  
 
-Es ist nicht genau bekannt, in welchem gesundheitlichen Zustand sich Johann Christoph Jauch an seinem letzten Lebenstag befand. Auch wenn er nicht ganz bis zum Ende bei klarem Verstand gewesen sein sollte, so starb er doch vielleicht in dem Bewußtsein, dass sein Text zu diesen Stunden in einer Vertonung Bachs erklang, der über seine lebensbedrohliche Erkrankung gewiss informiert sein musste - aufmerksam verfolgt von einer vielköpfigen Gemeinde.  
+Es ist nicht genau bekannt, in welchem gesundheitlichen Zustand sich Johann Christoph Jauch an seinem letzten Lebenstag befand. Auch wenn er nicht ganz bis zum Ende bei klarem Verstand gewesen sein sollte, so starb er doch vielleicht in dem Bewußtsein, dass sein Text zu diesen Stunden in einer Vertonung Bachs erklingen sollte, der über seine Erkrankung gewiss informiert sein musste - aufmerksam verfolgt von einer vielköpfigen Gemeinde.  
 
 
 Individualeschatologische Ahnungen dieser Art finden sich bereits zwei Wochen zuvor, am 1. Sonntag nach Epiphanias (7.1.1725), in der Kantate BWV 124/3:  
@@ -347,6 +346,7 @@ Eine Suche nach tieferen Ursachen für Jauchs persönliche Probleme - oder zumin
 
 „ … und meine so vielfältige Arbeit (wie ich ja fast wöchentlich dreimal nicht ohne Verkürzung meiner Leibes und Lebenskräfte doch herzlich gerne zu Gottes Ehre in meiner allseitigen geliebten Gemeine zum besten nach möglichstem Vermögen selbst verrichte) mich wohl viele Jahre eher als sonsten von den lieben Meinigen abreißen wird.“  
 
+Rechtfertigt dieser Text die Annahme, dass J.C. Jauch mindestens anderthalb Jahrzehnte im ständigen Bewußtsein eine chronischen, degenerativen, unheilbaren Erkrankung (vulgo „Schwindsucht“) gelebt, gepredigt und gedichtet hat?
 
 Die Auseinandersetzung mit der Vorwegnahme der eigenen Sterbestunde kulminiert schließlich in der Kantate BWV 127 (zum 11.2.1725) - nach Meinung maßgeblicher Kommentatoren (nicht nur Smend 1966) in kompositionstechnischer Hinsicht der Höhepunkt des Choralkantatenschaffens - in deren Musik und Text sich die existenzielle Befindlichkeit des Autors mit der Hoffnung auf eine Erfüllung dogmatisch begründeter Verheißungen verbindet - in Form von Konditionalsätzen, die sich bald nach ihrer Erfindung und kurz vor ihrer Vertonung bitter realisieren sollten:  
 
