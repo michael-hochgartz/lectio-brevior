@@ -3,7 +3,7 @@ Ob ein Superintendens wohl Poete seyn könne? - Zur Person des „Leipziger“ H
 Entwurf für ein Vortragsmanuskript (Es gilt das gesprochene Wort.)  
 
 Michael Hochgartz (D 48153 Münster)  
-michael@hochgartz.de - 31.07.2022  
+michael@hochgartz.de - 05.08.2022  
 Quelltext und Literaturverzeichnis: https://github.com/michael-hochgartz/lectio-brevior  
 
 
@@ -280,7 +280,7 @@ ein Kampfplatz werden müssen,
 so hilf, damit in dir mein Glaube siegt.  
 O seliges, gewünschtes Ende!  
 
-Es ist nicht genau bekannt, in welchem gesundheitlichen Zustand sich Johann Christoph Jauch an seinem letzten Lebenstag befand. Auch wenn er nicht ganz bis zum Ende bei klarem Verstand gewesen sein sollte, so starb er doch vielleicht in dem Bewußtsein, dass sein Text zu diesen Stunden in einer Vertonung Bachs erklingen sollte, der über seine Erkrankung gewiss informiert sein musste - aufmerksam verfolgt von einer vielköpfigen Gemeinde.  
+Es ist nicht genau bekannt, in welchem gesundheitlichen Zustand sich Johann Christoph Jauch an seinem letzten Lebenstag befand. Auch wenn er nicht ganz bis zum Ende bei klarem Verstand gewesen sein sollte, so starb er doch vielleicht in dem Bewußtsein, dass sein Text zu diesen Stunden in einer Vertonung Bachs erklingen sollte, der über seine Erkrankung gewiss informiert sein musste.  
 
 
 Individualeschatologische Ahnungen dieser Art finden sich bereits zwei Wochen zuvor, am 1. Sonntag nach Epiphanias (7.1.1725), in der Kantate BWV 124/3:  
@@ -346,9 +346,9 @@ Eine Suche nach tieferen Ursachen für Jauchs persönliche Probleme - oder zumin
 
 „ … und meine so vielfältige Arbeit (wie ich ja fast wöchentlich dreimal nicht ohne Verkürzung meiner Leibes und Lebenskräfte doch herzlich gerne zu Gottes Ehre in meiner allseitigen geliebten Gemeine zum besten nach möglichstem Vermögen selbst verrichte) mich wohl viele Jahre eher als sonsten von den lieben Meinigen abreißen wird.“  
 
-Rechtfertigt dieser Text die Annahme, dass J.C. Jauch mindestens anderthalb Jahrzehnte im ständigen Bewußtsein eine chronischen, degenerativen, unheilbaren Erkrankung (vulgo „Schwindsucht“) gelebt, gepredigt und gedichtet hat?
+Rechtfertigt dieser Text die Annahme, dass J.C. Jauch mindestens anderthalb Jahrzehnte im ständigen Bewußtsein einer chronischen, auszehrenden Erkrankung (vulgo „Schwindsucht“) gelebt, gepredigt und gedichtet hat?
 
-Die Auseinandersetzung mit der Vorwegnahme der eigenen Sterbestunde kulminiert schließlich in der Kantate BWV 127 (zum 11.2.1725) - nach Meinung maßgeblicher Kommentatoren (nicht nur Smend 1966) in kompositionstechnischer Hinsicht der Höhepunkt des Choralkantatenschaffens - in deren Musik und Text sich die existenzielle Befindlichkeit des Autors mit der Hoffnung auf eine Erfüllung dogmatisch begründeter Verheißungen verbindet - in Form von Konditionalsätzen, die sich bald nach ihrer Erfindung und kurz vor ihrer Vertonung bitter realisieren sollten:  
+Die Auseinandersetzung mit der Vorwegnahme der eigenen Sterbestunde kulminiert schließlich in der Kantate BWV 127 (zum 11.2.1725) - nach Meinung maßgeblicher Kommentatoren (nicht nur Smend 1966) in kompositionstechnischer Hinsicht der Höhepunkt des Choralkantatenschaffens - in deren Musik und Text sich die existenzielle Befindlichkeit des Autors mit der Hoffnung auf eine Erfüllung dogmatisch begründeter Verheißungen verbindet - in Form von Konditionalsätzen, die sich bald nach ihrer Formulierung und kurz vor ihrer Vertonung bitter realisieren sollten:  
 
 Wenn alles sich zur letzten Zeit entsetzet  
 und wenn ein kalter Todesschweiß  
@@ -370,7 +370,7 @@ mich auf dieser Welt erreichen:
 wenn der Lebensfaden bricht,  
 meinen Jesus lass ich nicht.  
 
-Ferner gibt es einige Allusionen zu einer anonymen (I. A. = Inc. Auct.) Paraphrase des Chorals „Herr Jesu Christ …“, die wenige Ordnungsnummern nach dem Original (Nr. 379) unter den Sterbeliedern des Lüneburgischen Landesgesangbuch (Celle 1697, 1716) zu finden ist, wo es in Strophe 9 / 10 heißt:  
+Ferner gibt es einige Allusionen zu einer anonymen (I. A. = Inc. Auct.) Paraphrase des Chorals „Herr Jesu Christ …“, die wenige Ordnungsnummern nach dem Original (Nr. 379) unter den Sterbeliedern des Lüneburgischen Landesgesangbuchs (Celle 1697, 1716) zu finden ist, wo es in Strophe 9 / 10 heißt:  
 
 Wan sich die zunge nicht mehr reg’t  
 Und meine sprach’ sich gänzlich leg’t /  
@@ -402,7 +402,7 @@ Am 16. April 1716 entschuldigt er sich beim Hamburger Rektor Johann Albert Fabri
 
 „… so habe ümb so vielmehr ursache zu depreciren, daß ich meiner schuldigkeit nach nicht so gleich wieder geantwortet, doch werden die Ew. HochEhrwürden wol bekannten Labores Ministeriales, die mir absonderlich so wol in der Stillen Woche alß heiligen Osterfest obzulegen haben, einen Geistlichen leicht excusiren. So bald aber das liebe Fest zurück gelegt, habe ich nicht unterlaßen wollen, hiermit den verbindlichsten danck abzustaten …“.  
 
-Der Verweis auf die Amtspflichten in der Osterwoche erscheint bei näherer Betrachtung als vorgeschoben, da Jauch im weiteren Verlauf des Briefs umständlich gesteht, die Zeit genutzt zu haben, um im Kreise Hamburger Freunde eine alternative, deutlich kostengünstigere (nämlich kostenlose) Unterbringungsmöglichkeit für seinen Filius auszumachen. Weitere, scheinbar nebensächliche Bemerkungen Jauchs in diesem Briefwechsel ermöglichen Einsichten in dessen persönliche Befindlichkeiten während seiner eigenen Studienzeit.  
+Der Verweis auf die Amtspflichten in der Osterwoche erscheint bei näherer Betrachtung als vorgeschoben, da Jauch im weiteren Verlauf des Briefs umständlich gesteht, die Zeit genutzt zu haben, um im Kreise Hamburger Freunde eine alternative, deutlich kostengünstigere (nämlich kostenlose) Unterbringungsmöglichkeit für seinen Filius auszumachen. Weitere, scheinbar nebensächliche Bemerkungen Jauchs in diesem Briefwechsel ermöglichen Rückschlüsse auf dessen persönliche Befindlichkeiten während seiner eigenen Studienzeit.  
 
 Bei der Materialsammlung für eine allumfassend angelegte Dokumentation der Feiern zum Reformationsjubiläum 1717 durch den Gothaer Hofbibliothekar Ernst Salomon Cyprian war Jauch (als Haupt des Lüneburger Ministeriums) eine briefliche Anfrage der Leipziger Verlagsbuchhandlung „Gleditsch et Weidemann“ durch seinen Nachbarn, den Drucker, Verleger und Buchführer Johann von Stern übermittelt worden, der sie von seinem routinemäßigen Besuch der Leipziger Ostermesse 1718 mitgebracht hatte.  
 
@@ -444,17 +444,21 @@ lässt sich lesen als:
 [J]auchs [Pr]ediger [zu] [L]üneburg  
 [I]ohann [G]eorg [F]lor [O]rganist.  
 
-Zu einem kaum widerlegbaren Beweis erhoben wird dieses Indiz für den Autorennachweis (neben der engen beruflichen Beziehungen der Protagonisten) durch die Tatsache, dass das Titelblatt des Kantatendrucks mit einem leicht umformulierten Zitat des Psalms 73, 23-24 beginnt, welches als lebenslanges theologisches Motto Jauchs belegt ist - z.B. durch das bis heute verwendete Familienwappen, welches auf einen Abdruck seines Ringsiegels zurück geht: „Die Leitung Gottes nach seinem Raht.“  
+Zu einem kaum widerlegbaren Beweis erhoben wird dieses Indiz für den Autorennachweis (neben der engen beruflichen Beziehungen der Protagonisten) durch die Tatsache, dass das Titelblatt des Kantatendrucks mit einem leicht umformulierten Zitat des Psalms 73, 23-24 beginnt, welches als lebenslanges theologisches Motto Jauchs belegt ist - z.B. durch das bis heute verwendete Familienwappen, welches auf einen Abdruck seines Ringsiegels zurück geht:  
+
+„Die Leitung Gottes nach seinem Raht.“  
+
 Mit diesem alttesttamentlichen Dictum beginnt auch das „Concert. a 4. Voc. C.A.T.B.“, mit dem die Kantate anhebt, als deren Komponist in der o.g. obfuszierten Form der Lamberti-Organist Johann Georg Flor genannt wird. 
 
 „Herr, dennoch bleibe ich stets an dir, denn du hältest mich bei meiner rechten Hand, du leitest mich nach deinen Raht, und nimmst mich endlich mit Ehren an.“  
 
 Dieses Motto wird fortgeführt in einer zweistrophigen „Air“ für „Cant. sol. con 2 Hautb. et un Viol.“, die hinsichtlich der poetologischen Regeltreue eine - zuweilen experimentell wirkende - Fortentwicklung jener Strophenarie darstellt, die Jauch 11 Jahre zuvor zur Amtseinführung seines Rostocker Magistervaters Möller produziert, präsentiert und publiziert hatte.  
 
-Die Verteilung der sehr knappen, als solche nur durch die Beischriften erkennbaren Rezitative auf die Vokalpartien in dialogischer Form legt schließlich nahe, dass die praktische Ausführung von solistischen musikalischen Dilettanten im privaten Umfeld einer Haustrauung erfolgen sollte - und somit im idealen Experimentierfeld für neue poetische und musikalische Gestaltungsformen.  
+Die Verteilung der sehr knappen, als solche nur durch Beischriften erkennbaren Rezitative auf die Vokalpartien in dialogischer Form legt schließlich nahe, dass die praktische Ausführung von solistischen musikalischen Dilettanten im privaten Umfeld einer Haustrauung erfolgen sollte - und somit im idealen Experimentierfeld für neue poetische und musikalische Gestaltungsformen.  
 
 Nicht unerwähnt soll in diesem Zusammenhang die Tatsache bleiben, dass Johann Andreas Stübel - der bislang als Autor der Choralkantatentexte diskutierte Leipziger Pädagoge - am 12.5.1694 (und somit nur einen Monat vor Jauchs Rostocker Arien-Aufführung und bald nach dessen Besuch in Leipzig) ein Leichengedicht auf Anna Kunigunda Carpzov drucken ließ, dessen Anfangsbuchstaben - zeilenweise untereinander gelesen - den Namen der Verstorbenen abbilden - nicht ohne auf diesen Umstand mit gewissem Stolz hinzuweisen.  
-Die beiden Texte Stübels und Jauchs bieten im übrigen die willkommene Möglichkeit, die poetische (und das bedeutet zu diesem Zeitpunkt noch auch: poetologische) Kompetenz ihrer Urheber anhand gleichzeitig entstandener Beispiele zu beurteilen, wobei freilich 15 Jahre Unterschied im Lebensalter in Rechnung gestellt werden müssen.  
+
+Die beiden Texte Stübels und Jauchs bieten im übrigen die willkommene Möglichkeit, die poetische (und das bedeutet zu diesem Zeitpunkt noch auch: poetologische) Kompetenz ihrer Urheber anhand gleichzeitig entstandener Beispiele zu vergleichen, wobei freilich 15 Jahre Unterschied im Lebensalter in Rechnung gestellt werden müssen.  
 
 Johann Christoph Jauchs Vorliebe für selbstbezügliche Buchstabenspielereien zeigt sich bereits im Kopf des Titelblatts seiner Rostocker Magisterdisputation aus dem Jahr 1695:  
 
@@ -480,7 +484,9 @@ Sie übertrug sich auf seinen Sohn Ludolph Friedrich, der 1716 (unter mehr als b
 [V]erax  
 [S]apiens  
 
-Auch an Jauchs - in königlich-polnischen Diensten stehenden - jüngsten Bruder, den angeblich nobilitierten Joachim Daniel „von“ Jauch (1688-1754; eines von 14 Geschwistern), wurde nach dessen Tod mit einem namesbezüglichen Buchstabenspiel von anonymen Beiträgern gedacht. In seinem hinterlassenem „sztambuch“ (so der apographe Bleistifttitel im Exemplar der Nationalbibliothek Warschau; aber wohl eher als ein Sammelalbum zu betrachten, unter dessen zahlreichen Rötel-Portraits leider keine Abbildungen von Familienmitgliedern enthalten sind), findet sich gegen Ende ein posthum eingefügter, emblemartiger Kupferstich (Entwurf oder Abbild eines Grabmals für die Kapuzinerkirche Warschau?) mit einem, aus zwei verschränkten Buchstaben I und einem D als Plinthe gebildeten und mit lateinischen Datumsangaben (u.a. demjenigen seiner Konversion drei Tage vor seinem Tod) sowie einem SOLI DEO GLORIA jeweils in Spiegelschrift versehenen Kreuz. Daneben zwei mal zwei übereinander drapierte, plastisch geformte Ziffern, die wohl das Jahr seiner Ernennung zum Generalmajor betreffen: 1746. Darunter ein darauf applizierter Zettel in Typendruck mit folgendem, im Original polnischen Text (die Übersetzung unter Ignorierung der diakritischen Zeichen mit DeepL; Hervorhebungen [] auch hier nach den halbfetten Versalien des Drucks):  
+Auch an Jauchs - in königlich-polnischen Diensten stehenden - jüngsten Bruder, den angeblich nobilitierten Joachim Daniel „von“ Jauch (1688-1754; eines von 14 Geschwistern), wurde nach dessen Tod mit einem namesbezüglichen Buchstabenspiel von anonymen Beiträgern gedacht. In seinem hinterlassenen „sztambuch“ (so der apographe Bleistifttitel im Exemplar der Nationalbibliothek Warschau; aber wohl eher als ein Sammelalbum zu betrachten, unter dessen zahlreichen Rötel-Portraits leider keine Abbildungen von Familienmitgliedern enthalten sind), findet sich gegen Ende ein posthum eingefügter, emblemartiger Kupferstich (Entwurf oder Abbild eines Grabmals für die Kapuzinerkirche Warschau?) mit einem, aus zwei verschränkten Buchstaben I sowie einem D als Plinthe gebildeten und mit lateinischen Datumsangaben (u.a. demjenigen seiner Konversion drei Tage vor seinem Tod) sowie einem SOLI DEO GLORIA jeweils in Spiegelschrift versehenen Kreuz. 
+Daneben zwei mal zwei übereinander drapierte, plastisch geformte Ziffern, die wohl das Jahr seiner Ernennung zum Generalmajor betreffen: 1746. 
+Darunter ein darauf applizierter Zettel in Typendruck mit folgendem, im Original polnischen Text (die Übersetzung unter Ignorierung der diakritischen Zeichen mit DeepL; Hervorhebungen [] hier nach den halbfetten Versalien des Drucks):  
 
 „Am dritten Mai habe ich mich unter das Zeichen des Kreuzes begeben,  
 da ich ein Kreuzritter für den Himmel geworden bin.  
@@ -491,9 +497,9 @@ GOTT hat mir seine Gnade erwiesen.“
 
 Man beachte auch in diesem Fall die syntaktische Umstellung (Joachim Daniel -> Daniel Joachim zugunsten der korrekten Konstituierung des Achrostichons, das hier zu einem - zusammen mit dem graphischen Emblem -  mehrschichtigen Chiasmus überhöht wird - obwohl, oder weil, theoretisch statt Dan[I]el Jo[A]chim auch Joach[I]m D[A]niel möglich gewesen wäre. Und zwar auch in der polnischen Version.  
 
-Dass ein schöpferischer Umgang mit einzelnen Lettern seine Tücken haben kann, belegt ein spektakulöser Vorfall während des „Zeithainer Lustlagers“ zu Ehren Augusts des Starken und seiner Gäste 1730. Daniel Jauch hatte ein Feuerwerk arrangieren dürfen, welches - wohl durch ein phonetisches Missverständnis seiner amtlichen polnisch/sächsischen Sekretäre - statt eines „VIVAT“ ein peinlich missverstehbares „FIFAT“ in den Nachthimmel projizierte, was nachträglich verlegenheitshalber zu „FAUSTA IUBILA FECERUNT AUGUSTI TEMPORA“ verschlimmbessert wurde und welches bis vor wenigen Jahren als selbstironisch genutztes Autoren-Pseudonym in zahlreichen familienbezüglichen Wikipedia-Beiträgen nachzuweisen ist.  
+Dass ein schöpferischer Umgang mit einzelnen Lettern seine Tücken haben kann, belegt ein spektakulöser Vorfall während des „Zeithainer Lustlagers“ zu Ehren Augusts des Starken und seiner Gäste 1730. Daniel Jauch hatte ein Feuerwerk arrangieren dürfen (oder vielleicht müssen), welches - wohl durch ein phonetisches Missverständnis seiner amtlichen polnisch/sächsischen Staatssekretäre - statt eines „VIVAT“ ein missverstehbares „FIFAT“ in den Nachthimmel projizierte, was nachträglich verlegenheitshalber zu „FAUSTA IUBILA FECERUNT AUGUSTI TEMPORA“ verschlimmbessert wurde und welches bis vor wenigen Jahren als selbstironisch genutztes Autoren-Pseudonym in zahlreichen familienbezüglichen Wikipedia-Beiträgen nachzuweisen ist.  
 
-Den Brückenschlag zu den außergewöhnlichen Zitaten des „Votum Justinianum“ J.N.D.N.J.C. im autographen Kopftitel der Choralkantate BWV 20 und auf dem Umschlag des Überlieferungsträgers der apographen Frühfassung der Matthäus-Passion BWV 244b bildet die zwischen 1705 und 1715 datierte Abschrift einer Michaelisfest-Kantate „di M.B.“ in der Sammlung Bokemeyer auf den Text „Satanas und sein Getümmel“, deren Titel diese Buchstabenfolge anführt:
+Den Brückenschlag zu den außergewöhnlichen Zitaten des „Votum Justinianum“ J.N.D.N.J.C. im autographen Kopftitel der Choralkantate BWV 20 und auf dem Umschlag des apograhen Überlieferungsträgers der Frühfassung der Matthäus-Passion BWV 244b bildet die zwischen 1705 und 1715 datierte Abschrift einer Michaelisfest-Kantate „di M.B.“ in der Sammlung Bokemeyer auf den Text „Satanas und sein Getümmel“, deren Titel diese Buchstabenfolge anführt:
 
 J.N.D.N.J.C.A.  = [I]n [N]omine [D]omini [N]ostri [J]esu [C]hristi [A]men  
 
@@ -501,7 +507,8 @@ und die - anders gereiht (und ggf. auch ohne das „Amen“) - eine Art voranges
 
 [N]on [D]eleatur [N]omen [A]uct. [J]o. [C]hrist. [I]auch  
 
-und die von Kümerling (1963; 1970) mit dreieinhalb guten Gründen (Stilkritik; Schreiber; Wasserzeichen; buchbinderischer Befund) nicht mehr (wie von Stein 1937/39) [M]onsieur [B]ruhns, sondern [M]onsieur [B]öhm zugeschrieben wurde. Wer immer diesen (nirgendwo sonst nachweisbaren) Kantatentext geschaffen hat - er muss in einem besonderen Vertrauensverhältnis zu Böhm gestanden oder auch nur in dessen Region gelebt haben. (Der Sammelband D-B Mus.ms. 30101 enthält ausschließlich drei norddeutsche Komponisten, deren Nachnamen mit „B“ beginnen: Bruhns, Böhm, Brunckhorst.)  
+und die von Kümerling (1963; 1970) mit dreieinhalb guten Gründen (Stilkritik; Schreiber; Wasserzeichen; buchbinderischer Befund) nicht mehr (wie von Stein 1937/39) [M]onsieur [B]ruhns, sondern [M]onsieur [B]öhm zugeschrieben wurde.  
+Wer immer diesen (nirgendwo sonst nachweisbaren) Kantatentext geschaffen hat - er muss in einem besonderen Vertrauensverhältnis zu Böhm gestanden oder auch nur in dessen Region gelebt haben. (Der Sammelband D-B Mus.ms. 30101 enthält ausschließlich drei norddeutsche Komponisten, deren Nachnamen mit „B“ beginnen: Bruhns, Böhm, Brunckhorst.)  
 Der gesamte Text bleibt in stilometrischer Hinsicht mit den gesicherten bzw. zugeschriebenen Dichtungen Jauchs unter Berücksichtigung der mutmaßlichen Entstehungszeit abzugleichen.  
 
 
@@ -556,10 +563,11 @@ Müller schreibt unter dem Motto „Vom Lohn der Falschheit“:
 
 „Du denckst, wann der Tuck bewiesen ist, es werd kein Haan darnach krähen, womit wiltu aber den Gewissens-Haan beschwichtigen, der in dir krähet?“  
 
-Die Stelle steht bei Müller nur unspezifisch im Passionskontext, denn er bezieht sie nicht - wie bei Weise bzw. Böhm - auf Petri Verleugnung, sondern auf „Judas Tück / Judas Strick“ - ohne weiteren Evangelien-Kontext (Mk 14,27–31; Mt 26,31–35 ; Lk 22,31–34 ; Joh 13,36–38). 
+Die Stelle steht bei Müller nur unspezifisch im Passionskontext, denn er bezieht sie nicht - wie bei Weise bzw. Böhm - auf Petri Verleugnung, sondern auf „Judas Tück / Judas Strick“ - ohne weiteren Evangelien-Kontext (Mk 14,27–31; Mt 26,31–35 ; Lk 22,31–34 ; Joh 13,36–38).  
+
 Die auffällige  Repetition der Stichworte „Strick“, „Netze“ sowie „Gewissen“ („du stellt mir Netze und willt mich fangen“; „dein Gewissen werd dich einmal mit solche Angst bestricken“; „das Gewissen in der letzten Todesnoth mit solcher Angst bestrickt hat“; „Indem du fromme Herzen suchst zu berücken, wirstu nur dich selbst bestricken“) verwendet ein frappierend ähnliches Assoziationsgewebe wie der Eingang der Brockes-Passion („Mich vom Stricke meiner Sünden zu entbinden“) und die - nach bisherigem Kenntnisstand allein davon abgeleitete - Arie „Von den Stricken meiner Sünden“ BWV 245/7.  
 
-Müllers hier in Auszügen analysierte 49. Andacht endet schließlich mit einem vollständigen Zitat der Choralstrophe „Mir hat die Welt trüglich gericht … viel Netz und heimlich Stricke.“ (Vgl. BWV 244/32; im Torso P 26 in Gestalt von fünfeinhalb Takten der Sopranstimme als essenzieller Bestandtteil vorgemerkt).  
+Müllers - hier in Auszügen analysierte - 49. Andacht endet schließlich mit einem vollständigen Zitat der Choralstrophe „Mir hat die Welt trüglich gericht … viel Netz und heimlich Stricke.“ (Vgl. BWV 244/32; im Torso P 26 in Gestalt von fünfeinhalb Takten der Sopranstimme als essenzieller Bestandtteil vorgemerkt).  
 
 Eine weitere Anspielung an Müllers Text  
 
@@ -652,7 +660,7 @@ Da die Musik jener Hamburger Johannes-Passion (mit Ausnahme der beiden erwähnte
 Aber auch dieses Werk hat eine kleine Nachgeschichte: Die Sopran-Arie „Verbirge mich und schließ mich ein“ fungiert noch 1772 als Choralstrophe (Nr. 19) in dem Passions-Pasticcio C.P.E. Bachs (H 785), das auf Werken seines Vaters (BWV 245/39), G.H. Stölzels, G.A. Homilius’ und - was den Choraltext betrifft - auf der Johannes-Passion G.P. Telemanns aus dem Jahr 1745 beruht (TWV 5:30). Das Beispiel belegt die erstaunliche Langlebigkeit mancher Texte.  
 
 Mit „Die bittre Leidenszeit“ liegt schließlich ein Elmenhorst-Objekt vor, das es zu offiziellen Bach-Ehren geschafft hat: Der textlich, melodisch und basstechnisch gegenüber 1681 (Nr. II.1), 1685 (Nr. 8) und 1700 (Nr. 10) endültig eleganter gestaltete, im Kern aber identische Satz (BWV 450; Zahn 7429) aus der 1736 erschienenen Sammlung des Zeitzer Schlosskantors Georg Christian Schemelli kann zwar nicht als Erfindung des Thomaskantors gelten, ist aber laut Vorwort von ihm „verbessert“ und somit in der Alten und in der Neuen Bach Ausgabe berücksichtigt worden.  
-Es bleibt verlockend, sich vorzustellen, ob und in welcher Gestalt der junge Bach im Sommer 1700 diesen und ähnliche Sätze in der Komponierstube Böhms (aus dessen Manuskripten, aus den Korrekturfahnen der Offizin von Stern oder aus deren druckfeuchtem Endprodukt?) gesungen haben könnte, zu Böhms, seiner eigenen oder eines interessierten Lautenisten Begleitung - in Gegenwart des Herausgebers und vielleicht auch des Kurators der Sammlung - so lange, bis seine „schöne Sopranstimme“ (acht Tage vor der endgültigen Mutation) zu oktavieren begann - was eine Weiterführung der Gesangsversuche in einer anderen Stimmlage aber nur vorübergehend verzögert haben dürfte.  
+Es bleibt verlockend sich vorzustellen, ob und in welcher Gestalt der junge Bach im Sommer 1700 diesen und ähnliche Sätze in der Komponierstube Böhms (aus dessen Manuskripten, aus den Korrekturfahnen der Offizin von Stern oder aus deren druckfeuchtem Endprodukt?) gesungen haben könnte, zu Böhms, seiner eigenen oder eines interessierten Lautenisten Begleitung - in Gegenwart des Herausgebers und vielleicht auch des Kurators der Sammlung - so lange, bis seine „schöne Sopranstimme“ (acht Tage vor der endgültigen Mutation) zu oktavieren begann - was eine Weiterführung der Gesangsversuche in einer anderen Stimmlage aber nur vorübergehend verzögert haben dürfte.  
 
 
 Böhm bewohnte zu jener Zeit (1700) an der Neuen Sülze Nr. 9 eine Wohnung Wand an Wand mit dem repräsentativen, 1802 im klassizistischen Stil erneuerten, 1962 eliminierten, aber zuvor fachgerecht dokumentierten, ursprünglich mit qualitätvollen Terakotten aus der Spätrenaissance geschmückten Haupthaus (Nr. 8) des Ratssyndikus Tobias Reimers (Taufpate von Jauchs 1704 geborenem Sohn Tobias), eines ausgewiesenen Musikliebhabers, in dessen (von Zacharias Conrad von Uffenbach beschriebener, reichsweit gerühmter) Realien-Sammlung sich auch eine „Angélique“ befand, eine insbesondere am Mecklenburgischen Hof nachweisbare Sonderform der Laute, wohl ein Exemplar aus der Werkstatt des Hamburger Instrumentenmachers Joachim Tielke. (Vgl. Tschirner 2020)  
