@@ -250,7 +250,7 @@ Stübels Teilhabe am Leipziger gottesdienstlichen Leben scheint bis in seine let
 
 „Endlich wandelte ihm den 28. Jan. dieses 1725 Jahres unterm Gottesdienst in der Pauliner-Kirche ein Fieber an, welches ihn, seines Alters 71 Jahr 6 Wochen und 4 Tage, von der Welt genommen.“  
 
-Diese Feststellung stellt zugleich das überzeugendste Argument gegen die vermutete Urheberschaft Stübels für den Choralkantatenjahrgang dar: Warum hat er am 28. Januar 1725 nicht die Uraufführung „seiner“ Kantate BWV 92 („Ich hab in Gottes Herz und Sinn“) in der Thomaskirche besucht, sondern stattdessen den Gottesdienst in der Universitätskirche St. Pauli beigewohnt?  
+Diese Feststellung stellt zugleich das überzeugendste Argument gegen die vermutete Urheberschaft Stübels für den Choralkantatenjahrgang dar: Warum hat er am 28. Januar 1725 nicht die Uraufführung „seiner“ Kantate BWV 92 („Ich hab in Gottes Herz und Sinn“) in der Thomaskirche besucht, sondern stattdessen dem Gottesdienst in der Universitätskirche St. Pauli beigewohnt?  
 
 Die zeitliche Differenz zwischen Spitzmarken und Erscheinungsdaten belegt auch an diesen Beispielen, dass derartige Meldungen nicht mehr als sechs bis acht Tage für die Übermittlung zwischen Leipzig und Hamburg benötigten - und somit maximal fünf bis sieben Tage zwischen Leipzig und Lüneburg. (Vgl. Siegele 1983)  
 
