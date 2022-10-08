@@ -3,7 +3,7 @@ Ob ein Superintendens wohl Poete seyn könne? - Zur Person des „Leipziger“ H
 Entwurf für ein Vortragsmanuskript (Es gilt das gesprochene Wort.)  
 
 Michael Hochgartz (D 48153 Münster)  
-michael@hochgartz.de - 05.10.2022  
+michael@hochgartz.de - 08.10.2022  
 Quelltext und Literaturverzeichnis: https://github.com/michael-hochgartz/lectio-brevior  
 
 
@@ -244,13 +244,13 @@ Ein Blick in ein medizinisches Lexikon der damaligen Zeit eröffnet wenig Hoffnu
 
 Zufälligerweise notifiziert der Correspondent nur wenige Tage später (10.2.1725) auch den Tod jener Person, die bislang als mutmaßlicher Urheber der Choralkantatentexte diskutiert wird (vgl. Schulze 1999):  
 
-„Leipzig, den 2. Februar. Ehegestern hat alhier Hr. Mag. Andreas Stübel, Con-Rector der Schulen zu St. Thomas, dieses Zeitliche gesegnet, und wird derselbe morgen beygesetzet werden. Weil er einige Zeit von seinen Schul-Laboribus als Emeritus oder befreyet gelebet, so hat er seine Zeit und Mühe auf Edirung des Fabrici oder Buchneri Lexici, so er etliche mahl ausgearbeitet, wie auch auf andere Sachen angewendet, da indessen ein anderer seine gewöhnlichen Schul-Labores diese Jahre über verrichtet gehabt.“  
+„Leipzig, den 2. Februar. Ehegestern [31. Januar] hat alhier Hr. Mag. Andreas Stübel, Con-Rector der Schulen zu St. Thomas, dieses Zeitliche gesegnet, und wird derselbe morgen beygesetzet werden. Weil er einige Zeit von seinen Schul-Laboribus als Emeritus oder befreyet gelebet, so hat er seine Zeit und Mühe auf Edirung des Fabrici oder Buchneri Lexici, so er etliche mahl ausgearbeitet, wie auch auf andere Sachen angewendet, da indessen ein anderer seine gewöhnlichen Schul-Labores diese Jahre über verrichtet gehabt.“  
 
 Stübels Teilhabe am Leipziger gottesdienstlichen Leben scheint bis in seine letzten Tage immerhin passiver Natur gewesen zu sein (er hatte nie ein Predigtamt inne), wie der örtliche Chronist Chistoph Ernst Sicul kolportiert:  
 
 „Endlich wandelte ihm den 28. Jan. dieses 1725 Jahres unterm Gottesdienst in der Pauliner-Kirche ein Fieber an, welches ihn, seines Alters 71 Jahr 6 Wochen und 4 Tage, von der Welt genommen.“  
 
-Diese Feststellung stellt zugleich das überzeugendste Argument gegen die vermutete Urheberschaft Stübels für den Choralkantatenjahrgang dar: Warum hat er am 28. Januar 1725 nicht die Uraufführung „seiner“ Kantate BWV 92 („Ich hab in Gottes Herz und Sinn“) in der Thomaskirche besucht, sondern stattdessen dem Gottesdienst in der Universitätskirche St. Pauli beigewohnt?  
+Diese Feststellung könnte zugleich ein Argument gegen die vermutete Urheberschaft Stübels für den Choralkantatenjahrgang darstellen: Warum hat er am Sonntag, dem 28. Januar 1725 nicht die Uraufführung „seiner“ Kantate BWV 92 („Ich hab in Gottes Herz und Sinn“) in der Thomaskirche besucht, sondern stattdessen dem Gottesdienst in der Universitätskirche St. Pauli beigewohnt? Es sei denn, Siculs Bemerkung bezieht sich auf die dort seit 1712 üblich gewordene nachmittägliche Vesper. (Vgl. Stiller 1970)  
 
 Die zeitliche Differenz zwischen Spitzmarken und Erscheinungsdaten belegt auch an diesen Beispielen, dass derartige Meldungen nicht mehr als sechs bis acht Tage für die Übermittlung zwischen Leipzig und Hamburg benötigten - und somit maximal fünf bis sieben Tage zwischen Leipzig und Lüneburg. (Vgl. Siegele 1983)  
 
@@ -512,7 +512,7 @@ und die - anders gereiht (und ggf. auch ohne das „Amen“) - eine Art voranges
 
 [N]on [D]eleatur [N]omen [A]uct. [J]o. [C]hrist. [I]auch  
 
-und die von Kümerling (1963; 1970) mit dreieinhalb guten Gründen (Stilkritik; Schreiber; Wasserzeichen; buchbinderischer Befund) nicht mehr (wie von Stein 1937/39) [M]onsieur [B]ruhns, sondern [M]onsieur [B]öhm zugeschrieben wurde.  
+und die von Kümmerling (1963; 1970) mit dreieinhalb guten Gründen (Stilkritik; Schreiber; Wasserzeichen; buchbinderischer Befund) nicht mehr (wie von Stein 1937/39) [M]onsieur [B]ruhns, sondern [M]onsieur [B]öhm zugeschrieben wurde.  
 Wer immer diesen (nirgendwo sonst nachweisbaren) Kantatentext geschaffen hat - er muss in einem besonderen Vertrauensverhältnis zu Böhm gestanden oder auch nur in dessen Region gelebt haben. (Der Sammelband D-B Mus.ms. 30101 enthält ausschließlich drei norddeutsche Komponisten, deren Nachnamen mit „B“ beginnen: Bruhns, Böhm, Brunckhorst.)  
 Der gesamte Text bleibt in stilometrischer Hinsicht mit den gesicherten bzw. zugeschriebenen Dichtungen Jauchs unter Berücksichtigung der mutmaßlichen Entstehungszeit abzugleichen.  
 
