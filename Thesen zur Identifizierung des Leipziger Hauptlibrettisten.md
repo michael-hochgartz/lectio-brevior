@@ -2,7 +2,7 @@
 des „Leipziger“ Hauptlibrettisten  
 Johann Sebastian Bachs  
 Michael Hochgartz (D 48153 Münster)  
-michael@hochgartz.de - 14.08.2022  
+michael@hochgartz.de - 16.10.2022  
 Quelltext und Literaturverzeichnis: https://github.com/michael-hochgartz/lectio-brevior  
 
 Amore et studio elucidandae veritatis haec subscripta disputabuntur (Martin Luther 1517)  
@@ -98,7 +98,7 @@ Zudem konterkariert gerade dieses Beispiel Dürrs Verlegenheitshypothese einer a
 
 Oder hatte Bach ursprünglich an dieser dramaturgisch herausgehobenen Stelle (Vorankündigung des Verrats, wenige Takte nach Ende des Exordiums und unmittelbar nach dem ersten Kurzauftritt des Haupt-Protagonisten) gar eine „vertikal“ dissonant definierte, wortverstärkende Harmonie im Sinn (vgl. Rathey 2002: „angesprungene Dissonanz“), die sich im zweiten Anlauf - nach Ausformulierung der Streicherstimmen - „horizontal“ (also stimmführungstechnisch) als unausführbar erwies und deshalb die Degradierung des betonten Zieltons a zur Durchgangsnote erforderte? (Vgl. auch Leisinger 2002 zu BWV 245/12c und 245 13II.).  
 
-Unter diesem Blickwinkel betrachtet, erscheint die Erklärung dieser in P 26 wie auf dem Präsentierteller platziert wirkenden Stelle als getreue Wiedergabe einer Bachschen Entwurfsskizze als alternativlos. Bestärkt wird dieser Eindruck durch die final verfeinerte (durch aufführungspraktische Erfahrungen motivierte?) Endfassung im Spätautograph P 25.  
+Unter diesem Blickwinkel betrachtet, erscheint die Erklärung dieser in P 26 wie auf dem Präsentierteller platziert wirkenden Stelle als getreue Wiedergabe einer Bachschen Entwurfsskizze als alternativlos. Der Sachverhalt lässt sich analog zu einem Begriff aus der Kunstgeschichte so deuten, dass die rudimentäre Lesart in P 26 den Ausgangspunkt für zwei, im Abstand jeweils mehrerer Jahre von Bach angebrachten„Pentimenti“ bildete, also jenen - hier nicht in loco, sondern durch jeweilige Neuschrift überlieferten - „Reuestrichen“, die Maler wie L. da Vinci (Daumenstellung der Segenshand in dem ihm zugeschriebenen „Salvator Mundi“) oder Raffael (Augenstellung der „Sixtinischen Madonna“) zur nachträglichen künstlerischen Optimierung ihrer Werke anbrachten.  
 
 Andernfalls wäre mit dem - ebenfalls sikzzenhaften - Satz 4d zu fragen: „Wozu dienet dieser Unrat?“, den Agricola hier - mit dem später (aber noch vor der äußerlich routiniert wirkenden, strukturell aber durchaus komplexen buchbinderischen Vereinigung bald nach 1800) von unbekannter Hand um rezyklierbare Leerbögen erleichterten Manuskript aus ursprünglich IX plus VII Ternionen kostbaren, großformatigen Doppelpapiers der Mitwelt zu präsentieren versuchte - der Nachwelt aber bislang nur als Rätsel zu hinterlassen vermochte. (Vgl. den Katalog Poelchau 1832, der - entgegen Dürr 1974 - offenbar noch um den Charakter als skizzenbasiertes Elaborat wusste: „… nach einer späteren Bearbeitung, von Agricolas Hand. Unvollständig.“)  
 
@@ -112,7 +112,7 @@ Ohne weiteres erklärbar ist hingegen der Umstand, dass sich Agricola bei der Re
 Wortwahl und Zeilenfall weisen derart typisch auf einen „Text zur Music“ hin, dass keine Zweifel an der Verwendung als bewusstes Versatzstück durch Agricola möglich sind. Eine Originalpartitur als Vorlage scheidet wegen der handschriftlichen „Variable“ bei der letzten Ziffer des Datums ebenso aus wie der Originaldruck Henricis, welcher (seit wann?) der Farlau-Kopie in Form einer undatierten Abschrift von Agricolas Hand beigegeben ist. Agricola war sich demnach der verschiedenen Fassungen bzw. Bearbeitungsstände des Werks stets bewusst.  
 Im Gegensatz zu anderen Passionsaufführungen (BWV 247) war der Aufführungsort hier eindeutig fixiert und konnte somit ausgedruckt bzw. ausgeschrieben werden, da BWV 244 aufführungspraktisch (Platzgründe; Doppelchörigkeit; evtl. separat aufgestellter Cantus firmus-Chor) nur in St. Thomae realisierbar war. 
 Die fehlende Endziffer könnte schließlich darauf hindeuten, dass es sich bei der Vorlage um ein Exemplar handelte, welches seit der Fertigstellung der Spätfassung 1736 wegen Fehlens der strukturell bedeutsamen Tausch-Komponente („O Mensch bewein“ etc.) unverkäuflich geworden war.  
-Mögliche Konsequenzen aus diesem Befund für den Aufführungskalender zwischen 1730 und 1736 bleiben darauf hin zu prüfen, ob nicht 1734 eine Wiederaufführung in der unveränderten Form von 1729 erfolgt sein könnte.  
+Mögliche Konsequenzen aus diesem Befund für den Aufführungskalender zwischen 1730 und 1736 bleiben darauf hin zu prüfen, ob nicht 1734 eine Wiederaufführung in der unveränderten Form von 1729 geplant sein könnte.  
 
 Der an P 26 angebundene, von anderer Hand nach anderer Vorlage auf anderem Papier kopierte Schlusschor (BWV 244/68: „Wir setzen uns…“) steht - das ist unbestritten - mit Agricolas Konstrukt in keinem Zusammenhang. Die buchbinderische Integration in den Band dürfte wohl auf den Handschriftensammler Georg Poelchau zurückgehen.  
 
