@@ -3,7 +3,7 @@ Ob ein Superintendens wohl Poete seyn könne? - Zur Person des „Leipziger“ H
 Entwurf für ein Vortragsmanuskript (Es gilt das gesprochene Wort.)  
 
 Michael Hochgartz (D 48153 Münster)  
-michael@hochgartz.de - 08.10.2022  
+michael@hochgartz.de - 23.10.2022  
 Quelltext und Literaturverzeichnis: https://github.com/michael-hochgartz/lectio-brevior  
 
 
@@ -351,7 +351,10 @@ Eine Suche nach tieferen Ursachen für Jauchs persönliche Probleme - oder zumin
 
 „ … und meine so vielfältige Arbeit (wie ich ja fast wöchentlich dreimal nicht ohne Verkürzung meiner Leibes und Lebenskräfte doch herzlich gerne zu Gottes Ehre in meiner allseitigen geliebten Gemeine zum besten nach möglichstem Vermögen selbst verrichte) mich wohl viele Jahre eher als sonsten von den lieben Meinigen abreißen wird.“  
 
-Rechtfertigt dieser Text die Annahme, dass J.C. Jauch mindestens anderthalb Jahrzehnte im ständigen Bewußtsein einer chronischen, auszehrenden Erkrankung (vulgo „Schwindsucht“) gelebt, gepredigt und gedichtet hat?
+Rechtfertigt dieser Text die Annahme, dass J.C. Jauch mindestens anderthalb Jahrzehnte im ständigen Bewußtsein einer chronischen, auszehrenden Erkrankung (vulgo „Schwindsucht“) gelebt, gepredigt und gedichtet hat?   
+
+Ist es mehr als eine zufällige Anspielung, wenn in der Choralkantate BWV 114 (zum 1.10.1724) der Autor das Kopulativkompositum „Sündenwassersucht“ generiert, das ein auch für schwere Lungenkrankheiten im Endstadium typisches Symptom verwendet - hier freilich zur Illustration eines theologischen Sachverhalts?  
+
 
 Die Auseinandersetzung mit der Vorwegnahme der eigenen Sterbestunde kulminiert schließlich in der Kantate BWV 127 (zum 11.2.1725) - nach Meinung maßgeblicher Kommentatoren (nicht nur Smend 1966) in kompositionstechnischer Hinsicht der Höhepunkt des Choralkantatenschaffens - in deren Musik und Text sich die existenzielle Befindlichkeit des Autors mit der Hoffnung auf eine Erfüllung dogmatisch begründeter Verheißungen verbindet - in Form von Konditionalsätzen, die sich bald nach ihrer Formulierung und kurz vor ihrer Vertonung bitter realisieren sollten:  
 
