@@ -2,7 +2,7 @@
 des „Leipziger“ Hauptlibrettisten  
 Johann Sebastian Bachs  
 Michael Hochgartz (D 48153 Münster)  
-michael@hochgartz.de - 20.11.2022  
+michael@hochgartz.de - 29.11.2022  
 Quelltext und Literaturverzeichnis: https://github.com/michael-hochgartz/lectio-brevior  
 
 Amore et studio elucidandae veritatis haec subscripta disputabuntur (Martin Luther 1517)  
@@ -97,6 +97,8 @@ Selbst scheinbar nebensächliche, unmotiviert anmutende Details, wie die isolier
 Zudem konterkariert gerade dieses Beispiel Dürrs Verlegenheitshypothese einer außergewöhnlichen „Konjekturfreudigkeit“ Agricolas, der diesen extrem exponiert erscheinenden Fehler (NBA, Krit. Bericht; der in diesem fragmentarischen Zustand des Satzbildes noch gar keiner war!) sicherlich mit einem Federstrich nach einem einzigen Blick in AmB. 6 oder durch eigene kompositorische Kompetenz hätte korrigieren können - wie Bach es bei der späteren Fertigstellung, als nach Aufschiebung des Harmoniewechsels G-(A7)-D6 (bedingt durch die buchstäblich überbordende Streichergloriole der Christusworte) um einen halben Takt die Vokalnote tatsächlich fehlerhaft wurde, durch Verkürzung des a mittels eines zusätzlichen Fähnchens, Anfügung eines Sechszehntel g und Voranstellung einer Achtelnote h dann auch selbst mit seiner typisch pragmatischen Eleganz tat.  
 
 Oder hatte Bach ursprünglich an dieser dramaturgisch herausgehobenen Stelle (Vorankündigung des Verrats, wenige Takte nach Ende des Exordiums und unmittelbar nach dem ersten Kurzauftritt des Haupt-Protagonisten) gar eine „vertikal“ dissonant definierte, wortverstärkende Harmonie im Sinn (vgl. Rathey 2002: „angesprungene Dissonanz“), die sich im zweiten Anlauf - nach Ausformulierung der Streicherstimmen - „horizontal“ (also stimmführungstechnisch) als unausführbar erwies und deshalb die Degradierung des betonten Zieltons a zur Durchgangsnote erforderte? (Vgl. auch Leisinger 2002 zu BWV 245/12c und 245 13II.).  
+
+Ein ähnliches Bild bietet die offenbar vom Komponisten nachträglich geänderte Akzentsetzung in Takt 51 der Bass-Stimme im 5. Satz der Kantate BWV 20, die sich durch wenige Federstriche aus der vom Herausgeber vermuteten Urform erzeugen lässt. (Kritischer Bericht, S. 141.)..
 
 Unter diesem Blickwinkel betrachtet, erscheint die Erklärung dieser in P 26 wie auf dem Präsentierteller platziert wirkenden Stelle als getreue Wiedergabe einer Bachschen Entwurfsskizze als alternativlos. Der Sachverhalt lässt sich analog zu einem Begriff aus der Kunstgeschichte so deuten, dass die rudimentäre Lesart in P 26 den Ausgangspunkt für zwei, im Abstand jeweils mehrerer Jahre von Bach angebrachten„Pentimenti“ bildete, also jenen - hier nicht in loco, sondern durch jeweilige Neuschrift überlieferten - „Reuestrichen“, die Maler wie L. da Vinci (Daumenstellung der Segenshand in dem ihm zugeschriebenen „Salvator Mundi“) oder Raffael (Augenstellung der „Sixtinischen Madonna“) zur nachträglichen künstlerischen Optimierung ihrer Werke anbrachten.  
 
