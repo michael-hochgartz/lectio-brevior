@@ -3,7 +3,7 @@ Ob ein Superintendens wohl Poete seyn könne? - Zur Person des „Leipziger“ H
 Entwurf für ein Vortragsmanuskript (Es gilt das gesprochene Wort.)  
 
 Michael Hochgartz (D 48153 Münster)  
-michael@hochgartz.de - 13.01.2023  
+michael@hochgartz.de - 06.02.2023  
 Quelltext und Literaturverzeichnis: https://github.com/michael-hochgartz/lectio-brevior  
 
 
@@ -46,7 +46,7 @@ Die von deren Initiativen ausgelösten „Leipziger Unruhen“ hatten eine Fernw
 
 Jauchs früheste und vermutlich eher kritische Begegnung mit dem Themenbereich einer natürlichen, von rationalen Erkenntnisweisen inspirierten Theologie (vgl. Zedler 23/987) ist belegt durch seine Rolle als einer von 14 Disputanten bei einem im August 1692 stattgefundenem „Discursus academicus ... ex Theologia Naturali“ des Rostocker Nikolai-Pfarrers, Professors für Griechisch, Universitätsrektors und nachmaligem Lüneburger Superintendenten Gottfried Weiß (direkter Nachfolger Petersens), dessen theologische Tendenz noch näher zu analysieren wäre. Weiß’ens Wahlspruch weist jedenfalls in eine eindeutige Richtung: „Ich hasse die Fladder-Geister, und meine Seele ist ihnen gram.“ (Vgl. Luthers Randglosse zu Ps. 119 sowie das Incipit von BWV 181 und Lehms 1711, 3. Advent.)  
 
-Der 1695 zu Jauchs Abschied aus Rostock gedruckte Valedictionsbrief der  - leider nicht namentlich genannten, aber teilweise ermittelbaren - „sämptl. Haußgenossen“ seines akademischen Ziehvaters Möller ist geprägt durch Analogien bei der Betrachtung der Beziehungen zwischen Kunst, Künstler, Tugend und Natur - dargestellt anhand eines optisch beeindruckenden chemischen Experiments, welches aus anorganischen Substanzen organisch wirkende, baumartige Gebilde wachsen lässt. („Arbor Dianae“). Die letzten beiden der nachfolgend auszugsweise zitierten Zeilen belegen den Übergang von einer mythologischen zu einer neuzeitlichen, bis heute gültigen Erklärweise - und damit den Paradigmenwechsel der Naturwissenschaften um 1700 schlechthin:  
+Der 1695 zu Jauchs Abschied aus Rostock gedruckte Valedictionsbrief der - leider nicht namentlich genannten, aber teilweise ermittelbaren - „sämptl. Haußgenossen“ seines akademischen Ziehvaters Möller ist geprägt durch Analogien bei der Betrachtung der Beziehungen zwischen Kunst, Künstler, Tugend und Natur - dargestellt anhand eines optisch beeindruckenden chemischen Experiments, welches aus anorganischen Substanzen organisch wirkende, baumartige Gebilde wachsen lässt. („Arbor Dianae“). Die letzten beiden der nachfolgend auszugsweise zitierten Zeilen belegen den Übergang von einer mythologischen zu einer neuzeitlichen, bis heute gültigen Erklärweise - und damit den Paradigmenwechsel der Naturwissenschaften um 1700 schlechthin:  
 
 Hie steht sein Baum, und zeigt den schönen Wipfel  
 Dran die gelahrte Welt erwünschte Freude sieht;  
@@ -775,7 +775,7 @@ Da der Weiterentwicklung der von Johann Sebastian Bach in seinen Weimarer Jahren
 
 Als Randbeobachtung soll nicht unerwähnt bleiben, dass Danielis an das Ende seines Elaborats (als produktionstechnisch bedingten Lückenfüller oder als wahre Herzensergießung?) ein eigenes Passionslied anfügte, dessen erste Strophe jene (grammatisch ankreidbar formulierte, da der musikalischen Metrik gehorchende) Anspielung an Jesaia 35,7 enthält, die wortgleich auch im Exordium von BWV 244b erscheint: „… als wie ein Lamm…“.)  
 
-Erst durch J.W. von Goethe wurde eine derartige Regelwidrigkeit endgültig zum legitimen Bestandtteil der deutschen Dichtkunst erhoben („… da steh ich nun, ich arme Tor, und bin so klug, als …).  
+Erst durch J.W. von Goethe wurde eine derartige Regelwidrigkeit endgültig zum legitimen Bestandtteil der deutschen Dichtkunst erhoben („… da steh ich nun, ich armer Tor, und bin so klug, als …).  
 
 
 Es bleibt ferner zu untersuchen, in wie weit die nach Wolff (2020) als Proto-Choralkantaten und die von Petzoldt (1991) als „uneigentliche Choralkantaten” interpretierbaren Kompositionen der Jahre 1723/1724 als Entwicklungsphase auf dem gemeinsamen Weg von Autor und Komponist aufgefasst werden können - allen voran: “O Ewigkeit, du Donnerwort“ BWV 60.  
@@ -794,7 +794,7 @@ Bekräftigt wird diese abschließende Bewertung in gewisser Weise durch die uner
 „Der musikalische Chor führte unter der direction des Cantors gebundene oder ungebundene Singstücke am Charfreytage auf, wovon der Text in Octav abgedruckt ward, so wie jeder Text der sonteglichen Kirchen musik auf ein oder zwei blättern. Sowohl die Composition als der Text waren von auswärtigen verfertigt. Auch ward ein Stuck nach ein paar Jahren wieder gebraucht.“ (Vgl. Walter 1968, 159)  
 
 
-Der erwähnte Psalmenbearbeiter Danielis war musikalisch insofern vorgebildet, als er 1695/96 (also beim Amtsantritt Jauchs und vier Jahre vor Bachs Intermezzo in dieser Institution) als Bassist im Mettenchor der Michaeliskirche gesungen hatte, bevor er im Juni 1697 zum Studium nach Helmstedt und 1702 an die Universität Jena wechselte. Wie bald darauf auch Bach, wird er dem damaligen, frisch ernannten Lamberti-Prediger Jauch bei den extensiven, systematischen Besingungen der Lüneburger Stadtviertel im Winterhalbjahr sowie bei weiteren Auftritten, etwa anlässlich von Beisetzungen, Hochzeiten oder Sterbebegleitungen, unter Augen und Ohren gekommen sein.  
+Der erwähnte Psalmenbearbeiter Danielis war musikalisch insofern vorgebildet, als er 1695/96 (also beim Amtsantritt Jauchs und vier Jahre vor Bachs Intermezzo in dieser Institution) als Bassist im Mettenchor der Michaeliskirche gesungen hatte, bevor er im Juni 1697 zum Studium nach Helmstedt und 1702 an die Universität Jena wechselte. Wie bald darauf auch Bach, wird er dem damaligen, frisch ernannten Lamberti-Prediger Jauch bei den extensiven, systematischen Besingungen der Lüneburger Stadtviertel im Winterhalbjahr sowie bei weiteren Auftritten, etwa anlässlich von Beisetzungen, unter Augen und Ohren gekommen sein.  
 
 Die Publikation Danielis’ und das Vorwort Jauchs wurden (es bleibt zu fragen: durch wen?) nach einer Vorankündigung im Katalog zur Michaelismesse 1722 (Erscheinungsorte demnach: Celle und Leipzig; laut Titel „bei dem Auctore“) in einer am 19.1.1723 erschienenen Rezension im führenden überregionalen Blatt der Zeit, dem “Holsteinischen Correspondenten”, kurz und kritisch (wenn nicht gar, durch Verwendung des Pejorativums „Flickwörter“ und dem Vorwurf einer Abweichung „von den Worten der Schrifft“, letzlich durch die finale Andeutung „bald andere Umstände“ abwertend) besprochen. Bei Würdigung des Gesamtkorpus solcher seltenen Beiträge in der damaligen Tagespresse bleibt der Eindruck, es könnte sich hier um eine bewusste Replik gehandelt haben, veranlasst - oder zumindest wohlwollend beachtet oder gar verfassst - durch den Urheber der ursprünglichen Anmerkung von 1704: Erdmann Neumeister - sofern man diesem die durchaus regelkonforme Umformung des lateinischen Werktitels sowie einige norddeutsche Regionalismen und die verdeckte Sottise im letzten Halbsatz zurechnen möchte.  
 
