@@ -3,7 +3,7 @@ Ob ein Superintendens wohl Poete seyn könne? - Zur Person des „Leipziger“ H
 Entwurf für ein Vortragsmanuskript (Es gilt das gesprochene Wort.)  
 
 Michael Hochgartz (D 48153 Münster)  
-michael@hochgartz.de - 24.02.2023  
+michael@hochgartz.de - 25.02.2023  
 Quelltext und Literaturverzeichnis: https://github.com/michael-hochgartz/lectio-brevior  
 
 
@@ -267,7 +267,7 @@ Der zugehörige zeitgenössische Aktendeckel teilt übrigens nur mit (vgl. Reinh
 
 Der vom „Correspondenten“ genannte 19. Januar ist deshalb weniger wahrscheinlich, weil bis zum Erscheinungsdatum (29./30.) mit 10 Tagen ungewöhnlich viel Zeit für die Kommunikation zwischen Lüneburg und dem statt (Hamburg-)Schiffbek üblicherweise fingierten Erscheinungort „Nieder-Elbe“ vergangen wäre. (Vgl. Zedler 24/367). Eventuell markiert dieser Tag den Beginn der Endphase der Erkrankung, was zu der oben zitierten pulmologischen Prognose („… gar selten über den 3ten Tag …“) passt.  
 
-Deshalb erscheint die Angabe des Landesamtmanns Wilhelm Linke (1874-1929) am vertrauenswürdigsten, der bei der Katalogisierung norddeutscher Personalschriften zunächst (1912) pauschal „1725“ angegeben hatte, dann (1931 posthum gedruckt) aber konkret den 21.1.1725 nennen konnte - anhand des einzigen bislang nachgewiesenen Exemplars einer Leichenpredigt im ehemaligen Staatsarchiv Hannover (Signatur: St.A. 2° 26), das dort in der Nacht zum 9. Oktober 1943 verbrannte.  
+Deshalb erscheint die Angabe des Landesamtmanns Wilhelm Linke (1874-1929) am vertrauenswürdigsten, der bei der Katalogisierung norddeutscher Personalschriften zunächst (1912) pauschal „1725“ angegeben hatte, dann aber (1931 posthum gedruckt) konkret den 21.1.1725 nennen konnte - anhand des einzigen bislang nachgewiesenen Exemplars einer Leichenpredigt im ehemaligen Staatsarchiv Hannover (Signatur: St.A. 2° 26), das dort in der Nacht zum 9. Oktober 1943 verbrannte.  
 
 
 Demnach ist Johann Christoph Jauch an jenem dritten und letzten Sonntag nach Epiphanias 1725 in Lüneburg gestorben, an dem J.S. Bach 300 Kilometer entfernt in der Leipziger Nikolaikirche zur Predigt des Superintendenten Salomon Deyling die Choralkantate „Was mein Gott will das gscheh allzeit“ (BWV 111) uraufführte, in deren spätestens zwei Wochen zuvor nach Leipzig übermitteltem Text es heißt:  
@@ -975,6 +975,4 @@ Was ist Wahrheit?
 (Pontius Pilatus; Joh 18,38)  
 
 Wenn ich die Matthäus-Passion, wenn ich große Musik höre, dann glaube ich zu wissen, dass das, was diese Musik sagt, nicht die Unwahrheit sein kann.  (Theodor W. Adorno 1958)
-
-Slava Ukraini! (24.02.2023)  
 
