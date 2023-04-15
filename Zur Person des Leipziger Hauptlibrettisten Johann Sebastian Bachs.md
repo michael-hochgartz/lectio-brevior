@@ -3,7 +3,7 @@ Ob ein Superintendens wohl Poete seyn könne? - Zur Person des „Leipziger“ H
 Entwurf für ein Vortragsmanuskript (Es gilt das gesprochene Wort.)  
 
 Michael Hochgartz (D 48153 Münster)  
-michael@hochgartz.de - 28.03.2023  
+michael@hochgartz.de - 15.04.2023  
 Quelltext und Literaturverzeichnis: https://github.com/michael-hochgartz/lectio-brevior  
 
 
@@ -17,6 +17,10 @@ Man muss dem Gericht natürlich eine stimmige und lebensnahe Geschichte präsent
 Bildung lässt sich nicht downloaden. (Günther Jauch, 2009)  
 
 Bildung lässt sich uploaden (M.H., 23.12.2015)  
+
+Der seine Gottesfurcht mit Wissenschafft vereinet  
+Und durch Beredsamkeit ein Felsen-Hertz erweicht  
+(M.C. Brandenburg, 1714)  
 
 Bei dem Autor der Texte für Johann Sebastian Bachs Choralkantaten des Jahrgangs 1724/25 und für einige von deren Vor- und Nachläufern, für Teile seiner Johannes-Passion und für eine Anfang 1725 abgebrochene Urfassung der Matthäus-Passion handelt es sich um den Lüneburger Lamberti-, Nikolai- und Johannis-Prediger, den 1714 zum Superintendenten und Inspektor der Lateinschule Johanneum und ihres Kantatenchors ernannten Johann Christoph Jauch (1669-1725), den jahrzehntelangen Zeitgenossen, mutmaßlichen Studienkollegen, späteren theologischen Vorgesetzten, Kanzelredner bei gemeinsam absolvierten Kantatenaufführungen und vielleicht auch Beichtvater von Bachs „Lehrmeister“ Georg Böhm - dem Komponisten der bei Jauchs Beisetzung am 6. Februar 1725 in St. Johannis aufgeführten Trauermusik.  
 
@@ -164,9 +168,9 @@ Bereits 1707 hatte Jauch eine Anstellung als „Capellan“ dortselbst vorzeitig
 
 Vorgänger in jenem Amt war der durch seine literarischen Werke bekannt gewordene Johannes Riemer, und bereits der wortgewaltige Satiriker Johann Balthasar Schupp passt bestens in diese Tradition. Es scheint, als legte man an St. Jakobi immer wieder Wert auf sprachschöpferische Ambitionen der Hauptprediger. (Vgl. auch die einschlägige Literatur über den „Ersten Hamburgischen Theaterstreit“.) Die Wahl fiel - dies sei am Rande bemerkt - auf einen ausgewiesenen Sprachwissenschaftler und Dichter, der den Wechsel seines Metiers mit der rhetorischen Frage problematisierte: „Ob ein Poete wohl Superintendens seyn könne?“ (vgl. Merzbacher 2000).  
 
-Dass der in Mitteldeutschland sprachlich sozialisierte Neumeister (später mit feiner Ironie - nämlich in schönstem niederdeutschen Genitiv - formulierend: „Geld ist der Hamburger ihr Gott!“) seine neue Gemeinde unter Hinweis auf die erwartete Niederkunft seiner Frau monatelang auf die Übersiedlung aus dem damals brandenburgischen Sorau (Żary) warten ließ, wäre bei einer erfolgreichen Wahl Jauchs nicht nur wegen der geographischen Nähe, sondern auch wegen dessen völlig anders gearteter Persönlichkeitsstruktur kaum denkbar gewesen. Wohl in Erwartung einer langen, erfolgreichen Wirkungszeit (die dann tatsächlich eintreten sollte) „renovirten“ die Kirchgeschworenen 1715 die Kanzel in St. Jakobi - unter Anbringung einer vom Kirchenvolk bis heute zu bewundernden Gedenkinschrift.  
+Dass der sprachlich in Mitteldeutschland sozialisierte Neumeister (später mit feiner Ironie - nämlich in schönstem niederdeutschen Genitiv - formulierend: „Geld ist der Hamburger ihr Gott!“) seine neue Gemeinde unter Hinweis auf die erwartete Niederkunft seiner Frau monatelang auf die Übersiedlung aus dem damals brandenburgischen Sorau (Żary) warten ließ, wäre bei einer erfolgreichen Wahl Jauchs nicht nur wegen der geographischen Nähe, sondern auch wegen dessen völlig anders gearteter Persönlichkeitsstruktur kaum denkbar gewesen. Wohl in Erwartung einer langen, erfolgreichen Wirkungszeit (die dann tatsächlich eintreten sollte) „renovirten“ die Kirchgeschworenen 1715 die Kanzel in St. Jakobi - unter Anbringung einer vom Kirchenvolk bis heute zu bewundernden Gedenkinschrift.  
 
-Ausführlichste und - trotz chronologischer Unschärfen - weitgehend zuverlässige Quelle für Jauchs Lebensumstände ist (zu ergänzen durch Analysen von Personalakten und autographen Briefen an norddeutsche, thüringische und kursächsische Gelehrte sowie an Leipziger Verleger) die aus erster Hand schöpfende Schilderung: „Das evangelische Lüneburg“ eines anderen Jenaischen Kommilitonen - des 1728 in Braunschweig gestorbenen Pfarrers Georg Bertram - die dieser 1719 (etliche Jahre nach Abschluß des Manuskripts) „seiner geliebtesten Vater-Stadt“ Lüneburg widmete, und die leider nicht mehr die Zeit bis 1725 und die außergewöhnlichen Umstände von Jauchs plötzlichem Tod umfasst.  
+Ausführlichste und - trotz chronologischer Unschärfen - weitgehend zuverlässige Quelle für Jauchs Lebensumstände ist - zu ergänzen durch Analysen von Personalakten und autographen Briefen an norddeutsche, thüringische und kursächsische Gelehrte sowie an Leipziger Verleger - die aus erster Hand schöpfende Schilderung: „Das evangelische Lüneburg“ eines anderen Jenaischen Kommilitonen - des 1728 in Braunschweig gestorbenen Pfarrers Georg Bertram, die dieser 1719 - etliche Jahre nach Abschluß des Manuskripts - „seiner geliebtesten Vater-Stadt“ Lüneburg widmete, und die leider nicht mehr die Zeit bis 1725 und die außergewöhnlichen Umstände von Jauchs plötzlichem Tod umfasst.  
 
 Bertram hatte bis 1687 „… auf speciale Gnade des Durchl. Landes-Herrn, Herrn Hertzogs Georg Wilhelms, in dem berühmten S. Michaelis Closter auf drey Jahre einen freyen Tisch bekommen, und war der information der damaligen Schul-Collegen überlassen worden.“ Das deutet zunächst einmal darauf hin, dass eine derartige Gratifikation (nicht zu verwechseln mit einer Mitgliedschaft im Mettenchor dieser Institution) allerhöchster Protektion bedurfte.  
 
@@ -174,7 +178,7 @@ Bei der Diskussion von Bachs konkreten Lebensumständen wäre in diesem Zusammen
 
 Was Georg Böhm andererseits vom jungen Bach als Gegenleistungen für die Bereitstellung von Kopiervorlagen für Tastenmusiken erwarten konnte, bleibt der Vorstellungskraft des Betrachters überlassen. Zu denken wäre an gelegentliche Mitwirkung als Aushilfe - zunächst als Vokalist, nach dem Stimmbruch überwiegend als Instrumentalist - bei Kasualgottesdiensten in St. Johannis (außerhalb der Schulstunden und der Gottesdienste an St. Michaelis). Angesichts der nachgewiesenen beruflichen Differenzen zwischen Böhm und Georg Flor jun. (vgl. Walter 1968) bleibt zu vermuten, dass die durch Bach überlieferten Kopien von Werken Christian Flors sen. und anderer Komponisten in der „Möllerschen Handschrift“ wohl eher auf Vorlagen aus zweiter Hand zurückgehen - nämlich auf Bestände Böhms.  
 
-Bertrams enge persönliche Beziehung zur Familie Jauchs spiegelt sich auch im Leichengedicht des Sohnes Ludolph Friedrich aus dem Jahr 1728 wider:  
+Bertrams enge persönliche Beziehung zur Familie Jauch spiegelt sich auch im Leichengedicht des Sohnes Ludolph Friedrich aus dem Jahr 1728 wider:  
 
 Du warst es, den mein Vater schon  
 Seit vielen Jahren liebt’ und ehrte,  
@@ -231,6 +235,7 @@ Selbst des todten Vaters Sarg
 Und die starrend blassen Glieder  
 Schlugen mich zur Erden hin  
 Und ich sanck in Ohnmacht nieder.  
+... 
 
 Sollte J.S. Bach von diesem Text Kenntnis erlangt haben, wäre er mit Sicherheit an die Umstände erinnert worden, unter denen er bei der Rückkehr von seiner Dienstreise ins böhmische Karlovy Vary (Karlsbad) im Juli 1720 beim Betreten seiner Wohnung in Köthen von Tod und Begräbnis seiner ersten Ehefrau Maria Barbara erfuhr.  
 
@@ -315,7 +320,7 @@ Man kann noch diese Nacht
 den Sarg vor deine Türe bringen.  
 
 
-Schon bald nach dem Beginn des Kantatenzyklus (BWV 135/4, 25.6.1724) bemüht der Autor eine Situationsbeschreibung, die - ohne erkennbaren Bezug zu einer dogmatischen Aussage oder zur Perikope des Predigttextes - auf seine individuelle psychische und physische Befindlichkeit hinweist. Müdigkeit und Nachtschweiß - die hier nur mühsam auf eine theologische Deutungsebene projiziert werden - gelten in der historischen wie in der heutigen Heilkunde als Leitsymptome einer chronischen Tuberkulose - einer Krankheit, die bis ins 20. Jahrhundert auch in Mitteleuropa pandemisch verbreitet war.  
+Schon bald nach dem Beginn des Kantatenzyklus (BWV 135/4, 25.6.1724) bemüht der Autor eine Situationsbeschreibung, die - ohne erkennbaren Bezug zu einer dogmatischen Aussage oder zur Perikope des Predigttextes - auf seine individuelle psychische und physische Befindlichkeit hinweist. Müdigkeit und Nachtschweiß - die hier nur mühsam auf eine theologische Deutungsebene projiziert werden - gelten in der historischen wie in der heutigen Heilkunde als Leitsymptome einer chronischen Tuberkulose - einer Krankheit, die bis ins 20. Jahrhundert auch in Mitteleuropa epidemisch verbreitet war.  
 
 Ich bin von Seufzen müde,  
 mein Geist hat weder Kraft noch Macht,  
@@ -353,7 +358,7 @@ Eine Suche nach tieferen Ursachen für Jauchs persönliche Probleme - oder zumin
 
 Rechtfertigt dieser Text die Annahme, dass J.C. Jauch mindestens anderthalb Jahrzehnte im ständigen Bewußtsein einer chronischen, auszehrenden Erkrankung (vulgo „Schwindsucht“) gelebt, gepredigt und gedichtet hat?   
 
-Ist es mehr als eine zufällige Anspielung, wenn in der Choralkantate BWV 114 (zum 1.10.1724) der Autor das Kopulativkompositum „Sünden-Wassersucht“ generiert, das ein, für schwere Lungenkrankheiten im Endstadium typisches Symptom, enthält, das hier freilich zur einer heute befremdlich wirkenden Illustration eines theologischen Sachverhalts dienen sollte? (Vg. Hiob 15,16: „quanto magis abominabilis et inutilis homo qui bibit quasi aquas iniquitatem“; nach Vulgata bzw nach Luther: „Wie viel weniger ein Mensch, der ein Greuel und schnöde ist, der Unrecht säuft wie Wasser…“).  
+Ist es mehr als eine zufällige Anspielung, wenn in der Choralkantate BWV 114 (zum 1.10.1724) der Autor das Kopulativkompositum „Sünden-Wassersucht“ generiert, das ein - für schwere Lungenkrankheiten im Endstadium typisches - Symptom enthält, das hier freilich zur einer heute befremdlich wirkenden Illustration eines theologischen Sachverhalts dienen sollte? (Vg. Hiob 15,16: „quanto magis abominabilis et inutilis homo qui bibit quasi aquas iniquitatem“; nach Vulgata bzw nach Luther: „Wie viel weniger ein Mensch, der ein Greuel und schnöde ist, der Unrecht säuft wie Wasser…“).  
 
 
 Die Auseinandersetzung mit der Vorwegnahme der eigenen Sterbestunde kulminiert schließlich in der Kantate BWV 127 (zum 11.2.1725) - nach Meinung maßgeblicher Kommentatoren (nicht nur Smend 1966) in kompositionstechnischer Hinsicht der Höhepunkt des Choralkantatenschaffens - in deren Musik und Text sich die existenzielle Befindlichkeit des Autors mit der Hoffnung auf eine Erfüllung dogmatisch begründeter Verheißungen verbindet - in Form von Konditionalsätzen, die sich bald nach ihrer Formulierung und kurz vor ihrer Vertonung bitter realisieren sollten:  
@@ -967,7 +972,7 @@ Ihr erblaßten Fürsten-Glieder;
 Bleibet nun in eurer Ruh,  
 Schließt uns auch die Thränen zu.  
 
-Epilog  
+Epilog 
 
 Was ist Wahrheit?  
 (Pontius Pilatus; Joh 18,38)  
