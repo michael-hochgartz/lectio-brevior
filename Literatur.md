@@ -60,6 +60,7 @@ Abkürzungen
 **Junghans 1870**  
 **Kadelbach**, Ada: Das Husumer Hofgesangbuch (1676), in Jahrbuch für Liturgik und Hymnologie 27 **1983**, 83-111  
 **Kadelbach**, Ada: Das Akrostichon im Kirchenlied, in: Jahrbuch für Liturgik und Hymnologie 36 **1997**, 175-207  
+**Kersten**, Sandra: Die Freundschaftsgedichte und Briefe Johann Christian Günthers, Berlin **2006**  
 **Kleck**, Konrad: Dein ist allein die Ehre : Johann Sebastian Bachs geistliche Kantaten erklärt, 3 Bde. Leipzig 2015,2016,2017 **2015**  
 **Kleinertz**, Rainer: Zur Frage der Autorschaft von Händels Johannespassion, Händel-Jahrbuch 49 (**2003**), S. 341-376  
 **Kohlfeldt**, G. Eine akademische Ferienreise von Rostock bis Königsberg im Jahre 1694. in: Baltische Studien IX (**1905**), 1–54  
