@@ -7,7 +7,7 @@ michael@hochgartz.de - 09.01.2022
 
 
 In Form von 16 Thesen werden zunächst die Ausgangsüberlegungen und Schlussfolgerungen für eine namentliche Ermittlung desjenigen Dichters vorgestellt, der bis zu seinem plötzlichen Tod im Januar 1725 die Texte für Johann Sebastian Bachs Choralkantatenjahrgang und die zugehörige Passion lieferte.  
-Aufbauend auf langjährigen Quellenstudien werden sodann Leben und Werk dieses Theologen als Entwurf eines Aufsatzmanuskripts dargestellt.    
+Aufbauend auf langjährigen Quellenstudien werden sodann Leben und Werk dieses Theologen als Entwurf eines Vortragsmanuskripts dargestellt.  
 
 0. README.md  
 1. Thesen zur Identifizierung des Leipziger Hauptlibrettisten.md  
