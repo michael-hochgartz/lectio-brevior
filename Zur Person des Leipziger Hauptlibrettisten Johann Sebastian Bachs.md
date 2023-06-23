@@ -3,7 +3,7 @@ Ob ein Superintendens wohl Poete seyn könne? - Zur Person des „Leipziger“ H
 Entwurf für ein Vortragsmanuskript (Es gilt das gesprochene Wort.)  
 
 Michael Hochgartz (D 48153 Münster)  
-michael@hochgartz.de - 19.6.2023  
+michael@hochgartz.de - 23.6.2023  
 Quelltext und Literaturverzeichnis: https://github.com/michael-hochgartz/lectio-brevior  
 
 
@@ -828,6 +828,15 @@ Stübel, der zeitweise mit einem - von ihm selbst dokumentierten - Publikationsv
 „Auffs Jahr 1697, hatte ich mir vorgenommen / gar viele Schrifften zu publiciren; Homo proponit, Deus disponit. Ich gerieht damals im Februario in eine sonderbare Geistliche Anfechtung / nach dessen glücklicher Ueberwindung und darauff erfolgten hart ausgestandenen halbjährigen häußlichen Verwachung ich nur das wenigste ans Licht bringen können“.  
 
 Was Henrici betrifft, so hatte sich dieser - nicht nur durch seine ständigen, gerichtsnotorischen Beißereien mit seinem, beinahe existenzgefährdend zurückschlagenden literaturpolitischen Lieblingsgegner Gottsched (reichhaltiges Rohmaterial bei Otto 2007), sondern auch in den von Woche zu Woche parallel zu den Aufführungen der Choralkantaten entstandenen und publizierten „Erbaulichen Gedancken“ - durch kaum verklausulierte (als wahrhaftige Confessio intendierte oder nur in ironischer Absicht fingierte?) Stellungnahmen im offiziell längst terminierten „Terministischen Streit“ bis auf weiteres auch theologisch als Emporen-untauglich disqualifiziert.  
+
+Dem wiederholt - meist unreflektiert - vorgebrachten Argument, Bach müsse seine bislang anonymen „Leipziger“ Texte selbstverständlich in Leipzig in enger persönlicher Abstimmung von einem (wenigstens zeitweise) dort oder in der allernächsten Umgebung lebenden studentischen Dichter erhalten haben (so sinngemäß jüngst noch Koska 2023; Blanken 2023), ist entgegenzuhalten: Das zwischen Bach und Jauch angewendete Verfahren der Lieferung von „Paketen“ alle vier bis acht Wochen bot zwar keine Möglichkeiten für komplexere mündliche Rückfragen z.B. zu deklamatorischen Details, metrischen Finessen oder Vorlagen für onomatopoetische Motivik. Aber vielleicht haben die beiden „Schöpfer“ sich auf einen externen „Lektor“verlassen, z.B. die in Lüneburg lebenden, mit solchem Sachverstand bestens ausgestatteten Kantatenkomponisten Georg Flor bzw. Georg Böhm, deren Kompetenzen Bach bei seinem Aufenthalt 1700 erlebt hatte?  
+
+Hinsichtlich der theologischen Integrität der Texte konnte man sich auf die überregionale Reputation Jauchs verlassen, der als Lüneburger Superintendent selbst mit der offiziellen Vorzensur der dort erscheinenden Druckprodukte betraut war. Prinzipielle Probleme mit der Leipziger Zensur dürfte es also wohl nicht gegeben haben.  
+
+Und was die Abstimmung eines generellen Plans betrifft: für Bachs zweiten Kantatenjahrgang dürfte die Zuordnung der feststehenden Perikopen zu jeweils passenden Chorälen aus einem weitgehend anerkannten Grundrepertoire und eventuell eine Abstimmung über Art, Anzahl und Reihenfolge der Binnensätze einer jeden Kantate ausgereicht haben.  
+
+
+
 
 Der Umstand, dass Jauchs Brüder Johann Daniel und Franz Georg sowie sein Schwager Johann Christoph Naumann herausgehobene Positionen am Dresdener und am Warschauer Hof August des Starken und seines Nachfolgers inne hatten, mag - wie andererseits auch seine bereits erwähnte, spätestens 1719 öffentlich bekannt gewordene, zeitweilige seelsorgerische Betreuung von dessen Gemahlin - seine allseitige Akzeptanz im komplexen Leipziger Politikgeflecht (vgl. Siegele 1985) eher gefördert als behindert haben.  
 

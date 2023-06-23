@@ -27,6 +27,7 @@ Abkürzungen
 **Bärwald**, Manuel, Rezension von: Bachs Johannespassion, Berlin 2011, Bach-Jahrbuch 98 (**2012**), 265-270  
 **Bertram**, Johann Georg, Das evangelische Lüneburg, Braunschweig **1719**  
 **Blanken**, Christine:  Der Kantatenzyklus ‚GOtt-geheiligte Sabbaths-Zehnden‘ von 1728 und die Leipziger Kirchenmusik unter J. S. Bach in den Jahren 1724–1727, BJ **2015**, 13–74  
+**Blanken**, Christine: „Magister Brummer“ – Weitere Mutmaßungen zu einem Dichter von (Bachs) Kantatentexten 1724–1726. Vortrag beim Bachfest Leipzig **2023**  <https://www.youtube.com/watch?v=6h9vpB1mSzI&t=1572s>  
 **Braatz**, Thomas https://www.bach-cantatas.com/Articles/SMP244avsb.pdf **2006**  
 **Braatz**, Thomas, The Rise and Fall of the Stübel-Theory, https://www.bach-cantatas.com/Articles/Stubel-Theory.htm **2007a**
 **Braatz**, Thomas, Use of Concerto, J.J. and SDG in Bach's Sacred Works, https://www.bach-cantatas.com/Term/Terms-8.htm **2007b**  
@@ -64,7 +65,8 @@ Abkürzungen
 **Kersten**, Sandra: Die Freundschaftsgedichte und Briefe Johann Christian Günthers, Berlin **2006**  
 **Kleck**, Konrad: Dein ist allein die Ehre : Johann Sebastian Bachs geistliche Kantaten erklärt, 3 Bde. Leipzig 2015,2016,2017 **2015**  
 **Kleinertz**, Rainer: Zur Frage der Autorschaft von Händels Johannespassion, Händel-Jahrbuch 49 (**2003**), S. 341-376  
-**Kohlfeldt**, G. Eine akademische Ferienreise von Rostock bis Königsberg im Jahre 1694. in: Baltische Studien IX (**1905**), 1–54  
+**Kohlfeldt**, G. Eine akademische Ferienreise von Rostock bis Königsberg im Jahre 1694. in: Baltische Studien IX (**1905**), 1–54 
+**Koska**, Bernd: Christian Wahrmuth – Ein Leipziger Dichter von (Bachs?) Kantatentexten. Vortrag beim Bachfest Leipzig **2023** <https://www.youtube.com/watch?v=6h9vpB1mSzI&t=1572s>  
 **Krausse**, Helmut K., Erdmann Neumeister und die Kantatentexte Johann Sebastian Bachs, in BJ **1986**, 7-32  
 **Krummacher**, Friedhelm: Bachs Zyklus der Choralkantaten: Aufgaben und Lösungen, Göttingen **1995**  
 **Krummacher**, Friedhelm: Johann Sebastian Bach: Die Kantaten und Passionen, 3 Bde, Kassel **2018**  
