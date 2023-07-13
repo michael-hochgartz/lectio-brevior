@@ -3,7 +3,7 @@ Ob ein Superintendens wohl Poete seyn könne? - Zur Person des „Leipziger“ H
 Entwurf für ein Vortragsmanuskript (Es gilt das gesprochene Wort.)  
 
 Michael Hochgartz (D 48153 Münster)  
-michael@hochgartz.de - 10.07.2023  
+michael@hochgartz.de - 13.07.2023  
 Quelltext und Literaturverzeichnis: https://github.com/michael-hochgartz/lectio-brevior  
 
 
@@ -606,6 +606,12 @@ hiebei sich lauter Schmeichelei”
 
 Nicht übersehen werden sollte als weiteres Beispiel für die Auseinandersetzung mit der „Sündenstrick“-Thematik die Arie Nr. 14 aus der noch vorzustellenden Elmenhorst-Edition: „Durch seine Band und Leidensstrick treibt Jesus unsere Not zurück“, die im Subtitel die biblische Quelle nennt: Ps. 18,6 und mit den Worten beginnt: „O Todesstrick! Ach, Höllenbande!“ Sie steht dort rein formal zwar im Passionskontext, hat aber nur schwache Bezüge zum Wortlaut des Evangeliums.  
 
+Zum weiteren Aufbau von Georg Böhms Lukas-Passion ist noch ergänzend anzumerken: Den Beschluß bilden (ohne Hinweis auf „Die Gemeine“) vier Strophen von Georg Neumarks 1657 erstmals publiziertem Passionslied „Wenn ich denk in meinem Herzen“.  
+
+Die Musik von Böhms einzig nachweisbarer Passionsvertonung ist verschollen - es sei denn, man betrachtet das unmittelbar vor dem Schluß-Lied erklungene „Amen“ als identisch mit dem gleichnamigen Satz aus dessen Michaelis-Kantate „Satanas und sein Getümmel“  
+
+
+
 Jauchs berufliches Wirken konzentrierte sich auf die Sorge für eine, wie er es im Brief an J.J. Syrbius formulierte: „große Gemeine von vielen 1000 Seelen“ - also auf die Verkündigung durch das gesprochene statt durch das gedruckte Wort. Ohne erkennbare Ambitionen auf die Fortsetzung einer akademischen Karriere hatte er vor prominenten Personen, z.B. in der Schlosskirche in Zeitz, vor dem dortigen, von den klandestinen katholischen Ambitionen des Regenten dominierten, durch „ 5. Fürstl. Persohnen“ vertretenen Hof „mit grossem applausu geprediget“, der den verbliebenen mecklenburgischen Familienmitgliedern seiner verstorbenen herzoglichen Förderer dynastisch verbunden war - vielleicht mit der Absicht, doch noch irgendwo zu einer adäquaten Anstellung als Hofprediger zu gelangen. Noch 1718 nimmt er im erwähnten Brief an den Dresdener Superintendenten Löscher Anteil an der allseits erhofften Rückkehr des kurz danach verstorbenen Herzogs Moritz Wilhelm „zu unserer Religion“.  
 
 
@@ -743,7 +749,7 @@ Das Kirchenliedrepertorie ähnelt zumindest vom zeiträumlichen Zuschnitt durcha
 
 In den dort versammelten ca. 400 Choraltexten finden sich etliche Beispiele für Akrosticha aus der Feder des Petraeus, durch die nicht nur die Namen der adeligen Verwandtschaft (z.B. der Tochter Sophia Amalia), sondern auch diejenigen von bürgerlichen Hofbediensteten wie z.B. „CammerJungfern“ durch typographisch dezent markierte Anfangsbuchstaben der Strophen benannt werden.  
 Von mindestens einer der Schwestern Magdelena Sybillas ist überliefert, dass sie das teils mit Noten versehene, in Großschrift teils gesetzte, teils gestochene Gesangbuch, das jahrzehntelang als liturgisches Reglement für die täglichen Gottesdienste im „Schloß vor Husum“ diente, von ihrer Mutter zum Geschenk erhielt. (Vgl. Kadelbach 1983; 1997)  
-Es kann als wahrscheinlich gelten, dass diese seltene hymnologische Quelle auch dann noch in den Hofgottesdiensten in der Schloßkirche oder zumindest in den Privatgemächern in Husum wie auch in Güstrow eine Rolle spielte, als Johann Christoph Jauch dort seine ersten Erfahrungen als Prediger machte - also z.B. 1695, in dem Jahr, in dem er von Rostock aus „eben auf der Reise nach Kiel, Gottorf, Husum und andern Holsteinischen Oertern begriffen war“ - just,  als sein Lüneburgischer Patron Ludolph von Stöterogge sein berufliches Schicksal in eine unverhoffte Richtung zu wenden begann.  
+Es kann als wahrscheinlich gelten, dass diese seltene hymnologische Quelle auch dann noch in den Hofgottesdiensten in der Schloßkirche oder zumindest in den Privatgemächern in Husum wie auch in Güstrow eine Rolle spielte, als Johann Christoph Jauch dort seine ersten Erfahrungen als Predigermachte - also z.B. 1695, in dem Jahr, in dem er von Rostock aus „eben auf der Reise nach Kiel, Gottorf, Husum und andern Holsteinischen Oertern begriffen war“ - just,  als sein Lüneburgischer Patron Ludolph von Stöterogge sein berufliches Schicksal in eine unverhoffte Richtung zu wenden begann.  
 
 Es ist nicht auszuschließen, dass Johann Christoph Jauch, Johann Nikolaus Bach, Georg Böhm sowie Mitglieder des sich später als „Liederfreunde“ empfindenden und sich auch so nennenden informellen Zirkels 1694f die auch aus heutiger theologischer Sicht als spektakulär zu betrachtenden Oratorienaufführungen Johann Lippoldts in der Collegiumskirche Jena miterlebt und sogar an ihnen mitgewirkt haben könnten. (Vgl. Rathey 2011b)  
 
@@ -774,7 +780,7 @@ Aus dem Chrysostomus mit Krafft zu reden scheinet.
 Jauch immatrikulierte sich (ohne erneute Deposition) am selben Tag (26.4.1689) an der Universität Jena wie Johann Anastasius Freylinghausen, der später ungleich breitenwirksamere, pietistisch orientierte Gegenspieler der orthodoxen Liederfreunde, der von seinem erwünschten Tischherrn Goetze trotz Vorlage eines Empfehlungsschreibens (zugunsten wessen?) nach eigenen Worten noch am selben Tag abgewiesen wurde.  
 
 In dem am 1. Juli 1722 datierten Vorwort einer „Melodiae Sacratissimae“ betitelten Publikation des in Celle amtierenden Garnisonpredigers Christian David Danielis - deren Haupttext unter der Invocatio [I]n [N]omine [J]esu [A]men steht (vgl. BWV 16) - offenbart Jauch nicht nur seine profunde, mit regionalspezifischen, vorwiegend norddeutschen, teils singulären Beispielen belegte Kenntnis der Geschichte der musikalischen Psalmbereimungen, zu denen Danielis eine bemerkenswerte Variante beitrug.  
-Der ehemalige Lüneburger Johanneumschüler Danielis hatte versucht, unter möglichst genauer Beibehaltung des „bei den lieben Einfältigen beliebten“ Lutherschen Wortlauts alle 150 Psalmen des Alten Testaments in die metrischen Schemata der damals „gebräuchlichsten” protestantischen Kirchenlieder zu zwingen und einen Plan beigefügt, sie in dieser Form (zu jeweils einer oder mehreren passenden Melodien) über das Kirchenjahr verteilt im Rahmen sonntäglicher häuslicher Andachten zu singen. (Vgl. eine weitere, 1728 bei Förster in Hannover erschienene Auflage, deren heutige Titelaufnahmen unzutreffenderweise Jauch statt Danielis als Gesamt-Autor nennen.)
+Der ehemalige Lüneburger Johanneumschüler Danielis hatte versucht, unter möglichst genauer Beibehaltung des „bei den lieben Einfältigen beliebten“ Lutherschen Wortlauts alle 150 Psalmen des Alten Testaments in die metrischen Schemata der damals „gebräuchlichsten” protestantischen Kirchenlieder zu zwingen und einen Plan beigefügt, sie in dieser Form (zu jeweils einer oder mehreren passenden Melodien) über das Kirchenjahr verteilt im Rahmen sonntäglicher häuslicher Andachten zu singen. (Vgl. eine weitere, 1728 bei Förster in Hannover erschienene Auflage, deren heutige Titelaufnahmen unzutreffenderweise Jauch statt Danielis als Gesamt-Autor nennen.) Vielleicht versprach sich der Verleger der Zweitauflage von einem bekannteren Namen in Verbindung mit einem konsequent eingedeutschten Titel einen besseren Markterfolg?  
 
 Jauch kommentiert diesen Versuch durchaus kritisch und lässt darüber hinaus erkennen, spätestens zu diesem Zeitpunkt (Mitte 1722) selbst Erfahrungen mit der (wie er zugibt, poetologisch nicht immer einfachen) Übertragung von Texten Luthers in eine andere, musiziertaugliche Form gemacht zu haben:  
 
