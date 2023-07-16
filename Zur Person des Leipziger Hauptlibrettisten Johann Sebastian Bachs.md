@@ -3,7 +3,7 @@ Ob ein Superintendens wohl Poete seyn könne? - Zur Person des „Leipziger“ H
 Entwurf für ein Vortragsmanuskript (Es gilt das gesprochene Wort.)  
 
 Michael Hochgartz (D 48153 Münster)  
-michael@hochgartz.de - 13.07.2023  
+michael@hochgartz.de - 16.07.2023  
 Quelltext und Literaturverzeichnis: https://github.com/michael-hochgartz/lectio-brevior  
 
 
@@ -749,7 +749,7 @@ Das Kirchenliedrepertorie ähnelt zumindest vom zeiträumlichen Zuschnitt durcha
 
 In den dort versammelten ca. 400 Choraltexten finden sich etliche Beispiele für Akrosticha aus der Feder des Petraeus, durch die nicht nur die Namen der adeligen Verwandtschaft (z.B. der Tochter Sophia Amalia), sondern auch diejenigen von bürgerlichen Hofbediensteten wie z.B. „CammerJungfern“ durch typographisch dezent markierte Anfangsbuchstaben der Strophen benannt werden.  
 Von mindestens einer der Schwestern Magdelena Sybillas ist überliefert, dass sie das teils mit Noten versehene, in Großschrift teils gesetzte, teils gestochene Gesangbuch, das jahrzehntelang als liturgisches Reglement für die täglichen Gottesdienste im „Schloß vor Husum“ diente, von ihrer Mutter zum Geschenk erhielt. (Vgl. Kadelbach 1983; 1997)  
-Es kann als wahrscheinlich gelten, dass diese seltene hymnologische Quelle auch dann noch in den Hofgottesdiensten in der Schloßkirche oder zumindest in den Privatgemächern in Husum wie auch in Güstrow eine Rolle spielte, als Johann Christoph Jauch dort seine ersten Erfahrungen als Predigermachte - also z.B. 1695, in dem Jahr, in dem er von Rostock aus „eben auf der Reise nach Kiel, Gottorf, Husum und andern Holsteinischen Oertern begriffen war“ - just,  als sein Lüneburgischer Patron Ludolph von Stöterogge sein berufliches Schicksal in eine unverhoffte Richtung zu wenden begann.  
+Es kann als wahrscheinlich gelten, dass diese seltene hymnologische Quelle auch dann noch in den Hofgottesdiensten in der Schloßkirche oder zumindest in den Privatgemächern in Husum wie auch in Güstrow eine Rolle spielte, als Johann Christoph Jauch dort seine ersten Erfahrungen als Prediger machte - also z.B. 1695, in dem Jahr, in dem er von Rostock aus „eben auf der Reise nach Kiel, Gottorf, Husum und andern Holsteinischen Oertern begriffen war“ - just,  als sein Lüneburgischer Patron Ludolph von Stöterogge sein berufliches Schicksal in eine unverhoffte Richtung zu wenden begann.  
 
 Es ist nicht auszuschließen, dass Johann Christoph Jauch, Johann Nikolaus Bach, Georg Böhm sowie Mitglieder des sich später als „Liederfreunde“ empfindenden und sich auch so nennenden informellen Zirkels 1694f die auch aus heutiger theologischer Sicht als spektakulär zu betrachtenden Oratorienaufführungen Johann Lippoldts in der Collegiumskirche Jena miterlebt und sogar an ihnen mitgewirkt haben könnten. (Vgl. Rathey 2011b)  
 
@@ -824,11 +824,11 @@ Die Publikation Danielis’ und das Vorwort Jauchs wurden (es bleibt zu fragen: 
 
 Es ist nicht auszuschließen, dass Bach in Köthen - bald nachdem er in den Berufungsprozess für das Leipziger Kantorat involviert worden war - von dieser Notiz Kenntnis erlangte und ihm somit der Name des einstigen Lüneburger Pfarrers und nunmehrigen Superintendenten in Erinnerung gebracht wurde - in einer Situation, wo sich ein verlässlich zu bedienender Bedarf für theologisch qualifizierte, predigttaugliche Kantaten- und Passionstexte abzeichnete.
 
-Der zeitlebens wenig ambitioniert wirkende Jauch hatte bei der Suche Bachs und seiner Mitverantwortlichen nach einem weltanschaulich als untadelhaft, landsmannschaftlich als bodenständig, poetologisch durchaus als flexibel vermittelbaren Librettisten einen Vorsprung vor dem drei Jahrzehnte jüngeren, vigilanten Sachsen Christian Friedrich Henrici, der zum 1. Advent 1724 in seinen „Erbaulichen Gedancken“ einen sukzessive entstehenden Jahrgang von (post sermonis, nämlich „Sonnabends und Sonntags nach geendigter Versper“ aufgeschriebenen), zunächst in Form von wöchentlich 1/2 Druckbögen angekündigten, Ende 1725 dann (mangels Erfolg beim Einzelverkauf?) als Sammeldruck auf den Markt gebrachten Meditationen auch vollumfänglich vorlegen sollte, die aufgrund ihrer monotonen Form und ihrer Länge als absolut unvertonbar angesehen werden mussten - und die im übrigen (mit Ausnahme des auch bei genauester drucktechnischer Betrachtung als Fremdkörper wirkenden „Oratoriums“ für Gründonnerstag / Karfreitag?) auch keineswegs als „Texte zur Music“ beabsichtigt waren.  
-Henricis jeweils beigegebene Kontrafakturen bekannter Kirchenlieder stellen ein höchst interessantes Parallelprojekt zu Bachs Choralkantatentexten dar und sind auf eventuelle Querbeziehungen hin zu überprüfen - obwohl die ursprüngliche Intention des Verfassers wohl darin bestand, strophenweise handhabbares Füllmaterial bei der optimalen Ausnutzung des Druckpapiers zu nutzen.  
+Der zeitlebens wenig ambitioniert wirkende Jauch hatte bei der Suche Bachs und seiner Mitverantwortlichen nach einem weltanschaulich als untadelhaft, landsmannschaftlich als bodenständig, poetologisch durchaus als flexibel vermittelbarem Librettisten einen Vorsprung vor dem drei Jahrzehnte jüngeren, vigilanten Sachsen Christian Friedrich Henrici, der zum 1. Advent 1724 in seinen „Erbaulichen Gedancken“ einen sukzessive entstehenden Jahrgang von (post sermonis, nämlich „Sonnabends und Sonntags nach geendigter Versper“ aufgeschriebenen), zunächst in Form von wöchentlich 1/2 Druckbögen angekündigten, Ende 1725 dann (mangels Erfolg beim Einzelverkauf?) als Sammeldruck auf den Markt gebrachten Meditationen auch vollumfänglich vorlegen sollte, die aufgrund ihrer monotonen Form und ihrer Länge als absolut unvertonbar angesehen werden mussten - und die im übrigen (mit Ausnahme des auch bei genauester drucktechnischer Betrachtung als Fremdkörper wirkenden „Oratoriums“ für Gründonnerstag / Karfreitag?) auch keineswegs als „Texte zur Music“ beabsichtigt waren.  
+Henricis jeweils beigegebene Kontrafakturen bekannter Kirchenlieder stellen ein höchst interessantes Parallelprojekt zu Bachs Choralkantatentexten dar und sind auf eventuelle Querbeziehungen hin zu überprüfen - obwohl die Intention des Verfassers wohl darin bestand, strophenweise handhabbares Füllmaterial bei der optimalen Ausnutzung des Druckpapiers zu nutzen.  
 
 
-Mit Johann Christoph Jauch konnte Bach bei seiner - weitgehend vom Aufführungskalender diktierten - kompositorischen Akkulturation in Leipzig auf einen theologischen Gewährsmann setzen, der sich zwar sprachstilistisch nur sehr subtil und im Verlauf eines durchaus rekonstruierbaren Entwicklungsprozesses an die eine Tagesreise von Lüneburg residierende norddeutsche Avantgarde angenähert hatte - also an Barthold Hinrich Brockes und seinen Kreis (gewiss auch unter dem Einfluss seiner eigenen Schüler Michael Christoph Brandenburg, Matthias Daniel Behm und Joachim Christian Heini), der aber konfessionell deutlich unproblematischer erscheinen musste als der (offiziell nach heutiger Lesart wegen Häresie, inoffiziell aber wohl wegen temporärer individualspychologischer Probleme) seit 1697 amtsenthobene, zeitweise unter Hausarrest stehende, sodann unter ansatzweise ermittelbaren Bedingungen geduldete und besoldete, Bach bis Frühsommer 1723 noch nicht persönlich bekannte Conrector emeritus Johann Andreas Stübel - von dem kaum den intellektuellen und gesellschaftlichen Kinderschuhen entwachsenen Leipziger Enfant terrible Christian Friedrich Henrici ganz zu schweigen.  
+Mit Johann Christoph Jauch konnte Bach bei seiner weitgehend vom Aufführungskalender diktierten kompositorischen Akkulturation in Leipzig auf einen theologischen Gewährsmann setzen, der sich zwar sprachstilistisch nur sehr subtil und im Verlauf eines durchaus rekonstruierbaren Entwicklungsprozesses an die eine Tagesreise von Lüneburg residierende norddeutsche Avantgarde angenähert hatte - also an Barthold Hinrich Brockes und seinen Kreis (gewiss auch unter dem Einfluss seiner eigenen Schüler Michael Christoph Brandenburg, Matthias Daniel Behm und Joachim Christian Heini), der aber konfessionell deutlich unproblematischer erscheinen musste als der (offiziell nach heutiger Lesart wegen Häresie, inoffiziell aber wohl wegen temporärer individualspychologischer Probleme) seit 1697 amtsenthobene, zeitweise unter Hausarrest stehende, sodann unter ansatzweise ermittelbaren Bedingungen geduldete und besoldete, Bach bis Frühsommer 1723 noch nicht persönlich bekannte Conrector emeritus Johann Andreas Stübel - von dem kaum den intellektuellen und gesellschaftlichen Kinderschuhen entwachsenen Leipziger Enfant terrible Christian Friedrich Henrici ganz zu schweigen.  
 
 Stübel, der zeitweise mit einem - von ihm selbst dokumentierten - Publikationsverbot belegt wurde, schildert die auslösenden Ereignisse in einem 1698 gedruckten Schriftenkatalog so:  
 
@@ -836,12 +836,11 @@ Stübel, der zeitweise mit einem - von ihm selbst dokumentierten - Publikationsv
 
 Was Henrici betrifft, so hatte sich dieser - nicht nur durch seine ständigen, gerichtsnotorischen Beißereien mit seinem, beinahe existenzgefährdend zurückschlagenden literaturpolitischen Lieblingsgegner Gottsched (reichhaltiges Rohmaterial bei Otto 2007), sondern auch in den von Woche zu Woche parallel zu den Aufführungen der Choralkantaten entstandenen und publizierten „Erbaulichen Gedancken“ - durch kaum verklausulierte (als wahrhaftige Confessio intendierte oder nur in ironischer Absicht fingierte?) Stellungnahmen im offiziell längst terminierten „Terministischen Streit“ bis auf weiteres auch theologisch als Emporen-untauglich disqualifiziert.  
 
-Dem wiederholt - meist implizit und somit unreflektiert - vorgebrachten Argument, Bach müsse seine bislang anonymen „Leipziger“ Texte selbstverständlich in Leipzig in enger persönlicher Abstimmung von einem (wenigstens zeitweise) dort oder in der allernächsten Umgebung lebenden studentischen Dichter erhalten haben (so sinngemäß jüngst noch Koska 2023; Blanken 2023), ist entgegenzuhalten: Das zwischen Bach und Jauch angewendete Verfahren der Lieferung von „Paketen“ alle vier bis acht Wochen bot zwar keine Möglichkeiten für komplexe mündliche Rückfragen z.B. zu deklamatorischen Details, metrischen Finessen oder Vorlagen für onomatopoetische Motivik. Aber vielleicht haben die beiden „Schöpfer“ sich auf einen externen „Lektor“verlassen, z.B. die in Lüneburg lebenden, mit solchem Sachverstand bestens ausgestatteten Kantatenkomponisten Georg Flor bzw. Georg Böhm, deren Kompetenzen Bach bei seinem Aufenthalt 1700 erleben konnte?  
+Dem wiederholt - meist implizit und somit unreflektiert - vorgebrachten Argument, Bach müsse seine bislang anonymen „Leipziger“ Texte selbstverständlich in Leipzig in enger persönlicher Abstimmung von einem (wenigstens zeitweise) dort oder in der allernächsten Umgebung lebenden studentischen Dichter erhalten haben (so sinngemäß jüngst noch Koska 2023; Blanken 2023), ist entgegenzuhalten: Das zwischen Bach und Jauch angewendete Verfahren der Lieferung von „Paketen“ alle vier bis acht Wochen bot zwar keine Möglichkeiten für komplexe mündliche Rückfragen z.B. zu deklamatorischen Details, metrischen Finessen oder Vorlagen für onomatopoetische Motivik (wie in BWV 127). Aber vielleicht haben die beiden „Schöpfer“ sich auf einen externen „Lektor“verlassen, z.B. die in Lüneburg lebenden, mit solchem Sachverstand bestens ausgestatteten Kantatenkomponisten Georg Flor bzw. Georg Böhm, deren Kompetenzen Bach bei seinem Aufenthalt 1700 erleben konnte?  
 
 Hinsichtlich der theologischen Integrität der Texte konnte man sich auf die überregionale Reputation Jauchs verlassen, der als Lüneburger Superintendent selbst mit der offiziellen Vorzensur der dort erscheinenden Druckprodukte betraut war. Prinzipielle Probleme mit der Leipziger Zensur dürfte es also wohl nicht gegeben haben. (Vgl. Wricke 1973)  
 
-Und was die Abstimmung eines generellen Plans betrifft: für Bachs zweiten Kantatenjahrgang dürfte die Zuordnung der feststehenden Perikopen zu jeweils passenden Chorälen aus einem weitgehend anerkannten Grundrepertoire und eine Abstimmung über Art, Anzahl und Reihenfolge der Binnensätze einer jeden Kantate ausgereicht haben.  
-
+Und was die Abstimmung über eine generelle Grundordnung betrifft: für Bachs zweiten Kantatenjahrgang dürfte die Zuordnung der feststehenden Perikopen zu jeweils passenden Chorälen aus einem weitgehend anerkannten Grundrepertoire und sodann eine Abstimmung über Art, Anzahl und Reihenfolge der Binnensätze einer jeden Kantate ausgereicht haben.  
 
 
 
@@ -991,12 +990,12 @@ Ruhet sanffte, sanffte ruht!
 Unsre Thränen,  
 Werden sich stets nach dir sehnen;  
 
-Synopse
+Synopse (Brandenburg/Henrici)  
 
 Ihr indessen, matte Glieder,  
 Bleibt in einer süssen Ruh!  
 Schliest euch sanfte, sanfte zu.  
-
+- - - - - - - - -  
 Ihr erblaßten Fürsten-Glieder;  
 Bleibet nun in eurer Ruh,  
 Schließt uns auch die Thränen zu.  
@@ -1007,7 +1006,7 @@ Was ist Wahrheit?
 (Pontius Pilatus; Joh 18,38)  
 
 Die Wahrheit ist das Ganze.  
-(Georg Wilhelm Friedrich Hegel, Phänomenologie des Geistes)..
+(Georg Wilhelm Friedrich Hegel, Phänomenologie des Geistes)  
 
 Wenn ich die Matthäus-Passion, wenn ich große Musik höre, dann glaube ich zu wissen, dass das, was diese Musik sagt, nicht die Unwahrheit sein kann.  (Theodor W. Adorno 1958)
 
