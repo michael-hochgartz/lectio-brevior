@@ -3,7 +3,7 @@ Ob ein Superintendens wohl Poete seyn könne? - Zur Person des „Leipziger“ H
 Entwurf für ein Vortragsmanuskript (Es gilt das gesprochene Wort.)  
 
 Michael Hochgartz (D 48153 Münster)  
-michael@hochgartz.de - 16.07.2023  
+michael@hochgartz.de - 21.07.2023  
 Quelltext und Literaturverzeichnis: https://github.com/michael-hochgartz/lectio-brevior  
 
 
@@ -760,7 +760,7 @@ Lippoldts geistliches Singspiel „Der Gott-liebenden Seelen Wallfahrt zum Creut
 „Als ich anno 1690 zu Jehna studirte / hatte ich einen recht frommen und exemplarischen Stuben Gesellen / welcher jetzo in dem Chur-Fürstenthum Hannover ein beliebter Prediger ist / der sunge dieses Lied Morgens und Abends / hielte auch dafür / wenn er des Morgens dieses Lied nicht angestimmet / er sey den gantzen Tag in seinen studiis unglücklich / sünge er aber solches des Abends nicht / so wäre er die gantze Nacht unruhig / und nennet er es nicht anders als sein Asylum cum auxilio, das ist mein Lied / das mir Sicherheit und Hülffe in allen Verrichtungen verschaffet.“  
 
 
-In der Woche vor dem 1. Sonntag nach Trinitatis 1725 (dem Termin für den Beginn des neuen Schuljahres an St. Thomas und somit eines möglich erscheinenden neuen Kantatenprojekts) traf Bach mit dem nun zum Superintendenten avancierten Avenarius anlässlich einer Orgelweihe in Gera zusammen. Die Annahme erscheint reizvoll, dass bei dieser Begegnung eine nachträgliche Vervollständigung - vielleicht gar eine nachfolgende Textpublikation - des abgebrochenen Choralkantantenjahrgangs ein Thema gewesen sein könnte, obwohl Avenarius nicht als Verfasser von madrigalischen Dichtungen bekannt geworden ist. (Vgl. Maul 2004, der die irrtümliche Datierung in DOK II korrigert.)
+In der Woche vor dem 1. Sonntag nach Trinitatis 1725 (dem Termin für den Beginn des neuen Schuljahres an St. Thomas und somit eines möglich erscheinenden neuen Kantatenprojekts) traf Bach mit dem nun zum Superintendenten avancierten Avenarius anlässlich einer Orgelweihe in Gera zusammen. Die Annahme erscheint reizvoll, dass bei dieser Begegnung eine nachträgliche Vervollständigung - vielleicht gar eine nachfolgende Textpublikation - des abgebrochenen Choralkantantenjahrgangs ein Thema gewesen sein könnte, obwohl Avenarius nicht als Verfasser von madrigalischen Dichtungen bekannt geworden ist. (Vgl. Maul 2004a, der die irrtümliche Datierung in DOK II korrigert.)
 
 Jauchs Neuordnung und Erweiterung der Elmenhorst-Lieder lässt sich vor dem Hintergrund der hymnologischen Aktivitäten seiner Jenaischen Zeitgenossen interpretieren, die um 1700 nach dem Tod des dortigen Superintendenten Georg Goetze (1633 -1699, nicht identisch mit dem fast gleichnamigen, gleichwohl wesensverwandten Lübecker Superintendenten und Hymnologen; 1667- 1728) mit einer Edition von dessen, 1692 (nach dem Vorbild Johann Benedict Carpzovs im nahen Leipzig) in der Stadtkirche St. Michael gehaltenen Liedpredigten einsetzten, die Jauch in Jena Sonntag für Sonntag - vielleicht gar als dessen ständiger Tischgast? - miterlebt haben muss. (Privates Digitalisat der posthumen Ausgabe, deren Haupttext mit [I]n [N]omine [J]esu beginnt, im Besitz des Verfassers.)  
 

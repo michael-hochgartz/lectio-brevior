@@ -80,9 +80,10 @@ Abkürzungen
 **Marshall 2011**  
 **Marshall**, Robert L., Bach and Mozart: Essays on the Enigma of Genius, Rochester **2019**  
 **Marx**, Hans Joachim:  '... eines welt-berühmten Mannes gewisse Passion': zur Herkunft der Händel zugeschriebenen 'Johannes-Passion', Musica 41/4 (**1987**), 311-316  
-**Maul 2004**  
-**Maul 2005**  
-**Melamed**, Daniel R.: Zum Text und Kontext der „Keiser“-Markuspasion, BJ 1999, 35ff   
+**Maul**, Michael, Johann Sebastian Bachs Besuche in der Residenzstadt Gera, BJ **2004a**, 101–120  
+**Maul**, Michael, Alles mit Gott und nichts ohn’ ihn – Eine neu aufgefundene Aria von Johann Sebastian Bach, BJ 2005, 7–34  
+**Maul**, Michael, "Wie wunderbar sind deine Werke", Berlin **2023**  
+**Melamed**, Daniel R.: Zum Text und Kontext der „Keiser“-Markuspasion, BJ 1999, 35ff  
 **Mendel 1963**  
 **Mendel 1964**  
 **Merzbacher**, Dieter, „Ob ein Poete wohl Superintendens seyn könne?" - Erdmann Neumeister im Spiegel seiner Poetik, in: Rucker, Henrike, Erdmann Neumeister (1671-1756) - Wegbereiter der evangelischen Kirchenkantate, Rudolstadt **2000**, 75-96  
