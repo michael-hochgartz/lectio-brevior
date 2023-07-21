@@ -81,9 +81,9 @@ Abkürzungen
 **Marshall**, Robert L., Bach and Mozart: Essays on the Enigma of Genius, Rochester **2019**  
 **Marx**, Hans Joachim:  '... eines welt-berühmten Mannes gewisse Passion': zur Herkunft der Händel zugeschriebenen 'Johannes-Passion', Musica 41/4 (**1987**), 311-316  
 **Maul**, Michael, Johann Sebastian Bachs Besuche in der Residenzstadt Gera, BJ **2004a**, 101–120  
-**Maul**, Michael, Alles mit Gott und nichts ohn’ ihn – Eine neu aufgefundene Aria von Johann Sebastian Bach, BJ 2005, 7–34  
+**Maul**, Michael, Alles mit Gott und nichts ohn’ ihn – Eine neu aufgefundene Aria von Johann Sebastian Bach, BJ **2005**, 7–34  
 **Maul**, Michael, "Wie wunderbar sind deine Werke", Berlin **2023**  
-**Melamed**, Daniel R.: Zum Text und Kontext der „Keiser“-Markuspasion, BJ 1999, 35ff  
+**Melamed**, Daniel R.: Zum Text und Kontext der „Keiser“-Markuspasion, BJ **1999**, 35ff  
 **Mendel 1963**  
 **Mendel 1964**  
 **Merzbacher**, Dieter, „Ob ein Poete wohl Superintendens seyn könne?" - Erdmann Neumeister im Spiegel seiner Poetik, in: Rucker, Henrike, Erdmann Neumeister (1671-1756) - Wegbereiter der evangelischen Kirchenkantate, Rudolstadt **2000**, 75-96  
@@ -124,6 +124,6 @@ Bd. 1, Kassel **2004**
 **Wolff**, Christoph: Bach's musical universe : The composer and his work, New York **2020**  
 **Wollny**, Peter: Beobachtungen am Autograph der h-Moll-Messe, BJ 95 **2009**, 135-151  
 **Wollny**, Peter: "Missing link" : acht unbekannte Vokalstimmen zum Schlusschor der Matthäus-Passion bringen Licht ins Dunkel, Bach-Magazin 35 **2020**, 24-26  
-**Wricke**, Götz: "Die Aufsicht über das Bücher-und Pressewesen im Kurfürstentum und Königreich Hannover von den Anfängen bis 1848. Ein Beitrag zur Geschichte der Bücher- und Pressezesur". Diss. Bonn 1973.  
+**Wricke**, Götz: "Die Aufsicht über das Bücher-und Pressewesen im Kurfürstentum und Königreich Hannover von den Anfängen bis 1848. Ein Beitrag zur Geschichte der Bücher- und Pressezesur". Diss. Bonn **1973**  
 **Zedler**, Günter, Die erhaltenen Choralkantaten Johann Sebastian Bachs, Norderstedt **2007**  
 **Zedler**, Johann Heinrich, Grosses Vollständiges Universal-Lexikon, Halle/Leipzig  
