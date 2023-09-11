@@ -2,7 +2,7 @@
 des „Leipziger“ Hauptlibrettisten  
 Johann Sebastian Bachs  
 Michael Hochgartz (D 48153 Münster)  
-michael@hochgartz.de - 17.08.2023  
+michael@hochgartz.de - 11.09.2023  
 Quelltext und Literaturverzeichnis: https://github.com/michael-hochgartz/lectio-brevior  
 
 Amore et studio elucidandae veritatis haec subscripta disputabuntur (Martin Luther 1517)  
@@ -65,7 +65,7 @@ Auch Salomon Franck - unbestreitbar Bachs Weimarer Hauptlibrettist - käme theor
 
 
 
-4. Auch aus der Tatsache, dass der Autor des (ansonsten idealtypisch - inklusive überzähliger Termine - angelegten) Choralkantatenjahrgangs auf die Lieferung von Texten für den Ratswechsel und für das Reformationsfest 1724 verzichtete, lässt sich ableiten, dass sein Wirkungsort eher außerhalb Leipzigs bzw. außerhalb Kursachsens zu suchen ist.  
+4. Auch aus der Tatsache, dass der Autor des (ansonsten idealtypisch - inklusive überzähliger Termine - angelegten) Choralkantatenjahrgangs auf die Lieferung von Texten für den Ratswechsel und für das Reformationsfest 1724 verzichtete, lässt sich ableiten, dass sein Wirkungskreis eher außerhalb Leipzigs bzw. außerhalb Kursachsens zu suchen ist.  
 
 Dazu passt die Beobachtung, dass in der Kantate BWV 93 das Luther-Zitat aus Kön2 4,38-41 („mors in olla“) nicht in der obersächsisch-böhmischen Form („Der Tod im Topf“) sondern als thüringisch-niedersächsische Variante („Der Tod in Töpfen“) verwendet wird - vorausgesetzt, der sprachlich in Thüringen (zeitweise aber auch in Niederdeutschland) sozialisierte Komponist gibt hier die Formulierung des Dichters unverändert wieder.  
 
@@ -133,7 +133,7 @@ Die Intention dieses Vorgangs im Rahmen einer „Sichtbarmachung der eigenen His
 
 Nicht übersehen werden sollte in diesem Zusammenhang der Umstand, dass Agricola über längere Zeit fast täglich Gelegenheit hatte, jene klassischen Torsi auf sich wirken zu lassen, die sein Dienstherr Friedrich II. von Preußen 1742 mit der mehrere Hundert Objekte umfassenden Antikensammlung des französischen Kardinals Melchior de Polignac erworben hatte.  
 
-Ursprünglich recht kostengünstig beschafft und mit zwei Schiffen von Paris über Rouen und Hamburg nach Schloss Charlottenburg verfrachtet und dort deponiert, sodann in weitere der wachsenden Ausstattungsszenarien in Potsdam (Sans, Souci; Neues Palais; Marmorpalais) durchaus planmäßig eingebunden, enthält sie bis heute auch Torsi, die bereits damals bei näherem Blick mehr oder weniger raffinierte, mit naturidentischen, antikischen Marmormaterlien ausgeführte, aber stets sichtbare Ergänzungstechniken aus verschiedenen Zeitschichten erkennen ließen.   
+Ursprünglich recht kostengünstig beschafft und mit zwei Schiffen von Paris über Rouen und Hamburg nach Schloss Charlottenburg verfrachtet und dort deponiert, sodann in weitere der wachsenden Ausstattungsszenarien in Potsdam (Sans, Souci; Neues Palais; Marmorpalais) durchaus planmäßig eingebunden, enthält sie bis heute auch Torsi, die bereits damals bei näherem Blick mehr oder weniger raffinierte, mit naturidentischen, antikischen Marmormaterialien ausgeführte, aber stets sichtbare Ergänzungstechniken aus verschiedenen Zeitschichten erkennen ließen.   
 
 Um 1740 begann mit J.J .Winckelmann eine Entwicklung, die das „non finito“ schließlich (z.B. bei Auguste Rodin) nicht mehr als kaschierungsbedürftigen Makel, sondern als eigenständige künstlerische Aussageform betrachtete - und folglich die „Ergänzungen“ eliminierte. (Vgl. Schleuning 1993; Dostern 2009)  
 
