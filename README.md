@@ -3,7 +3,7 @@
   </head>
 Michael Hochgartz (D 48153 Münster)  
 michael@hochgartz.de - 09.01.2022  
-[https://independent.academia.edu/MichaelHochgartz](https://independent.academia.edu/MichaelHochgartz)  
+[https://picander.de](https://picander.de)  
 
 
 In Form von 16 Thesen werden zunächst die Ausgangsüberlegungen und Schlussfolgerungen für eine namentliche Ermittlung desjenigen Dichters vorgestellt, der bis zu seinem plötzlichen Tod im Januar 1725 die Texte für Johann Sebastian Bachs Choralkantatenjahrgang und die zugehörige Passion lieferte.  
