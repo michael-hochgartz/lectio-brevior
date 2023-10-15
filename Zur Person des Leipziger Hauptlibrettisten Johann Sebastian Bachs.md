@@ -3,8 +3,8 @@ Ob ein Superintendens wohl Poete seyn könne? - Zur Person des „Leipziger“ H
 Entwurf für ein Vortragsmanuskript (Es gilt das gesprochene Wort.)  
 
 Michael Hochgartz (D 48153 Münster)  
-michael@hochgartz.de - 13.10.2023  
-Quelltext und Literaturverzeichnis: https://github.com/michael-hochgartz/lectio-brevior  
+michael@hochgartz.de - 15.10.2023  
+Quelltext, Versionsgeschichte und Literaturverzeichnis: https://github.com/michael-hochgartz/lectio-brevior  
 
 
 
@@ -205,6 +205,8 @@ Gleichwie es jeden von euch rührte,
 Wenn er des andern Wolseyn spürte:  
 So daß ihr von der ächten Art  
 Ein paar getreuer Freunde war’t.  
+
+Es scheint, als habe Bertram bereits 1719 (freilich in allgemeinerem Zusammenhang) die für die heutige Forschung betrüblichste Konsequenz aus dem plötzlichen, im Folgenden zu schildernden Tod Jauchs vorausgeahnt - nämlich die Unmöglichkeit, seine Kantatentexte von 1724/25 nach Art eines J.C. Birkmann vollständig gesammelt zu publizieren: „… weil man wol weiß / wenn die Herren Autores davon sterben / daß es doch mit Editirung dergleichen operum postumorum die rechte Art nicht hat.“  
 
 Johann Christoph Jauchs Todesumstände müssen derart dramatisch gewesen sein, dass man im Januar 1725 seinen zwanzigjährigen Sohn Tobias Christoph brieflich („…bald die Post…“) zurück in die Heimat beorderte. Der nachmalige Lüneburger Notar war am 14. November des Vorjahres in der Lindenstadt Leipzig, wo er dem zwei Wochen danach eingeschriebenen, aus Nürnberg stammenden Studenten und späteren Bach-Librettisten Johann Christoph Birkmann begegnet sein dürfte, und wo er bereits fünf Tage darauf bei der Uraufführung von BWV 26 erstmals eine von Bach komponierte Musik auf einen Text seines Vaters leibhaftig miterlebt haben konnte, und wohin er vielleicht eine neue Lieferung von Kantaten- und Passionstexten aus dessen Schreibstube überbrachte - zum Studium „der edlen Weisheits-Spur“ immatrikuliert worden. (Vgl. Erler 1909).  
 
@@ -793,7 +795,7 @@ Der seine Gottesfurcht mit Wissenschafft vereinet.
 Und durch Beredsamkeit ein Felsen-Hertz erweicht  
 Aus dem Chrysostomus mit Krafft zu reden scheinet.  
 
-(Zum Stichwort „Felsenherz“ vgl. Keiser/Hunold 1704/06, Brockes 1715 und BWV 181).  
+(Zum Stichwort „Felsenherz“ vgl. Schwieger 1659, Keiser/Hunold 1704/06, Brockes 1715 und BWV 181).  
 
 Jauch immatrikulierte sich (ohne erneute Deposition) am selben Tag (26.4.1689) an der Universität Jena wie Johann Anastasius Freylinghausen, der später ungleich breitenwirksamere, pietistisch orientierte Gegenspieler der orthodoxen Liederfreunde, der von seinem erwünschten Tischherrn Goetze trotz Vorlage eines Empfehlungsschreibens (zugunsten wessen?) nach eigenen Worten noch am selben Tag abgewiesen wurde.  
 
