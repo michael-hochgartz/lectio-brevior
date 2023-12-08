@@ -3,7 +3,7 @@ Ob ein Superintendens wohl Poete seyn könne? - Zur Person des „Leipziger“ H
 Entwurf für ein Vortragsmanuskript (Es gilt das gesprochene Wort.)  
 
 Michael Hochgartz (D 48153 Münster)  
-michael@hochgartz.de - 07.12.2023  
+michael@hochgartz.de - 08.12.2023  
 Quelltext, Versionsgeschichte und Literaturverzeichnis: https://github.com/michael-hochgartz/lectio-brevior  
 
 
@@ -506,7 +506,7 @@ was schon aufgrund der personellen Beziehungen zweifelsohne lesbar ist als:
 
 Inhaltlich versucht Jauch die prinzipbedingt recht abwechslungarme Form (in Summa 90 Alexandriner-Zeilen) durch das rhetorische Stilmittel eines - freilich mehr repetierenden als variierenden - „Ornatus“ zu bereichern, indem er ungezählte Zitate, aber auch Umspielungen und Reime des Wortstammes „denck“ verwendt, der aus der Devise des Gedenksonntags Riminiscere (5. März; Tag der Verlobung) abgeleitet ist: „Der HErr dencket an uns, und segnet uns.“ (Ps. 115,12). Das beginnt bereits in der Einleitung zur obfuszierten Andeutung der Autorschaft: „… das gnädige Andencken …“.  
 
-Der Text stellt eine kennenswerte Parallele zu Bachs gleichnamiger, nur vier oder fünf Jahre später für eine ganz ähnliche Gelegenheit entstandenen Kantate BWV 196 dar. Während Jauchs Worte (15 Strophen zu je sechs Zeilen; wohl kaum als Vorlage für eine „moderne“ musikalische Darbietung gedacht) eindeutig für die (Wieder-?)Verheiratung eines relativ hochrangigen Geistlichen bestimmt waren, ist dies für Bachs frühe Komposition nur eine von mehreren der von der Forschung erwogenen Möglichkeiten. Zur Diskussion stehen neben der Vermählung des Arnstädter Pfarrers Johann Lorenz Stauber auch Bachs eigene Trauung mit seiner ersten Frau Maria Barbara Bach in Dornheim (1707 bzw. 1708). Der junge J.S. Bach dürfte übrigens dem 1698 zum zweiten Prediger an St. Michaelis ernannten Boje während seiner Lüneburger Jahre durchaus über den Weg gelaufen sein - was immer sich aus dieser Tatsache als Ansatz für weitere Überlegungen ergeben könnte.  
+Der Text stellt eine kennenswerte Parallele zu Bachs gleichnamiger, nur vier oder fünf Jahre später für eine ganz ähnliche Gelegenheit entstandenen Kantate BWV 196 dar. Während Jauchs Worte (15 Strophen zu je sechs Zeilen; wohl kaum als Vorlage für eine „moderne“ musikalische Darbietung gedacht) eindeutig für die (Wieder-?)Verheiratung eines relativ hochrangigen Geistlichen bestimmt waren, ist dies für Bachs frühe Komposition nur eine von mehreren der von der Forschung erwogenen Möglichkeiten. Zur Diskussion stehen neben der Vermählung des Arnstädter Pfarrers Johann Lorenz Stauber auch Bachs eigene Trauung mit seiner ersten Frau Maria Barbara Bach in Dornheim (1707 bzw. 1708). Der junge J.S. Bach dürfte übrigens dem 1698 zum zweiten Prediger an St. Michaelis ernannten Boje während seiner Lüneburger Jahre durchaus über den Weg gelaufen sein - was immer sich aus dieser Tatsache als Ansatz für weitere Überlegungen ergeben könnte. Zum Beispiel die Vermutung, die - leider nur stil-, aber nicht quellenkritisch ungefähr datierbare Kantate BWV 196 war für Lüneburg bestimmt.  
 
 Sechs Jahre nach dem Glückwunsch für Boje, nämlich 1709, heißt es im Titel einer Trauermusik für Jauchs Amtsbruder an St. Nicolai, Friedrich Heinrich Oldecop:  
 
