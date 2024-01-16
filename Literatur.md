@@ -42,7 +42,7 @@ Abkürzungen
 **Dürr**, Alfred: Die Johannes-Passion von Johann Sebastian Bach : Entstehung, Überlieferung, Werkeinführung, Kassel **1985** 
 **Dürr**, Alfred: Die Entstehungsgeschichte der Matthäus-Passion, in: Johann Sebastian Bach, Matthäus-Passion, BWV 244 : Vorträge der Sommerakademie J. S. Bach 1985, Kassel **1990**, 76-93  
 **Erler**, Georg: Die jüngere Matrikel der Universität Leipzig, 1559 - 1809, 3 Bde, Leipzig **1909**  
-**Fangerau 2011**  
+
 **Fischer**, William B., When God sang German, o.O. **2017**  
 **Franklin**, Don O.: Viewing the poetic texts in Bach's Matthew Passion from a new perspective, Bach : the journal of the Riemenschneider Bach Institute, Baldwin-Wallace College 46 (**2015b**), 29-48  
 **Frederichs**, Henning: Das Verhältnis von Text und Musik in den Brockespassionen Keisers, Händels, Telemanns und Matthesons : mit einer Einführung in ihre Entstehungs- und Rezeptionsgeschichte sowie den Bestand ihrer literarischen und musikalischen Quellen, München **1975**  
@@ -59,7 +59,8 @@ Abkürzungen
 **Hofmann**, Klaus: Die Frühfassung der Matthäus-Passion – ohne Blockflöten?, BJ **2020**. 259-260  
 **Jakubowski-Tiessen**, Manfred (Hg.): Bekehrung unterm Galgen. Malefikantenberichte. Leipzig **2011**  
 **Jauch** Deutsches Geschlechterbuch Bd. 200 **1996**  
-**Junghans 1870**  
+**Junghans**, Wilhelm, Johann Sebastian Bach als Schüler der Partikularschule zu St. Michaelis in Lüneburg oder Lüneburg eine Pflegestätte kirchlicher Musik, Programm des Johanneums zu Lüneburg, Ostern
+ **1870**  
 **Kadelbach**, Ada: Das Husumer Hofgesangbuch (1676), in Jahrbuch für Liturgik und Hymnologie 27 **1983**, 83-111  
 **Kadelbach**, Ada: Das Akrostichon im Kirchenlied, in: Jahrbuch für Liturgik und Hymnologie 36 **1997**, 175-207  
 **Kersten**, Sandra: Die Freundschaftsgedichte und Briefe Johann Christian Günthers, Berlin **2006**  
@@ -73,9 +74,8 @@ Abkürzungen
 **Kümmerling**, Harald „Difficile est satyram non scribere“ oder: Über eine gewisse Passion eine so genannten weltberühmten Mannes“, Beiträge zur Geschichte des Oratoriums seit Händel, R. Cadenbach / H. Loos (Hrsg), Festschrift Günther Massenkeil, Bonn **1986**, 57-69  
 **Leaver**, Robin, A., A catholic Hymnal for use in Lutheran Leipzig: Catholisches Gesang-Buch (Leipzig, 1724), in: Bach perspectives **2018**,  36-62  
 **Leisinger 2002**  
-**Linke 1912**  
-**Linke 1931**  
-**Marquardt 2019**  
+**Linke**, Wilhelm, Niedersächsische Familienkunde ein biographisches Verzeichnis ; auf Grund der Leichenpredigten und sonstigen Personalschriften der Königlichen Bibliothek zu Hannover und anderer hannoverscher Sammlungen, Hannover **1912**  
+**Linke**, Wilhelm, Katalog der Leichenpredigten und sonstigen Personalschriften des Staatsarchivs zu Hannover nebst Ergänzungen zu des Verfassers Niedersächsischer Familienkunde, Leipzig **1931**  
 **Marshall**, Robert L., The Compositional Process of J. S. Bach: A Study of the Autograph Scores of the Vocal Works, 2 vols Princeton, **1972**  
 **Marshall 2011**  
 **Marshall**, Robert L., Bach and Mozart: Essays on the Enigma of Genius, Rochester **2019**  
@@ -84,11 +84,11 @@ Abkürzungen
 **Maul**, Michael, Alles mit Gott und nichts ohn’ ihn – Eine neu aufgefundene Aria von Johann Sebastian Bach, BJ **2005**, 7–34  
 **Maul**, Michael, "Wie wunderbar sind deine Werke", Berlin **2023**  
 **Melamed**, Daniel R.: Zum Text und Kontext der „Keiser“-Markuspasion, BJ **1999**, 35ff  
-**Mendel 1963**  
+**Mendel**, Arthur, Traces of the pre-history of Bachs St. John and St. Matthew Passions, in: Festschrift Otto Erich Deutsch, Kassel **1963**  
 **Mendel 1964**  
 **Merzbacher**, Dieter, „Ob ein Poete wohl Superintendens seyn könne?" - Erdmann Neumeister im Spiegel seiner Poetik, in: Rucker, Henrike, Erdmann Neumeister (1671-1756) - Wegbereiter der evangelischen Kirchenkantate, Rudolstadt **2000**, 75-96  
-**Otto 2007**  
-**Petzoldt** **1999**  
+**Otto**, Rüdiger, Ein Leipziger Dichterstreit: Die Auseinandersetzung Gottscheds mit Christian Friedrich Henrici, in: Johann Christoph Gottsched und seine Zeit, Berlin **2007**  
+**Petzoldt**, Martin, Die Welt der Bach-Kantaten, Bd. III, Kassel **1999**  
 **Petzoldt**, Martin, Texthefte zu Bachs Leipziger Kirchenmusik, Stuttgart **2000**  
 **Petzoldt**, Martin: Bach-Kommentar : theologisch-musikwissenschaftliche Kommentierung der geistlichen Vokalwerke Johann Sebastian Bachs
 Bd. 1, Kassel **2004**  
@@ -97,8 +97,8 @@ Bd. 1, Kassel **2004**
 **Reinhardt**, Uta: Die evangelischen Pastoren in Lüneburg 1530-1980, in: Reformation vor 450 Jahren. Lüneburg **1980**, 113-169  
 **Schabalina**, Tatjana: "Texte zur Music" in St. Petersburg. Weitere Funde, in BJ 95 **2009**, 11-48  
 **Scheide**, William H.: Die Choralkantaten von 1724 und Bachs Köthener Besuch, in BJ 89 **2003**, 47-65  
-**Scheide 1976**  
-**Scheitler**, Irmgard:  **2004**  
+**Scheide**, William H., Zum Verhältnis von Textdrucken und musikalischen Quellen der Kirchenkantaten Johann Sebastian Bachs, in BJ 62 **1976**, 79-94  
+**Scheitler**, Irmgard: Geistliche Musikzensur in Hamburg 1710 : ein verhindertes Passions-Oratorium und sein problematisches Libretto, BJ 88 **2004**, 55-72  
 **Scheitler**, Irmgard: Deutschsprachige Oratorienlibretti : von den Anfängen bis 1730, Paderborn **2005**  
 **Schleuning**, Peter: Johann Sebastian Bachs "Kunst der Fuge" : Ideologien, Entstehung, Analyse. Kassel **1993**  
 **Schulze**, Hans-Joachim: Schlusswort in: Bachforschung und Bachinterpretation heute : Wissenschaftler und Praktiker im Dialog ; Bericht über das Bachfest-Symposium 1978 der Philipps-Universität Marburg / hrsg. von Reinhold Brinkmann, Kassel **1981**  
@@ -109,12 +109,13 @@ Bd. 1, Kassel **2004**
 **Siegele**, Ulrich: Bachs Stellung in der Leipziger Kulturpolitik seiner Zeit, BJ 69 (**1983**), 7-50 und 70 (**1984**), 7-43  
 **Smend**, Friedrich: Bach in Köthen, Berlin **1951**  
 **Smend**, Friedrich: Johann Sebastian Bach: Kirchen-Kantaten, 3. Auflage, Berlin **1966**  
+**Spickereit**, Anja, Todesursachen in Leichenpredigten vom 16. bis 18. Jahrhundert in ausgewählten oberdeutschen Reichsstädten sowie in den Memminger Verzeichnissen der Verstorbenen von 1740-1809, Med. Diss. Dresden **2011**  
 **Stauder**, Burkhard: Zur Entstehungsgeschichte der Matthäuspassion BWV 244 und der Köthener Trauermusik BWV 244a, Die Musikforschung 73 (**2020**), 235-258  
 **Tatlow**, Ruth, Bach's Numbers, Compositional Proportion and Significance, Cambridge **2015**  
 **Tschirner**, Ulfert: Das Lüneburger Raritätenkabinett des Tobias Reimers (1653-1716), Lüneburger Blätter 37 **2020**, 129-160  
 **Walter**, Horst: Musikgeschichte der Stadt Lüneburg Vom Ende d. 16. bis zum Anfang d. 18. Jh. Tutzing **1967** (und früher)  
 **Walter**, Meinrad, Viele Dichter - eine Passion, Zum Libretto der Johannes-Passion Bachs, in Michael Gassmann (Hg.) Bachs Johannes-Passion - poetische, musikalische, theologische Konzepte; Vorträge der Bachwoche Stuttgart 2011, Kassel  **2012** 111-127  
-**Weichmann 1738**  
+**Weichmann**, Christian Friedrich, Poesie der Niedersachsen, Bd. V, Hamburg **1738**  
 **Whittaker**, Gillies: The Cantatas of Johann Sebastian Bach, Sacred and Secular, 2 vols. Oxford, **1959**  
 **Wiesenfeldt**, Christoph: Die Apostelglocke von 1436. Das historische Geläut der St. Johanniskirche zu Lüneburg, Lüneburg **2011**  
 **Wiesenfeldt**, Christoph: Kirche in der Stadt: Das Geistliche Ministerium Lüneburg. Ein Kapitel Lüneburger Kirchen- und Stadtgeschichte, Lüneburger Blätter 35 **2016**, 7-116  

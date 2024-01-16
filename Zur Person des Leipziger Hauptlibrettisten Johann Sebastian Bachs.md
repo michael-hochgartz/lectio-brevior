@@ -3,7 +3,7 @@ Ob ein Superintendens wohl Poete seyn könne? - Zur Person des „Leipziger“ H
 Entwurf für ein Vortragsmanuskript (Es gilt das gesprochene Wort.)  
 
 Michael Hochgartz (D 48153 Münster)  
-michael@hochgartz.de - 04.01.2024
+michael@hochgartz.de - 16.01.2023  
 Quelltext, Versionsgeschichte und Literaturverzeichnis: https://github.com/michael-hochgartz/lectio-brevior  
 
 
@@ -262,7 +262,7 @@ Unterwegs muss Tobias Christoph Jauch demnach („Denn ich musste zeitig wissen�
 
 Ein Blick in ein medizinisches Lexikon der damaligen Zeit eröffnet wenig Hoffnung für Betroffene:  
 
-„DEr Steck-Fluß ist ein plötzlicher Zufall / der die Patienten öfters in 12. biß 24. Stunden hinrichten kan / und ihn gar selten über den 3ten Tag leben lässet; Solches aber pfleget nicht sowol hagern / als corpulenten und voll-leibigen Personen zu begegnen / welche starcke / voll-blutige / und in ihren jüngern Jahren an Blut-Flüsse / oder auch ans Schröpffen und Aderlassen gewehnte Personen / in ihrem Alter / und gemeinlich beym trüben Wetter / überfället. Vorher gehet meistentheils Engbrüstigkeit und Husten vor / womit sodann verbunden ist ein heftiger zufluß seroser Feuchtigkeit: darauf pfleget sich Schwindel und Müdigkeit einzustellen / biß sie endliche schleunig erkalten / und auf der Brust ganz voll werden / und mit der grösten Gewalt nur noch ein wenig / und darzu mit starckem Recheln / athmen können; hierauf verlieren sich die Kräffte / dabey man befürchten muß / daß der Patient ersticken werde.“ (Vgl. Deigendesch 1719; Fangerau 2011.)
+„DEr Steck-Fluß ist ein plötzlicher Zufall / der die Patienten öfters in 12. biß 24. Stunden hinrichten kan / und ihn gar selten über den 3ten Tag leben lässet; Solches aber pfleget nicht sowol hagern / als corpulenten und voll-leibigen Personen zu begegnen / welche starcke / voll-blutige / und in ihren jüngern Jahren an Blut-Flüsse / oder auch ans Schröpffen und Aderlassen gewehnte Personen / in ihrem Alter / und gemeinlich beym trüben Wetter / überfället. Vorher gehet meistentheils Engbrüstigkeit und Husten vor / womit sodann verbunden ist ein heftiger zufluß seroser Feuchtigkeit: darauf pfleget sich Schwindel und Müdigkeit einzustellen / biß sie endliche schleunig erkalten / und auf der Brust ganz voll werden / und mit der grösten Gewalt nur noch ein wenig / und darzu mit starckem Recheln / athmen können; hierauf verlieren sich die Kräffte / dabey man befürchten muß / daß der Patient ersticken werde.“ (Vgl. Deigendesch 1719; Spickereit 2011.)
 
 Zufälligerweise notifiziert der „Correspondent“ nur wenige Tage später (10.2.1725) auch den Tod jener Person, über die bislang als den mutmaßlichen Urheber der Choralkantatentexte diskutiert wird (vgl. Schulze 1999):  
 
