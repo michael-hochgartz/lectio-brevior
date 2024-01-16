@@ -2,8 +2,8 @@
 des „Leipziger“ Hauptlibrettisten  
 Johann Sebastian Bachs  
 Michael Hochgartz (D 48153 Münster)  
-michael@hochgartz.de - 11.09.2023  
-Quelltext und Literaturverzeichnis: https://github.com/michael-hochgartz/lectio-brevior  
+michael@hochgartz.de - 16.01.2024  
+Quelltext, Versionsgeschichte und Literaturverzeichnis: https://github.com/michael-hochgartz/lectio-brevior  
 
 Amore et studio elucidandae veritatis haec subscripta disputabuntur (Martin Luther 1517)  
 
@@ -11,7 +11,8 @@ Amore et studio elucidandae veritatis haec subscripta disputabuntur (Martin Luth
 
 Pro captu lectoris habent sua fata libretti (nach Terentianus Maurus)  
 
-
+heißt es in Gaston Bachelards Buch „Die Bildung des wissenschaftlichen Geistes“: „Der Palast der Entdeckungen ist kein Museum für müßige Gaffer. Man geht nicht an Regentagen dorthin, um die Zeit totzuschlagen.“ 
+Zwischen der gewöhnlichen und der wissenschaftlichen Neugier“, schreibt Bachelard, „besteht eine Dialektik: die erste will besichtigen, die zweite begreifen.
 
 0. Ausgangspunkt für die folgenden Überlegungen zur namentlichen Ermittlung des „Leipziger“ Hauptlibrettisten Johann Sebastian Bachs ist die Annahme, dass die Entstehung der anonym überlieferten Texte für einen bedeutenden Teil der für die regulären Sonn- und Festtage zwischen Trinitatis 1724 und Annuntiatio Domini 1725 entstandenen geistlichen Vokalwerke zwar aufgrund eines Benehmens zwischen den Beteiligten (Autor, Komponist; Prediger; Zensor und Korrektor) stattfand, nicht aber an demselben Ort wie die Komposition der Musik.  
 
@@ -80,11 +81,11 @@ Dazu passt die Beobachtung, dass in der Kantate BWV 93 das Luther-Zitat aus Kön
 
 
 
-8. Anhand der (vielleicht schon während seiner Leipziger Studienzeit in seinen Besitz gelangten) Relikte einer Anfang 1725 unvollständig gebliebenen, aus ungehefteten Papieren bestehenden, spätestens in den 1730er Jahren kompositions- und aufführungspraktisch obsolet gewordenen Konzeptpartitur der Erstfassung der Matthäus-Passion konstruierte Johann Friedrich Agricola zwischen 1755 und 1770 einen musikphilologisch elaborierten Partitur-Torso, der wesentlich durch einen - naturgemäß nur retrospektiv verständlichen - „non-finito“-Charakter bestimmt ist. (D-B Mus.ms. Bach P 26).  
+8. Anhand der (vielleicht schon während seiner Leipziger Studienzeit in seinen Besitz gelangten) Relikte einer Anfang 1725 unvollständig gebliebenen, aus ungehefteten Papieren bestehenden, spätestens in den 1730er Jahren kompositions- und aufführungspraktisch obsolet gewordenen Konzeptpartitur der Erstfassung der Matthäus-Passion konstruierte Johann Friedrich Agricola zwischen 1755 und 1770 einen musikphilologisch elaborierten Partitur-Torso, der wesentlich durch seinen - naturgemäß nur retrospektiv verstehbaren - „non-finito“-Charakter bestimmt ist. (D-B Mus.ms. Bach P 26).  
 
 Als strukturelle Folie zur Darstellung des Umfangs fehlender Teile diente ihm eine zweiteilige Abschrift (D-B AmB. 6+7) der spätestens 1729 mit Textergänzungen durch die Hand Christian Friedrich Henricis vervollständigten, von Bach (während oder nach der Verwendung für die Köthener Tauermusik BWV 244a) neu geschriebenen Partitur der Frühfassung, die der Gelegenheitskopist Johann Christoph Farlau anhand einer (aus Naumburg beschafften oder in Leipzig vorgefundenen) Originalhandschrift angefertigt hatte. (Vgl. Wollny 2002).  
 
-Bei der Kollationierung der Vorlagen durch Agricola kam es zu der von Dürr (1972) editionstechnisch pragmatisch behandelten, gleichwohl von ihm (1974) aufgrund erheblicher Restzweifel exemplarisch dokumentierten, von Chafe (1982) kontrovers gedeuteten, von Glöckner (2004) im Sinne Dürrs akzeptierten, bislang ohne fundamentale Erklärung gebliebenen Kreuzkontamination von Lesarten, die allenthalben durch Lesefehler des sichtlich überforderten Farlau und - in deutlich weniger Fällen als von Dürr unterstellt - durch kluge Konjekturen des kompositionserfahrenen Agricola überlagert wurden.  
+Bei der Kollationierung der Vorlagen durch Agricola kam es zu der von Dürr (1972) editionstechnisch pragmatisch behandelten, gleichwohl von ihm (1974) aufgrund erheblicher Restzweifel exemplarisch dokumentierten, von Chafe (1982) kontrovers gedeuteten, von Glöckner (2004) im Sinne Dürrs akzeptierten, bislang ohne fundamentale Erklärung gebliebenen Kreuzkontamination von divergierenden Lesarten, die allenthalben durch Lesefehler des sichtlich überforderten Farlau und - in deutlich weniger Fällen als von Dürr unterstellt - durch kluge Konjekturen des kompositionserfahrenen Agricola überlagert wurden.  
 
 Diese Betrachtungsweise ermöglicht erstmals eine weitgehend widerspruchsfreie Erklärung der Herkunft der von Dürr (1974) als authentisch eingestuften (da durch das Autograph der Spätfassung P 25 indirekt bezeugten, als Trennfehler zu klassifizierenden) Lesarten in der Handschrift P 26, die Agricola nicht aus AmB. 6+7, sondern nur aus einer heute verschollenen originalen Entwurfspartitur bezogen haben kann - den eingangs postulierten Relikten vom Januar 1725 - deren abstrakter philologischer Status näherungsweise mit demjenigen der „Logienquelle Q“ bei der Überlieferung des Neuen Testaments vergleichbar ist.  
 
@@ -92,11 +93,11 @@ Der Charakter der Handschrift P 26 ist somit keineswegs defizitär, wie seit Jah
 
 Insbesondere dokumentieren die Erscheinungsformen einiger Turbae-Chöre (z.B. Nr. 4d oder Nr. 41b) oder der Aria Nr. 20 als Momentaufnahmen unfertiger, aber als zielgerichtet erkennbarer Prozesse das Vorgehen des Komponisten bei der provisorischen Fixierung komplexer musikalischer Gedanken. (Vgl. Marshall 1972; 2011; sowie speziell zur Aria Chafe 1982.)  
 
-Selbst scheinbar nebensächliche, unmotiviert anmutende Details, wie die isoliert herausgehobene Platzierung des - gegenüber den später, durch simple notationstechnische Handgriffe geradegerückten Varianten h-a-g bzw. g-a-h-a „falsch“ erscheinenden - provisorischen Zieltons a (hier noch ohne den ausgehaltenen Baßton G) in Takt 7 des Rezitativs Nr. 2 auf dem seltenen, deklamatorisch unkonventionell wirkenden, für den Sänger riskanten Vokal ü (nach explizitem, sonst meist fehlendem Taktstrich) und die am Ende dieser Wortfolge chromatisierte Schlußklausel („…gekreuziget werde“), deren erster notierter Ton nach einem Zeilenwechsel eine Rückbindung ins Nirwana aufweist, nämlich in den vorangehenden, noch leeren Halbtakt, vermögen die Annahme zu stützen, dass hier ursprünglich niemand anderes  am Werk gewesen sein kann als der Komponist selbst.  
+Selbst scheinbar nebensächliche, unmotiviert anmutende Details, wie die isoliert herausgehobene Platzierung des - gegenüber den später, durch simple notationstechnische Handgriffe geradegerückten Varianten h-a-g bzw. g-a-h-a „falsch“ erscheinenden - provisorischen Zieltons a (hier noch ohne den ausgehaltenen Baßton G) in Takt 7 des Rezitativs Nr. 2 auf dem seltenen, deklamatorisch unkonventionell wirkenden, für den Sänger riskanten Vokal ü (nach explizitem, sonst meist fehlendem Taktstrich) und die am Ende dieser Wortfolge chromatisierte Schlußklausel („…gekreu………ziget werde“), deren erster notierter Ton nach einem Zeilenwechsel eine Rückbindung ins Nirwana aufweist, nämlich in den vorangehenden, noch leeren Halbtakt, vermögen die Annahme zu stützen, dass hier ursprünglich niemand anderes  am Werk gewesen sein kann als der Komponist selbst.  
 
 Zudem konterkariert gerade dieses Beispiel Dürrs Verlegenheitshypothese einer außergewöhnlichen „Konjekturfreudigkeit“ Agricolas, der diesen extrem exponiert erscheinenden Fehler (NBA, Krit. Bericht), der in diesem fragmentarischen Zustand des Satzbildes noch gar keiner war!, sicherlich mit einem Federstrich nach einem einzigen Blick in AmB. 6 oder durch eigene kompositorische Kompetenz hätte korrigieren können - wie Bach es bei der späteren Fertigstellung, als nach Aufschiebung des Harmoniewechsels G-(A7)-D6 (bedingt durch die buchstäblich überbordende Streichergloriole der Christusworte) um einen halben Takt die Vokalnote tatsächlich fehlerhaft wurde, durch Verkürzung des a mittels eines zusätzlichen Fähnchens, Anfügung eines Sechszehntel g und Voranstellung einer Achtelnote h dann auch selbst mit seiner typisch pragmatischen Eleganz tat.  
 
-Oder hatte Bach ursprünglich an dieser dramaturgisch herausgehobenen Stelle (Vorankündigung des Verrats, wenige Takte nach Ende des Exordiums und unmittelbar nach dem ersten Kurzauftritt des Haupt-Protagonisten) gar eine „vertikal“ dissonant definierte, wortverstärkende Harmonie im Sinn („angesprungene Dissonanz“), die sich im zweiten Anlauf - nach Ausformulierung der Streicherstimmen - „horizontal“ (also stimmführungstechnisch) als unausführbar erwies und deshalb die Degradierung des betonten Zieltons a zur Durchgangsnote erforderte? (Vgl. auch Leisinger 2002 zu BWV 245/12c und 245 13II.).  
+Oder hatte Bach ursprünglich an dieser dramaturgisch herausgehobenen Stelle (Vorankündigung des Verrats, wenige Takte nach Ende des dramaturgisch überwältigenden Exordiums und unmittelbar nach dem ersten Kurzauftritt des Haupt-Protagonisten) gar eine „vertikal“ dissonant definierte, wortverstärkende Harmonie im Sinn („angesprungene Dissonanz“), die sich im zweiten Anlauf - nach Ausformulierung der Streicherstimmen - „horizontal“ (also stimmführungstechnisch) als unausführbar erwies und deshalb die Degradierung des betonten Zieltons a zur Durchgangsnote erforderte? (Vgl. auch Leisinger 2002 zu BWV 245/12c und 245 13II.).  
 
 Ein ähnliches Bild bietet die offenbar vom Komponisten nachträglich geänderte Akzentsetzung in Takt 51 der Bass-Stimme im 5. Satz der Kantate BWV 20, die sich durch wenige Federstriche aus der vom Herausgeber vermuteten Urform erzeugen lässt. (Kritischer Bericht, S. 141.)  
 
@@ -123,7 +124,7 @@ Im Gegensatz zu anderen Passionsaufführungen (BWV 247) war der Aufführungsort 
 Die fehlende Endziffer könnte schließlich darauf hindeuten, dass es sich bei der Vorlage um ein Exemplar handelte, welches seit der Fertigstellung der Spätfassung 1736 wegen Fehlens der strukturell bedeutsamen Tausch-Komponente („O Mensch bewein“ etc.) unverkäuflich geworden war. 
 Mögliche Konsequenzen aus diesem Befund für den Aufführungskalender zwischen 1730 und 1736 bleiben darauf hin zu prüfen, ob nicht 1734 eine Wiederaufführung in der unveränderten Form von 1729 geplant war.  
 
-Der an P 26 angebundene, von anderer Hand nach anderer Vorlage auf anderem Papier kopierte Schlusschor (BWV 244/68: „Wir setzen uns…“) steht - das ist bislang unbestritten - mit Agricolas Konstrukt in keinem Zusammenhang. Die buchbinderische Integration in den Band dürfte wohl auf den Handschriftensammler Georg Poelchau zurückgehen. Freilich stellt sich die Frage nach einem eventuellen Aufführungszweck dieses Satzes.  
+Der an P 26 angebundene, von anderer Hand nach anderer Vorlage auf anderem Papier kopierte Schlusschor (BWV 244/68: „Wir setzen uns…“) steht - das ist bis auf Weiteres unbestritten - mit Agricolas Konstrukt in keinem Zusammenhang. Die buchbinderische Integration in den Band dürfte wohl auf den Handschriftensammler Georg Poelchau zurückgehen. Freilich stellt sich die Frage nach einem eventuellen Aufführungszweck dieses Satzes.  
 
 
 
@@ -150,13 +151,13 @@ Die sechs madrigalischen Texte für die Passionssätze 1, 20, 39, 42 und für di
 Dass auch Choräle berücksichtigt wurden und im Einzelfall auch kurze Platzhalter für - dann doch nicht mehr realisierte - Sätze („Aria“ bzw. Doppelsatz Nr. 22/23, mit der sich die Anzahl der postalischen Beilagen optimal passend auf sieben erhöhen würde) im Torso auftauchen, legt die Absprache eines Generalplans zwischen Autor und Komponist nahe.  
 
 
-11. Die Choralbearbeitung „O Mensch bewein dein Sünde groß“ (BWV 244/29 alias 245 II/1) lag spätestens Ende Januar 1725 vor und war bis zu diesem Zeitpunkt als wesentliches Element der geplanten Matthäus-Passion vorgesehen. Da es sich um unveränderten Liedtext handelt, war sie nicht Bestandteil der vom Autor ausformulierten „Poesia“, sicherlich aber im Gesamtplan berücksichtigt und konnte von Bach somit zu einem beliebigen Zeitpunkt nach Beginn des Projekts in Angriff genommen - und in der Stunde der Not als Verfügungsmaterial verwendet werden.  
+11. Die Choralbearbeitung „O Mensch bewein dein Sünde groß“ (BWV 244/29 alias 245 II/1) lag spätestens Ende Januar 1725 vor und war bis zu diesem Zeitpunkt als wesentliches Element der geplanten Matthäus-Passion vorgesehen. Da es sich um unveränderten Liedtext handelt, war sie nicht Bestandteil der vom Autor ausformulierten „Poesia“, sicherlich aber im Gesamtplan berücksichtigt und konnte von Bach somit zu einem beliebigen Zeitpunkt nach Beginn des Projekts in Angriff genommen - und in der Stunde der Not (Februar 1725ff.) als Verfügungsmaterial verwendet werden.  
 
 Die bei der provisorischen Einschleusung in die vorzeitig wiederaufgeführte Johannes-Passion erforderliche Transposition (zunächst nur der Stimmen?) nach Es-Dur ermöglichte als Nebeneffekt eine elegantere Führung der Continuopartie, deren Oktavversetzungen (cis statt Cis; wegen fehlender Taste in der nachgewiesenen, zeitüblichen Kurzen Oktave auf der Orgel) ursprünglich durch die aus der Großform von BWV 244 resultierende Tonart E-Dur erforderlich gewesen waren.  
 
 Als alternativer Erklärungsansatz wäre eine - von Dürr (zuletzt 1988) zur Diskussion gestellte Erstfassung in D-Dur denkbar, zumal das vorangehende Rezitativ im Torso P 26 aufgrund etlicher fehlender Schlusstakte und der nur extrem sparsam notierten Bass-Noten (f# … g# … f# - h …; Zielton in der Spätfassung: c#, ohne Bezifferung und mit leeren Oberstimmen; Antepenultima dort: E7)  hinsichtlich der Zieltonart unbestimmt bleibt - freilich um den Preis eines Bruchs in der tonartlichen Symmetrie der Rahmensätze des ersten Teils der Passion.  
 
-Durch Umkehrung der bisher angenommenen Entstehungsreihenfolge wird somit auch eine von Arthur Mendel postulierte, in Weimar lokalisierte Frühfassung (Notname bis zum Erscheinen von BWV#3: BC D1 …) des Satzes obsolet. Vielmehr fügt sich dieser Chor durch seine - in der Fachliteratur nachhaltig bestätigte - kompositorische Reife, formale Opulenz und hymnologische / theologische Tendenz zwar notationstechnisch scheinbar leicht korrumpiert, aber substanziell bruchlos in ein Gesamtprojekt „Choralkantaten und Matthäus-Passion“ ein.  
+Durch Umkehrung der bisher angenommenen Entstehungsreihenfolge wird somit auch eine von Arthur Mendel postulierte, in Weimar lokalisierte Frühfassung (Notname bis zum Erscheinen von BWV#3: BC D1 …) des Satzes obsolet. Vielmehr fügt sich dieser Chor durch seine - in der Fachliteratur nachhaltig bestätigte - kompositorische Reife, formale Opulenz und hymnologische / theologische Tendenz zwar notationstechnisch scheinbar korrumpiert, aber substanziell bruchlos in ein Gesamtprojekt „Choralkantaten und Matthäus-Passion“ ein.  
 
 
 13. Bei Bestätigung der Annahme einer Entstehung und Vollendung der Frühfassung der Matthäus-Passion in zwei, in größerem zeitlichen Abstand aufeinander folgenden Etappen könnten sich alternative Antworten auf die bis heute nicht abschließend beantwortete Frage nach den Prioritäten der Parodiebeziehungen zur Köthener Trauermusik BWV 244a ergeben. (Vgl. zunächst Gojowy 1965; Brainard 1969; Schulze 2004; Braatz 2006).  
@@ -181,7 +182,7 @@ Erklärungsbedürftig bleibt in diesem Zusammenhang auf jeden Fall der Umstand, 
 
 Ihr indessen, matte Glieder,  
 Bleibt in einer süssen Ruh!  
-Schliest euch sanfte, sanfte zu. (M.C.B. 1725/38)
+Schliest euch sanfte, sanfte zu. („M.C.B.“ 1725/38)
 
 Ihr erblaßten Fürsten=Glieder;  
 Bleibet nun in eurer Ruh,  
@@ -203,23 +204,17 @@ Akademischer Schlendrian V. Aufzug, 11. Szene.
 Carolingen [nachdem sie erfahren musste, dass ihr studentischer Liebhaber sie geschwängert, betrogen und verlassen hat]:  
 
   O! Du verfluchter und Meyneidiger Bösewicht;  
-
   Fahre, daß dir der Halß zerbreche!  
   Kommt ihr Furien aus der Hölle,  
   und zerreißet das ungetreue Herz!  
-
   Verfinstert euch ihr blauen Wolcken,  
   und ersäuffet die tyrannische Seele!  
--------------------------------------------------------  
   Brüllet ihr entsetzlichen Donner,  
   und zerschmettert das Marck in den Eydbrüchigen Gebeinen.  
-
   Eröffne, o Erde, deinen Schlund,  
   verschlinge den verhaßten Cörper eines solchen Unmenschens,  
   und verwandle ihn in die abscheulichste Pech- und Schwefels-Grube!  
-
   Du Tyger-Seele, du Unthier, Verräther, Betrüger!  
-
 (bricht in herzzerreißendes Schluchzen aus.)  
 
 Neben einem - genau diesen Satz betreffenden - musikalischen Selbstzitat Bachs in BWV 127 finden sich sprachliche Allusionen in Henricis Text für BWV 205 (zum 3.8.1725) und in seinen „Erbaulichen Gedancken“ von 1725, deren Inhalt und Publikationsgeschichte - nicht nur mangels öffentlich verfügbaren Digitalisats - bis vor kurzem (seit Spitta 1871!) nur unzureichend erforscht wurden.   
@@ -448,7 +443,7 @@ bzw.
 
 in hohem Maße wahrscheinlich, dass Bach bei der Verwendung dieser Formel Vorgefundenes aus dessen Manuskripten zitierte. Zu erwähnen ist ferner, dass das auffälligste dieser Beispiele, der Druck der Magisterdisputation des Autors, mit [J]esu [C]hristo [J]uvante“ beginnt und mit dem auch von Bach verwendeten [S]oli [D]eo [G]loria endet.  
 
-Es ist einer Überlegung wert, ob nicht „J.C.J.“ Vorbild für Bachs seit seiner Mühlhausener Ratswechselkante BWV 71 nachweisbare Formel „J.J.“ darstellen könnte. (Ausnahme: BWV 16 zum Auftakt der Kalenderjahres 1726, wo es heißt: „J.N.J.A.“; Vgl. Braatz 2007b.) In diesem Zusammenhang bleibt zu eruieren, ob überhaupt eine wörtliche Auflösung des Kürzels als „Jesu Juva“ aus der Hand Bachs existiert, dessen Dienst als Kantor 27 Jahre lang mit einer (gegen Honorar abgegebenen) Lehrverpflichtung für Lateinunterricht verbunden war. Andernfalls blieben - neben der alttestamentlichen Variante „Jehova Juva“ die Interpretationen als „Jesu Juvante“ als gleichberechtigte sowie „Jesus Immanuel“ als ebenfalls im Umfeld des Autors belegbare, aber weniger wahrscheinliche Alternativen.  
+Es ist einer Überlegung wert, ob nicht „J.C.J.“ Vorbild für Bachs seit seiner Mühlhausener Ratswechselkante BWV 71 nachweisbare Formel „J.J.“ darstellen könnte. (Ausnahme: BWV 16 zum Auftakt der Kalenderjahres 1726, wo es heißt: „J.N.J.A.“; Vgl. Braatz 2007b.) In diesem Zusammenhang bleibt zu eruieren, ob überhaupt eine wörtliche Auflösung des Kürzels als „Jesu Juva“ aus der Hand Bachs existiert, dessen Dienst als Kantor 27 Jahre lang mit einer (gegen Honorarzahlung abgegebenen) Lehrverpflichtung für Lateinunterricht verbunden war. Andernfalls blieben - neben der alttestamentlichen Variante „Jehova Juva“ die Interpretationen als „Jesu Juvante“ als gleichberechtigte sowie „Jesus Immanuel“ als ebenfalls im Umfeld des Autors belegbare, aber weniger wahrscheinliche Alternativen.  
 
 Nicht unerwähnt soll der Umstand bleiben, dass Martin Luther auf dem Reichstag zu Worms am 18. April 1521 im Anschluss an sein „Revocare non posse“ laut Protokoll eine zwar anders formulierte, aber inhaltlich fast gleiche, von späteren Historiographen unsäglich überhöhte, auf Ps. 53(54),6 und dessen Einfluss auf den Gregorianischen Choral (9. Sonntag nach Pfingsten) zurückgehende, von verschiedenen Komponisten (zumeist als „adjuvat“) vertonte, in dieser speziellen Form überlieferte Bekräftigung anfügte: „Deus adjuvet me.“ Oder nach den Worten des Ohrenzeugen Konrad Peutinger „Got kum mir zu hilf.“  
 
