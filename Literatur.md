@@ -4,7 +4,7 @@ Bibliographische Handreichung zu den Manuskriptentwürfen:
 - Zur Person des Leipziger Hauptlibrettisten Johann Sebastian Bachs.md
 
 Michael Hochgartz (D 48153 Münster)  
-michael@hochgartz.de - 07.06.2023  
+michael@hochgartz.de - 16.01.2024  
 https://github.com/michael-hochgartz/lectio-brevior   
 
 Fachkundige Leser der Entwürfe des Thesenpapiers und des Vortragsmanuskripts erhalten auf diesem Weg einen Zugriff auf die in kürzest möglicher Form referenzierte Standardliteratur und auf einige wenige Spezialtexte. Eine vollständige Bibliographie bleibt ebenso einer späteren Ausarbeitung vorbehalten wie der Nachweis der mit erheblichen Aufwänden ermittelten, unpublizierten Archivalien, Briefe und Originaldrucke. Wie die beiden Haupttexte, so trägt auch diese Aufstellung den Charakter eines fortlaufenden Werkstattberichts.  
