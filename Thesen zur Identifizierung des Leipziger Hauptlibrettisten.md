@@ -11,8 +11,7 @@ Amore et studio elucidandae veritatis haec subscripta disputabuntur (Martin Luth
 
 Pro captu lectoris habent sua fata libretti (nach Terentianus Maurus)  
 
-heißt es in Gaston Bachelards Buch „Die Bildung des wissenschaftlichen Geistes“: „Der Palast der Entdeckungen ist kein Museum für müßige Gaffer. Man geht nicht an Regentagen dorthin, um die Zeit totzuschlagen.“ 
-Zwischen der gewöhnlichen und der wissenschaftlichen Neugier“, schreibt Bachelard, „besteht eine Dialektik: die erste will besichtigen, die zweite begreifen.
+
 
 0. Ausgangspunkt für die folgenden Überlegungen zur namentlichen Ermittlung des „Leipziger“ Hauptlibrettisten Johann Sebastian Bachs ist die Annahme, dass die Entstehung der anonym überlieferten Texte für einen bedeutenden Teil der für die regulären Sonn- und Festtage zwischen Trinitatis 1724 und Annuntiatio Domini 1725 entstandenen geistlichen Vokalwerke zwar aufgrund eines Benehmens zwischen den Beteiligten (Autor, Komponist; Prediger; Zensor und Korrektor) stattfand, nicht aber an demselben Ort wie die Komposition der Musik.  
 
