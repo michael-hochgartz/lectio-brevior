@@ -2,7 +2,7 @@
 des „Leipziger“ Hauptlibrettisten  
 Johann Sebastian Bachs  
 Michael Hochgartz (D 48153 Münster)  
-michael@hochgartz.de - 18.01.2024  
+michael@hochgartz.de - 19.01.2024  
 Quelltext, Versionsgeschichte und Literaturverzeichnis: https://github.com/michael-hochgartz/lectio-brevior  
 
 Amore et studio elucidandae veritatis haec subscripta disputabuntur (Martin Luther 1517)  
@@ -215,6 +215,13 @@ Carolingen [nachdem sie erfahren musste, dass ihr studentischer Liebhaber sie ge
   und verwandle ihn in die abscheulichste Pech- und Schwefels-Grube!  
   Du Tyger-Seele, du Unthier, Verräther, Betrüger!  
 (bricht in herzzerreißendes Schluchzen aus.)  
+
+BWV 244/27b:  
+Sind Blitze, sind Donner in Wolken verschwunden?  
+Eröffne den feurigen Abgrund, o Hölle,  
+Zertrümmre, verderbe, verschlinge, zerschelle  
+Mit plötzlicher Wut..
+Den falschen Verräter, das mördrische Blut!  
 
 Neben einem - genau diesen Satz betreffenden - musikalischen Selbstzitat Bachs in BWV 127 finden sich sprachliche Allusionen in Henricis Text für BWV 205 (zum 3.8.1725) und in seinen „Erbaulichen Gedancken“ von 1725, deren Inhalt und Publikationsgeschichte - nicht nur mangels öffentlich verfügbaren Digitalisats - bis vor kurzem (seit Spitta 1871!) nur unzureichend erforscht wurden.   
 
