@@ -3,7 +3,7 @@ Ob ein Superintendens wohl Poete seyn könne? - Zur Person des „Leipziger“ H
 Entwurf für ein Vortragsmanuskript (Es gilt das gesprochene Wort.)  
 
 Michael Hochgartz (D 48153 Münster)  
-michael@hochgartz.de - 16.01.2024  
+michael@hochgartz.de - 27.01.2024  
 Quelltext, Versionsgeschichte und Literaturverzeichnis: https://github.com/michael-hochgartz/lectio-brevior  
 
 
@@ -76,7 +76,7 @@ Ob Jauchs „herzbewegliche Worte“, von denen 1712 im Zusammenhang mit dem in 
 Geistesgeschichtlich bewegte Reyher sich in einer Grauzone, in der biblisch beschriebene Naturphänomene (wie z.B. „Von dem Regenbogen …) mit zeitgenössischen, also nicht immer heutigen Ansprüchen genügenden, damals aber durchaus als wissenschaftlich empfundenen Erklärweisen vermengt werden („… und den durch Kunst [also wohl durch ein Glasprisma] angestellten Regenbogen-Farben“). Reyhers lebenslanges methodisches Manko bestand auch bei diesem Werk (trotz sinnvoll erscheinender Großgliederung) in seinem Hang zur kaleidoskopartigen Facettierung von fragmentarischen Einzelaspekten, und Lipper bot als entlaufener Buchhalter keineswegs eine Gewähr für den unternehmerischen Erfolg eines Titels, der wegen der zahlreichen hinzugekauften Kupferstiche einen hohen Kapitaleinsatz erforderte. (Vgl. Dumrese/Schilling 1956 sowie ADB 28/1889)  
 
 
-Da eine, vielleicht geplante, aber nie zustande gekommene Bestallung (vgl. Stieber 1745; Willgeroth 1924) als einer von üblicherweise mehreren Hofpredigern in Güstrow durch das seit dem Tod des Erbprinzen Karl 1688 an den Pocken erwartbare, im Oktober 1695 mit dem Dahinscheiden des letzten Herzogs Adolf eingetretene Erlöschen der dynastischen Linie gegenstandslos geworden war, wurde Jauch „nach gehaltener Abschieds-Predigt in der Schlosskirche gnädigst dimittiret“ und im Verlauf eines offenbar wohlwollend forcierten Magisterexamens auf Initiative des nicht ganz zufällig (nämlich wegen Frühinscription seines Sohnes) in Rostock weilenden Lüneburger Bürgermeisters und Proto-Consuls Ludolph von Stöterogge („ein grosser Gönner der Gelehrten“) als Diakonus (Inhaber der 2. Pfarrstelle) an die dortige Lambertikirche berufen - unter aktenkundigen Begleitumständen, die auf strukturell bedingte, lebenslange Misshelligkeiten im Verhältnis zu einigen seiner Kollegen vorauswiesen.  
+Da eine, vielleicht geplante, aber nie zustande gekommene Bestallung (vgl. Stieber 1745; Willgeroth 1924) als einer von üblicherweise mehreren, naturgemäß konkurrierenden, Hofpredigern in Güstrow durch das seit dem Tod des Erbprinzen Karl 1688 an den Pocken erwartbare, im Oktober 1695 mit dem Dahinscheiden des letzten Herzogs Adolf eingetretene Erlöschen der dynastischen Linie gegenstandslos geworden war, wurde Jauch „nach gehaltener Abschieds-Predigt in der Schlosskirche gnädigst dimittiret“ und im Verlauf eines offenbar wohlwollend forcierten Magisterexamens auf Initiative des nicht ganz zufällig (nämlich wegen Frühinscription seines Sohnes) in Rostock weilenden Lüneburger Bürgermeisters und Proto-Consuls Ludolph von Stöterogge („ein grosser Gönner der Gelehrten“) als Diakonus (Inhaber der 2. Pfarrstelle) an die dortige Lambertikirche berufen - unter aktenkundigen Begleitumständen, die auf strukturell bedingte, lebenslange Misshelligkeiten im Verhältnis zu einigen seiner Kollegen vorauswiesen.  
 
 So wurde Jauch aufgegeben, eine Probepredigt zu halten über „Hos XIII, 9 Israel du bringst dich in Unglück … bey mir.“ (Auslassung original). Jedem bibelkundigen Zuhörer oder Mitleser musste aber bewusst sein, dass die anschließenden Verse 10 und 11 in frappierender Weise auf die aktuelle berufliche Situation des Prüflings - nämlich als stellungsloser Hofprediger ohne Herzog - angewendet werden konnten:  
 
@@ -162,7 +162,7 @@ Ja, redet nur die Wahrheit spärlich,
 seid immer falsch, was tut mir das?  
 Ihr Spötter seid mir ungefährlich.  
 
-Und BWV 126 (4.2.1725) - vordergründig gemünzt auf Luthers (heute zuweilen als despektierlich emfpundene) Invektiven gegen „des Papsts und Türken Mord“ - erinnert zumindest unterschwellig an die falschen Amtsbrüder, als diese sich übergangen fühlten und darob (so Jauch gegenüber Syrbius 1714) „gar böse geworden“ waren:  
+Und BWV 126 (4.2.1725) - vordergründig gemünzt auf Luthers (heute zuweilen als despektierlich emfpundenen) Invektiven gegen „des Papsts und Türken Mord“ - erinnert zumindest unterschwellig an die falschen Amtsbrüder, als diese sich übergangen fühlten und darob (so Jauch gegenüber Syrbius 1714) „gar böse geworden“ waren:  
 
 Du weißt, daß die verfolgte Gottesstadt  
 den ärgsten Feind nur in sich selber hat  
@@ -170,7 +170,7 @@ durch die Gefährlichkeit der falschen Brüder
 
 
 
-Ein Wechsel an die Marktkirche St. Georg in Hannover (die „dortige Haupt Kirchen“ des Kurfürstentums Braunschweig-Lüneburg - und somit eine „sehr avantageuse Verbeßerung“ - so Jauch in einer Eingabe von 1709) gelangte 1705 nicht zum Erfolg, da er - motiviert durch eine „aus hochgeneigter affection ohne mein Ansuchen“ gewährte Gehaltszulage seiner Patronatsherren von immerhin 100 Rthlr. p.a. - noch vor dem Ende des Verfahrens abgesagt hatte - obwohl er sich in Hannover hinsichtlich seiner Einkünfte „wohl dreyfach“ hätte verbessern können.  
+Ein Wechsel an die Marktkirche St. Georg in Hannover (die „dortige Haupt Kirchen“ des Kurfürstentums Braunschweig-Lüneburg - und somit eine „sehr avantageuse Verbeßerung“ - so Jauch in einer Eingabe von 1709) gelangte 1705 nicht zum Erfolg, da er - motiviert durch eine „aus hochgeneigter affection ohne mein Ansuchen“ gewährte Gehaltszulage seiner Patronatsherren von immerhin 100 Rthlr. p.a. - noch vor dem Ende des Verfahrens abgesagt hatte, obwohl er sich in Hannover hinsichtlich seiner Einkünfte „wohl dreyfach“ hätte verbessern können.  
 
 Als einer von 30, durch das örtliche Leitungsgremium vorgeschlagenen und von einer reisenden Berufungskommission (deren Spesenrechnungen mit der Hoffnung auf Hinweise zu weiterführenden Personalbeziehungen noch auszuwerten wären) beim Predigen evaluierten Kandidaten (unter diesen auch Bachs Mühlhausener Vorgesetzter und Taufpate der erstgeborenen Tochter Catharina Dorothea, der Konsistorialrat Georg Eilmar), unterlag er Anfang 1715 denkbar knapp im fünften Wahlgang dem einflussreichsten Propagator und Produzenten moderner protestantischer Kantatentextformen - Erdmann Neumeister - bei der Wahl zum Hauptpastor der Hamburger Hauptkirche St. Jakobi.  
 
@@ -272,10 +272,9 @@ Stübels Teilhabe am Leipziger gottesdienstlichen Leben scheint bis in seine let
 
 „Endlich wandelte ihm den 28. Jan. dieses 1725 Jahres unterm Gottesdienst in der Pauliner-Kirche ein Fieber an, welches ihn, seines Alters 71 Jahr 6 Wochen und 4 Tage, von der Welt genommen.“  
 
-Diese Feststellung könnte zugleich ein Argument gegen die vermutete Urheberschaft Stübels für die Texte des Choralkantatenjahrgangs darstellen: Warum hat er am Sonntag, 28. Januar 1725, nicht die Uraufführung „seiner“ Kantate BWV 92 („Ich hab in Gottes Herz und Sinn“) in der Thomaskirche besucht, sondern dem Gottesdienst in der Universitätskirche St. Pauli beigewohnt? Es sei denn, Siculs Bemerkung bezieht sich auf die dort seit 1712 üblich gewordene nachmittägliche Vesper - in welcher aber nie eine reguläre Bachsche Sonntagskantate erklang. (Vgl. Stiller 1970)  
+Diese Feststellung könnte zugleich ein finales Argument gegen die vermutete Urheberschaft Stübels für die Texte des Choralkantatenjahrgangs darstellen: Warum hat er an jenem Sonntag, 28. Januar 1725, nicht die Uraufführung „seiner“ Kantate BWV 92 („Ich hab in Gottes Herz und Sinn“) in der Thomaskirche besucht, sondern dem Gottesdienst in der Universitätskirche St. Pauli beigewohnt? Es sei denn, Siculs Bemerkung bezieht sich auf die dort seit 1712 üblich gewordene nachmittägliche Vesper - in welcher aber nie eine reguläre Bachsche Sonntagskantate erklang. (Vgl. Stiller 1970)  
 
-Die zeitliche Differenz zwischen Spitzmarken und Erscheinungsdaten belegt auch an diesen Beispielen, dass derartige Meldungen nicht mehr als sechs bis acht Tage für die Übermittlung zwischen Leipzig und Hamburg benötigten - und somit maximal fünf bis sieben Tage zwischen Leipzig und Lüneburg. (Vgl. Siegele 1983)  
-
+Die zeitliche Differenz zwischen Spitzmarken und Erscheinungsdaten belegt auch an diesen Beispielen, dass derartige gedruckte Meldungen nicht mehr als sechs bis acht Tage für die Übermittlung zwischen Leipzig und Hamburg benötigten - und somit maximal fünf bis sieben Tage zwischen Leipzig und Lüneburg. (Vgl. Siegele 1983)  
 
 Von den drei Datumsangaben (19., 21., 26. Januar), die für Jauchs Todestag genannt werden, kann naturgemäß nur eine korrekt sein. Zwar verhindert der Verlust der diesen Zeitraum betreffenden Begräbnisregister von St. Johannis eine endgültige Klärung. Aber:  
 
@@ -337,7 +336,7 @@ Man kann noch diese Nacht
 den Sarg vor deine Türe bringen.  
 
 
-Schon bald nach dem Beginn des Kantatenzyklus (BWV 135/4, 25.6.1724) bemüht der Autor eine Situationsbeschreibung, die - ohne erkennbaren Bezug zu einer dogmatischen Aussage oder zur Perikope des Predigttextes - auf seine individuelle psychische und physische Befindlichkeit hinweist. Müdigkeit und Nachtschweiß - die hier nur mühsam auf eine theologische Deutungsebene projiziert werden - gelten in der historischen wie in der heutigen Heilkunde als Leitsymptome einer chronischen Tuberkulose - einer Krankheit, die bis ins 20. Jahrhundert pandemisch verbreitet war.  
+Schon bald nach dem Beginn des Kantatenzyklus (BWV 135/4, 25.6.1724) bemüht der Autor eine Situationsbeschreibung, die - ohne erkennbaren Bezug zu einer dogmatischen Aussage oder zur Perikope des Predigttextes - auf seine individuelle psychische und physische Befindlichkeit hinweist. Müdigkeit und Nachtschweiß - die hier nur mühsam auf eine theologische Deutungsebene projiziert werden - gelten in der historischen wie in der heutigen Heilkunde als Leitsymptome einer chronischen Tuberkulose - einer Krankheit, die immer noch weltweit verbreitet ist.  
 
 Ich bin von Seufzen müde,  
 mein Geist hat weder Kraft noch Macht,  
@@ -505,17 +504,17 @@ Einer über das gnädige Andencken GOTTES
 
 was aufgrund der personellen Beziehungen zweifelsohne lesbar ist als:  
 
-[M]agister [J]ohann [Christ]oph [Jauch].  
+[M]agister [J]ohann [Christ]oph [Jauch]  
 
 Inhaltlich versucht Jauch die prinzipbedingt recht abwechslungarme Form (in Summa 90 Alexandriner-Zeilen) durch das rhetorische Stilmittel eines repetierenden und variierenden Ornatus zu bereichern, indem er ungezählte Zitate, aber auch Umspielungen und Reime des Wortstammes „…denck…“ verwendt, der aus der Devise des Gedenk-Sonntags Riminiscere (5. März; explitzit genannter Tag der Verlobung des Paares) abgeleitet ist: „Der HErr dencket an uns, und segnet uns.“ (Ps. 115,12). Das beginnt bereits in der Einleitung zur Andeutung der Autorschaft: „… das gnädige Andencken …“.  
 
-Der Text stellt eine kennenswerte Parallele zu Bachs stilistisch extrem früh einzuordnender, quellenkritisch leider undatierbaren Kantate BWV 196 auf denselben Psalm (Vers 12 bis 15) dar. Während Jauchs Worte (15 Strophen zu je sechs Zeilen; wohl kaum als Vorlage für eine damals „moderne“ musikalische Darbietung gedacht) eindeutig für die Wiederverheiratung eines noch nicht lange im Amt befindlichen, auf jeden Fall aber sozial bestens integrierten Geistlichen (10 gedruckte Glückwünsche!) bestimmt waren (das belegen Strophe VI wie auch einige der neun weiteren, zu diesem Anlass publizierten Drucke), ist dies für Bachs frühe Komposition nur eine von mehreren der von der Forschung erwogenen Möglichkeiten. Zur Diskussion stehen neben der Vermählung des Arnstädter Pfarrers Johann Lorenz Stauber  (17.10.1707) auch Bachs eigene Trauung mit seiner ersten Frau Maria Barbara Bach in Dornheim (5.6.1708). Das schließt eine Mehrfachverwendung (1703, 1707, 1708 sowie zur Zeit der Abschrift des Überlieferungsträgers durch J.L. Dietel um 1730) - rein systemisch betrachtet - keineswegs aus.  
+Der Text stellt eine kennenswerte Parallele zu Bachs stilistisch extrem früh einzuordnender, quellenkritisch leider undatierbaren Kantate BWV 196 auf denselben Psalm (Vers 12 bis 15) dar. Während Jauchs Worte (15 Strophen zu je sechs Zeilen; wohl kaum als Vorlage für eine damals „moderne“ musikalische Darbietung gedacht) eindeutig für die Wiederverheiratung eines noch nicht lange im Amt befindlichen, auf jeden Fall aber sozial bestens integrierten Geistlichen (belegt durch fast ein Dutzend gedruckte Glückwünsche) bestimmt waren, ist dies für Bachs frühe Komposition nur eine von mehreren der von der Forschung erwogenen Möglichkeiten. Zur Diskussion stehen neben der Vermählung des Arnstädter Pfarrers Johann Lorenz Stauber  (17.10.1707) auch Bachs eigene Trauung mit seiner ersten Frau Maria Barbara Bach in Dornheim (5.6.1708). Das schließt eine Mehrfachverwendung (1703, 1707, 1708 sowie zur Zeit der Abschrift des Überlieferungsträgers durch J.L. Dietel um 1730) - rein systemisch betrachtet - keineswegs aus.  
 
 Der junge J.S. Bach dürfte dem 1698 zum zweiten Prediger an St. Michaelis ernannten Boje während seiner Lüneburger Jahre durchaus über den Weg gelaufen sein - was immer sich aus diesem Umstand als Ansatz für weitere Überlegungen ergeben könnte. Zum Beispiel die Frage nach dem Beichtvater des frisch dem Konfirmandenalter entsprungenen Lüneburger Chorsängers.  
 
 Weiterhin ergibt sich die Frage nach einem karrieretaktischen Zweck einer Komposition wie BWV 196. Wenige Monate nach dem genannten Ergeinis starb der - damals mehr denn heute hochgerühmte - Lüneburger Nikolai-Organist Johann Jakob Löwe von Eisenach. Selbst wenn Bach damals schon der Umstand bekannt gewesen sein sollte, dass dessen am 11.12.1703 angetretene Nachfolge an der Nikolai- und an der Marienkirche bereits 1696 Georg Ernst Blech, einem Sohn des Michaelis-Kantors, zugesagt worden war (vgl. Walter 1967), dürfte ihn das kaum an dem Versuch gehindert haben, seiner noch sehr jungen Karriere als Weimarischer Lakai und Hilfsgeiger durch eine derartige Initiativbewerbung aufgeholfen zu haben. BWV 196 wäre demnach als eine Art „Probestück“ zu betrachten. Zur stilistischen Beeinflussung durch Komponisten wie Torelli und Albinoni durch den im Januar 1703 aus Venedig nach Weimar zurückgekehrten Kapellmeister-Sohn J.W. Drese vgl. Küster (1996).  
 
-Schließlich ist die Rolle eines potentiellen Mäzens ansatzweise überlegen. Seit Dezember 1700 amtierte mit dem Landschaftsdirektor Ernst Wilhelm von Spörcken eine Persönlichkeit, die den gesamten „Komplex“ St. Michaelis bis zu seinem Tod 1726 nicht nur organisatorisch und baulich (neugestalteter Wohntrakt; neue Orgel), sondern auch durch Förderung von Musik und Theater auf ein bis dahin kaum gekanntes Niveau zu heben vermochte. Freilich ist nicht bekannt, ob 1703 Aussicht auf eine freie (oder zusätzliche) Stelle im musikalischen Ensemble der landständischen Bildunsinstitution und ihrer Kirche bestand.  
+Schließlich ist die Rolle eines potentiellen Förderes zu überlegen. Seit Dezember 1700 amtierte mit dem Landschaftsdirektor Ernst Wilhelm von Spörcken eine Persönlichkeit, die den gesamten „Komplex“ St. Michaelis bis zu seinem Tod 1726 nicht nur organisatorisch und baulich (neugestalteter Wohntrakt; neue Orgel), sondern auch durch Förderung von Musik und Theater auf ein bis dahin kaum gekanntes Niveau zu heben vermochte. Freilich ist nicht bekannt, ob 1703 Aussicht auf eine freie (oder zusätzliche) Stelle im musikalischen Ensemble der landständischen Bildunsinstitution und ihrer Kirche bestand.  
 
 Sechs Jahre nach dem Glückwunsch für Boje, nämlich 1709, heißt es im Titel einer Trauermusik für Jauchs Amtsbruder an St. Nicolai, Friedrich Heinrich Oldecop:  
 
