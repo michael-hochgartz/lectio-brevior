@@ -3,7 +3,7 @@ Ob ein Superintendens wohl Poete seyn könne? - Zur Person des „Leipziger“ H
 Entwurf für ein Vortragsmanuskript (Es gilt das gesprochene Wort.)  
 
 Michael Hochgartz (D 48153 Münster)  
-michael@hochgartz.de - 27.01.2024  
+michael@hochgartz.de - 02.02.2024  
 Quelltext, Versionsgeschichte und Literaturverzeichnis: https://github.com/michael-hochgartz/lectio-brevior  
 
 
@@ -52,7 +52,7 @@ Es ergibt sich die Überlegung, ob die drei Jahrzehnte nach diesem Ereignis in L
 
 Wichtigster Förderer Jauchs während seiner Rostocker Zeit war zunächst und auch später jener erwähnte Theologe Johannes Fecht, der als Theologieprofessor, Universitätsrektor und Superintendent gewissermaßen in - wenn auch nicht unmittelbarer - „akademischer Sukzession“ zu dem als Stichwortgeber für bis zu sieben Sätze von Bachs Matthäuspassion sowie je eines Satzes der Kantate BWV 2 und der Johannespassion geltenden Heinrich Müller stand.  
 
-Fecht - dessen mehr als10 Bände umfassender Manuskriptnachlass in Rostock, Hamburg und anderswo ebenso einer wissenschaftlichen Auswertung harrt wie der Katalog seiner 1742 stückweise versteigerten Bibliothek - war ein engagierter Vertreter der Norddeutschen Reformorthodoxie und - nach anfänglicher Sympathie um so entschiedenerer - Gegner der Radikalpietisten Philipp Jacob Spener und August Hermann Francke.  
+Fecht - dessen mehr als 10 Bände umfassender Manuskriptnachlass in Rostock, Hamburg und anderswo ebenso einer wissenschaftlichen Auswertung harrt wie der Katalog seiner 1742 stückweise versteigerten Bibliothek - war ein engagierter Vertreter der Norddeutschen Reformorthodoxie und - nach anfänglicher Sympathie um so entschiedenerer - Gegner der Radikalpietisten Philipp Jacob Spener und August Hermann Francke.  
 
 Die von deren Initiativen ausgelösten „Leipziger Unruhen“ hatten eine Fernwirkung auch in Lüneburg hervorgerufen durch die Person des Superintendenten Johann Wilhelm Petersen, der schließlich 1692 unter minutiös (sowohl von ihm selbt als auch durch die handelnden Institutionen) dokumentieren Umständen aus dem Amt entfernt wurde. Mit diesem - durch einen kirchenmusikalischen Eklat begleiteten - Fanal war jeglichen unorthodoxen Ansichten in Lüneburg bis weit in das 18. Jahrhundert hinein (genau genommen: bis heute) ein Riegel vorgeschoben worden - allenfalls bis zum Aufkommen jener rationalistisch angehauchten Theologie, die sich - wie anderswo auch - im Zuge der Spätaufklärung als communis opinio etablieren sollte. 
 
@@ -67,7 +67,7 @@ Der auch bey späten Herbst, als frischer Lorbeer blüht:
 O glückliche Chymie, die solchen Baum gebohren  
 Der Hesperinnen [Hesperiden] Ast hat seinen Ruhm verlohren.  
 
-In Band 9/365 der Gesamtausgabe der Werke Immanuel Kants liest sich das Experiment so: „Der Arbor Dianae wird gemacht, wenn Mercurius im Scheidewasser und Silber auch besonders [separat] im Scheidewasser [Salpetersäure] aufgelöst wird, darauf diese Solutiones vermengt und bis auf ein Drittheil im gelinden Feuer eingetrocknet werden; da sie dann einen Baum mit Stamm, Ästen und Zweigen vorstellen.“  
+In Band 9/365 der Gesamtausgabe der Werke Immanuel Kants liest sich das Experiment so: „Der Arbor Dianae wird gemacht, wenn Mercurius [Quecksilber] im Scheidewasser [Salpetersäure] und Silber auch besonders [separat] im Scheidewasser aufgelöst wird, darauf diese Solutiones [Lösungen] vermengt und bis auf ein Drittheil im gelinden Feuer eingetrocknet werden; da sie dann einen Baum mit Stamm, Ästen und Zweigen vorstellen.“  
 
 Bereits Jauchs Landesherr und früher Förderer, Herzog Gustav Adolf, war bekannt geworden durch bemerkenswerte aufklärerische Tendenzen. Er veranlasste zum Beispiel eine umfassende Schulreform und eine zentrale juristische Neureglementierung lokal ausufernder „Hexenprozesse“. Der Verbreitung magischer Praktiken begegnete er mit der kostenlosen Abgabe von Medikamenten. 1682 wurden auf seinen Befehl hin „Zauberbücher“ landesweit konfisziert und verbrannt.  
 
@@ -115,7 +115,7 @@ Weiterhin ist auch der Umstand zu bedenken, dass 1674 ein Exemplar der ein Jahr 
 Die Tradition regelmäßiger Aufführungen am Karfreitag reichte übrigens so lange, wie der Chorus Symphoniacus des Johanneums und der Mettenchor von St. Michaelis zur Verfügung standen - also bis gegen Ende des 18. Jahrhunderts. (Vgl. Walter 1968.) Sie wurde 1855 mit einer ersten Aufführung von BWV 244 in St. Johannis wieder aufgenommen und wird bis heute fortgeführt.  
 
 
-1709 wechselte Jauch als 1. Prediger an die Nikolaikirche und 1714, bedingt durch seine - von beiden Seiten nicht nur zunächst, sondern dauerhaft - widerwillig akzeptierte - Ernennung zum Superintendenten, nach St. Johannis. Damit wurde er auch zum „Inspector“ jenes Johanneums ernannt, dessen Chorus Symphoniacus während der beiden Kirchenjahre (1. Advent 1720 bis 1. Advent 1722) für die Aufführung von Vertonungen zweier, zusammen im Druck veröffentlichter Jahrgänge von Texten zur Musik zuständig war, die auf Vorlagen Erdmann Neumeisters und weiterer, noch zu identifizierender Autoren beruhten.  
+1709 wechselte Jauch als 1. Prediger an die Nikolaikirche und 1714, bedingt durch seine von beiden Seiten nicht nur zunächst, sondern dauerhaft widerwillig akzeptierte Ernennung zum Superintendenten nach St. Johannis. Damit wurde er auch zum „Inspector“ jenes Johanneums ernannt, dessen Chorus Symphoniacus während der beiden Kirchenjahre (1. Advent 1720 bis 1. Advent 1722) für die Aufführung von Vertonungen zweier, zusammen im Druck veröffentlichter Jahrgänge von Texten zur Musik zuständig war, die auf Vorlagen Erdmann Neumeisters und weiterer, noch zu identifizierender Autoren beruhten.  
 
 Aufgeführt wurden nach beinahe konstantem, aber nicht komplettem Kalendarium an den drei städtischen „Haupt“-Kirchen (Johannis, Lamberti, Nikolai - nicht aber an der weitgehend exempten Kirche des ehemaligen Michaelis-Klosters) - mit klarer Fokussierung auf die wesentlichen Sonn- und Feiertage in St. Johannis - ab 1. Advent 1721 auch Teile des ersten „Concerten-Jahrgangs“ von Georg Philipp Telemann, der anfänglich 1716/17 auf Texte Neumeisters, ab 1725 dann ergänzt durch Simonis, Telemann selbst und andere, in Frankfurt komponiert worden war.  
 
@@ -254,7 +254,7 @@ Schlugen mich zur Erden hin
 Und ich sanck in Ohnmacht nieder.  
 ... 
 
-Sollte J.S. Bach von diesem Text Kenntnis erlangt haben, wäre er mit Sicherheit an die Umstände erinnert worden, unter denen er bei der Rückkehr von seiner Dienstreise in das böhmische Karlovy Vary (Karlsbad) im Juli 1720 beim Betreten seiner Wohnung in Köthen von Tod und Begräbnis seiner ersten Ehefrau Maria Barbara erfuhr.  
+Sollte J.S. Bach von diesem gedruckten Text Kenntnis erlangt haben, wäre er mit Sicherheit an die Umstände erinnert worden, unter denen er bei der Rückkehr von seiner Dienstreise in das böhmische Karlovy Vary (Karlsbad) im Juli 1720 beim Betreten seiner Wohnung in Köthen von Tod und Begräbnis seiner ersten Ehefrau Maria Barbara erfuhr.  
 
 Unterwegs muss Tobias Christoph Jauch demnach („Denn ich musste zeitig wissen“) wohl aus der aktuellen Ausgabe des Holsteinischen Correspondenten vom 29./30. Januar, die wenige Tage darauf (laut ungeschriebenem, aber rekonstruierbarem Plan am Dienstag, 6. Februar - auf jeden Fall während der Kompositionsphase von BWV 127) auch in Leipzig vorlag - vom Tod seines Vaters am „Stickfluß“ erfahren haben, also an einer - seinerzeit meist durch das Endstadium einer chronischen Tuberkulose beförderten - akuten Lungenerkrankung, die nach Beschreibungen zeitgenössischer medizinischer Autoren („Catharrus suffocativus“) nach spätestens drei Tagen zu einem qualvollen Erstickungstod führte.  
 
@@ -480,7 +480,7 @@ Zu einem kaum widerlegbaren Beweis erhoben wird dieses Indiz für den Autorennac
 
 „Die Leitung Gottes nach seinem Raht.“  
 
-Mit diesem alttesttamentlichen Dictum beginnt auch das „Concert. a 4. Voc. C.A.T.B.“, mit dem die Kantate anhebt, als deren Komponist in der o.g. obfuszierten Form der Lamberti-Organist Johann Georg Flor genannt wird. 
+Mit diesem alttesttamentlichen Dictum beginnt auch das „Concert. a 4. Voc. C.A.T.B.“, mit dem die Kantate anhebt, als deren Komponist in der o.g. obfuszierten Form der Lamberti-Organist Johann Georg Flor genannt wird.  
 
 „Herr, dennoch bleibe ich stets an dir, denn du hältest mich bei meiner rechten Hand, du leitest mich nach deinen Raht, und nimmst mich endlich mit Ehren an.“  
 
@@ -508,13 +508,13 @@ was aufgrund der personellen Beziehungen zweifelsohne lesbar ist als:
 
 Inhaltlich versucht Jauch die prinzipbedingt recht abwechslungarme Form (in Summa 90 Alexandriner-Zeilen) durch das rhetorische Stilmittel eines repetierenden und variierenden Ornatus zu bereichern, indem er ungezählte Zitate, aber auch Umspielungen und Reime des Wortstammes „…denck…“ verwendt, der aus der Devise des Gedenk-Sonntags Riminiscere (5. März; explitzit genannter Tag der Verlobung des Paares) abgeleitet ist: „Der HErr dencket an uns, und segnet uns.“ (Ps. 115,12). Das beginnt bereits in der Einleitung zur Andeutung der Autorschaft: „… das gnädige Andencken …“.  
 
-Der Text stellt eine kennenswerte Parallele zu Bachs stilistisch extrem früh einzuordnender, quellenkritisch leider undatierbaren Kantate BWV 196 auf denselben Psalm (Vers 12 bis 15) dar. Während Jauchs Worte (15 Strophen zu je sechs Zeilen; wohl kaum als Vorlage für eine damals „moderne“ musikalische Darbietung gedacht) eindeutig für die Wiederverheiratung eines noch nicht lange im Amt befindlichen, auf jeden Fall aber sozial bestens integrierten Geistlichen (belegt durch fast ein Dutzend gedruckte Glückwünsche) bestimmt waren, ist dies für Bachs frühe Komposition nur eine von mehreren der von der Forschung erwogenen Möglichkeiten. Zur Diskussion stehen neben der Vermählung des Arnstädter Pfarrers Johann Lorenz Stauber  (17.10.1707) auch Bachs eigene Trauung mit seiner ersten Frau Maria Barbara Bach in Dornheim (5.6.1708). Das schließt eine Mehrfachverwendung (1703, 1707, 1708 sowie zur Zeit der Abschrift des Überlieferungsträgers durch J.L. Dietel um 1730) - rein systemisch betrachtet - keineswegs aus.  
+Der Text stellt eine kennenswerte Parallele zu Bachs stilkritisch extrem früh einzuordnender, quellenkritisch leider undatierbaren Kantate BWV 196 auf denselben Psalm (Vers 12 bis 15) dar. Während Jauchs Worte (15 Strophen zu je sechs Zeilen; wohl kaum als Vorlage für eine damals „moderne“ musikalische Darbietung gedacht) eindeutig für die Wiederverheiratung eines noch nicht lange im Amt befindlichen, auf jeden Fall aber sozial bestens integrierten Geistlichen (belegt durch fast ein Dutzend gedruckte Glückwünsche) bestimmt waren, ist dies für Bachs frühe Komposition nur eine von mehreren der von der Forschung erwogenen Möglichkeiten. Zur Diskussion stehen neben der Vermählung des Arnstädter Pfarrers Johann Lorenz Stauber  (17.10.1707) auch Bachs eigene Trauung mit seiner ersten Frau Maria Barbara Bach in Dornheim (5.6.1708). Das schließt eine Mehrfachverwendung (1703, 1707, 1708; sowie zur Zeit der Abschrift des Überlieferungsträgers durch J.L. Dietel um 1730) rein systemisch betrachtet - keineswegs aus.  
 
 Der junge J.S. Bach dürfte dem 1698 zum zweiten Prediger an St. Michaelis ernannten Boje während seiner Lüneburger Jahre durchaus über den Weg gelaufen sein - was immer sich aus diesem Umstand als Ansatz für weitere Überlegungen ergeben könnte. Zum Beispiel die Frage nach dem Beichtvater des frisch dem Konfirmandenalter entsprungenen Lüneburger Chorsängers.  
 
 Weiterhin ergibt sich die Frage nach einem karrieretaktischen Zweck einer Komposition wie BWV 196. Wenige Monate nach dem genannten Ergeinis starb der - damals mehr denn heute hochgerühmte - Lüneburger Nikolai-Organist Johann Jakob Löwe von Eisenach. Selbst wenn Bach damals schon der Umstand bekannt gewesen sein sollte, dass dessen am 11.12.1703 angetretene Nachfolge an der Nikolai- und an der Marienkirche bereits 1696 Georg Ernst Blech, einem Sohn des Michaelis-Kantors, zugesagt worden war (vgl. Walter 1967), dürfte ihn das kaum an dem Versuch gehindert haben, seiner noch sehr jungen Karriere als Weimarischer Lakai und Hilfsgeiger durch eine derartige Initiativbewerbung aufgeholfen zu haben. BWV 196 wäre demnach als eine Art „Probestück“ zu betrachten. Zur stilistischen Beeinflussung durch Komponisten wie Torelli und Albinoni durch den im Januar 1703 aus Venedig nach Weimar zurückgekehrten Kapellmeister-Sohn J.W. Drese vgl. Küster (1996).  
 
-Schließlich ist die Rolle eines potentiellen Förderes zu überlegen. Seit Dezember 1700 amtierte mit dem Landschaftsdirektor Ernst Wilhelm von Spörcken eine Persönlichkeit, die den gesamten „Komplex“ St. Michaelis bis zu seinem Tod 1726 nicht nur organisatorisch und baulich (neugestalteter Wohntrakt; neue Orgel), sondern auch durch Förderung von Musik und Theater auf ein bis dahin kaum gekanntes Niveau zu heben vermochte. Freilich ist nicht bekannt, ob 1703 Aussicht auf eine freie (oder zusätzliche) Stelle im musikalischen Ensemble der landständischen Bildunsinstitution und ihrer Kirche bestand.  
+Schließlich ist die Rolle eines potentiellen Förderes zu überlegen. Seit Dezember 1700 amtierte mit dem Landschaftsdirektor Ernst Wilhelm von Spörcken eine Persönlichkeit, die den gesamten Komplex St. Michaelis bis zu seinem Tod 1726 nicht nur organisatorisch und baulich grunderneuerter Wohntrakt; neue Orgel), sondern auch durch Förderung von Musik und Theater auf ein bis dahin kaum gekanntes Niveau zu heben vermochte. Freilich ist nicht bekannt, ob 1703 Aussicht auf eine freie oder zusätzliche Stelle im musikalischen Ensemble der landständischen Bildunsinstitution und ihrer kirchlichen Feierstätte bestand.  
 
 Sechs Jahre nach dem Glückwunsch für Boje, nämlich 1709, heißt es im Titel einer Trauermusik für Jauchs Amtsbruder an St. Nicolai, Friedrich Heinrich Oldecop:  
 
@@ -622,7 +622,7 @@ Die Stelle steht bei Müller nur unspezifisch im Passionskontext, denn er bezieh
 
 Die auffällige Repetition der Stichworte „Strick“, „Netze“ sowie „Gewissen“ („du stellt mir Netze und willt mich fangen“; „dein Gewissen werd dich einmal mit solche Angst bestricken“; „das Gewissen in der letzten Todesnoth mit solcher Angst bestrickt hat“; „Indem du fromme Herzen suchst zu berücken, wirstu nur dich selbst bestricken“) verwendet ein frappierend ähnliches Assoziationsgewebe wie der Eingang der Brockes-Passion („Mich vom Stricke meiner Sünden zu entbinden“) und die - nach bisherigem Kenntnisstand - allein davon abgeleitete Arie „Von den Stricken meiner Sünden“ BWV 245/7.  
 
-Müllers - hier in Auszügen analysierte - 49. Andacht endet schließlich mit einem vollständigen Zitat der Choralstrophe „Mir hat die Welt trüglich gericht … viel Netz und heimlich Stricke.“ (Vgl. BWV 244/32; im Torso P 26 von BWV 244b in Gestalt von fünfeinhalb Takten der Sopranstimme als essenzieller Bestandtteil vorgemerkt).  
+Müllers - hier in Auszügen analysierte - 49. Andacht endet schließlich mit einem vollständigen Zitat der Choralstrophe „Mir hat die Welt trüglich gericht … viel Netz und heimlich Stricke.“ (Vgl. BWV 244/32; im Torso P 26 von BWV 244b in Gestalt von fünfeinhalb skizzenhaft notierten Takten der Sopranstimme als essenzieller Bestandtteil vorgemerkt).  
 
 Eine weitere Anspielung an Müllers Text:  
 
@@ -645,9 +645,8 @@ Nicht übersehen werden sollte als weiteres Beispiel für die Auseinandersetzung
 
 die im Subtitel die biblische Quelle nennt: PS 18,6 und mit den Worten beginnt:  
 
-„O Todesstrick! Ach, Höllenbande!“ 
+„O Todesstrick! Ach, Höllenbande!“  
 
- Sie steht dort rein formal zwar im Passionskontext, hat aber nur schwache Bezüge zum Wortlaut des Evangeliums.  
 
 Zum weiteren Aufbau der Lukas-Passion ist ergänzend anzumerken: Den Beschluß bilden (hier ohne Hinweis auf „Die Gemeine“) vier Strophen von Georg Neumarks 1657 erstmals publiziertem Passionslied „Wenn ich denk in meinem Herzen“.  
 
