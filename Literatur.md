@@ -29,7 +29,7 @@ Abkürzungen
 **Blanken**, Christine:  Der Kantatenzyklus ‚GOtt-geheiligte Sabbaths-Zehnden‘ von 1728 und die Leipziger Kirchenmusik unter J. S. Bach in den Jahren 1724–1727, BJ **2015**, 13–74  
 **Blanken**, Christine: „Magister Brummer“ – Weitere Mutmaßungen zu einem Dichter von (Bachs) Kantatentexten 1724–1726. Vortrag beim Bachfest Leipzig **2023**  <https://www.youtube.com/watch?v=6h9vpB1mSzI&t=1572s>  
 **Braatz**, Thomas https://www.bach-cantatas.com/Articles/SMP244avsb.pdf **2006**  
-**Braatz**, Thomas, The Rise and Fall of the Stübel-Theory, https://www.bach-cantatas.com/Articles/Stubel-Theory.htm **2007a**
+**Braatz**, Thomas, The Rise and Fall of the Stübel-Theory, https://www.bach-cantatas.com/Articles/Stubel-Theory.htm **2007a**  
 **Braatz**, Thomas, Use of Concerto, J.J. and SDG in Bach's Sacred Works, https://www.bach-cantatas.com/Term/Terms-8.htm **2007b**  
 **Brainard**, Paul: ‘Bach’s Parody Procedure and the St Matthew Passion’, Journal of the American Musicological Society 22 (**1969**), 241–60  
 **Brischwein**, Olaf: Die Johannes-Passion von Johann Sebastian Bach. Eine Untersuchung ihrer freien Dichtung, Phil. Diss. Bamberg **2001**  
@@ -39,10 +39,9 @@ Abkürzungen
 **Dumrese/Schilling**, Hans Dumrese / Friedrich Carl Schilling: Lüneburg und die Offizin der Sterne, Lüneburg **1956**  
 **Dürr**, Alfred: NBA Serie 2, Bd. 5,  Notenband **1972**  
 **Dürr**, Alfred: NBA Serie 2, Bd. 5, kritischer Bericht  **1974**  
-**Dürr**, Alfred: Die Johannes-Passion von Johann Sebastian Bach : Entstehung, Überlieferung, Werkeinführung, Kassel **1985** 
+**Dürr**, Alfred: Die Johannes-Passion von Johann Sebastian Bach : Entstehung, Überlieferung, Werkeinführung, Kassel **1985**  
 **Dürr**, Alfred: Die Entstehungsgeschichte der Matthäus-Passion, in: Johann Sebastian Bach, Matthäus-Passion, BWV 244 : Vorträge der Sommerakademie J. S. Bach 1985, Kassel **1990**, 76-93  
 **Erler**, Georg: Die jüngere Matrikel der Universität Leipzig, 1559 - 1809, 3 Bde, Leipzig **1909**  
-
 **Fischer**, William B., When God sang German, o.O. **2017**  
 **Franklin**, Don O.: Viewing the poetic texts in Bach's Matthew Passion from a new perspective, Bach : the journal of the Riemenschneider Bach Institute, Baldwin-Wallace College 46 (**2015b**), 29-48  
 **Frederichs**, Henning: Das Verhältnis von Text und Musik in den Brockespassionen Keisers, Händels, Telemanns und Matthesons : mit einer Einführung in ihre Entstehungs- und Rezeptionsgeschichte sowie den Bestand ihrer literarischen und musikalischen Quellen, München **1975**  
@@ -66,7 +65,7 @@ Abkürzungen
 **Kersten**, Sandra: Die Freundschaftsgedichte und Briefe Johann Christian Günthers, Berlin **2006**  
 **Kleck**, Konrad: Dein ist allein die Ehre : Johann Sebastian Bachs geistliche Kantaten erklärt, 3 Bde. Leipzig 2015,2016,2017 **2015**  
 **Kleinertz**, Rainer: Zur Frage der Autorschaft von Händels Johannespassion, Händel-Jahrbuch 49 (**2003**), S. 341-376  
-**Kohlfeldt**, G. Eine akademische Ferienreise von Rostock bis Königsberg im Jahre 1694. in: Baltische Studien IX (**1905**), 1–54 
+**Kohlfeldt**, G. Eine akademische Ferienreise von Rostock bis Königsberg im Jahre 1694. in: Baltische Studien IX (**1905**), 1–54  
 **Koska**, Bernd: Christian Wahrmuth – Ein Leipziger Dichter von (Bachs?) Kantatentexten. Vortrag beim Bachfest Leipzig **2023** <https://www.youtube.com/watch?v=6h9vpB1mSzI&t=1572s>  
 **Krausse**, Helmut K., Erdmann Neumeister und die Kantatentexte Johann Sebastian Bachs, in BJ **1986**, 7-32  
 **Krummacher**, Friedhelm: Bachs Zyklus der Choralkantaten: Aufgaben und Lösungen, Göttingen **1995**  
@@ -95,6 +94,7 @@ Bd. 1, Kassel **2004**
 **Rathey**, Markus, Die geistliche Hirten-Freude - eine Leipziger Weihnachtsmusik im Jahre 1685 und die Transformation weihnachtlicher Bukolik im späten 17. Jahrhundert, in: Daphnis 40 (**2011b**), 567-606  
 **Rathey**, Markus, Der zweite Leipziger Jahrgang - Choralkantaten, in: Bachs Kantaten: Das Handbuch, Laaber **2012a**, 331-449  
 **Reinhardt**, Uta: Die evangelischen Pastoren in Lüneburg 1530-1980, in: Reformation vor 450 Jahren. Lüneburg **1980**, 113-169  
+**Reuter**, Die St. Michaeliskirche in Lüneburg. Hannover und Leipzig, **1918**  
 **Schabalina**, Tatjana: "Texte zur Music" in St. Petersburg. Weitere Funde, in BJ 95 **2009**, 11-48  
 **Scheide**, William H.: Die Choralkantaten von 1724 und Bachs Köthener Besuch, in BJ 89 **2003**, 47-65  
 **Scheide**, William H., Zum Verhältnis von Textdrucken und musikalischen Quellen der Kirchenkantaten Johann Sebastian Bachs, in BJ 62 **1976**, 79-94  
