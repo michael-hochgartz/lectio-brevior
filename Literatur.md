@@ -58,8 +58,7 @@ Abkürzungen
 **Hofmann**, Klaus: Die Frühfassung der Matthäus-Passion – ohne Blockflöten?, BJ **2020**. 259-260  
 **Jakubowski-Tiessen**, Manfred (Hg.): Bekehrung unterm Galgen. Malefikantenberichte. Leipzig **2011**  
 **Jauch** Deutsches Geschlechterbuch Bd. 200 **1996**  
-**Junghans**, Wilhelm, Johann Sebastian Bach als Schüler der Partikularschule zu St. Michaelis in Lüneburg oder Lüneburg eine Pflegestätte kirchlicher Musik, Programm des Johanneums zu Lüneburg, Ostern
- **1870**  
+**Junghans**, Wilhelm, Johann Sebastian Bach als Schüler der Partikularschule zu St. Michaelis in Lüneburg oder Lüneburg eine Pflegestätte kirchlicher Musik, Programm des Johanneums zu Lüneburg, Ostern **1870**  
 **Kadelbach**, Ada: Das Husumer Hofgesangbuch (1676), in Jahrbuch für Liturgik und Hymnologie 27 **1983**, 83-111  
 **Kadelbach**, Ada: Das Akrostichon im Kirchenlied, in: Jahrbuch für Liturgik und Hymnologie 36 **1997**, 175-207  
 **Kersten**, Sandra: Die Freundschaftsgedichte und Briefe Johann Christian Günthers, Berlin **2006**  
@@ -72,11 +71,11 @@ Abkürzungen
 **Krummacher**, Friedhelm: Johann Sebastian Bach: Die Kantaten und Passionen, 3 Bde, Kassel **2018**  
 **Kümmerling**, Harald „Difficile est satyram non scribere“ oder: Über eine gewisse Passion eine so genannten weltberühmten Mannes“, Beiträge zur Geschichte des Oratoriums seit Händel, R. Cadenbach / H. Loos (Hrsg), Festschrift Günther Massenkeil, Bonn **1986**, 57-69  
 **Leaver**, Robin, A., A catholic Hymnal for use in Lutheran Leipzig: Catholisches Gesang-Buch (Leipzig, 1724), in: Bach perspectives **2018**,  36-62  
-**Leisinger 2002**  
+**Leisinger**, Ulrich, Die zweite Fassung der Johannes-Passion von 1725 - Nur ein Notbehelf?, Konferenzbericht Leipzig 2000, Hildeheim **2002**  
 **Linke**, Wilhelm, Niedersächsische Familienkunde ein biographisches Verzeichnis ; auf Grund der Leichenpredigten und sonstigen Personalschriften der Königlichen Bibliothek zu Hannover und anderer hannoverscher Sammlungen, Hannover **1912**  
 **Linke**, Wilhelm, Katalog der Leichenpredigten und sonstigen Personalschriften des Staatsarchivs zu Hannover nebst Ergänzungen zu des Verfassers Niedersächsischer Familienkunde, Leipzig **1931**  
 **Marshall**, Robert L., The Compositional Process of J. S. Bach: A Study of the Autograph Scores of the Vocal Works, 2 vols Princeton, **1972**  
-**Marshall 2011**  
+**Marshall**, Robert L., In Memoriam Alfred Dürr, Bach Notes 15 (**2011**)  
 **Marshall**, Robert L., Bach and Mozart: Essays on the Enigma of Genius, Rochester **2019**  
 **Marx**, Hans Joachim:  '... eines welt-berühmten Mannes gewisse Passion': zur Herkunft der Händel zugeschriebenen 'Johannes-Passion', Musica 41/4 (**1987**), 311-316  
 **Maul**, Michael, Johann Sebastian Bachs Besuche in der Residenzstadt Gera, BJ **2004a**, 101–120  
