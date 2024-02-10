@@ -58,6 +58,7 @@ Abkürzungen
 **Hofmann**, Klaus: Die Frühfassung der Matthäus-Passion – ohne Blockflöten?, BJ **2020**. 259-260  
 **Jakubowski-Tiessen**, Manfred (Hg.): Bekehrung unterm Galgen. Malefikantenberichte. Leipzig **2011**  
 **Jauch** Deutsches Geschlechterbuch Bd. 200 **1996**  
+**Jauch** Deutsches Geschlechterbuch Bd. 209 **1999**  
 **Junghans**, Wilhelm, Johann Sebastian Bach als Schüler der Partikularschule zu St. Michaelis in Lüneburg oder Lüneburg eine Pflegestätte kirchlicher Musik, Programm des Johanneums zu Lüneburg, Ostern **1870**  
 **Kadelbach**, Ada: Das Husumer Hofgesangbuch (1676), in Jahrbuch für Liturgik und Hymnologie 27 **1983**, 83-111  
 **Kadelbach**, Ada: Das Akrostichon im Kirchenlied, in: Jahrbuch für Liturgik und Hymnologie 36 **1997**, 175-207  
