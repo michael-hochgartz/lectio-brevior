@@ -1070,6 +1070,6 @@ Wenn ich die Matthäus-Passion, wenn ich große Musik höre, dann glaube ich zu 
 - Wahrheit: Die Disputanten sollten sich um die Wahrheit bemühen und nicht um den Sieg.  
 - Vernunft: Die Disputanten sollten sich auf die Vernunft und nicht auf Emotionen oder Autoritäten berufen.  
 - Höflichkeit: Die Disputanten sollten sich gegenseitig mit Respekt behandeln.  
-(Fast wörtlicher Extrakt anhand eines Transkripts der Titelseite von J.C. Jauchs, unter Vorsitz seines Kommilitonen J.D. Sasse auf Latein geführter Rostocker Magisterdisputation vom 26.10.1695; innerhalb weniger Sekunden übersetzt und analysiert am 10.2.2024 mittels einer wenige Tage zuvor öffentlich verfügbar gemachten LLM-basierten Applikation - konkret: Google-Gemini.)  
+(Fast wörtlicher Extrakt anhand eines Transkripts der Titelseite von J.C. Jauchs, unter Vorsitz seines Kommilitonen J.D. Sasse und seines akademischen Betreuers J.G. Möller auf Latein geführter Rostocker Magisterdisputation vom 26.10.1695; innerhalb weniger Sekunden übersetzt und analysiert am 10.2.2024 mittels einer wenige Tage zuvor öffentlich verfügbar gemachter LLM-basierten Applikation - konkret: Google-Gemini.)  
 
-Vgl.: https://g.co/gemini/share/280e4322539b ..
+Vgl. https://g.co/gemini/share/280e4322539b ..
