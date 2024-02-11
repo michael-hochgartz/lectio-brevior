@@ -1073,5 +1073,5 @@ Post Scriptum
 - Vernunft: Die Disputanten sollten sich auf die Vernunft und nicht auf Emotionen oder Autoritäten berufen.  
 - Höflichkeit: Die Disputanten sollten sich gegenseitig mit Respekt behandeln.  
 
-Übersetzung anhand eines Transkripts der Titelseite von J.C. Jauchs, unter seinem ehrenvollen Praesidium seines Kommilitonen J.D. Sasse und seines akademischen Betreuers J.G. Möller auf Latein geführter, offenbar auch von höherer Stelle wohlwollend beschleunigter und akademisch/theologisch intrikat legitimierter Magisterdisputation im Auditorium Maximum der Universität Rostock am 26.10.1695.  
+Übersetzung anhand eines Transkripts der Titelseite von J.C. Jauchs, unter seinem ehrenvollen Praesidium durch seinen Kommilitonen J.D. Sasse und seinen akademischen Betreuer J.G. Möller auf Latein geführter, offenbar auch von höherer Stelle wohlwollend beschleunigter und philosophisch intrikat legitimierter Magisterdisputation im Auditorium Maximum der Universität Rostock am 26.10.1695.  
 (Vgl. https://g.co/gemini/share/280e4322539b ) ..
