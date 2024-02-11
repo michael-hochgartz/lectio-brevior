@@ -3,7 +3,7 @@ Ob ein Superintendens wohl Poete seyn könne? - Zur Person des „Leipziger“ H
 Entwurf für ein Vortragsmanuskript (Es gilt das gesprochene Wort.)  
 
 Michael Hochgartz (D 48153 Münster)  
-michael@hochgartz.de - 10.02.2024  
+michael@hochgartz.de - 11.02.2024  
 Quelltext, Versionsgeschichte und Literaturverzeichnis: https://github.com/michael-hochgartz/lectio-brevior  
 
 
@@ -1067,9 +1067,11 @@ Die Wahrheit ist das Ganze!
 
 Wenn ich die Matthäus-Passion, wenn ich große Musik höre, dann glaube ich zu wissen, dass das, was diese Musik sagt, nicht die Unwahrheit sein kann.  (Theodor W. Adorno 1958)
 
+Post Scriptum  
+
 - Wahrheit: Die Disputanten sollten sich um die Wahrheit bemühen und nicht um den Sieg.  
 - Vernunft: Die Disputanten sollten sich auf die Vernunft und nicht auf Emotionen oder Autoritäten berufen.  
 - Höflichkeit: Die Disputanten sollten sich gegenseitig mit Respekt behandeln.  
-(Fast wörtlicher Extrakt anhand eines Transkripts der Titelseite von J.C. Jauchs, unter Vorsitz seines Kommilitonen J.D. Sasse und seines akademischen Betreuers J.G. Möller auf Latein geführter Rostocker Magisterdisputation vom 26.10.1695; innerhalb weniger Sekunden übersetzt und analysiert am 10.2.2024 mittels einer wenige Tage zuvor öffentlich verfügbar gemachten LLM-basierten Applikation - konkret: Google-Gemini. Ohne jede Gewähr für die Richtigkeit der Angaben!)  
 
-Vgl. https://g.co/gemini/share/280e4322539b ..
+Extrakt anhand eines deutschen Transkripts der Titelseite von J.C. Jauchs, unter seinem ehrenvollen Praesidium von seinem Kommilitonen J.D. Sasse und seines akademischen Betreuers J.G. Möller auf Latein geführter, offenbar auch von höherer Stelle wohlwollend beschleunigter und theologisch intrikat legitimierter Magisterdisputation im Auditorium Maximum der Universität Rostock am 26.10.1695. Innerhalb weniger Sekunden übersetzt und vorausschauend analysiert am 10.2.2024 mittels einer wenige Tage zuvor öffentlich verfügbar gemachten LLM-basierten Applikation (Gemini Ultra). Ohne Gewähr für die Richtigkeit der automatischen Zusammenfassung, die-  offenbar ohne speziell legitimierten „Prompt“ - den gesamten Text des Dokuments zur Laufzeit verarbeitete - oder vorausschauend analysiert hatte.  
+(Vgl. https://g.co/gemini/share/280e4322539b ) ..
