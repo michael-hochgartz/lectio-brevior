@@ -5,6 +5,7 @@ Entwurf für ein Vortragsmanuskript (Es gilt das gesprochene Wort.)
 Michael Hochgartz (D 48153 Münster)  
 michael@hochgartz.de - 19.02.2024  
 Quelltext, Versionsgeschichte und Literaturverzeichnis: https://github.com/michael-hochgartz/lectio-brevior  
+Die ab Februar 2024 gelegentlich eingepflegten Hinweise auf weiterführende, externe Erläuterungen zu einzelnen Begriffen tragen experimentellen Charakter. Ihre - KI-basierte - technische Konsistenz ist ebenso unverbindlich wie die dort wiedergegebenen Inhalte. Gleichwohl mögen sie den Rezipienten als Ausgangspunkte für weiterführende Diskussionen dienen. (Diesbezüglich gilt die Fassung letzter Hand.)  
 
 
 
@@ -41,6 +42,8 @@ Die im Februar 1689 gedruckte Einladung zur öffentlichen Aufführung einer late
 Erst nach einer - zunächst nur pro Forma erfolgten - Immatrikulation an der Universität Rostock wechselte Jauch im April 1689 zum Grundstudium der Philosophie und Theologie nach Jena. Offenkundiger Grund war die Absicht, die dort (in Jena) praktizierten, überregional berüchtigten, menschenverachtenden Depositionsrituale für Erstinscribenten zu umgehen.  
 
 Nach einem - spätestens im 1. Quartal 1694 beendeten - Aufenthalt in Leipzig (bei dem er zufällig durchaus E. Neumeister, J.B. Carpzov, J. Schelle, J. Kuhnau oder J.A. Stübel begegnet sein könnte) schloss [J]ohann [C]hristoph [J]auch seine - vor allem durch gedruckte, personenbezogene „Beiträge“ in gebundener Rede recht engmaschig verfolgbare - akademische Ausbildung 1695 in Rostock ab mit einer Magisterpromotion unter Betreuung durch den fast gleichaltrigen, früh verstorbenen Danziger Theologen, Gräzisten und Kieler Kortholt-Schüler [J]ohann [G]ottlieb [M]öller (1670-1698), der etlichen seiner gedruckten Disputationen die Formeln [J]esu [G]ratia [M]oderante oder [I]n [G]loriam [M]ediatoris oder auch [J]mmensi [G]loriam [M]ediatoris voranzustellen pflegte.  
+<https://g.co/gemini/share/5b430fa5ef4d>  
+
 
 
 Unter Möllers Führung hatte er „als der erste und liebste“ von sechs per Pedes Apostolorum mitreisenden Studiosi am Ziel einer von Juli bis September 1694 währenden, vom nachmaligen Rostocker Universitätsbibliothekar und Poetik-Professor Carl Arndt sorgfältigst dokumentierten theologischen Exkursion (die später so titulierte „Preußische Reise“) durch Pommern, Ostpreußen und Brandenburg kurz vor dessen Tod den Frühaufklärer Samuel von Pufendorff in Berlin heimgesucht.  
@@ -88,6 +91,7 @@ So wurde Jauch aufgegeben, eine Probepredigt zu halten über „Hos XIII, 9 Isra
 Ob hier eine homiletische Geschicklichkeitsprüfung oder nur blanke Häme intendiert war, ist zunächst kaum zu entscheiden. Jedoch lässt sich der zweite aufgetragene Text (Jac 5, 7-8) nach dieser provokant wirkenden Vorgabe als eine Vermahnung zur Versöhnung an alle Beteiligten deuten - auch hier unter Einbeziehung des nachfolgenden 9. Verses als eines buchstäblichen Sub-Textes:  
 
 „9. Seufzet nicht widereinander, liebe Brüder, auf daß ihr nicht verdammt werdet. Siehe, der Richter ist vor der Tür.“  
+<https://g.co/gemini/share/8d81837163be>  
 
 Der Eindruck dieser, am 5. Sonntag nach Trinitatis (3.7.1695) und wohl noch an einem weiteren Tag abgelegten beiden Probepredigten, „wobey die meisten [warum nicht alle?] aus den vornehmen Geschlechtern, auch Gelehrten der Stadt zugegen waren“, war am Ende offenbar derart überzeugend, „daß so wol hohe als niedrige durch seinen Lehrreichen Mund geweydet zu werden wünscheten.“  
 
@@ -129,15 +133,18 @@ Unter den ungenannten, laut Vorwort in Lüneburg zu suchenden Autoren (vielleich
 Weiterhin sind Einzeltextdrucke von Trauerkantaten für die Beisetzungen Lüneburger Honoratioren überliefert, die jeweils in ähnlicher Konstellation (aber wohl als reine Organistenmusiken ohne produktive Beteiligung des Kantors) realisiert wurden - wobei Böhm in diesen Fällen (zu denen auch Jauchs Beisetzung am 6.2.1725 zählt) das vom Rat in einem Verwaltungsgerichtsverfahren auf St. Johannis beschränkte, aber dem Grunde nach bestätigte Privileg zur kostenpflichtigen Erstellung der Kompositionen besaß.
 
 Die Beförderung zum Superintendenten, die unter Berufung auf Sparbemühungen ohne überregionale Ausschreibung erfolgte und die mit einem nur geringen Einkommenszuwachs verbunden war, wurde gleichwohl von einem höher rangierenden Amtsbruder auf ausführlich dokumentierte, erschreckend intrigenhafte Weise bekämpft. Sie erfolgte gegen den wiederholt, „unter Thränen“ erklärten Willen Jauchs, der sich bald darauf, am 17. April 1714, in einem sehr persönlich gehaltenen Brief (nach Inhalt und Diktion durchaus vergleichbar mit Bachs Schreiben an seinen Thüringer / Lüneburger Jugendfreund Georg Erdmann) an seinen ehemaligen Kommilitonen, den seinerzeitigen Jenaer Universitätsorganisten, nunmehrigen Universitätsrektor und späteren Bach-Bewunderer (vgl. DOK II, 369) Johann Jakob Syrbius, zu den näheren Umständen seiner Ernennung äußerte.  
-<https://g.co/gemini/share/a80e57117487>  
+<https://g.co/gemini/share/03584715fa91>  
 
 Diese wurden überlagert von langjährigen Präzedenzstreitigkeiten zwischen Patriziat und Geistlichem Ministerium (es ging - zumindest vordergründig - tatsächlich um die Rangfolge bei öffentlichen Auftritten), als dessen penibel, wegen der erwähnten Anfeindungen fast ängstlich agierender theologischer Geschäftsführer Jauch ein Jahrzehnt lang fungieren sollte. (Vgl. Wiesenfeldt 2016.)  
+<https://g.co/gemini/share/76b5c5815c23>  
+
 Das jährliche Gehalt Jauchs setzte sich laut Anstellungsvertrag zuammen aus einem Fixum von 500 Rthlr. sowie aus amtsüblichen Naturalleistungen im Wert von 32 plus 16 Rthlr. (Für seinen Nachfolger werden per anno 1735 pauschal 800 Rthlr. genannt; vgl. Meyer 1941.) Bzgl. des Lebensstandards dürfte Jauch damit in etwa mit J.S. Bachs Leipziger Verhältnissen vergleichbar sein (vgl. Wolff 2000).  
 An Akzidenzien gebührten Jauch zwar keine Einnahmen aus Taufen, wohl aber ein Teil der in St. Johannis proclamierten Copulationen und die Zahlungen für Leichenbegängnisse und Beichten.  
 
 Letztere waren in Lüneburg nach dem Prinzip der Personalgemeinden - also Pfarrgrenzen-übergreifend - organisiert. Die Entlassung des „Häretikers“ Petersen 1692 war übrigens durch dessen Absicht ausgelöst worden, den obligatorischen Beichtpfennig abzuschaffen, und der Reformtheologe Heinrich Müller hatte zu seiner Zeit in Rostock diese Einkunftsart zwar nicht eliminiert, deren Erträge aber unter den Armen verteilt.  
 
 Bei wem der junge J.S. Bach während seiner Lüneburger Zeit beichtete, und ob (und ggf. wann und wo und von wem) der 15jährige konfirmiert wurde, ist bislang nicht einmal ansatzweise Gegenstand von Überlegungen. Als „Waisenknabe“ ohne jeglichen elterlichen Anhang und mit hoch aktuellem Migrationshintergrund käme für diese Funktion wohl nur ein nachgeordneter Geistlicher in Betracht, etwa der II. Prediger an St. Michaelis, Johann Jacob Boie.  
+<https://g.co/gemini/share/6cd0537e1363>  
 
 Dass Georg Böhm samt Familie und Gesinde sich Jauch (eventuell schon bei seiner Ankunft in Lüneburg?) als Beichtvater erwählt hat, ist zwar mangels Confitentenregistern nicht sicher belegbar, erscheint aber durchaus als möglich.  
 
@@ -149,6 +156,7 @@ Entsprechend fiel sein Klagegesang gegenüber Syrbius aus, und auch sein Biograp
 Die Begründung für die letztendliche Annahme seines neuen Amtes gegenüber Syrbius zeugt davon, dass Jauch die Entscheidung in die Hände einer höheren Instanz zu legen versucht hatte - und dies auch gegenüber einer breiteren Öffentlichkeit thematisierte:  
 
 „Allein dessen allen ungeacht habe ich das was Gott auff meine Schultern legen wollen, theils ein beschwerliche Amts theils eine beharrliche Verfolgungslast müßen machen, und habe mit Jeremia bey meinem Antritt sagen können, Herr du hast mich überredet und ich habe mich überreden laßen. Du bist mir zu stark gewesen und hast gewonnen.“  
+<https://g.co/gemini/share/1dfee021767c>  
 
 Jer 20,7 ist als offenkundiger Text der Antrittspredigt eine durchaus gewagte Wahl - besonders wenn man auch hier die nachfolgenden Verse 10 bis 12 mitliest, deren Anspielungen bei wörtlicher Interpretation nichts an Deutlichkeit vermissen lassen:  
 
@@ -684,10 +692,11 @@ Bislang konnte immerhin ein konkretes Werk aus diesem Bestand nachgewiesen werde
 Auf Johann Christoph Jauch dürfte zum Beispiel die Anschaffung jener achtbändigen Ausgabe des 1697 erschienenen „Wagnerschen Gesangbuchs“ zurückgehen (Nr. 2645 - 2652 des Katalogs), einer enzyklopädischen, allein schon aus materiellen Gründen keineswegs für den Massengebrauch konzipierten Choraltext-Anthologie, die auch als wesentlicher Bestandteil der theologischen Bibliothek Bachs belegt ist. Damit ist die Voraussetzung für die Annahme gegeben, dass sich Dichter und Komponist bei einer Abstimmung über das hymnologische Programm der Choralkantaten auf das gleiche, umfangreiche Repertorium von Kirchenliedern stützen konnten.  
 
 Je vier Titel von zwei prominenten Vertretern der Norddeutschen Reformorthodoxie, nämlich August Pfeiffer (Lübeck) und Heinrich Müller (Rostock), belegen zudem - zusammen mit weiteren Werken anderer Autoren - eine quantitativ mit 23 bzw. 32 Prozent beachtenswerte, theologisch durchaus tendenziöse Schnittmenge der hinterlassenen Bibliotheken Bachs und seines Hauptlibrettisten. (Vgl. Wilhelmi 1979: Nrn. 5, 8, 10 sic!, 11,14, 20, 36, 38, 39, 42, 51, 52 sowie die Zweifelsfälle 2, 7, 13, 35, 45.)  
+<https://g.co/gemini/share/79f3741969c7>   
 
 Zu erwähnen bleibt schließlich die Tatsache, dass unter Nr. 1881 des Iauch-Katalogs ein Exemplar des 1720 in Hamburg bei Trausold erschienenen Neuen Testaments verzeichnet ist, welches „also gedrucket, daß alle Worte und Reden, Welche der HErr JESUS selber gesprochen, Mit rothen Littern, Die übrige Haupt-Sprüche aber in schwartzem Abdruck, Mit grösseren Buchstaben, Zu lesen sind.“ 
 Dieses typographische Unikat erinnert an den Umstand, dass das Autograph der Matthäus-Passion (und vielleicht auch schon die verschollene Originalhandschrift der Frühfassung und vielleicht auch deren Textvorlage?) für das explizite Bibelwort und für den Cantus firmus des Exordiums rote Tinte verwendet - durch wen auch immer Bach zu dieser außergewöhnlichen Gestaltungsweise angeregt worden sein mag.  
-
+<https://g.co/gemini/share/957a8f41dc04>  
 
 Von Jauchs Musikliebe zeugen, neben einer anrührenden Bemerkung über sein durch Kindergeschrei gestörtes „Saiten-Spiel“ in dem Trauergedicht seines Sohnes Ludolph Friedrich, seinen eigenen Worten im Titel der Hochzeitskantate für den Lamberti-Organisten Georg Flor 1705 („… aus Nachbarlicher Freundschafft auch Liebe zur Music entworffen…“) sowie dem Vortrag einer selbst gedichteten, wohl auf Kosten des zu Ehrenden gedruckten, laut Titel während der Rostocker Antrittsvorlesung seines Magistervaters Johann Gottlieb Möller vorgetragenen (zur Begleitung der selbst geschlagenen Laute improvisierten?) Strophenarie - vor allem seine Rolle als beiläufig genannter, gleichwohl federführend tätiger Kurator einer neu geordneten, auf 100 Stücke vergrößerten und mit biblischen Sinnsprüchen angereicherten Ausgabe der „Elmenhorst-Lieder“ für das Lüneburger Verlagshaus von Stern.  
 
@@ -706,6 +715,7 @@ Mehr als ein sinnreich Wort dir müssen wol gefallen.
 Dein Wille gab vielleicht, wenn hier die Einfalt sprach  
 Mir liebreich nach.  
 
+<https://g.co/gemini/share/e053dda9a487>  
 
 Die 1911 in Band 45 der Denkmäler Deutscher Tonkunst von J. Kromolicki und W. Krabbe nach zeitgemäßen musikwissenschaftlichen Prinzipien bearbeitete Elmenhorst-Edition wurde - laut den datierten Vorworten des langjährigen Autors, des Hamburger Katharinen-Predigers und Operndichters Heinrich Elmenhorst (20. April) und des Herausgebers, des damaligen Lüneburger Superintendenten Heinrich Jonathan Wehrenberg (16. März) in jenem Frühjahr des Jahres 1700 abgeschlossen, in welchem der 15jährige, bald darauf seiner stimmphysiologischen Existenzgrundlage entledigte Sopranist Johann Sebastian Bach, (wohl ab 3. April, spätestens aber zum 1. Mai) in Lüneburg ansässig wurde und dort in der Wohnung des Johannis-Organisten Georg Böhm, wo er Tabulaturen Hamburger, Lübecker und Lüneburger Orgelmeister inkorporierte, dem damaligen Lamberti-Diakon, Kurator dieser Neuausgabe, zunächst Schützling und dann Nachfolger Wehrenbergs - Johann Christoph Jauch - begegnet sein dürfte, während dieser mit Böhm an der Schlusskorrektur des Projekts arbeitete.  
 
@@ -748,6 +758,7 @@ Es bleibt verlockend sich vorzustellen, ob und in welcher Gestalt der junge Bach
 
 
 Böhm bewohnte zu jener Zeit (1700) an der Neuen Sülze Nr. 9 eine Wohnung Wand an Wand mit dem repräsentativen, 1802 im klassizistischen Stil erneuerten, 1962 eliminierten, aber zuvor fachgerecht dokumentierten, ursprünglich mit qualitätvollen Terakotten aus der Spätrenaissance geschmückten Haupthaus (Nr. 8) des Ratssyndikus Tobias Reimers (Taufpate von Jauchs 1704 geborenem Sohn Tobias), eines ausgewiesenen Musikliebhabers, in dessen (von Zacharias Conrad von Uffenbach beschriebener, reichsweit gerühmter) Realien-Sammlung sich auch eine Angélique befand, „die sehr künstlich eingelegt war“ -  eine insbesondere am Mecklenburgischen Hof nachweisbare Sonderform der Laute, wohl ein Exemplar aus der Werkstatt des Hamburger Instrumentenmachers Joachim Tielke. (Vgl. Tschirner 2020)  
+<https://g.co/gemini/share/d323a650ed99>  
 
 Auch eine Tochter des Taufpaten von Jauchs zweitem Sohn Ludolph, die 1722 als protestantische Äbtissin zu Medingen gestorbene Elisabeth Catharina von Stöterogge (Schwägerin Reimers), galt nicht nur literarisch und theologisch als hochbegabt, sondern sollte „auf der Laute fast nicht ihres gleichen haben“.  
 
@@ -762,11 +773,13 @@ Die Tatsache, dass 1717 für eine - leider nicht näher spezifizierte - Passions
 
 1722 entstand im führenden Bibel- und Gesangbuchverlag nördlich des Mains, der heute in 14. Generation in Familienbesitz befindlichen von Sternschen Druckerei, in dem Gebäudekomplex „Am Sande Nr. 31“ und somit fast Tür an Tür mit Jauchs damaliger Dienstwohnung („Am Sande Nr. 27“, einst die „Alte Probstei“, später das 50 Schritte neben dem Westportal von St. Johannis gelegene, kirchlich geführte „Café Sandkrug“ - seit 2023 als Bildungs- und Kulturzentrum „DÜNE“ genutzt -), die zweite Auflage (von insgesamt mindestens neun, mit einem geschätzten Aufwand von jeweils etwa 50 Mannwochen erstellten Neudrucken) der Passionspredigten (Anhang zum „Hertzensspiegel“) des 1675 verstorbenen Rostocker Superintendenten und Theologieprofessors Heinrich Müller. (Je eines der - allesamt in Norddeutschland überlieferten - Exemplare der ca. 1800 Seiten umfassenden Auflagen Lüneburg 1722, 1736, 1743 und 1752 im Eigentum des Verfassers.)  
 
-Diese Tatsache lässt kaum eine andere Annahme zu, als die, dass Johann Christoph Jauch diesen Text (in exakt dieser Variante), an dessen Imprimatur er qua Amt auch beteiligt gewesen war (vgl. Wricke 1973), sehr genau gekannt hat, der nach dem oft zitierten, aber leider angegrauten Stand der Forschung (Axmacher 1978; 1984) in Form auffälliger Allusionen zumindest in das sprachmotivische, wenn nicht auch in das theologische Gerüst von Bachs Matthäus-Passion einfloss - und auch in einzelne Choralkantatentexte. 
+Diese Tatsache lässt kaum eine andere Annahme zu, als die, dass Johann Christoph Jauch diesen Text (in exakt dieser Variante), an dessen Imprimatur er qua Amt auch beteiligt gewesen war (vgl. Wricke 1973), sehr genau gekannt hat, der nach dem oft zitierten, aber leider angegrauten Stand der Forschung (Axmacher 1978; 1984) in Form auffälliger Allusionen zumindest in das sprachmotivische, wenn nicht auch in das theologische Gerüst von Bachs Matthäus-Passion einfloss - und auch in einzelne Choralkantatentexte.  
+<https://g.co/gemini/share/b2e4a366cc0b>  
 
 Während der Erstdruck der überwiegend in Lüneburg, aber auch in weiteren norddeutschen Verlagsorten wie Hamburg, Ratzeburg und Stade, recht spät auch in Rostock, ferner in Minden und unter besonderen Umständen sogar in Unna (jedoch nie in Leipzig) das gesamte 18. Jahrhundert lang kontinuierlich nachgedruckten Ausgabe des „Hertzensspiegels“ mit seinen stets beigefügten Passionspredigten auf Übertragungen eigenhändiger, bezeugtermaßen schwer entzifferbarer Predigtkonzepte durch Müllers Privatsekretär und Nachlassverwalter Johann Caspar Heinisius beruhte, fußte die Edition aus Bachs Bibliothek auf simplifizierenden Mitschriften der gesprochenen Predigten durch einen weiteren Rostocker Theologiestudenten - Samuel Christian Mummius - der eine abweichende Aufteilung der acht bzw. neun, ursprünglich aus reinem Fließtext bestehenden Predigtblöcke wählte und gegen Ende des Rohmaterials auf die weitgehend wörtlich übernommene Heinisius-Edition zurückgriff. (Vgl. Franklin 2015b)  
 
 Die letzten fünf Zeilen des zweiten Satzes der Choralkantate BWV 2 (18.6.1724) finden beispielsweise eine Entsprechung in der „Lüneburger“ Edition der siebenten Passionspredigt Müllers. Sie ist deutlich detailgenauer (im Sinne einer Lectio difficilior) als jene Variante in der inhaltlich stark verkürzten, als „Evangelisches Praeservativ“ sehr selten aufgelegten Mummius-Ausgabe von 1681 aus Bachs nachgelassener Bibliothek, die bislang als einziges Indiz für die Zugriffsmöglichkeit Bachs bzw. Henricis auf den Müller-Text vermutet wird.  
+<https://g.co/gemini/share/47b2c28c9066>  
 
 Ein Rohr hat von aussen ein schönes Ansehen,  
 und ist doch inwendig leer.  
@@ -799,12 +812,14 @@ Magdalena Sybillas in der reichen musikalischen und theologischen Tradition des 
 
 Das Kirchenliedrepertorie ähnelt zumindest vom zeiträumlichen Zuschnitt durchaus demjenigen der Choralkantaten J.S. Bachs. Eine Suche nach Übereinstimmungen bei den Perikopen- bzw. de tempore-Zuordnungen oder gar nach kongruenten orthographischen Varianten könnte Gegenstand lohnender Spezialstudien sein.  
 
-In den dort versammelten ca. 400 Choraltexten finden sich etliche Beispiele für Akrosticha aus der Feder des Petraeus, durch die nicht nur die Namen der adeligen Verwandtschaft (z.B. der Tochter Sophia Amalia), sondern auch diejenigen von bürgerlichen Hofbediensteten wie z.B. „CammerJungfern“ durch typographisch dezent markierte Anfangsbuchstaben der Strophen benannt werden.  
+In den dort versammelten ca. 400 Choraltexten finden sich etliche Beispiele für Akrostiche aus der Feder des Petraeus, durch die nicht nur die Namen der adeligen Verwandtschaft (z.B. der Tochter Sophia Amalia), sondern auch diejenigen von bürgerlichen Hofbediensteten wie z.B. „CammerJungfern“ durch typographisch dezent markierte Anfangsbuchstaben der Strophen benannt werden.  
+<https://g.co/gemini/share/598cf7b70a55>  
+
 Von mindestens einer der Schwestern Magdelena Sybillas ist überliefert, dass sie das teils mit Noten versehene, in Großschrift teils gesetzte, teils gestochene Gesangbuch, das jahrzehntelang als liturgisches Reglement für die täglichen Gottesdienste im „Schloß vor Husum“ diente, von ihrer Mutter zum Geschenk erhielt. (Vgl. Kadelbach 1983; 1997)  
 Es kann als wahrscheinlich gelten, dass diese seltene hymnologische Quelle auch dann noch in den Hofgottesdiensten in der Schloßkirche oder zumindest in den Privatgemächern in Husum wie auch in Güstrow eine Rolle spielte, als Johann Christoph Jauch dort seine ersten Erfahrungen als Prediger machte - also z.B. 1695, in dem Jahr, in dem er von Rostock aus „eben auf der Reise nach Kiel, Gottorf, Husum und andern Holsteinischen Oertern begriffen war“ - just,  als sein Lüneburgischer Patron Ludolph von Stöterogge sein berufliches Schicksal in eine unverhoffte (lebenslang ungeliebte?) Richtung zu wenden begann.  
 
 Es ist nicht auszuschließen, dass Johann Christoph Jauch, Johann Nikolaus Bach, Georg Böhm sowie Mitglieder des sich später als „Liederfreunde“ empfindenden und sich auch so nennenden informellen Zirkels 1694f die auch aus heutiger theologischer Sicht als spektakulär zu betrachtenden Oratorienaufführungen Johann Lippoldts in der Collegiumskirche Jena miterlebt und sogar an ihnen mitgewirkt haben könnten. (Vgl. Rathey 2011b)  
-
+<https://g.co/gemini/share/558b25997c44>  
 
 
 1711 publizierte der Schmalkaldener Pfarrer und Hymnologe Johann Avenarius (einer der wortführenden „Liederfreunde“) eine beiläufige Bemerkung, wonach sein Jenaer Mitstudent und “Stuben Geselle” Jauch jeden Morgen und jeden Abend den Choral “Ach, was soll ich Sünder machen” gesungen habe - also eines jener im privaten Bereich geschätzten Lieder, über das Johann Sebastian Bach während oder nach seiner Lüneburger Zeit (im Vorfeld seiner Studienreise 1705/06 von Arnstadt über Lüneburg und Hamburg nach Lübeck?) eine Folge von Variationen in ihre heute bekannte Form (BWV 770) brachte, deren Stilelemente Georg Böhm als Anregungen für seine eigenen Umsetzungen dieser Gattung gedient haben könnten.  
