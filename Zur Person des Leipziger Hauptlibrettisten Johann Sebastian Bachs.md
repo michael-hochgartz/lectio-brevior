@@ -3,7 +3,7 @@ Ob ein Superintendens wohl Poete seyn könne? - Zur Person des „Leipziger“ H
 Entwurf für ein Vortragsmanuskript (Es gilt das gesprochene Wort.)  
 
 Michael Hochgartz (D 48153 Münster)  
-michael@hochgartz.de - 11.02.2024  
+michael@hochgartz.de - 19.02.2024  
 Quelltext, Versionsgeschichte und Literaturverzeichnis: https://github.com/michael-hochgartz/lectio-brevior  
 
 
@@ -83,6 +83,7 @@ So wurde Jauch aufgegeben, eine Probepredigt zu halten über „Hos XIII, 9 Isra
 „9. Israel, du bringst dich in Unglück; denn dein Heil steht allein bei mir.  
 10. Wo ist dein König hin, der dir helfen möge in allen deinen Städten? und deine Richter, von denen du sagtest: Gib mir Könige und Fürsten?  
 11. Wohlan, ich gab dir einen König in meinem Zorn, und will ihn dir in meinem Grimm wegnehmen.“  
+<https://g.co/gemini/share/10ac528934fa>  
 
 Ob hier eine homiletische Geschicklichkeitsprüfung oder nur blanke Häme intendiert war, ist zunächst kaum zu entscheiden. Jedoch lässt sich der zweite aufgetragene Text (Jac 5, 7-8) nach dieser provokant wirkenden Vorgabe als eine Vermahnung zur Versöhnung an alle Beteiligten deuten - auch hier unter Einbeziehung des nachfolgenden 9. Verses als eines buchstäblichen Sub-Textes:  
 
@@ -95,6 +96,8 @@ Die Ordination Jauchs erfolgte schließlich am 8. Januar 1696 - und am 19. Mai d
 Bereits im Vorfeld hatte Jauch Unterstützung von unterschiedlichen Seiten erhalten: „Geist- und Weltliche hatten demnach ein gutes Urtheil von ihm gefället, schrifft- und mündliche Zeugisse preiseten seine Orthodoxie und Aufführung aufs beste, einige gelehrte politici hatten aus seinen Discoursen eine besondere erudition bemercket“ - selbst wenn man diese 1719 publizierte Eloge aus der Feder seines Ex-Kommilitonen (und von den genannten „politici“ finanzierten Biographen) Georg Bertram auf ihren wahrscheinlichen Wahrheitsgehalt reduziert.  
 
 Als vorerst letztes Beispiel für die ungute Atmosphäre unter den Beteiligten mag die Beobachtung dienen, dass in der am 30.11.1695 finalisierten, von sämtlichen Amtsbrüdern mit Unterschriften und Siegelabdrücken beglaubigten theologischen Unbedenklichkeitsbescheinigung, in der es heißt: „… sich der Gemeine zum Fürbilde guter Werke stellen werde“, das „werde“ gestrichen und durch „möge“ ersetzt wurde. Ob vor, während oder nach der Herumreichung des Zirkulars (von Haus zu Haus durch den Amtsdiener oder ad hoc innerhalb einer Kollegiumssitzung?) lässt sich ohne naturwissenschaftliche Analyse des Originals nicht beurteilen, welches farblich unterschiedlich wirkende, aber augenscheinlich gruppierbare Tinten- und Siegellack-Sorten aufweist.  
+<https://g.co/gemini/share/7764e5435d50>  
+
 
 
 Jauch amtierte ab 1696 an der - 1861 wegen Bergsenkungsschäden abgetragenen, kurz zuvor noch photographierten, - spätgotischen Lamberti-Kirche mit ihrer einst (nach der von Michael Praetorius 1614 dokumentierten ursprünglichen Registerauflistung) größten Orgel ihrer Zeit, der zu Beginn des 18. Jahrhunderts mit 43 Stimmen immer noch klangmächtigsten, von Georg Flor (und bis 1698 von dessen, in der „Möllerschen Handschrift“ vertretenen und als Komponist geistlicher Lieder aus der Feder Johann Rists bekannten Vater Christian Flor) bespielten Orgel Lüneburgs, als Johann Sebastian Bach im Frühjahr 1700 sein Auslandspraktikum in der wenige Minuten von Jauchs Predigtstätte entfernten Partikularschule bei dem ehemaligen Michaeliskloster und in der auf dem Weg dorthin gelegenen Wohnung des Johannis-Organisten Georg Böhm (Neue Sülze Nr. 9) begann - dem Amtsnachfolger des älteren und Konkurrenten des jüngeren Flor. Reste dieser Orgel haben sich möglicherweise in der Katharinenkirche in D 21409 Embsen erhalten.  
@@ -1073,5 +1076,5 @@ Post Scriptum
 - Vernunft: Die Disputanten sollten sich auf die Vernunft und nicht auf Emotionen oder Autoritäten berufen.  
 - Höflichkeit: Die Disputanten sollten sich gegenseitig mit Respekt behandeln.  
 
-Übersetzung anhand eines Transkripts der Titelseite von J.C. Jauchs, unter seinem ehrenvollen Praesidium durch seinen Kommilitonen J.D. Sasse und seinen akademischen Betreuer J.G. Möller auf Latein geführter, offenbar auch von höherer Stelle wohlwollend beschleunigter und philosophisch intrikat legitimierter Magisterdisputation im Auditorium Maximum der Universität Rostock am 26.10.1695.  
-(Vgl. https://g.co/gemini/share/280e4322539b ) ..
+Übersetzung anhand eines KI-basierten Transkripts von J.C. Jauchs - unter seinem ehrenvollen Praesidium durch seinen Kommilitonen J.D. Sasse und geleitet von seinem akademischen Betreuer J.G. Möller - auf Latein geführter, offenbar auch von höherer Stelle wohlwollend beschleunigter und philosophisch intrikat legitimierter Magisterdisputation im Auditorium Maximum der Universität Rostock am 26.10.1695.  
+<https://g.co/gemini/share/280e4322539b>  
