@@ -439,7 +439,7 @@ Dass andererseits Johann Christoph Jauch von Lehms inspiriert worden sein dürft
 Jauch ist, mit Ausnahme seiner - exzellent digitaliserten, nicht nur aus sprachlichen Gründen heute aber kaum noch adäquat zu beurteilenden - Beteiligungen an lateinischen Disputationen, seiner zahlreichen, durchgängig auf gutem Deutsch verfassten gereimten Grußworte in Drucken befreundeter Rostocker Akademiker und seiner Beiträge in Lüneburger Personalschriften, auf den ersten Blick publizistisch kaum erkennbar hervorgetreten. Sein, durch verschiedene Aussagen belegtes, bescheidenes Wesen ist als Grund dafür anzusehen, dass er aus eigenem Antrieb wenig produziert hat, was heute noch rezipierbar erscheint.  
 
 Für die Praxis der brieflichen Kommunikation Johann Christoph Jauchs, dessen Bruder Carl (1680-1755) als Lübeckischer Postmeister in Lüneburg amtierte, gibt es erfreulich sachdienliche Belege von seiner eigenen Hand.  
-<https://g.co/gemini/share/38682c7cf6ce>  
+<https://g.co/gemini/share/5b91badf7670>  
 
 Am 16. April 1716 entschuldigt er sich beim Hamburger Rektor Johann Albert Fabricius, dessen 20.000 Bände umfassende Privatbibliothek er bei einem Besuch bewundert hatte und den er drei Wochen zuvor mit einer Frage wegen Aufnahme seines Sohnes Tobias in dessen Haus- und Lehrgemeinschaft angeschrieben hatte, wegen seiner verspäteten Antwort auf dessen Reaktion:  
 
