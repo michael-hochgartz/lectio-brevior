@@ -15,7 +15,7 @@ Abkürzungen
 **ADB**: Allgemeine Deutsche Biographie  
 **BC**: Bach-Compendium  
 **BG**: Alte Bach-Ausgabe  
-**BJ**: Bach-Jahrbuch <https://g.co/gemini/share/26c5499bc2a5>..
+**BJ**: Bach-Jahrbuch <https://g.co/gemini/share/26c5499bc2a5>  
 **BWV**: Bach-Werke Verzeichnis  
 **HJB**: Händel-Jahrbuch  
 **HWV**:  Händel-Werke-Verzeichnis  
