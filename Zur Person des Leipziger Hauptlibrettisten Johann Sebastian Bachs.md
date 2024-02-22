@@ -1,11 +1,18 @@
+M.H.C.  
 Ob ein Superintendens wohl Poete seyn könne? - Zur Person des „Leipziger“ Hauptlibrettisten Johann Sebastian Bachs.  
 
 Entwurf für ein Vortragsmanuskript (Es gilt das gesprochene Wort.)  
 
-Michael Hochgartz (D 48153 Münster)  
-michael@hochgartz.de - 20.02.2024  
-Quelltext, Versionsgeschichte und Literaturverzeichnis: https://github.com/michael-hochgartz/lectio-brevior  
-Die ab Februar 2024 gelegentlich eingepflegten Hinweise auf weiterführende, externe Erläuterungen zu einzelnen Begriffen tragen experimentellen Charakter. Ihre - KI-basierte - technische Konsistenz ist ebenso unverbindlich wie die dort wiedergegebenen Inhalte. Gleichwohl mögen sie den Rezipienten als Ausgangspunkte für weiterführende Diskussionen dienen. (Diesbezüglich gilt die Fassung letzter Hand.)  
+[M]ichael [H]ochgartz [C]loppenburgensis  
+
+D 48153 Münster  
+michael@hochgartz.de - 22.02.2024  
+Quelltext, Versionsgeschichte und Literaturverzeichnis:  
+ https://github.com/michael-hochgartz/lectio-brevior  
+
+Die ab Februar 2024 gelegentlich eingepflegten Hinweise auf weiterführende, externe Erläuterungen zu einzelnen Begriffen tragen experimentellen Charakter. Ihre - KI/AI-basierte - technische Konsistenz ist unverbindlich. Das gilt auch für die dort wiedergegebenen Inhalte. Gleichwohl mögen sie den Rezipienten als Ausgangspunkte für weiterführende Diskussionen dienen - und im besten Fall auch als Ansatzspunkte für die Dekonstruktion einzelner Aussagen des Verfassers. (In dieser Hinsicht gilt stets die Fassung letzter Hand.)  
+<https://g.co/gemini/share/0399b9c8abe1>  
+
 
 
 
@@ -17,13 +24,13 @@ Man muss dem Gericht natürlich eine stimmige und lebensnahe Geschichte präsent
 
 Bildung lässt sich nicht downloaden. (Günther Jauch, 2009)  
 
-Bildung lässt sich uploaden (M.H., 23.12.2015)  
+Bildung lässt sich uploaden (M.H.C., 23.12.2015)  
 
 Der seine Gottesfurcht mit Wissenschafft vereinet  
 Und durch Beredsamkeit ein Felsen-Hertz erweichet  
 (Michael Christoph Brandenburg, 1714)  
 
-Bei dem Autor der Texte für Johann Sebastian Bachs Choralkantaten des Jahrgangs 1724/25 und für einige von deren Vor- und Nachläufern, für Teile seiner Johannes-Passion und für eine Anfang 1725 abgebrochene Urfassung der Matthäus-Passion handelt es sich um den Lüneburger Lamberti-, Nikolai- und Johannis-Prediger, den 1714 zum Superintendenten und Inspektor der Lateinschule Johanneum und ihres Kantatenchors ernannten Johann Christoph Jauch (1669-1725), den jahrzehntelangen Zeitgenossen, mutmaßlichen Studienkollegen, späteren theologischen Vorgesetzten, Kanzelredner bei gemeinsam absolvierten Kantatenaufführungen und vielleicht auch Beichtvater von Bachs „Lehrmeister“ Georg Böhm - dem Komponisten der bei Jauchs Beisetzung in St. Johannis am 6. Februar 1725 aufgeführten Trauermusik.  
+Bei dem Autor der Texte für Johann Sebastian Bachs Choralkantaten des Jahrgangs 1724/25 und für einige von deren Vor- und Nachläufer, für Teile seiner Johannes-Passion und für eine Anfang 1725 abgebrochene Urfassung der Matthäus-Passion handelt es sich um den Lüneburger Lamberti-, Nikolai- und Johannis-Prediger, den 1714 zum Superintendenten und Inspektor der Lateinschule Johanneum und ihres Kantatenchors ernannten Johann Christoph Jauch (1669-1725), den jahrzehntelangen Zeitgenossen, mutmaßlichen Studienkollegen, späteren theologischen Vorgesetzten, Kanzelredner bei gemeinsam absolvierten Kantatenaufführungen und vielleicht auch Beichtvater von Bachs „Lehrmeister“ Georg Böhm - dem Komponisten der bei Jauchs Beisetzung in St. Johannis am 6. Februar 1725 aufgeführten Trauermusik.  
 
 Jauchs Vater Christian (1638-1718) stammte aus dem thüringischen Sulza (D 99518 Bad Sulza) in der Nähe von Jena, wo sich seine Vorfahren seit 1512 nachweisen lassen, seine 1702 gestorbene Mutter Ingeborg Nicolai (von deren 1723 erwähntem Trauergedicht aus der Feder ihres Sohnes bislang kein Exemplar gefunden werden konnte) aus dem Holsteinischen Husum.  
 
@@ -442,6 +449,7 @@ Für die Praxis der brieflichen Kommunikation Johann Christoph Jauchs, dessen Br
 <https://g.co/gemini/share/5b91badf7670>  
 
 Am 16. April 1716 entschuldigt er sich beim Hamburger Rektor Johann Albert Fabricius, dessen 20.000 Bände umfassende Privatbibliothek er bei einem Besuch bewundert hatte und den er drei Wochen zuvor mit einer Frage wegen Aufnahme seines Sohnes Tobias in dessen Haus- und Lehrgemeinschaft angeschrieben hatte, wegen seiner verspäteten Antwort auf dessen Reaktion:  
+<https://g.co/gemini/share/1d9737187d0a>  
 
 „… so habe ümb so vielmehr ursache zu depreciren, daß ich meiner schuldigkeit nach nicht so gleich wieder geantwortet, doch werden die Ew. HochEhrwürden wol bekannten Labores Ministeriales, die mir absonderlich so wol in der Stillen Woche alß heiligen Osterfest obzulegen haben, einen Geistlichen leicht excusiren. So bald aber das liebe Fest zurück gelegt, habe ich nicht unterlaßen wollen, hiermit den verbindlichsten danck abzustaten …“.  
 
@@ -694,7 +702,7 @@ Bislang konnte immerhin ein konkretes Werk aus diesem Bestand nachgewiesen werde
 Auf Johann Christoph Jauch dürfte zum Beispiel die Anschaffung jener achtbändigen Ausgabe des 1697 erschienenen „Wagnerschen Gesangbuchs“ zurückgehen (Nr. 2645 - 2652 des Katalogs), einer enzyklopädischen, allein schon aus materiellen Gründen keineswegs für den Massengebrauch konzipierten Choraltext-Anthologie, die auch als wesentlicher Bestandteil der theologischen Bibliothek Bachs belegt ist. Damit ist die Voraussetzung für die Annahme gegeben, dass sich Dichter und Komponist bei einer Abstimmung über das hymnologische Programm der Choralkantaten auf das gleiche, umfangreiche Repertorium von Kirchenliedern stützen konnten.  
 
 Je vier Titel von zwei prominenten Vertretern der Norddeutschen Reformorthodoxie, nämlich August Pfeiffer (Lübeck) und Heinrich Müller (Rostock), belegen zudem - zusammen mit weiteren Werken anderer Autoren - eine quantitativ mit 23 bzw. 32 Prozent beachtenswerte, theologisch durchaus tendenziöse Schnittmenge der hinterlassenen Bibliotheken Bachs und seines Hauptlibrettisten. (Vgl. Wilhelmi 1979: Nrn. 5, 8, 10 sic!, 11,14, 20, 36, 38, 39, 42, 51, 52 sowie die Zweifelsfälle 2, 7, 13, 35, 45.)  
-<https://g.co/gemini/share/79f3741969c7>   
+<https://g.co/gemini/share/79f3741969c7>  
 
 Zu erwähnen bleibt schließlich die Tatsache, dass unter Nr. 1881 des Iauch-Katalogs ein Exemplar des 1720 in Hamburg bei Trausold erschienenen Neuen Testaments verzeichnet ist, welches „also gedrucket, daß alle Worte und Reden, Welche der HErr JESUS selber gesprochen, Mit rothen Littern, Die übrige Haupt-Sprüche aber in schwartzem Abdruck, Mit grösseren Buchstaben, Zu lesen sind.“ 
 Dieses typographische Unikat erinnert an den Umstand, dass das Autograph der Matthäus-Passion (und vielleicht auch schon die verschollene Originalhandschrift der Frühfassung und vielleicht auch deren Textvorlage?) für das explizite Bibelwort und für den Cantus firmus des Exordiums rote Tinte verwendet - durch wen auch immer Bach zu dieser außergewöhnlichen Gestaltungsweise angeregt worden sein mag.  
@@ -812,7 +820,7 @@ In Jena war Jauch Mitstudent u.a. von Johann Christoph Olearius, Johann Avenariu
 Erste Eindrücke einer außergewöhnlichen, aus nord- und mitteldeutschen Traditionen schöpfenden Gesangbuchkultur dürfte der sehr junge Jauch bereits auf Schloss Güstrow aus zweiter Hand durch seine Mutter Ingeborg Nicolai erfahren haben, einer Kammerzofe der dorthin vermählten Herzogin Magdalena Sybilla von Holstein-Gottorf, die bereits in ihrem Geburtsort Husum in deren Dienste getreten war.  
 Magdalena Sybillas in der reichen musikalischen und theologischen Tradition des Dresdener Hofs aufgewachsene Mutter Maria Elisabeth hatte 1676 durch ihren Hofprediger Petrus Petraeus (vulgo: Peter Petersen) ein keineswegs nur konservativ kuratiertes Hofgesangbuch zusammenstellen lassen (Gojowy 1978: deest), das neben dem Rückgriff auf das sakrosankte Repertoire des Reformationsjahrhunderts auch ausgiebige Anleihen bei Paul Gerhardt, Johann Rist und bei Heinrich Müllers „Seelen-Musik“ machte.  
 
-Das Kirchenliedrepertorie ähnelt zumindest vom zeiträumlichen Zuschnitt durchaus demjenigen der Choralkantaten J.S. Bachs. Eine Suche nach Übereinstimmungen bei den Perikopen- bzw. de tempore-Zuordnungen oder gar nach kongruenten orthographischen Varianten könnte Gegenstand lohnender Spezialstudien sein.  
+Das Kirchenliedrepertorie ähnelt zumindest vom zeiträumlichen Zuschnitt durchaus demjenigen der Choralkantaten J.S. Bachs. Eine Spurensuche nach Übereinstimmungen bei den Perikopen- bzw. de tempore-Zuordnungen oder gar nach kongruenten orthographischen Varianten könnte Gegenstand lohnender Spezialstudien sein.  
 
 In den dort versammelten ca. 400 Choraltexten finden sich etliche Beispiele für Akrostiche aus der Feder des Petraeus, durch die nicht nur die Namen der adeligen Verwandtschaft (z.B. der Tochter Sophia Amalia), sondern auch diejenigen von bürgerlichen Hofbediensteten wie z.B. „CammerJungfern“ durch typographisch dezent markierte Anfangsbuchstaben der Strophen benannt werden.  
 <https://g.co/gemini/share/598cf7b70a55>  
@@ -849,6 +857,8 @@ Aus dem Chrysostomus mit Krafft zu reden scheinet.
 (Zum Stichwort „Felsenherz“ vgl. Schwieger 1659, Keiser/Hunold 1704/06, Brockes 1715 und BWV 181).  
 
 Jauch immatrikulierte sich (ohne erneute Deposition) am selben Tag (26.4.1689) an der Universität Jena wie Johann Anastasius Freylinghausen, der später ungleich breitenwirksamere, pietistisch orientierte Gegenspieler der orthodoxen Liederfreunde, der von seinem erwünschten Tischherrn Goetze trotz Vorlage eines Empfehlungsschreibens (zugunsten wessen?) nach eigenen Worten noch am selben Tag abgewiesen wurde.  
+<https://g.co/gemini/share/b33e19ae9436>  
+
 
 In dem am 1. Juli 1722 datierten Vorwort einer „Melodiae Sacratissimae“ betitelten Publikation des in Celle amtierenden Garnisonpredigers Christian David Danielis - deren Haupttext unter der Invocatio [I]n [N]omine [J]esu [A]men steht (vgl. BWV 16) - offenbart Jauch nicht nur seine profunde, mit regionalspezifischen, vorwiegend norddeutschen, teils singulären Beispielen belegte Kenntnis der Geschichte der musikalischen Psalmbereimungen, zu denen Danielis eine bemerkenswerte Variante beitrug.  
 
@@ -874,7 +884,7 @@ Erst durch J.W. von Goethe wurde eine derartige Regelwidrigkeit endgültig zum l
 
 Es bleibt ferner zu untersuchen, in wie weit die nach Wolff (2020) als Proto-Choralkantaten und die von Petzoldt (1991) als „uneigentliche Choralkantaten” interpretierbaren Kompositionen der Jahre 1723/1724 als Entwicklungsphasen auf dem gemeinsamen Weg von Autor und Komponist aufgefasst werden können - allen voran: “O Ewigkeit, du Donnerwort“ BWV 60.  
 
-Eine genauere Analyse des von Krummacher (2018) thematisierten zögerlichen Umgangs von - wohl schon in den Textvorlagen nicht eindeutig definiertem - da Capo in diesem speziellen Teil des Kantatenkorpus könnte hierzu als methodischer Einstieg dienen.  
+Eine genauere Analyse des von Krummacher (2018) thematisierten zögerlichen Umgangs von - wohl schon in den Textvorlagen nicht eindeutig definiertem - Da Capo in diesem speziellen Teil des Kantatenkorpus könnte hierzu als methodischer Einstieg dienen.  
 
 Nicht nur war der erste Sammeldruck des den jeweiligen Titel bestimmenden Chorals von BWV 60 und von BWV 20 („O Ewigkeit, du Donnerwort“, Johann Rist, Lüneburg: Stern, 1652) sämtlichen namentlich aufgelisteten Führungsmitgliedern des ev. Michaelis-Klosters gewidmet. Auch der Text des Schlußchorals von BWV 60 („Es ist genug“) stammte von einer Person mit Lüneburger Lebensbezug, nämlich von dem 1672 gestorbenen Michaelis-Pastor Franz Joachim Burmeister - Poeta Laureta Caesareus und Mitglied einer traditionsreichen Lüneburger Musikerfamilie sowie des von Rist 1656 gegründeten und bis 1667 geleiteten Elbschwanen-Ordens.  
 
@@ -890,13 +900,13 @@ Bekräftigt wird diese abschließende Bewertung in gewisser Weise durch die uner
 
 Der erwähnte Psalmenbearbeiter Danielis war musikalisch insofern vorgebildet, als er 1695/96 (also beim Amtsantritt Jauchs und vier Jahre vor Bachs Intermezzo in dieser Institution) als Bassist im Mettenchor der Michaeliskirche gesungen hatte, bevor er im Juni 1697 zum Studium nach Helmstedt und 1702 an die Universität Jena wechselte. Wie bald darauf auch Bach, wird er dem damaligen, frisch ernannten Lamberti-Prediger Jauch bei den extensiven, systematischen Besingungen der Lüneburger Stadtviertel im Winterhalbjahr sowie bei weiteren Auftritten, etwa anlässlich von Beisetzungen, unter Augen und Ohren gekommen sein.  
 
-Die Publikation Danielis’ und das Vorwort Jauchs wurden (es bleibt zu fragen: durch wen?) nach einer Vorankündigung im Katalog zur Michaelismesse 1722 (Erscheinungsorte demnach: Celle und Leipzig; Bezugsmöglichkeit laut Titel „beym Autore und bey Christ. Jul. Hoffmann, Buchdr. u. Buchhändl.“) in einer am 19.1.1723 erschienenen Rezension im führenden überregionalen Blatt der Zeit, dem “Holsteinischen Correspondenten”, kurz und kritisch (wenn nicht gar, durch Verwendung des Pejorativums „Flickwörter“ und dem Vorwurf einer Abweichung „von den Worten der Schrifft“, letzlich durch die finale Andeutung „bald andere Umstände“) abwertend besprochen. Bei Würdigung des Gesamtkorpus solcher seltenen Beiträge in der damaligen Tagespresse bleibt der Eindruck, es könnte sich hier um eine bewusste Replik gehandelt haben, veranlasst - oder zumindest wohlwollend beachtet oder gar verfassst - durch den Urheber der ursprünglichen Anmerkung von 1704: Erdmann Neumeister - sofern man diesem die durchaus regelkonforme Umformung des lateinischen Werktitels sowie einige norddeutsche Regionalismen und die kaum verdeckte Sottise im letzten Halbsatz zurechnen möchte.  
+Die Publikation Danielis’ und das Vorwort Jauchs wurden (es bleibt zu fragen: durch wen?) nach einer Vorankündigung im Katalog zur Michaelismesse 1722 (Erscheinungsorte demnach: Celle und Leipzig; Bezugsmöglichkeiten laut Titel „beym Autore und bey Christ. Jul. Hoffmann, Buchdr. u. Buchhändl.“) in einer am 19.1.1723 erschienenen Rezension im führenden überregionalen Blatt der Zeit, dem “Holsteinischen Correspondenten”, kurz und kritisch (wenn nicht gar, durch Verwendung des Pejorativums „Flickwörter“ und dem Vorwurf einer Abweichung „von den Worten der Schrifft“, letzlich durch die finale Andeutung „bald andere Umstände“) abwertend besprochen. Bei Würdigung des Gesamtkorpus solcher seltenen Beiträge in der damaligen Tagespresse bleibt der Eindruck, es könnte sich hier um eine bewusste Replik gehandelt haben, veranlasst - oder zumindest wohlwollend beachtet oder gar verfassst - durch den Urheber der ursprünglichen Anmerkung von 1704: Erdmann Neumeister - sofern man diesem die durchaus regelkonforme Umformung des lateinischen Werktitels sowie einige norddeutsche Regionalismen und die kaum verdeckte Sottise im letzten Halbsatz zurechnen möchte.  
 
 „Zelle. Der hiesige Guarnison-Prediger, Herr David Christ. Danielis, hat neulich heraus gegeben Melodias sacratissimas, d.i. die Heil. Psalmen Davids etc. auf die aller-bekannteste Melodeyen der Evangelisch-Lutherischen Kirchen-Gesänge in Versen verfasset. Er hält sich zwar ziemlich an den Worten der Schrifft; doch hat ihn auch öffters das Metrum gezwungen, davon abzuweichen. Der Herr Superintendens Jauch zu Lüneburg, der eine Vorrede dazu gemacht, nennet sie recht wohlgerathen, gesteht aber auch selbst, daß sie nicht gar zu fliessend. Und in der That ist diese Paraphrasis nicht allein hart, sondern auch voller Flickwörter, dazu bald die Reime, bald andere Umstände mögen Anlaß gegeben haben. Dem Wercke ist sonst ein Anhang von einigen Gebeten, ingleichen ein Paßions-Lied aus Esaiae Cap. 35 und endlich eine Anweisung auf alle Sonn- und Fest-Tage beygefüget, dafern man etwa diese Psalme zu seiner Privat-Andacht singen wolte.“  
 
 Es ist nicht auszuschließen, dass Bach in Köthen - bald nachdem er in den Berufungsprozess für das Leipziger Kantorat involviert worden war - von dieser Zeitungsnotiz Kenntnis erlangte und ihm somit der Name des einstigen Lüneburger Pfarrers und nunmehrigen Superintendenten in Erinnerung gebracht wurde - in einer Situation, wo sich ein verlässlich zu bedienender Bedarf für theologisch qualifizierte, predigttaugliche Kantaten- und Passionstexte abzeichnete.
 
-Der zeitlebens wenig ambitioniert wirkende Jauch hatte bei der Suche Bachs und seiner Mitverantwortlichen nach einem weltanschaulich als untadelhaft, landsmannschaftlich als bodenständig, und poetologisch durchaus als flexibel vermittelbarem Librettisten einen Vorsprung vor dem drei Jahrzehnte jüngeren, vigilanten Sachsen Christian Friedrich Henrici, der ab 1. Advent 1724 in seinen „Erbaulichen Gedancken“ einen sukzessive entstehenden Jahrgang von (post sermonis, nämlich „Sonnabends und Sonntags nach geendigter Versper“ aufgeschriebenen), zunächst in Form von wöchentlich 1/2 Druckbögen angekündigten, Ende 1725 dann (mangels Erfolg beim Einzelverkauf?) als Sammeldruck auf den Markt gebrachten Meditationen auch vollumfänglich vorlegen sollte, die aufgrund ihrer monotonen Form und ihrer Länge als absolut unvertonbar angesehen werden mussten - und die im übrigen (mit Ausnahme des bei genauester drucktechnischer Betrachtung als Fremdkörper wirkenden „Oratoriums“ für Gründonnerstag / Karfreitag?) auch keineswegs als „Texte zur Music“ beabsichtigt waren.  
+Der zeitlebens wenig ambitioniert wirkende Jauch hatte bei der Suche Bachs und seiner Mitverantwortlichen nach einem weltanschaulich als untadelhaft, landsmannschaftlich als bodenständig, poetologisch durchaus als flexibel vermittelbarem Librettisten einen Vorsprung vor dem drei Jahrzehnte jüngeren, vigilanten Sachsen Christian Friedrich Henrici, der ab 1. Advent 1724 in seinen „Erbaulichen Gedancken“ einen sukzessive entstehenden Jahrgang von (post sermonis, nämlich „Sonnabends und Sonntags nach geendigter Versper“ aufgeschriebenen), zunächst in Form von wöchentlich 1/2 Druckbögen angekündigten, Ende 1725 dann (mangels Erfolg beim Einzelverkauf?) als Sammeldruck auf den Markt gebrachten Meditationen auch vollumfänglich vorlegen sollte, die aufgrund ihrer monotonen Form und ihrer Länge als absolut unvertonbar angesehen werden mussten - und die im übrigen (mit Ausnahme des bei genauester drucktechnischer Betrachtung als Fremdkörper wirkenden „Oratoriums“ für Gründonnerstag / Karfreitag?) auch keineswegs als „Texte zur Music“ beabsichtigt waren.  
 
 Henricis jeweils beigegebene Kontrafakturen bekannter Kirchenlieder stellen ein höchst interessantes Parallelprojekt zu Bachs Choralkantatentexten dar und sind auf eventuelle Querbeziehungen hin zu überprüfen - obwohl die Intention des Verfassers wohl darin bestand, strophenweise handhabbares Füllmaterial bei der optimalen Ausnutzung des Druckpapiers zu nutzen.  
 
@@ -911,7 +921,7 @@ Was Henrici betrifft, so hatte sich dieser - nicht nur durch seine ständigen, g
 
 Dem wiederholt - meist implizit und somit unreflektiert - vorgebrachten Argument, Bach müsse seine bislang anonymen „Leipziger“ Texte selbstverständlich in Leipzig und in enger persönlicher Abstimmung von einem wenigstens zeitweise dort oder in der allernächsten Umgebung lebenden studentischen Dichter erhalten haben (so sinngemäß jüngst noch Koska 2023; Blanken 2023), ist entgegenzuhalten: Das zwischen Bach und Jauch angewendete Verfahren der Lieferung von „Paketen“ alle vier bis acht Wochen bot zwar keine Möglichkeiten für komplexe mündliche Rückfragen z.B. zu deklamatorischen Details, metrischen Finessen oder Steilvorlagen für onomatopoetische Motivik (wie in BWV 127). Aber vielleicht haben die Beteiligten sich auf einen externen „Lektor“verlassen, z.B. einen der in Lüneburg lebenden, mit solchem Sachverstand bestens ausgestatteten Kantatenkomponisten wie Georg Flor bzw. Georg Böhm, deren Kompetenzen Bach bei seinem Aufenthalt im Jahr 1700 buchstäblich erleben konnte?  
 
-Hinsichtlich der theologischen Integrität der Texte konnte man sich auf die überregionale Reputation Jauchs verlassen, der als Lüneburger Superintendent mit der offiziellen Vorzensur der dort erscheinenden Druckprodukte betraut war. Prinzipielle Probleme mit dem Leipziger Zensor (J.S. Deyling) dürfte es also wohl nicht gegeben haben. (Vgl. Wricke 1973)  
+Hinsichtlich der theologischen Integrität der Texte konnte man sich auf die überregionale Reputation Jauchs verlassen, der als Lüneburger Superintendent mit der verbindlichen Vorzensur der dort erscheinenden Druckprodukte betraut war. Prinzipielle Probleme mit dem Leipziger Zensor (J.S. Deyling) dürfte es also wohl nicht gegeben haben. (Vgl. Wricke 1973)  
 
 Und was die Abstimmung über eine generelle Grobstruktur betrifft: für Bachs zweiten Kantatenjahrgang dürfte die Zuordnung der feststehenden Perikopen zu jeweils passenden Chorälen aus einem weitgehend anerkannten Grundrepertoire und sodann eine vorausschauende Abstimmung über Art, Anzahl und Reihenfolge der Binnensätze einer jeden Kantate ausgereicht haben.  
 
@@ -1072,7 +1082,7 @@ Synopse (Brandenburg/Henrici)
 Ihr indessen, matte Glieder,  
 Bleibt in einer süssen Ruh!  
 Schliest euch sanfte, sanfte zu.  
-- - - - - - - - -  
+- - -   
 Ihr erblaßten Fürsten-Glieder;  
 Bleibet nun in eurer Ruh,  
 Schließt uns auch die Thränen zu.  
@@ -1081,11 +1091,14 @@ Epilog
 
 Was ist Wahrheit?  
 (Pontius Pilatus; Joh 18,38)  
+<https://g.co/gemini/share/59eee249b232>  		
 
 Die Wahrheit ist das Ganze!  
 (Georg Wilhelm Friedrich Hegel, Phänomenologie des Geistes)  
+<https://g.co/gemini/share/a83ad6e733b4>  
 
-Wenn ich die Matthäus-Passion, wenn ich große Musik höre, dann glaube ich zu wissen, dass das, was diese Musik sagt, nicht die Unwahrheit sein kann.  (Theodor W. Adorno 1958)
+Wenn ich die Matthäus-Passion, wenn ich große Musik höre, dann glaube ich zu wissen, dass das, was diese Musik sagt, nicht die Unwahrheit sein kann.  (Theodor W. Adorno 1958)  
+<https://g.co/gemini/share/b33e19ae9436>  
 
 Post Scriptum  
 
@@ -1093,5 +1106,8 @@ Post Scriptum
 - Vernunft: Die Disputanten sollten sich auf die Vernunft und nicht auf Emotionen oder Autoritäten berufen.  
 - Höflichkeit: Die Disputanten sollten sich gegenseitig mit Respekt behandeln.  
 
-Übersetzung anhand eines KI-basierten Transkripts von J.C. Jauchs - unter seinem ehrenvollen Praesidium durch seinen Kommilitonen J.D. Sasse und geleitet von seinem akademischen Betreuer J.G. Möller - auf Latein geführter, offenbar auch von höherer Stelle wohlwollend beschleunigter und philosophisch intrikat legitimierter Magisterdisputation im Auditorium Maximum der Universität Rostock am 26.10.1695.  
+(Zusammenfassende Übersetzung anhand eines KI-basierten Transkripts von J.C. Jauchs - unter seinem ehrenvollen Praesidium durch seinen Kommilitonen J.D. Sasse und geleitet von seinem akademischen Betreuer J.G. Möller - auf Latein geführter, offenbar auch von höherer Stelle wohlwollend beschleunigter und philosophisch intrikat legitimierter Magisterdisputation im Auditorium Maximum der Universität Rostock am 26.10.1695.)  
 <https://g.co/gemini/share/280e4322539b>  
+
+[M]it [H]ilfe [C]hristi!  
+
