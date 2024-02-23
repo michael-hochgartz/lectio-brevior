@@ -3,10 +3,8 @@ Ob ein Superintendens wohl Poete seyn könne? - Zur Person des „Leipziger“ H
 
 Entwurf für ein Vortragsmanuskript (Es gilt das gesprochene Wort.)  
 
-[M]ichael [H]ochgartz [C]loppenburgensis  
-
 D 48153 Münster  
-michael@hochgartz.de - 22.02.2024  
+michael@hochgartz.de - 23.02.2024  
 Quelltext, Versionsgeschichte und Literaturverzeichnis:  
  https://github.com/michael-hochgartz/lectio-brevior  
 
@@ -1108,6 +1106,4 @@ Post Scriptum
 
 (Zusammenfassende Übersetzung anhand eines KI-basierten Transkripts von J.C. Jauchs - unter seinem ehrenvollen Praesidium durch seinen Kommilitonen J.D. Sasse und geleitet von seinem akademischen Betreuer J.G. Möller - auf Latein geführter, offenbar auch von höherer Stelle wohlwollend beschleunigter und philosophisch intrikat legitimierter Magisterdisputation im Auditorium Maximum der Universität Rostock am 26.10.1695.)  
 <https://g.co/gemini/share/280e4322539b>  
-
-[M]it [H]ilfe [C]hristi!  
 
