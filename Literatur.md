@@ -22,15 +22,15 @@ Abkürzungen
 **NBA**: Neue Bach-Ausgabe  
 
 
-**Assmann**, Jan: Die Katastrophe des Vergessens. Das Deuteronomium als Paradigma kollektiver Mnemotechnik. In: Aleida Assmann, Dietrich Harth (Hrsg.): Mnemosyne: Formen und Funktionen der kulturellen Erinnerung. Frankfurt am Main **1991**, 337–355  
-**Axmacher**, Elke: Ein Quellenfund zum Text der Matthäus-Passion, Bach-Jahrbuch 64 (**1978**), 181-191  
-**Bärwald**, Manuel, Rezension von: Bachs Johannespassion, Berlin 2011, Bach-Jahrbuch 98 (**2012**), 265-270  
-**Bertram**, Johann Georg, Das evangelische Lüneburg, Braunschweig **1719**  
-**Blanken**, Christine:  Der Kantatenzyklus ‚GOtt-geheiligte Sabbaths-Zehnden‘ von 1728 und die Leipziger Kirchenmusik unter J. S. Bach in den Jahren 1724–1727, BJ **2015**, 13–74  
-**Blanken**, Christine: „Magister Brummer“ – Weitere Mutmaßungen zu einem Dichter von (Bachs) Kantatentexten 1724–1726. Vortrag beim Bachfest Leipzig **2023**  <https://www.youtube.com/watch?v=6h9vpB1mSzI&t=1572s>  
-**Braatz**, Thomas https://www.bach-cantatas.com/Articles/SMP244avsb.pdf **2006**  
-**Braatz**, Thomas, The Rise and Fall of the Stübel-Theory, https://www.bach-cantatas.com/Articles/Stubel-Theory.htm **2007a**  
-**Braatz**, Thomas, Use of Concerto, J.J. and SDG in Bach's Sacred Works, https://www.bach-cantatas.com/Term/Terms-8.htm **2007b**  
+**Assmann, Jan** (1991): *Die Katastrophe des Vergessens. Das Deuteronomium als Paradigma kollektiver Mnemotechnik*. In: **Aleida Assmann & Dietrich Harth (Hrsg.)**: *Mnemosyne: Formen und Funktionen der kulturellen Erinnerung*. Frankfurt am Main: Suhrkamp, 337–355.  
+**Axmacher, Elke**: Ein Quellenfund zum Text der Matthäus-Passion, BJ 64 (**1978**), 181-191  
+**Bärwald, Manuel**: Rezension von: Bachs Johannespassion, Berlin 2011, BJ 98 (**2012**), 265-270  
+**Bertram, Johann Georg**: Das evangelische Lüneburg, Braunschweig **1719**  
+**Blanken, Christine**: Der Kantatenzyklus ‚GOtt-geheiligte Sabbaths-Zehnden‘ von 1728 und die Leipziger Kirchenmusik unter J. S. Bach in den Jahren 1724–1727, BJ 15 (**2015**), 13–74  
+**Blanken, Christine**: „Magister Brummer“ – Weitere Mutmaßungen zu einem Dichter von (Bachs) Kantatentexten 1724–1726. Vortrag beim Bachfest Leipzig **2023**  <https://www.youtube.com/watch?v=6h9vpB1mSzI&t=1572s>  
+**Braatz, Thomas**: The Relationship between BWV 244a (Trauermusik ) and BWV 244b (SMP Frühfassung ) **2006** <https://www.bach-cantatas.com/Articles/SMP244avsb.pdf>  
+**Braatz, Thomas**: The Rise and Fall of the Stübel-Theory **2007a** >https://www.bach-cantatas.com/Articles/Stubel-Theory.htm>  
+**Braatz, Thomas**: Use of Concerto, J.J. and SDG in Bach's Sacred Works **2007b** <https://www.bach-cantatas.com/Term/Terms-8.htm>  
 **Brainard**, Paul: ‘Bach’s Parody Procedure and the St Matthew Passion’, Journal of the American Musicological Society 22 (**1969**), 241–60  
 **Brischwein**, Olaf: Die Johannes-Passion von Johann Sebastian Bach. Eine Untersuchung ihrer freien Dichtung, Phil. Diss. Bamberg **2001**  
 **Brischwein, Olaf:** _Die Johannes-Passion von Johann Sebastian Bach. Eine Untersuchung ihrer freien Dichtung_. Phil. Diss. Bamberg 2001.  
