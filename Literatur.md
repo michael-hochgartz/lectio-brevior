@@ -33,7 +33,8 @@ Abkürzungen
 **Braatz**, Thomas, Use of Concerto, J.J. and SDG in Bach's Sacred Works, https://www.bach-cantatas.com/Term/Terms-8.htm **2007b**  
 **Brainard**, Paul: ‘Bach’s Parody Procedure and the St Matthew Passion’, Journal of the American Musicological Society 22 (**1969**), 241–60  
 **Brischwein**, Olaf: Die Johannes-Passion von Johann Sebastian Bach. Eine Untersuchung ihrer freien Dichtung, Phil. Diss. Bamberg **2001**  
-**Chafe**, Eric Thomas: J. S. Bach's 'St. Matthew Passion: Aspects of Planning, Structure, and Chronology, Journal of the American Musicological Society 35 (**1982**), 49-114  
+**Brischwein, Olaf:** _Die Johannes-Passion von Johann Sebastian Bach. Eine Untersuchung ihrer freien Dichtung_. Phil. Diss. Bamberg 2001.  
+**Chafe**, Eric Thomas: J. S. Bach's 'St. Matthew Passion: Aspects of Planning, Structure, and Chronology, Journal of the American Musicological Society 35 (**1982**), 49-114 <https://www.jstor.org/stable/831287>  
 **Cyprian**, Ernst Salomon: Hilaria Evangelica, Gotha **1719**  
 **Dostert**, Astrid: Die Antikensammlung des Kardinals Melchior de Polignac. Phil. Diss., Berlin **2016**  
 **Dumrese/Schilling**, Hans Dumrese / Friedrich Carl Schilling: Lüneburg und die Offizin der Sterne, Lüneburg **1956**  
