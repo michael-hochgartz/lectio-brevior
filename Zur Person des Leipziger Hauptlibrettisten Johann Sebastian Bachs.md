@@ -581,7 +581,7 @@ J.N.D.N.J.C.A.  = [I]n [N]omine [D]omini [N]ostri [J]esu [C]hristi [A]men
 
 und die - nach dem im frühen 18. Jahrhundert durchaus noch anerkannten und praktizierten Kunstgriff des „Letterwechsels“ (Anagramm) anders gereiht (und ggf. auch ohne das „Amen“) - eine Art vorangestelltes Kolophon ergeben könnte:  
 
-Ut [N]on [D]eleatur [N]omen [A]uct. [J]o. [C]hrist. [I]auch  
+[N]on [D]elet[N]omen [A]uctoris [J]ohann [C]hristoph [I]auch!  
 
 und die von Kümmerling (1963; 1970) mit dreieinhalb guten Gründen (Stilkritik; Schreiber; Wasserzeichen; buchbinderischer Befund) nicht mehr (wie von Stein 1937/39) [M]onsieur [B]ruhns, sondern [M]onsieur [B]öhm zugeschrieben wurde.  
 
