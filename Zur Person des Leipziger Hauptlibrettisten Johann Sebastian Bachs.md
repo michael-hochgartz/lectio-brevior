@@ -4,11 +4,11 @@ Ob ein Superintendens wohl Poete seyn könne? - Zur Person des „Leipziger“ H
 Entwurf für ein Vortragsmanuskript (Es gilt das gesprochene Wort.)  
 
 D 48153 Münster  
-michael@hochgartz.de - 23.02.2024  
+michael@hochgartz.de - 27.02.2024  
 Quelltext, Versionsgeschichte und Literaturverzeichnis:  
  https://github.com/michael-hochgartz/lectio-brevior  
 
-Die ab Februar 2024 gelegentlich eingepflegten Hinweise auf weiterführende, externe Erläuterungen zu einzelnen Begriffen tragen experimentellen Charakter. Ihre - KI/AI-basierte - technische Konsistenz ist unverbindlich. Das gilt auch für die dort wiedergegebenen Inhalte. Gleichwohl mögen sie den Rezipienten als Ausgangspunkte für weiterführende Diskussionen dienen - und im besten Fall auch als Ansatzspunkte für die Dekonstruktion einzelner Aussagen des Verfassers. (In dieser Hinsicht gilt stets die Fassung letzter Hand.)  
+Die ab Februar 2024 gelegentlich eingepflegten Hinweise auf weiterführende, externe Erläuterungen zu einzelnen Begriffen tragen experimentellen Charakter. Ihre - KI/AI-basierte - technische Konsistenz ist naturgemäß unverbindlich. Das gilt folglich um so mehr für die dort wiedergegebenen Inhalte. Gleichwohl mögen sie den Rezipienten als Ausgangspunkte für weiterführende Diskussionen dienen - und im besten Fall auch als Ansatzspunkte für die Dekonstruktion einzelner Aussagen des Verfassers. In dieser Hinsicht gilt stets die Fassung letzter Hand.  
 <https://g.co/gemini/share/0399b9c8abe1>  
 
 
@@ -43,6 +43,9 @@ Dessen Vater, Herzog Gustav Adolf (Dichter von Kirchenliedern sowie von 100 rege
 Eine erste Förderung hatte Jauch durch die Eltern erfahren, die „bey zarter Jugend ein herrlich ingenium bey diesem ältesten Sohne verspüret“, und es war „ihre erste Sorge, wie sie ihn zu allem guten anführen, und zur Ehre GOttes auferziehen mögten“.  
 
 Die im Februar 1689 gedruckte Einladung zur öffentlichen Aufführung einer lateinischen Oration anlässlich des Geburtstags seines Landesherrns durch den Rektor der Domschule Güstrow ist das früheste Indiz für die sprachgestalterische Kompetenz des damals 19jährigen Jauch, der bei dieser Gelegenheit als „Praestantissimus Juvenum“ bezeichnet wurde.  
+<https://g.co/gemini/share/69f7f185d3d0>  
+
+
 
 Erst nach einer - zunächst nur pro Forma erfolgten - Immatrikulation an der Universität Rostock wechselte Jauch im April 1689 zum Grundstudium der Philosophie und Theologie nach Jena. Offenkundiger Grund war die Absicht, die dort (in Jena) praktizierten, überregional berüchtigten, menschenverachtenden Depositionsrituale für Erstinscribenten zu umgehen.  
 
@@ -101,6 +104,7 @@ Ob hier eine homiletische Geschicklichkeitsprüfung oder nur blanke Häme intend
 Der Eindruck dieser, am 5. Sonntag nach Trinitatis (3.7.1695) und wohl noch an einem weiteren Tag abgelegten beiden Probepredigten, „wobey die meisten [warum nicht alle?] aus den vornehmen Geschlechtern, auch Gelehrten der Stadt zugegen waren“, war am Ende offenbar derart überzeugend, „daß so wol hohe als niedrige durch seinen Lehrreichen Mund geweydet zu werden wünscheten.“  
 
 Die Ordination Jauchs erfolgte schließlich am 8. Januar 1696 - und am 19. Mai desselben Jahres die Vermählung mit der gleichaltrigen Anna Margareta Meier (1669-1750), jüngste Tochter des ein Jahr zuvor gestorbenen Lambertipfarrers und „Senior Ministerii“ Georg Meier. Sie stellt damit wohl eher eine zeitübliche Versorgungsehe als eine Liebesheirat dar.  
+<https://g.co/gemini/share/45a840b7637a>  
 
 Bereits im Vorfeld hatte Jauch Unterstützung von unterschiedlichen Seiten erhalten: „Geist- und Weltliche hatten demnach ein gutes Urtheil von ihm gefället, schrifft- und mündliche Zeugisse preiseten seine Orthodoxie und Aufführung aufs beste, einige gelehrte politici hatten aus seinen Discoursen eine besondere erudition bemercket“ - selbst wenn man diese 1719 publizierte Eloge aus der Feder seines Ex-Kommilitonen (und von den genannten „politici“ finanzierten Biographen) Georg Bertram auf ihren wahrscheinlichen Wahrheitsgehalt reduziert.  
 
@@ -785,6 +789,7 @@ Diese Tatsache lässt kaum eine andere Annahme zu, als die, dass Johann Christop
 <https://g.co/gemini/share/b2e4a366cc0b>  
 
 Während der Erstdruck der überwiegend in Lüneburg, aber auch in weiteren norddeutschen Verlagsorten wie Hamburg, Ratzeburg und Stade, recht spät auch in Rostock, ferner in Minden und unter besonderen Umständen sogar in Unna (jedoch nie in Leipzig) das gesamte 18. Jahrhundert lang kontinuierlich nachgedruckten Ausgabe des „Hertzensspiegels“ mit seinen stets beigefügten Passionspredigten auf Übertragungen eigenhändiger, bezeugtermaßen schwer entzifferbarer Predigtkonzepte durch Müllers Privatsekretär und Nachlassverwalter Johann Caspar Heinisius beruhte, fußte die Edition aus Bachs Bibliothek auf simplifizierenden Mitschriften der gesprochenen Predigten durch einen weiteren Rostocker Theologiestudenten - Samuel Christian Mummius - der eine abweichende Aufteilung der acht bzw. neun, ursprünglich aus reinem Fließtext bestehenden Predigtblöcke wählte und gegen Ende des Rohmaterials auf die weitgehend wörtlich übernommene Heinisius-Edition zurückgriff. (Vgl. Franklin 2015b)  
+<https://g.co/gemini/share/914cb13b457a>  
 
 Die letzten fünf Zeilen des zweiten Satzes der Choralkantate BWV 2 (18.6.1724) finden beispielsweise eine Entsprechung in der „Lüneburger“ Edition der siebenten Passionspredigt Müllers. Sie ist deutlich detailgenauer (im Sinne einer Lectio difficilior) als jene Variante in der inhaltlich stark verkürzten, als „Evangelisches Praeservativ“ sehr selten aufgelegten Mummius-Ausgabe von 1681 aus Bachs nachgelassener Bibliothek, die bislang als einziges Indiz für die Zugriffsmöglichkeit Bachs bzw. Henricis auf den Müller-Text vermutet wird.  
 <https://g.co/gemini/share/47b2c28c9066>  
