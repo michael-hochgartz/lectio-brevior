@@ -280,6 +280,7 @@ Sollte J.S. Bach von diesem gedruckten Text Kenntnis erlangt haben, wäre er mit
 Unterwegs muss Tobias Christoph Jauch demnach („Denn ich musste zeitig wissen“) wohl aus der aktuellen Ausgabe des Holsteinischen Correspondenten vom 29./30. Januar, die wenige Tage darauf (laut ungeschriebenem, aber rekonstruierbarem Plan am Dienstag, 6. Februar - auf jeden Fall während der Kompositionsphase von BWV 127) auch in Leipzig vorlag - vom Tod seines Vaters am „Stickfluß“ erfahren haben, also an einer - seinerzeit meist durch das Endstadium einer chronischen Tuberkulose beförderten - akuten Lungenerkrankung, die nach Beschreibungen zeitgenössischer medizinischer Autoren („Catharrus suffocativus“) nach spätestens drei Tagen zu einem qualvollen Erstickungstod führte.  
 
 „Nieder-Elbe, den 29. Jan. Aus Lüneburg vernimmt man, daß am 19ten dieses der daselbst sehr beliebte Superintendent Hr. Jauch, an einem Stich-Flusse, plötzlich verstorben.“  
+<https://g.co/gemini/share/50f2a7413346>  
 
 Ein Blick in ein medizinisches Lexikon der damaligen Zeit eröffnet wenig Hoffnung für Betroffene:  
 
@@ -460,7 +461,9 @@ Der Verweis auf die Amtspflichten in der Osterwoche erscheint bei näherer Betra
 Bei der Materialsammlung für eine allumfassend angelegte Dokumentation der Feiern zum Reformationsjubiläum 1717 durch den Gothaer Hofbibliothekar Ernst Salomon Cyprian war Jauch (als „Haupt“ des Lüneburger Ministeriums) eine briefliche Anfrage der Leipziger Verlagsbuchhandlung „Gleditsch et Weidemann“ durch seinen Nachbarn, den Drucker, Verleger und Buchführer Johann von Stern übermittelt worden, der sie von seinem routinemäßigen Besuch der Leipziger Ostermesse 1718 mitgebracht hatte.  
 
 Unter dem Datum des 20.4.1718 entschuldigt Jauch sich für die verspätete Beantwortung, die er u.a. mit einer vorangegangenen Reise begründet und die er ursprünglich bis zur nächsten Messe im Herbst aufschieben wollte - wohl in der Absicht, von Stern wiederum als Überbringer einzusetzen. 
+<https://g.co/gemini/share/d48a55477a57> ..
 Stattdessen wurde das Schreiben durch Ludolph Daniel Kraut, den Sohn des ihm unterstellten und zugleich freundschaftlich verbundenen Rektors Paul Kraut, nach Leipzig überbracht, wohin jener sich zum Theologiestudium begab - bevor er sich (am 10. Oktober 1720) zusammen mit Tobias Jauchs älterem Bruder Ludolph Friedrich an der Univserität Helmstedt immatrikulierte. Tobias vollzog diesen Schritt übrigens erst am 6.10.1727. (Vgl. Erler 1909; Mundhenke 3/1979, 5186/87;6137)  
+<https://g.co/gemini/share/2572fbf2a02f>  
 
 Der Brief belegt zudem, dass die ungewöhnlich aufwändige, zunächst auf Latein exerzierte, dann wegen des großen Erfolgs in einer deutschen Übersetzung zweimal für das breite Publikum wiederholte, mit musikalischen Arien durchflochtene Dramatisierung wesentlicher Ereignisse der Reformation 1517 durch einen „Actus Oratorio Dramaticus“ im „Rectorat“ des Johanneums mit ca. 50 namentlich benannten Mitwirkenden (darunter Kraut junior in der Hauptrolle des Dr. Martinus Luther und Tobias Jauch als Rezitator) auf eine Initiative des Superintendenten in seiner Funktion als Schulinspektor zurückging. (Vgl. Cyprian 1719).  
 
@@ -583,7 +586,8 @@ Den Brückenschlag zu den außergewöhnlichen Zitaten des „Votum Justinianum�
 
 J.N.D.N.J.C.A.  = [I]n [N]omine [D]omini [N]ostri [J]esu [C]hristi [A]men  
 
-und die - nach dem seit der Antike in der Dichtkunst anerkannten und praktizierten Kunstgriff des „Letterwechsels“ (Anagramm) anders gereiht (und ggf. auch ohne das „Amen“) - eine Art vorangestelltes Kolophon ergeben könnte:  
+und die - nach dem seit der Antike in der abendlichen Dichtkunst anerkannten und praktizierten Kunstgriff des „Letterwechsels“ (Anagramm) anders gereiht (und ggf. auch ohne das „Amen“) - eine Art vorangestelltes Kolophon ergeben könnte:  
+N. D. N. A. J. C. J.
 
 [N]on [D]ele(te) [N]omen [A]uctoris [J]ohann [C]hristoph [I]auch!  
 
@@ -601,6 +605,7 @@ Bemerkenswert an diesem Lüneburger Libretto ist diese Dichotomie: Zum einen zie
 Zum anderen wird das hier wörtlich nacherzählte biblische Narrativ auf eine Weise durch Arien kommentiert, die mit ihrer moderateren Wortwahl (Ausnahme: „… wenn kräht der Gewissens-Hahn …“) näher an dem am „Sermo humilis“ (vgl. Axmacher 1984; Haselböck 2004) orientierten, volksnahen Predigtstil angesiedelt ist als die ein Jahr darauf in Hamburg - unter gänzlich anderen Umständen, nämlich in Form eines spektakulären, großbürgerlichen, nur vorgeblich privaten musikalischen Konventikels zelebrierte Brockes-Passion - wie aus der formal und inhaltlich extrem verdichteten Arie Nr. 7 erhellt.  
 
 Deren erste drei Zeilen sind offenkundig inpspiriert von einer an analoger Stelle platzierten Aria der „Tochter Zion“ aus Christian Friedrich Hunolds 1706 (im Jahr seiner Flucht aus Norddeutschland) in Hamburg gedruckten, von Reinhard Keiser schon 1704 vertonten und unter Protesten der Geistlichkeit aufgeführten Passionsoratorium „Der blutige und sterbende Jesus“, wo es u.a heißt:  
+<https://g.co/gemini/share/79f9f21e515b>  
 
 Besiege diese Nacht  
 …  
