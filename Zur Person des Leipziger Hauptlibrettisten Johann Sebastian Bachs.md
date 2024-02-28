@@ -1,10 +1,10 @@
-M.H.C.  
+N.D.N.A.M.H.  
 Ob ein Superintendens wohl Poete seyn könne? - Zur Person des „Leipziger“ Hauptlibrettisten Johann Sebastian Bachs.  
 
 Entwurf für ein Vortragsmanuskript (Es gilt das gesprochene Wort.)  
 
 D 48153 Münster  
-michael@hochgartz.de - 27.02.2024  
+michael@hochgartz.de - 28.02.2024  
 Quelltext, Versionsgeschichte und Literaturverzeichnis:  
  https://github.com/michael-hochgartz/lectio-brevior  
 
@@ -583,9 +583,11 @@ Den Brückenschlag zu den außergewöhnlichen Zitaten des „Votum Justinianum�
 
 J.N.D.N.J.C.A.  = [I]n [N]omine [D]omini [N]ostri [J]esu [C]hristi [A]men  
 
-und die - nach dem im frühen 18. Jahrhundert durchaus noch anerkannten und praktizierten Kunstgriff des „Letterwechsels“ (Anagramm) anders gereiht (und ggf. auch ohne das „Amen“) - eine Art vorangestelltes Kolophon ergeben könnte:  
+und die - nach dem seit der Antike in der Dichtkunst anerkannten und praktizierten Kunstgriff des „Letterwechsels“ (Anagramm) anders gereiht (und ggf. auch ohne das „Amen“) - eine Art vorangestelltes Kolophon ergeben könnte:  
 
-[N]on [D]elet[N]omen [A]uctoris [J]ohann [C]hristoph [I]auch!  
+[N]on [D]ele(te) [N]omen [A]uctoris [J]ohann [C]hristoph [I]auch!  
+
+<https://g.co/gemini/share/6e834af6cfba>  
 
 und die von Kümmerling (1963; 1970) mit dreieinhalb guten Gründen (Stilkritik; Schreiber; Wasserzeichen; buchbinderischer Befund) nicht mehr (wie von Stein 1937/39) [M]onsieur [B]ruhns, sondern [M]onsieur [B]öhm zugeschrieben wurde.  
 
