@@ -1,15 +1,15 @@
-N.D.N.A.M.H.  
 Ob ein Superintendens wohl Poete seyn könne? - Zur Person des „Leipziger“ Hauptlibrettisten Johann Sebastian Bachs.  
 
 Entwurf für ein Vortragsmanuskript (Es gilt das gesprochene Wort.)  
 
 D 48153 Münster  
-michael@hochgartz.de - 28.02.2024  
+michael@hochgartz.de - 02.03.2024  
 Quelltext, Versionsgeschichte und Literaturverzeichnis:  
  https://github.com/michael-hochgartz/lectio-brevior  
 
-Die ab Februar 2024 gelegentlich eingepflegten Hinweise auf weiterführende, externe Erläuterungen zu einzelnen Begriffen tragen experimentellen Charakter. Ihre - KI/AI-basierte - technische Konsistenz ist naturgemäß unverbindlich. Das gilt folglich um so mehr für die dort wiedergegebenen Inhalte. Gleichwohl mögen sie den Rezipienten als Ausgangspunkte für weiterführende Diskussionen dienen - und im besten Fall auch als Ansatzspunkte für die Dekonstruktion einzelner Aussagen des Verfassers. In dieser Hinsicht gilt stets die Fassung letzter Hand.  
+Die ab Februar 2024 gelegentlich eingepflegten Hinweise auf weiterführende, externe Erläuterungen zu einzelnen Begriffen tragen experimentellen Charakter. Ihre - KI/AI-basierte - technische Konsistenz ist naturgemäß unverbindlich. Das gilt folglich um so mehr für die dort wiedergegebenen Inhalte. Gleichwohl mögen sie den Rezipienten als Ausgangspunkte für weiterführende Diskussionen dienen - und im besten Fall auch als Ansatzspunkte für die Dekonstruktion einzelner Aussagen des Verfassers. (In dieser Hinsicht gilt stets die Fassung letzter Hand.)  
 <https://g.co/gemini/share/0399b9c8abe1>  
+<https://g.co/gemini/share/de8fd5855d17>  
 
 
 
@@ -55,21 +55,36 @@ Nach einem - spätestens im 1. Quartal 1694 beendeten - Aufenthalt in Leipzig (b
 
 
 Unter Möllers Führung hatte er „als der erste und liebste“ von sechs per Pedes Apostolorum mitreisenden Studiosi am Ziel einer von Juli bis September 1694 währenden, vom nachmaligen Rostocker Universitätsbibliothekar und Poetik-Professor Carl Arndt sorgfältigst dokumentierten theologischen Exkursion (die später so titulierte „Preußische Reise“) durch Pommern, Ostpreußen und Brandenburg kurz vor dessen Tod den Frühaufklärer Samuel von Pufendorff in Berlin heimgesucht.  
+<https://g.co/gemini/share/f0e6b3f59427>  
+<https://g.co/gemini/share/a09aa0214188>  
 
 Leider wurde bei der Publikation des Reisetagebuchs (vgl. Kohlfeldt 1905) mehr Wert auf die - zweifelsohne interessanten - touristischen und landeskundlichen Aspekte der Tour gelegt und die angeblich schwer zu entziffernden Diskussionen mit den besuchten Theologen ausgelassen. Sie dürften aber durch das handschriftliche Original zu ergänzen sein. Stichproben anhand einer Parallelquelle lassen erhoffen, dass es mehr um akademischen Smalltalk ging als um dogmatische Auseinandersetzungen.  
+<https://g.co/gemini/share/2e3b652a5528>  
 
 Es ergibt sich die Überlegung, ob die drei Jahrzehnte nach diesem Ereignis in Leipziger Kantatentexten anzutreffenden rationalismuskritischen Floskeln - z.B. in BWV 2 („Und was der eigen Witz erdenket, … der eine wählet dies, der andre das, die törichte Vernunft ist ihr Kompaß“), BWV 178 („Schweig, schweig nur, taumelnde Vernunft“) und BWV 121 („Was Wunder, daß allhie Verstand und Witz gebricht“), aber auch - syntaktisch recht verstanden - BWV 180 („noch durch Vernunft das hohe Werk ergründet“) ihren Urgrund in diesen prägenden Begegnungen hatten und inwieweit sie ferner als aktuelle, unterschwellige Kommentare des Autors zu den seit 1723 eskalierenden Kontroversen um den Philosophen Christian Wolff zu interpretieren sind. (Vgl Fischer 2017.)  
+<https://g.co/gemini/share/e491aed845c9>  
+<https://g.co/gemini/share/1aa34f13a53d>  
+
 
 
 Wichtigster Förderer Jauchs während seiner Rostocker Zeit war zunächst und auch später jener erwähnte Theologe Johannes Fecht, der als Theologieprofessor, Universitätsrektor und Superintendent gewissermaßen in - wenn auch nicht unmittelbarer - „akademischer Sukzession“ zu dem als Stichwortgeber für bis zu sieben Sätze von Bachs Matthäuspassion sowie je eines Satzes der Kantate BWV 2 und der Johannespassion geltenden Heinrich Müller stand.  
+<https://g.co/gemini/share/b9e19dfd5891>  
+
 
 Fecht - dessen mehr als 10 Bände umfassender Manuskriptnachlass in Rostock, Hamburg und anderswo ebenso einer wissenschaftlichen Auswertung harrt wie der Katalog seiner 1742 stückweise versteigerten Bibliothek - war ein engagierter Vertreter der Norddeutschen Reformorthodoxie und - nach anfänglicher Sympathie um so entschiedenerer - Gegner der Radikalpietisten Philipp Jacob Spener und August Hermann Francke.  
 
+<https://g.co/gemini/share/ecf755c1acbf>  
+
 Die von deren Initiativen ausgelösten „Leipziger Unruhen“ hatten eine Fernwirkung auch in Lüneburg hervorgerufen durch die Person des Superintendenten Johann Wilhelm Petersen, der schließlich 1692 unter minutiös (sowohl von ihm selbt als auch durch die handelnden Institutionen) dokumentieren Umständen aus dem Amt entfernt wurde. Mit diesem - durch einen kirchenmusikalischen Eklat begleiteten - Fanal war jeglichen unorthodoxen Ansichten in Lüneburg bis weit in das 18. Jahrhundert hinein (vielleicht bis heute?) ein Riegel vorgeschoben worden - allenfalls bis zum Aufkommen jener rationalistisch angehauchten Theologie, die sich - wie anderswo auch - im Zuge der Spätaufklärung als communis opinio etablieren sollte. 
+<https://g.co/gemini/share/68ff77c41465>  
+
 
 Jauchs früheste und vermutlich eher kritische Begegnung mit dem Themenbereich einer natürlichen, von rationalen Erkenntnisweisen inspirierten Theologie (vgl. Zedler 23/987) ist belegt durch seine Rolle als einer von 14 Disputanten bei einem im August 1692 stattgefundenem „Discursus academicus ... ex Theologia Naturali“ des Rostocker Nikolai-Pfarrers, Professors für Griechisch, Universitätsrektors und nachmaligem Lüneburger Superintendenten Gottfried Weiß (direkter Nachfolger Petersens), dessen theologische Tendenz noch näher zu analysieren wäre. Weiß’ens Wahlspruch weist jedenfalls in eine eindeutige Richtung: „Ich hasse die Fladder-Geister, und meine Seele ist ihnen gram.“ (Vgl. Luthers Randglosse zu Ps. 119 sowie das Incipit von BWV 181 und Lehms 1711, 3. Advent.)  
 
+<https://g.co/gemini/share/34b8238fdc5b>  
+
 Der 1695 zu Jauchs Abschied aus Rostock gedruckte Valedictionsbrief der - leider nicht namentlich genannten, aber teilweise ermittelbaren - „sämptl. Haußgenossen“ (ganz oder teilweise identisch mit den Mitpilgernden der „Preußischen Reise?) seines akademischen Ziehvaters Möller ist geprägt durch Analogien bei der Betrachtung der Beziehungen zwischen Kunst, Künstler, Tugend und Natur - dargestellt anhand eines optisch beeindruckenden chemischen Experiments, welches aus anorganischen Substanzen organisch wirkende, baumartige Gebilde wachsen lässt. („Arbor Dianae“). Die letzten beiden der nachfolgend auszugsweise zitierten Zeilen belegen den Übergang von einer mythologischen zu einer neuzeitlichen, bis heute gültigen Erklärweise - und damit den Paradigmenwechsel der Naturwissenschaften um 1700 schlechthin:  
+<https://g.co/gemini/share/0f0597ddbdec>  
 
 Hie steht sein Baum, und zeigt den schönen Wipfel  
 Dran die gelahrte Welt erwünschte Freude sieht;  
