@@ -3,13 +3,15 @@ Ob ein Superintendens wohl Poete seyn könne? - Zur Person des „Leipziger“ H
 Entwurf für ein Vortragsmanuskript (Es gilt das gesprochene Wort.)  
 
 D 48153 Münster  
-michael@hochgartz.de - 02.03.2024  
+michael@hochgartz.de - 11.03.2024  
 Quelltext, Versionsgeschichte und Literaturverzeichnis:  
  https://github.com/michael-hochgartz/lectio-brevior  
 
 Die ab Februar 2024 gelegentlich eingepflegten Hinweise auf externe Erläuterungen zu einzelnen Begriffen tragen experimentellen Charakter. Ihre - KI/AI-basierte - technische Konsistenz ist naturgemäß unverbindlich. Das gilt folglich um so mehr für die dort wiedergegebenen Inhalte. Gleichwohl mögen sie den Rezipienten als Ausgangspunkte für weiterführende Diskussionen dienen - und im besten Fall auch als Ansatzspunkte für die Dekonstruktion einzelner Aussagen des Verfassers. (In dieser Hinsicht gilt stets die Fassung letzter Hand.)  
 <https://g.co/gemini/share/0399b9c8abe1>  
 <https://g.co/gemini/share/de8fd5855d17>  
+<https://youtu.be/PpeRuMAjRrM?si=2o13Q-8LTGrhXSJ_&t=174>  
+
 
 
 
@@ -63,8 +65,7 @@ Leider wurde bei der Publikation des Reisetagebuchs (vgl. Kohlfeldt 1905) mehr W
 
 Es ergibt sich die Überlegung, ob die drei Jahrzehnte nach diesem Ereignis in Leipziger Kantatentexten anzutreffenden rationalismuskritischen Floskeln - z.B. in BWV 2 („Und was der eigen Witz erdenket, … der eine wählet dies, der andre das, die törichte Vernunft ist ihr Kompaß“), BWV 178 („Schweig, schweig nur, taumelnde Vernunft“) und BWV 121 („Was Wunder, daß allhie Verstand und Witz gebricht“), aber auch - syntaktisch recht verstanden - BWV 180 („noch durch Vernunft das hohe Werk ergründet“) ihren Urgrund in diesen prägenden Begegnungen hatten und inwieweit sie ferner als aktuelle, unterschwellige Kommentare des Autors zu den seit 1723 eskalierenden Kontroversen um den Philosophen Christian Wolff zu interpretieren sind. (Vgl Fischer 2017.)  
 <https://g.co/gemini/share/e491aed845c9>  
-<https://g.co/gemini/share/1aa34f13a53d>  
-
+<https://www.perplexity.ai/search/was-ist-eine-_T_jKyw1R36M0HIjfnhOSw>  
 
 
 Wichtigster Förderer Jauchs während seiner Rostocker Zeit war zunächst und auch später jener erwähnte Theologe Johannes Fecht, der als Theologieprofessor, Universitätsrektor und Superintendent gewissermaßen in - wenn auch nicht unmittelbarer - „akademischer Sukzession“ zu dem als Stichwortgeber für bis zu sieben Sätze von Bachs Matthäuspassion sowie je eines Satzes der Kantate BWV 2 und der Johannespassion geltenden Heinrich Müller stand.  
@@ -85,6 +86,7 @@ Jauchs früheste und vermutlich eher kritische Begegnung mit dem Themenbereich e
 
 Der 1695 zu Jauchs Abschied aus Rostock gedruckte Valedictionsbrief der - leider nicht namentlich genannten, aber teilweise ermittelbaren - „sämptl. Haußgenossen“ (ganz oder teilweise identisch mit den Mitpilgernden der „Preußischen Reise?) seines akademischen Ziehvaters Möller ist geprägt durch Analogien bei der Betrachtung der Beziehungen zwischen Kunst, Künstler, Tugend und Natur - dargestellt anhand eines optisch beeindruckenden chemischen Experiments, welches aus anorganischen Substanzen organisch wirkende, baumartige Gebilde wachsen lässt. („Arbor Dianae“). Die letzten beiden der nachfolgend auszugsweise zitierten Zeilen belegen den Übergang von einer mythologischen zu einer neuzeitlichen, bis heute gültigen Erklärweise - und damit den Paradigmenwechsel der Naturwissenschaften um 1700 schlechthin:  
 <https://g.co/gemini/share/0f0597ddbdec>  
+<
 
 Hie steht sein Baum, und zeigt den schönen Wipfel  
 Dran die gelahrte Welt erwünschte Freude sieht;  
@@ -1012,7 +1014,8 @@ und zur bereits erwähnten „Elmenhorst-Arie Nr. 12 aus dem Jahr 1700:
 
 Brandenburg zählte zur einer neuen Generation von norddeutschen Poeten im Umkreis der Hamburger literarischen Größen Brockes und Weichmann, in dessen (Brandenburg gewidmeten) Band V der Anthologie „Poesie der Niedersachsen“ das erwähnte Epicedium 1738 erneut veröffentlicht wurde. Er gilt als enger Vertrauter des Dichters Christian Günther in dessen letzten, prekären Leipziger Lebensjahren und verfasste zwischen 1716 und 1750 - nicht ohne Konflikte mit der dortigen geistlichen Obrigkeit (J. Carpzov; offenbar aber nicht mit dessen Vorgänger bis 1728, dem ursprünglich „Jenaischen Liederfreund“ Georg Heinrich Goetze) - oratorische Texte für die Lübecker Abendmusiken. Die Annahme eines literarisch/biographischen Beziehungsdreiecks (Jauch/ Goetze/Brandenburg) erscheint unter diesen Umständen plausibel.  
 
-Das Vorwort zu Brandenburgs Lübecker Oratorium „Gideon“ ist datiert „Lüneburg, 20.10.1716“ - der Text entstand somit wohl in Jauchs Wohnung (Am Sande Nr. 27) - wenige Schritte zwischen St. Johannis und dem Herstellungsort von mindestens neun der bisher ermittelbaren Lüneburger Auflagen der Müller-Predigten.  
+Das Vorwort zu Brandenburgs Lübecker Oratorium „Gideon“ ist datiert „Lüneburg, 20.10.1716“ - der Text entstand somit wohl in Jauchs Wohnung (Am Sande Nr. 27) - wenige Schritte zwischen St. Johannis und dem Herstellungsort von mindestens neun der bisher ermittelbaren Lüneburger Auflagen der Müller-Predigten. In der Vorrede entschuldigt sich Brandenburg für etwaige „Härtigkeiten der Poesie“, die durch sein Bemühen um weitgehende Beibehaltung „unserer teutschen Version“ in den biblischen Dialogen in Kauf zu nehmen war.  
+<https://g.co/gemini/share/81db6ef64d5b>  
 
 Auch für Michael Christoph Brandenburg ist die Verwendung einer monogrammartigen Signatur überliefert, zeichnet er doch ein 1743 verfasstes Hochzeitsgedicht unter Anspielung auf den spätantiken Philosophen und Grammatiker Macrobius Ambrosius Theodosius mit dem Schäfernamen  „MaCroBius“ = M.C.B. (Vgl. Kersten 2006).  
 
