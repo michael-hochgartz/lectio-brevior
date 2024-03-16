@@ -3,7 +3,7 @@ Ob ein Superintendens wohl Poete seyn könne? - Zur Person des „Leipziger“ H
 Entwurf für ein Vortragsmanuskript (Es gilt das gesprochene Wort.)  
 
 D 48153 Münster  
-michael@hochgartz.de - 11.03.2024  
+michael@hochgartz.de - 16.03.2024  
 Quelltext, Versionsgeschichte und Literaturverzeichnis:  
  https://github.com/michael-hochgartz/lectio-brevior  
 
@@ -19,8 +19,10 @@ Die ab Februar 2024 gelegentlich eingepflegten Hinweise auf externe Erläuterung
 Ob ein Poete wohl Superintendens seyn könne? (Erdmann Neumeister, 1704)  
 
 Learn the facts - then try on the stories like clothes. (John Le Carré, 1974)  
-
+<https://www.perplexity.ai/search/earn-the-facts-G9xLC7CPQAaO_VH1O23_8w#0>  
+<https://www.telepolis.de/features/John-le-Carre-und-das-Vermaechtnis-der-Spione-3931465.html>  
 Man muss dem Gericht natürlich eine stimmige und lebensnahe Geschichte präsentieren, und man kann da auch Schreibfreude entwickeln. (Hans-Gerd Jauch, 2012)  
+<https://www.perplexity.ai/search/Schreibfreude-AYQU.21pSxONtZMjThDFdQ#2>  
 
 Bildung lässt sich nicht downloaden. (Günther Jauch, 2009)  
 
@@ -133,6 +135,7 @@ Jauch amtierte ab 1696 an der - 1861 wegen Bergsenkungsschäden abgetragenen, ku
 
 
 Dass Jauch eine oder mehrere Wiederaufführungen der 1667 für St. Lamberti entstandenen Matthäus-Passion Christian Flors (sen.) miterlebte oder zumindest deren Text und Musik einsehen konnte, ist als nicht unwahrscheinlich anzunehmen. Das seit 1945 im niederschlesischen Steinau (Śzinawa) verschollene Werk lässt sich dank der ausführlichen Beschreibung und auszugsweisen Spartierung der für Aufführungszwecke angefertigten, leider unvollständigen Stimmen-Abschrift durch Peter Epstein (BJ 1931) als ein früher Meilenstein der „Norddeutschen Territorialpassion“ (W. Braun) bewerten - wenngleich Epsteins durchaus bedenkenswerte Assoziationen zu BWV 244 heute nicht mehr als ganz so relevant betrachtet werden wie zum Zeitpunkt ihrer Veröffentlichung.  
+<https://www.perplexity.ai/search/Was-bedeutet-der-Y3LJEKiYTZixw.4LkxXXhw#0>  
 
 Ähnliche Überlegungen könnten für die 1683ff datierten Passionen des Johannis-Kantors Friedrich Funcke angestellt werden. Dessen Matthäus-Passion integriert als Nr. 19 den Choral „O Lamm Gottes unschuldig“ als vom Alto gesungenen Cantus firmus zu einer Streicherbegleitung nach Art der ansonsten das Bild dieser Komposition prägenden Sinfoniae. Der Satz Nr. 22 verarbeitet charakteristische Auszüge des Chorals „Erbarm dich mein o Herre Gott“ an analoger struktureller Stelle wie die Arie „Erbarme dich“ in BWV 244b - und Nr. 31 in ähnlicher Manier „Christe du Lamm Gottes“.  
 
@@ -145,6 +148,8 @@ Auf jeden Fall ergibt sich aus diesem Befund und seiner weiteren Betrachtung, da
 Weiterhin ist auch der Umstand zu bedenken, dass 1674 ein Exemplar der ein Jahr zuvor in Lübeck gedruckten (und damit auch für „bürgerliche“ Zwecke bestimmten) Matthäus-Passion des Gottorfer Hofkapellmeisters Johann Theile (Besetzung: u.a. 2 Bratschen, 2 Gamben) für die Notenbibliothek von St. Johannis angeschafft wurde. Und schließlich verzeichnet die rekonstruierte Chorbibliothek des Michaelis-Klosters ein Exemplar der „Passio in Dialogo 2dum Matthaeum pro Clavicymbalo Organo &c. Mit 10 Stimmen gesetzt“ des Hamburger Kantors Thomas Selle aus dem Jahr 1642. (Vgl. Jekutsch 2000, Nr. 0772).  
 
 Die Tradition regelmäßiger Aufführungen am Karfreitag reichte übrigens so lange, wie der Chorus Symphoniacus des Johanneums und der Mettenchor von St. Michaelis zur Verfügung standen - also bis gegen Ende des 18. Jahrhunderts. (Vgl. Walter 1968.) Sie wurde 1855 mit einer ersten Aufführung von BWV 244 in St. Johannis wieder aufgenommen und wird bis heute fortgeführt.  
+<https://www.perplexity.ai/search/Was-versteht-man-42t7dhqHR.OPAWY_Bn0gtQ>  
+
 
 
 1709 wechselte Jauch als 1. Prediger an die Nikolaikirche und 1714, bedingt durch seine von beiden Seiten nicht nur zunächst, sondern dauerhaft widerwillig akzeptierte Ernennung zum Superintendenten nach St. Johannis. Damit wurde er auch zum „Inspector“ jenes Johanneums ernannt, dessen Chorus Symphoniacus während der beiden Kirchenjahre (1. Advent 1720 bis 1. Advent 1722) für die Aufführung von Vertonungen zweier, zusammen im Druck veröffentlichter Jahrgänge von Texten zur Musik zuständig war, die auf Vorlagen Erdmann Neumeisters und weiterer, noch zu identifizierender Autoren beruhten.  
@@ -156,7 +161,7 @@ Mehr als 40 dieser weitgehend durch RISM-Konkordanzen dokumentierbaren Kompositi
 
 Unter den ungenannten, laut Vorwort in Lüneburg zu suchenden Autoren (vielleicht auch Autorinnen?) einer Textsammlung für einen bereits 1713/14 vom Lamberti-Organisten Georg Flor (jun.) veranstalteten Kantatenjahrgang ist - neben dem bislang als ambivalent agierend beschriebenen Kantor (1694-1704) und späteren Stadtschreiber Heinrich Büttner und dem ambitioniert wirkenden, letztlich aber erfolglosen Dichter-Talent Joachim Christian Heini (1682-1738) - auch Johann Christoph Jauch zu vermuten.  
 
-Weiterhin sind Einzeltextdrucke von Trauerkantaten für die Beisetzungen Lüneburger Honoratioren überliefert, die jeweils in ähnlicher Konstellation (aber wohl als reine Organistenmusiken ohne produktive Beteiligung des Kantors) realisiert wurden - wobei Böhm in diesen Fällen (zu denen auch Jauchs Beisetzung am 6.2.1725 zählt) das vom Rat in einem Verwaltungsgerichtsverfahren auf St. Johannis beschränkte, aber dem Grunde nach bestätigte Privileg zur kostenpflichtigen Erstellung der Kompositionen besaß.
+Weiterhin sind Einzeltextdrucke von Trauerkantaten für die Beisetzungen und Hochzeitskantaten für die Copulationen Lüneburger und benachbarter Honoratioren überliefert, die jeweils in ähnlicher Konstellation (aber wohl als reine Organistenmusiken ohne produktive Beteiligung des Kantors) realisiert wurden - wobei Böhm in diesen Fällen (zu denen auch Jauchs Beisetzung am 6.2.1725 zählt) das vom Rat in einem Verwaltungsgerichtsverfahren auf St. Johannis beschränkte, aber dem Grunde nach bestätigte Privileg zur kostenpflichtigen Erstellung der Kompositionen besaß.
 
 Die Beförderung zum Superintendenten, die unter Berufung auf Sparbemühungen ohne überregionale Ausschreibung erfolgte und die mit einem nur geringen Einkommenszuwachs verbunden war, wurde gleichwohl von einem höher rangierenden Amtsbruder auf ausführlich dokumentierte, erschreckend intrigenhafte Weise bekämpft. Sie erfolgte gegen den wiederholt, „unter Thränen“ erklärten Willen Jauchs, der sich bald darauf, am 17. April 1714, in einem sehr persönlich gehaltenen Brief (nach Inhalt und Diktion durchaus vergleichbar mit Bachs Schreiben an seinen Thüringer / Lüneburger Jugendfreund Georg Erdmann) an seinen ehemaligen Kommilitonen, den seinerzeitigen Jenaer Universitätsorganisten, nunmehrigen Universitätsrektor und späteren Bach-Bewunderer (vgl. DOK II, 369) Johann Jakob Syrbius, zu den näheren Umständen seiner Ernennung äußerte.  
 <https://g.co/gemini/share/03584715fa91>  
@@ -208,7 +213,7 @@ durch die Gefährlichkeit der falschen Brüder
 
 Ein Wechsel an die Marktkirche St. Georg in Hannover (die „dortige Haupt Kirchen“ des Kurfürstentums Braunschweig-Lüneburg - und somit eine „sehr avantageuse Verbeßerung“ - so Jauch in einer Eingabe von 1709) gelangte 1705 nicht zum Erfolg, da er - motiviert durch eine „aus hochgeneigter affection ohne mein Ansuchen“ gewährte Gehaltszulage seiner Patronatsherren von immerhin 100 Rthlr. p.a. - noch vor dem Ende des Verfahrens abgesagt hatte, obwohl er sich in Hannover hinsichtlich seiner Einkünfte „wohl dreyfach“ hätte verbessern können.  
 
-Als einer von 30, durch das örtliche Leitungsgremium vorgeschlagenen und von einer reisenden Berufungskommission (deren Spesenrechnungen mit der Hoffnung auf Hinweise zu weiterführenden Personalbeziehungen noch auszuwerten wären) beim Predigen evaluierten Kandidaten (unter diesen auch Bachs Mühlhausener Vorgesetzter und Taufpate der erstgeborenen Tochter Catharina Dorothea, der Konsistorialrat Georg Eilmar), unterlag er Anfang 1715 denkbar knapp im fünften Wahlgang dem einflussreichsten Propagator und Produzenten moderner protestantischer Kantatentextformen - Erdmann Neumeister - bei der Wahl zum Hauptpastor der Hamburger Hauptkirche St. Jakobi.  
+Als einer von 30, durch das örtliche Leitungsgremium vorgeschlagenen und von einer reisenden Berufungskommission (deren Spesenrechnungen mit der Hoffnung auf Hinweise zu weiterführenden Personalbeziehungen noch auszuwerten wären) beim Predigen evaluierten Kandidaten (unter diesen auch Bachs ehemaliger Mühlhausener Vorgesetzter und Taufpate der erstgeborenen Tochter Catharina Dorothea, der Konsistorialrat Georg Eilmar), unterlag er Anfang 1715 denkbar knapp im fünften Wahlgang dem einflussreichsten Propagator und Produzenten moderner protestantischer Kantatentextformen - Erdmann Neumeister - bei der Wahl zum Hauptpastor der Hamburger Hauptkirche St. Jakobi.  
 
 Bereits 1707 hatte Jauch eine Anstellung als „Capellan“ dortselbst vorzeitig abgesagt, obgleich er als einer der acht verbliebenen (von zunächst 22) Bewerbern durchaus Chancen gehabt hätte.  
 
@@ -414,7 +419,7 @@ Eine Suche nach tieferen Ursachen für Jauchs persönliche Probleme - oder zumin
 
 Rechtfertigt diese Aussage die Annahme, dass J.C. Jauch mindestens anderthalb Jahrzehnte im ständigen Bewußtsein einer chronischen, auszehrenden Erkrankung (vulgo „Schwindsucht“) gelebt, gepredigt und gedichtet hat?  
 
-Ist es mehr als eine zufällige Anspielung, wenn in der Choralkantate BWV 114 (zum 1.10.1724) der Autor das dreifache Kopulativkompositum „Sünden-Wasser-Sucht“ generiert, das ein - für schwere Lungenkrankheiten im Endstadium typisches - Symptom umschreibt, das hier freilich zur einer heute befremdlich wirkenden Illustration eines theologischen Sachverhalts erweitert wurde? (Vgl. Hiob 15,16 nach Vulgata bzw. nach Luther: „quanto magis abominabilis et inutilis homo qui bibit quasi aquas iniquitatem“ / „Wie viel weniger ein Mensch, der ein Greuel und schnöde ist, der Unrecht säuft wie Wasser…“).  
+Ist es mehr als eine zufällige Anspielung, wenn für die Choralkantate BWV 114 (zum 1.10.1724) der Autor das dreifache Kopulativkompositum „Sünden-Wasser-Sucht“ generiert, das ein - für schwere Lungenkrankheiten im Endstadium typisches - Symptom umschreibt, das hier freilich zur einer heute befremdlich wirkenden Illustration eines theologischen Sachverhalts erweitert wurde? (Vgl. Hiob 15,16 nach Vulgata bzw. nach Luther: „quanto magis abominabilis et inutilis homo qui bibit quasi aquas iniquitatem“ / „Wie viel weniger ein Mensch, der ein Greuel und schnöde ist, der Unrecht säuft wie Wasser…“).  
 
 
 Die Auseinandersetzung mit der Vorwegnahme der eigenen Sterbestunde kulminiert schließlich in der Kantate BWV 127 (zum 11.2.1725) - nach Meinung maßgeblicher Kommentatoren (nicht nur Smend 1966) in kompositionstechnischer Hinsicht der Höhepunkt des Choralkantatenschaffens - in deren Musik und Text sich die existenzielle Befindlichkeit des Autors mit der Hoffnung auf eine Erfüllung dogmatisch begründeter Verheißungen verbindet - in Form von Konditionalsätzen, die sich bald nach ihrer Formulierung und kurz vor ihrer Vertonung bitter realisieren sollten:  
@@ -485,6 +490,7 @@ Stattdessen wurde das Schreiben durch Ludolph Daniel Kraut, den Sohn des ihm unt
 Der Brief belegt zudem, dass die ungewöhnlich aufwändige, zunächst auf Latein exerzierte, dann wegen des großen Erfolgs in einer deutschen Übersetzung zweimal für das breite Publikum wiederholte, mit musikalischen Arien durchflochtene Dramatisierung wesentlicher Ereignisse der Reformation 1517 durch einen „Actus Oratorio Dramaticus“ im „Rectorat“ des Johanneums mit ca. 50 namentlich benannten Mitwirkenden (darunter Kraut junior in der Hauptrolle des Dr. Martinus Luther und Tobias Jauch als Rezitator) auf eine Initiative des Superintendenten in seiner Funktion als Schulinspektor zurückging. (Vgl. Cyprian 1719).  
 
 Das erwähnte Schreiben an J.J. Syrbius von 1714 war ebenfalls durch einen zwecks Immatrikulation (in diesem Fall nach Jena) reisenden Studenten überbracht worden, nämlich durch den aus Ratzeburg stammenden, von Jauch beherbergten und pädagogisch betreuten Georg Ludwig Neubaur (1693-1775). Aus der zeitlichen Differenz zwischen Briefdatierung und dem Eintrag in der Matrikel ergibt sich in diesem Fall eine ungefähre Reisezeit von 10 Tagen zwischen Lüneburg und Jena. Das könnte auch als Anhaltspunkt für die Dauer der Rückreise von Jauchs Sohn Tobias im Januar 1725 betrachtet werden, als dieser von Leipzig (ca. eine Tagesreise östlich von Jena gelegen) an das Totenbett seines Vaters gerufen wurde.  
+<https://www.perplexity.ai/search/Wie-lange-dauerte-srv1o38GS_aq3VHGGaY4XQ#1>  
 
 Am 3.11.1718 entschuldigt Jauch sich beim Dresdener Kreuzkirchen-Pfarrer und Superintendenten Valentin Ernst Löscher, dem er „per couvert“ (vgl. Zedler 6/1507) antwortet, wegen der verspäteten Rückmeldung auf dessen Anfrage nach Gelegenheiten für eine standesgemäße, aber nicht zu teure Unterbringung einer sächsischen Predigerwitwe in einem norddeutschen „Evangelisch-Lutherisch Closter“:  
 
@@ -495,13 +501,14 @@ Als weiterer Kandidat für eine temporäre persönliche Beziehung zwischen Lüne
 Wie schließlich in diesem Zusammenhang die Tatsache zu bewerten ist, dass C.F. Henrici unter dem Datum des 1.1.1725 ein Gedicht auf die Hochzeit des Sohnes von Jauchs Kollegen, Johann Georg Koltemann (1721-29 an St. Lamberti und St. Nikolai amtierend), verfasste, das er später in seine gedruckte Gedichtsammlung aufnahm, bleibt zu untersuchen.  
 
 Diese konkreten Beispiele belegen, dass die Kommunikation zwischen Nord- und Mitteldeutschland nicht nur auf die reguläre, reitende Reichspost und die immer wieder mühsam regulierten, fahrenden Nebenposten („Gelbe Kutsche“; „Braunschweiger Küchenpost“) angewiesen war, sondern - trotz aller Unwägbarkeiten - auch auf die persönliche Überbringung durch reisende (vielleicht gar reitende?) Vertrauenspersonen setzen konnte - und dass Jauch durchaus Wert auf eine zeitnahe Beantwortung von Anfragen legte.  
+<https://podcasts.apple.com/de/podcast/radiowissen/id257719552?i=1000644707683>  
 
 Dass J.S. Bach bei der Komposition der zweiten Text-Tranche seiner Choralkantaten zum 9., 16. und 23. Juli 1724 erhebliche systemische Irregularitäten in Kauf nehmen musste, ließe sich auch durch Komplikationen bei der Übermittlung der Manuskripte erklären und bedarf weiterer Untersuchungen. (Vgl. z.B. Scheide 2003.)  
 
 
 Der - in mindestens zwei Exemplaren überlieferte - Text Jauchs für eine Kantate zur Hochzeit des ihm dienstlich und somit wohl auch persönlich verbundenen Lamberti-Organisten Georg Flor aus dem Jahr 1705 vermag vom Entwicklungsprozess seiner Dichtkunst zu zeugen - zu einem Zeitpunkt, als sich moderne deutschsprachige Kirchenmusiken nach dem Muster Erdmann Neumeisters noch kaum in der Anfangsphase ihrer praktischen Erprobung befanden.  
 
-Ein 2023 aufgetauchter, weiterer Textdruck zu eben dieser Vermählung aus der Feder des Johannis-Kantors Heinrich Büttner, zur Vertonung bestimmt durch den Johannis-Organisten Georg Böhm, vermag zweierlei zu erhellen:  
+Ein 2023 aufgetauchter weiterer Textdruck zu eben dieser Vermählung aus der Feder des Johannis-Kantors Heinrich Büttner, zur Vertonung bestimmt durch den Johannis-Organisten Georg Böhm, vermag zu erhellen:  
 Zum einen belegt das Gelegenheitswerk ein offenbar noch freundliches Verhältnis zwischen den Musikern und ihren pastoralen Dienstherren, die - zu einem späteren Zeitpunkt - in gerichtsnotorische Differenzen um ihre existentiellen Einkunftsarten geraten sollten.  
 
 Zum anderen zeigt es, dass die Kompositionen des Duos Jauch/Flor erheblich moderner gestaltet waren bei der Wahl textlicher und musikalischer Mittel. Sie verwendeten zwar ebenfalls Strophenarien, aber die Einbeziehung von Rezitativen und durchaus abwechslungsreichen, vokal-instrumentalen Besetzungen wirkt aus heutiger Sicht deutlich fortschrittlicher als die eher dem 17. Jahrhundert verpflichtete Kompositionsweise Böhms, welche die sechs Verse des 128. Psalms sehr schematisch durchführt.  
@@ -715,7 +722,7 @@ Die Gemahlin Augusts des Starken, Christiane Eberhardine von Brandenburg-Bayreut
 
 Dort hätte er in Kontakt mit dem späteren Leipziger Thomaspastor und Beichtvater Bachs, Christian Weise d.Ä. treten können, der 1724/25 bei den Uraufführungen eines Teils der Choralkantaten auf der Kanzel stehen sollte. Weise war aufgrund seiner homiletischen Kompetenz von 1696 bis 1699 als Diakonus in das benachbarte Torgau berufen worden und predigte ebenfalls öffentlich und privatim vor der Fürstin.  
 
-Dem steht aber eventuell entgegen, dass dieser Vorgang laut Bertram (1719) erst nach Jauchs Bewerbung für Hannover 1705 erfolgt sein soll - freilich ein schwaches Argument in Anbetracht der sehr kursorisch wirkenden Chronologie von Bertrams Erzählweise.  
+Dem steht eventuell entgegen, dass dieser Vorgang laut Bertram (1719) erst nach Jauchs Bewerbung für Hannover 1705 erfolgt sein soll - freilich ein schwaches Argument in Anbetracht der sehr kursorisch wirkenden Chronologie von Bertrams Erzählweise.  
 
 
 Jauchs besondere seelsorgerische Kompetenz wurde auch propagiert durch ein (ebenfalls von Bertram 1719 kolportiertes) Ereignis, das zu dem sehr speziellen Phänomen der „Maleficantenberichte“ gehört. Demnach hatte er einen zum Tode verurteilten römisch-katholischen Dragoner aus dem Regiment des Generalmajors Villars (Claude-Louis-Hector de Villars, Marschall von Frankreich ) auf dem etwa eine halbe Meile (3 bis 4 Kilometer) langen Weg zur militärischen Exekution durch provisorische Glaubensinstruktion, Examination und Verabreichung des Abendmahls zum „wahren Glaubens-Grund“ überzeugt - nachdem dieser noch kurz zuvor von einem Pater Le Blanche „in einem Gartenhause“ die Heilige Kommunion „nach päbstlicher Weise“ empfangen hatte. (Vgl. Jakubowski-Tiessen 2011)  
@@ -914,12 +921,13 @@ Es bleibt ferner zu untersuchen, in wie weit die nach Wolff (2020) als Proto-Cho
 Eine genauere Analyse des von Krummacher (2018) thematisierten zögerlichen Umgangs von - wohl schon in den Textvorlagen nicht eindeutig definiertem - Da Capo in diesem speziellen Teil des Kantatenkorpus könnte hierzu als methodischer Einstieg dienen.  
 
 Nicht nur war der erste Sammeldruck des den jeweiligen Titel bestimmenden Chorals von BWV 60 und von BWV 20 („O Ewigkeit, du Donnerwort“, Johann Rist, Lüneburg: Stern, 1652) sämtlichen namentlich aufgelisteten Führungsmitgliedern des ev. Michaelis-Klosters gewidmet. Auch der Text des Schlußchorals von BWV 60 („Es ist genug“) stammte von einer Person mit Lüneburger Lebensbezug, nämlich von dem 1672 gestorbenen Michaelis-Pastor Franz Joachim Burmeister - Poeta Laureta Caesareus und Mitglied einer traditionsreichen Lüneburger Musikerfamilie sowie des von Rist 1656 gegründeten und bis 1667 geleiteten Elbschwanen-Ordens.  
+<https://www.perplexity.ai/search/Poeta-Laureta-Caesareus-IBPMjtm0QHmj2FrWBR3FuA>  
 
 Hat hier der Autor einen gleich zweifachen Anlauf unternommen, sein Material und die daraus zunächst zu erhoffenden, sodann im fernen Leipzig tatsächlich entstandenen Kompositionen auch einer - formell zwar konkurrierenden - Institution vor seiner Haustür anzudienen (dem seit der Aera von Spörcken nachhaltig geförderten Mettenchor und seinen instrumentalen Adjuvanten), deren aufführungspraktische Kompetenzen nach allem, was bekannt ist, deutlich über denjenigen des von ihm selbst als Inspektor betreuten wie als Prediger erlebten (eher wohl erlittenen) Chorus Symphoniacus an St. Johannis standen?  
 
 Freilich hätte er sich und seine Hörerschaft damit um den Genuss seiner zur „Prime-Time“ am Sonntagmittag vorgetragenen Auslegungen auf der Kanzel von St. Johannis gebracht - in Form von Liedpredigten, deren Gestaltungsprinzipien ihm aus seinen Jenaer Jahren bei Georg Goetze noch wohlbekannt sein mussten.  
 
-Eine - wo auch immer anzusiedelnde - Lüneburger Zweitverwertung hätte auf jeden Fall aber erst mit zwölfmonatiger Verspätung beginnen können - beispielsweise zum 1. Advent 1725 - denn bekanntlich war Bachs Leipziger Aufführungskalender gegenüber dem offiziellen ev. Kirchenjahr (zirkulär visualisiert) um 180 Grad oder 6 Monate „verdreht“. Etwas anderes hätte Bachs extrem knapp getakteter Produktionszyklus nicht zugelassen. Wie dem auch sei - der Abbruch des Gemeinschaftsprojekts aus den hier dargelegten Gründen belässt solche Überlegungen für immer im Bereich des Wunschdenkens.  
+Eine - wo auch immer anzusiedelnde - Lüneburger Zweitverwertung hätte auf jeden Fall aber erst mit zwölfmonatiger Verspätung beginnen können - beispielsweise zum 1. Advent 1725 - denn bekanntlich war Bachs Leipziger Aufführungskalender gegenüber dem offiziellen ev. Kirchenjahr (zirkulär visualisiert) um 180 Grad oder 6 Monate „verdreht“. Etwas Anderes hätte Bachs extrem knapp getakteter Produktionszyklus nicht zugelassen. Wie dem auch sei - der Abbruch des Gemeinschaftsprojekts aus den hier dargelegten Gründen belässt solche Überlegungen für immer im Bereich des Wunschdenkens.  
 Bekräftigt wird diese abschließende Bewertung in gewisser Weise durch die unerfreulich uneindeutige Mitteilung des 1735 geborenen Michaels-Archivars Albrecht Ludwig Gebhardi (die sich streng genommen nur auf dessen lokalen Erlebnishorizont ab ca. 1765 beziehen kann), wonach zwar regelmäßig Texte für jährliche Passionen und sonntägliche Kantaten in Lüneburg gedruckt wurden - diese aber, wie die Musik, dort nicht entstanden sind:  
 
 „Der musikalische Chor führte unter der direction des Cantors gebundene oder ungebundene Singstücke am Charfreytage auf, wovon der Text in Octav abgedruckt ward, so wie jeder Text der sonteglichen Kirchen musik auf ein oder zwei blättern. Sowohl die Composition als der Text waren von auswärtigen verfertigt. Auch ward ein Stuck nach ein paar Jahren wieder gebraucht.“ (Vgl. Walter 1968, 159)  
