@@ -3,7 +3,7 @@ Ob ein Superintendens wohl Poete seyn könne? - Zur Person des „Leipziger“ H
 Entwurf für ein Vortragsmanuskript (Es gilt das gesprochene Wort.)  
 
 D 48153 Münster  
-michael@hochgartz.de - 19.03.2024  
+michael@hochgartz.de - 24.03.2024  
 Quelltext, Versionsgeschichte und Literaturverzeichnis:  
  <https://github.com/michael-hochgartz/lectio-brevior>  
 
@@ -164,8 +164,8 @@ Unter den ungenannten, laut Vorwort in Lüneburg zu suchenden Autoren (vielleich
 
 Weiterhin sind Einzeltextdrucke von Trauerkantaten für die Beisetzungen und Hochzeitskantaten für die Copulationen Lüneburger und benachbarter Honoratioren überliefert, die jeweils in ähnlicher Konstellation (aber wohl als reine Organistenmusiken ohne produktive Beteiligung des Kantors) realisiert wurden - wobei Böhm in diesen Fällen (zu denen auch Jauchs Beisetzung am 6.2.1725 zählt) das vom Rat in einem Verwaltungsgerichtsverfahren auf St. Johannis beschränkte, aber dem Grunde nach bestätigte Privileg zur kostenpflichtigen Erstellung der Kompositionen besaß.
 
-Die Beförderung zum Superintendenten, die unter Berufung auf Sparbemühungen ohne überregionale Ausschreibung erfolgte und die mit einem nur geringen Einkommenszuwachs verbunden war, wurde gleichwohl von einem höher rangierenden Amtsbruder auf ausführlich dokumentierte, erschreckend intrigenhafte Weise bekämpft. Sie erfolgte gegen den wiederholt, „unter Thränen“ erklärten Willen Jauchs, der sich bald darauf, am 17. April 1714, in einem sehr persönlich gehaltenen Brief (nach Inhalt und Diktion durchaus vergleichbar mit Bachs Schreiben an seinen Thüringer / Lüneburger Jugendfreund Georg Erdmann) an seinen ehemaligen Kommilitonen, den seinerzeitigen Jenaer Universitätsorganisten, nunmehrigen Universitätsrektor und späteren Bach-Bewunderer (vgl. DOK II, 369) Johann Jakob Syrbius, zu den näheren Umständen seiner Ernennung äußerte.  
-<<https://g.co/gemini/share/03584715fa91>>  
+Die Beförderung zum Superintendenten, die unter Berufung auf Sparbemühungen ohne überregionale Ausschreibung erfolgte und die mit einem nur geringen Einkommenszuwachs verbunden war, wurde gleichwohl von einem höher rangierenden Amtsbruder auf ausführlich dokumentierte, erschreckend intrigenhafte Weise bekämpft. Sie erfolgte gegen den wiederholt, „unter Thränen“ erklärten Willen Jauchs, der sich bald darauf, am 17. April 1714, in einem sehr persönlich gehaltenen Brief (nach Inhalt und Diktion durchaus vergleichbar mit Bachs Schreiben an seinen Thüringer / Lüneburger Jugendfreund Georg Erdmann) an seinen ehemaligen Kommilitonen, den seinerzeitigen Jenaer Universitätsorganisten, nunmehrigen Universitätsrektor und späteren Bach-Bewunderer (vgl. [DOK II, 369](https://www.perplexity.ai/search/Was-steht-in-RV3mjc88RSK3jncKjlyYNg#0)) Johann Jakob Syrbius, zu den näheren Umständen seiner Ernennung äußerte.  
+<https://g.co/gemini/#share/03584715fa91>  
 
 Diese wurden überlagert von langjährigen Präzedenzstreitigkeiten zwischen Patriziat und Geistlichem Ministerium (es ging - zumindest vordergründig - tatsächlich um die Rangfolge bei öffentlichen Auftritten), als dessen penibel, wegen der erwähnten Anfeindungen fast ängstlich agierender theologischer Geschäftsführer Jauch ein Jahrzehnt lang fungieren sollte. (Vgl. Wiesenfeldt 2016.)  
 <<https://g.co/gemini/share/76b5c5815c23>>  
@@ -1047,7 +1047,8 @@ Da Behms gedruckte Sammlung als einzig verortbaren Bestandteil ein „Oratorium 
 
 Soweit nicht der am 8. Juni 1713 im Alter von 62 Jahren an „Cardialgia und Wassersucht“ dahingeschiedene Heinrich Jonathan Wehrenberg gemeint war (der bereits am Epiphaniastag 1711 auf der Kanzel von St. Johannis den ersten von mehreren „hefftigen Schlag-Flüssen“ erlitten hatte), dürfte diese Anmerkung auf Wehrenbergs Nachfolger, langjährigen Freund und Protégé Johann Christoph Jauch zielen.  
 
-Das Vorwort Behms enthält überdies an gleicher Stelle eine subtile Spur zum Textautor von BWV 515, hinter der sich möglicherweise ebenfalls Johann Christoph Jauch verbirgt.  
+Das Vorwort Behms enthält überdies an gleicher Stelle einige kryptische Gedanken zum kritischen Verhältnis zwischen „Politici“ und Geistlichen Herren bzgl. der gesellschaftlichen Akzeptanz des Tabackrauchens. Sie mögen als Marginalie zur Diskussion über BWV 515 dienen, dessen Textautor kürzlich vorgestellt wurde (Vgl. Kosa 2023).  
+
 
 
 
