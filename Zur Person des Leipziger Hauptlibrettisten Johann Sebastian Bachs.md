@@ -3,36 +3,33 @@ Ob ein Superintendens wohl Poete seyn könne? - Zur Person des „Leipziger“ H
 Entwurf für ein Vortragsmanuskript (Es gilt das gesprochene Wort.)  
 
 D 48153 Münster  
-michael@hochgartz.de - 24.03.2024  
+michael@hochgartz.de - 25.03.2024  
 Quelltext, Versionsgeschichte und Literaturverzeichnis:  
  <https://github.com/michael-hochgartz/lectio-brevior>  
 
-Die ab Februar 2024 gelegentlich eingepflegten Hinweise auf externe Erläuterungen zu einzelnen Begriffen tragen experimentellen Charakter. Ihre - KI/AI-basierte - technische Konsistenz ist naturgemäß unverbindlich. Das gilt folglich um so mehr für die dort wiedergegebenen Inhalte. Gleichwohl mögen sie den Rezipienten als Ausgangspunkte für weiterführende Diskussionen dienen - und im besten Fall auch als Ansatzspunkte für die Dekonstruktion einzelner Aussagen des Verfassers. (In dieser Hinsicht gilt stets die Fassung letzter Hand.)  
-<<https://g.co/gemini/share/0399b9c8abe1>>  
-<<https://g.co/gemini/share/de8fd5855d17>>  
-<<https://youtu.be/PpeRuMAjRrM?si=2o13Q-8LTGrhXSJ_&t=174>>  
-
+Die ab Februar 2024 gelegentlich eingepflegten Hinweise auf externe Erläuterungen zu einzelnen Begriffen tragen experimentellen Charakter. Ihre - KI/AI-basierte - technische Konsistenz ist naturgemäß unverbindlich. Das gilt folglich um so mehr für die dort wiedergegebenen Inhalte. Gleichwohl mögen sie den Rezipienten als Ausgangspunkte für weiterführende Diskussionen dienen - und im besten Fall auch als Ansatzspunkte für die [Dekonstruktion](https://gemini.google.com/share/0399b9c8abe1) einzelner Aussagen des Verfassers. (In dieser Hinsicht gilt stets die Fassung letzter Hand.)  
+Sämtliche an dieser Stelle vorgelegten Forschungsergebnisse wurden [privat](https://gemini.google.com/share/de8fd5855d17) finanziert.  
 
 
 
 
 Ob ein Poete wohl Superintendens seyn könne? (Erdmann Neumeister, 1704)  
 
-Learn the facts - then try on the stories like clothes. (John Le Carré, 1974)  
-<<https://www.perplexity.ai/search/earn-the-facts-G9xLC7CPQAaO_VH1O23_8w#0>>  
-<<https://www.telepolis.de/features/John-le-Carre-und-das-Vermaechtnis-der-Spione-3931465.html>>  
+Learn the facts - then try on the stories like clothes. (John Le Carré, [1974](https://www.telepolis.de/features/John-le-Carre-und-das-Vermaechtnis-der-Spione-3931465.html))  
+
 Man muss dem Gericht natürlich eine stimmige und lebensnahe Geschichte präsentieren, und man kann da auch [Schreibfreude](https://www.perplexity.ai/search/Schreibfreude-AYQU.21pSxONtZMjThDFdQ#2) entwickeln. (Hans-Gerd Jauch, 2012)  
 
-Bildung lässt sich nicht downloaden. (Günther Jauch, 2009)  
+Einer muss sich quälen - der Autor oder der Leser. (Wolf Schneider; legendärer Journalistenausbilder)  
 
-Bildung lässt sich uploaden (M.H.C., 23.12.2015)  
+Bei komplexen Texten müssen sich Beide quälen. (Ein anonymer Journalistenausbilder; ohne Ausbildung.)  
+
+Bildung lässt sich nicht downloaden. (Günther Jauch, 2009)  
 
 Der seine Gottesfurcht mit Wissenschafft vereinet  
 Und durch Beredsamkeit ein Felsen-Hertz erweichet  
 (Michael Christoph Brandenburg, 1714)  
 
-Bei dem Autor der Texte für Johann Sebastian Bachs Choralkantaten des Jahrgangs 1724/25 und für einige von deren Vor- und Nachläufer, für Teile seiner Johannes-Passion und für eine Anfang 1725 abgebrochene Urfassung der Matthäus-Passion handelt es sich um den Lüneburger Lamberti-, Nikolai- und Johannis-Prediger, den 1714 zum Superintendenten und Inspektor der Lateinschule Johanneum und ihres Kantatenchors ernannten Johann Christoph Jauch (1669-1725), den jahrzehntelangen Zeitgenossen, mutmaßlichen Studienkollegen, späteren theologischen Vorgesetzten, Kanzelredner bei gemeinsam absolvierten Kantatenaufführungen und vielleicht auch Beichtvater von Bachs „Lehrmeister“ Georg Böhm - dem Komponisten der bei Jauchs Beisetzung in St. Johannis am 6. Februar 1725 aufgeführten Trauermusik.  
-<>  
+Bei dem Autor der Texte für Johann Sebastian Bachs Choralkantaten des Jahrgangs 1724/25 und für einige von deren Vor- und Nachläufer, für Teile seiner Johannes-Passion und für eine Anfang 1725 abgebrochene Urfassung der Matthäus-Passion handelt es sich um den Lüneburger Lamberti-, Nikolai- und Johannis-Prediger, den 1714 zum Superintendenten und Inspektor der Lateinschule Johanneum und ihres Kantatenchors ernannten Johann Christoph Jauch (1669-1725), den jahrzehntelangen Zeitgenossen, mutmaßlichen Studienkollegen, späteren theologischen Vorgesetzten, Kanzelredner bei gemeinsam absolvierten Kantatenaufführungen und vielleicht auch Beichtvater von Bachs „Lehrmeister“ Georg Böhm - dem Komponisten der bei Jauchs Beisetzung in St. Johannis am 6. Februar 1725 aufgeführten Trauermusik.   
 
 
 Jauchs Vater Christian (1638-1718) stammte aus dem thüringischen Sulza (D 99518 Bad Sulza) in der Nähe von Jena, wo sich seine Vorfahren seit 1512 nachweisen lassen, seine 1702 gestorbene Mutter Ingeborg Nicolai (von deren 1723 erwähntem Trauergedicht aus der Feder ihres Sohnes bislang kein Exemplar gefunden werden konnte) aus dem Holsteinischen Husum.  
@@ -43,20 +40,19 @@ Anlässlich der Übersiedlung seines Vaters nach Lüneburg und dessen Wiederverh
 
 Johann Christoph Jauch wurde am 13. September 1669 im Dom zu Güstrow getauft als Sohn einer Kammerzofe der Herzogin Magdalena Sybilla (geb. von Schleswig-Holstein-Gottorf) und eines „Ersten Lacquayen u. Tafeldeckers“ des zuweilen - besonders nach Aufhebung seiner Tafel - höchstselbst die Laute spielenden Erbprinzen Karl von Mecklenburg-Güstrow.  
 
-Dessen Vater, Herzog Gustav Adolf (Dichter von Kirchenliedern sowie von 100 regelgerecht gereimten, durch Jauchs lebenslangen theologischen Mentor Johannes Fecht 1699 posthum veröffentlichten geistlichen Dichtungen und als „Der Gefällige“ Mitglied der „[Fruchtbringenden Gesellschaft](https://de.wikipedia.org/wiki/Fruchtbringende_Gesellschaft)“), förderte durch ein Stipendium die Ausbildung des sprachschöpferisch und rhetorisch überdurchschnittlich begabten Schülers und Studenten, der die Lateinschulen in Güstrow, Wismar und Schwerin besuchte, wo er unter Anleitung namentlich ermittelbarer Pädagogen und Musiker, „durch deren treue Anführung er so wol in dem Christenthum als Sprachen dergestalt zugenommen, daß er von der andern [Secunda?] classe mit Nutzen zu der Obersten [Oberprima?] schreiten können“, eine theologische und humanistische Elementarbildung erhielt und zugleich Erfahrungen als Chorsänger gemacht haben dürfte.  
+Dessen Vater, Herzog Gustav Adolf (Dichter von Kirchenliedern sowie von 100 regelgerecht gereimten, durch Jauchs lebenslangen theologischen Mentor Johannes Fecht 1699 posthum veröffentlichten geistlichen Dichtungen und als „Der Gefällige“ Mitglied der „[Fruchtbringenden Gesellschaft](https://de.wikipedia.org/wiki/Fruchtbringende_Gesellschaft)“), förderte durch ein Stipendium die Ausbildung des sprachschöpferisch und rhetorisch überdurchschnittlich begabten Schülers und Studenten, der die Lateinschulen in Güstrow, Wismar und Schwerin besuchte, wo er unter Anleitung namentlich ermittelbarer Pädagogen und Musiker, „durch deren treue Anführung er so wol in dem Christenthum als Sprachen dergestalt zugenommen, daß er von der andern [Secunda?] classe mit Nutzen zu der [Obersten](https://g.co/gemini/share/69f7f185d3d0) [Oberprima?] schreiten können“, eine theologische und humanistische Elementarbildung erhielt und zugleich Erfahrungen als Chorsänger gemacht haben dürfte.  
 
 Eine erste Förderung hatte Jauch durch die Eltern erfahren, die „bey zarter Jugend ein herrlich ingenium bey diesem ältesten Sohne verspüret“, und es war „ihre erste Sorge, wie sie ihn zu allem guten anführen, und zur Ehre GOttes auferziehen mögten“.  
 
 Die im Februar 1689 gedruckte Einladung zur öffentlichen Aufführung einer lateinischen Oration anlässlich des Geburtstags seines Landesherrns durch den Rektor der Domschule Güstrow ist das früheste Indiz für die sprachgestalterische Kompetenz des damals 19jährigen Jauch, der bei dieser Gelegenheit als „Praestantissimus Juvenum“ bezeichnet wurde.  
-<<https://g.co/gemini/share/69f7f185d3d0>>  
+
 
 
 
 Erst nach einer - zunächst nur pro Forma erfolgten - Immatrikulation an der Universität Rostock wechselte Jauch im April 1689 zum Grundstudium der Philosophie und Theologie nach Jena. Offenkundiger Grund war die Absicht, die dort (in Jena) praktizierten, überregional berüchtigten, menschenverachtenden Depositionsrituale für Erstinscribenten zu umgehen.  
 
-Nach einem - spätestens im 1. Quartal 1694 beendeten - Aufenthalt in Leipzig (bei dem er zufällig durchaus E. Neumeister, J.B. Carpzov, J. Schelle, J. Kuhnau oder J.A. Stübel begegnet sein könnte) schloss [J]ohann [C]hristoph [J]auch seine - vor allem durch gedruckte, personenbezogene „Beiträge“ in gebundener Rede recht engmaschig verfolgbare - akademische Ausbildung 1695 in Rostock ab mit einer Magisterpromotion unter Betreuung durch den fast gleichaltrigen, früh verstorbenen Danziger Theologen, Gräzisten und Kieler Kortholt-Schüler [J]ohann [G]ottlieb [M]öller (1670-1698), der etlichen seiner gedruckten Disputationen die Formeln [J]esu [G]ratia [M]oderante oder [I]n [G]loriam [M]ediatoris oder auch [J]mmensi [G]loriam [M]ediatoris voranzustellen pflegte.  
-<<https://g.co/gemini/share/5b430fa5ef4d>>  
-
+Nach einem - spätestens im 1. Quartal 1694 beendeten - Aufenthalt in Leipzig (bei dem er zufällig durchaus E. Neumeister, J.B. Carpzov, J. Schelle, J. Kuhnau oder J.A. Stübel begegnet sein könnte) beschloss [J]ohann [C]hristoph [J]auch seine - vor allem durch gedruckte, personenbezogene „Beiträge“ in gebundener Rede recht engmaschig verfolgbare - akademische Ausbildung 1695 in Rostock mit einer „Disputation“ (in der ehrenvollen Form als Vorsitzer einer „Dissertation“, wo er sich mittels der Invocatio [J]esu [Christo] [J]uvante im Titulus zu erkennen gibt) unter Betreuung durch den fast gleichaltrigen, früh verstorbenen Danziger Theologen, Gräzisten und Kieler Kortholt-Schüler [J]ohann [G]ottlieb [M]öller (1670-1698), der etlichen seiner sonstigen gedruckten Disputationen die Formeln [J]esu [G]ratia [M]oderante oder [I]n [G]loriam [M]ediatoris oder auch [J]mmensi [G]loriam [M]ediatoris voranzustellen pflegte.  
+Die Wahl des Themas hatte möglicherweise den Beweggrund, dem für ein alsbald anzutretendes bürgerliches Predigtamt bestimmten Jauch ohne eigene, hinreichende schriftliche Vorleistung eine akademische Befähigung zu attestieren, denn inhaltlich ging es um die Diskussion der Legitimität von nicht-examinierten „Laien“ (und damit waren entgegen heutigem Sprachgebrauch nicht nur Theologen sondern auch Philosophen gemeint) für eine dogmatische Entscheidungsfindung während des I. Konzils von Nicaea - und zwar ohne dass diese selbst einer formellen „Disputation“ unterworfen wurden. Somit wohnt dem Ganzen eine - heute kaum verständliche - Selbstbezüglichkeit inne. (Einschätzung ohne Gewähr anhand einer automatischen [Übersetzung](https://gemini.google.com/share/5b430fa5ef4d) des kompexen lateinischen Textes.)  
 
 
 Unter Möllers Führung hatte er „als der erste und liebste“ von sechs per Pedes Apostolorum mitreisenden Studiosi am Ziel einer von Juli bis September 1694 währenden, vom nachmaligen Rostocker Universitätsbibliothekar und Poetik-Professor Carl Arndt sorgfältigst dokumentierten theologischen Exkursion (die später so titulierte „Preußische Reise“) durch Pommern, Ostpreußen und Brandenburg kurz vor dessen Tod den Frühaufklärer Samuel von Pufendorff in Berlin heimgesucht.  
