@@ -7,8 +7,9 @@ michael@hochgartz.de - 27.03.2024
 Quelltext, Versionsgeschichte und Literaturverzeichnis:  
  <https://github.com/michael-hochgartz/lectio-brevior>  
 
-Die ab Februar 2024 gelegentlich eingepflegten Hinweise auf externe Erläuterungen zu einzelnen Begriffen tragen experimentellen Charakter. Ihre - KI/AI-basierte - technische Konsistenz ist naturgemäß unverbindlich. Das gilt folglich um so mehr für die dort wiedergegebenen Inhalte. Gleichwohl mögen sie den Rezipienten als Ausgangspunkte für weiterführende Diskussionen dienen - und im besten Fall auch als Ansatzspunkte für die [Dekonstruktion](https://gemini.google.com/share/0399b9c8abe1) einzelner Aussagen des Verfassers. (In dieser Hinsicht gilt stets die Fassung letzter Hand.)  
-Sämtliche an dieser Stelle vorgelegten Forschungsergebnisse wurden [privat](https://gemini.google.com/share/de8fd5855d17) finanziert.  
+Die ab Februar 2024 gelegentlich eingepflegten Hinweise auf externe Erläuterungen zu einzelnen Aspekten und Begriffen tragen experimentellen Charakter. Ihre - KI/AI-basierte - technische Konsistenz ist naturgemäß unverbindlich. Das gilt auch für die dort wiedergegebenen Inhalte. Gleichwohl mögen sie den Rezipienten als Ausgangspunkte für weiterführende Diskussionen dienen - und im besten Fall auch als Ansatzspunkte für die [Dekonstruktion](https://gemini.google.com/share/0399b9c8abe1) einzelner Aussagen des Verfassers. (In dieser Hinsicht gilt stets die Fassung letzter Hand.)  
+
+Disclaimer: Sämtliche an dieser Stelle vorgelegten Forschungsergebnisse wurden [privat](https://gemini.google.com/share/de8fd5855d17) finanziert.  
 
 
 
