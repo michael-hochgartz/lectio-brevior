@@ -2,14 +2,15 @@ Ob ein Superintendens wohl Poete seyn könne? - Zur Person des „Leipziger“ H
 
 Entwurf für ein Vortragsmanuskript (Es gilt das gesprochene Wort.)  
 
+Michael Hochgartz
 D 48153 Münster  
-michael@hochgartz.de - 27.03.2024  
+michael@hochgartz.de - 28.03.2024  
 Quelltext, Versionsgeschichte und Literaturverzeichnis:  
  <https://github.com/michael-hochgartz/lectio-brevior>  
 
-Die ab Februar 2024 gelegentlich eingepflegten Hinweise auf externe Erläuterungen zu einzelnen Aspekten und Begriffen tragen experimentellen Charakter. Ihre - KI/AI-basierte - technische Konsistenz ist naturgemäß unverbindlich. Das gilt auch für die dort wiedergegebenen Inhalte. Gleichwohl mögen sie den Rezipienten als Ausgangspunkte für weiterführende Diskussionen dienen - und im besten Fall auch als Ansatzspunkte für die [Dekonstruktion](https://gemini.google.com/share/0399b9c8abe1) einzelner Aussagen des Verfassers. (In dieser Hinsicht gilt stets die Fassung letzter Hand.)  
+Die ab Februar 2024 gelegentlich eingepflegten Hinweise auf externe Erläuterungen zu einzelnen Aspekten und Begriffen tragen experimentellen Charakter. Ihre KI/AI-basierte technische Konsistenz ist naturgemäß unverbindlich. Das gilt auch für die dort wiedergegebenen Inhalte. Gleichwohl mögen sie Rezipienten als Ausgangspunkte für weiterführendes Raisonnieren dienen - und im besten Fall auch als Ansatzspunkte für eine konstruktive [Dekonstruktion](https://gemini.google.com/share/0399b9c8abe1) einzelner Aussagen des Verfassers. (In dieser Hinsicht gilt stets die Fassung letzter Hand.)  
 
-Disclaimer: Sämtliche an dieser Stelle vorgelegten Forschungsergebnisse wurden [privat](https://gemini.google.com/share/de8fd5855d17) finanziert.  
+Disclaimer: Sämtliche an dieser Stelle vorgelegten Forschungsergebnisse wurden [ohne öffentliche Mittel](https://gemini.google.com/share/de8fd5855d17) erbracht.  
 
 
 
@@ -22,7 +23,7 @@ Man muss dem Gericht natürlich eine stimmige und lebensnahe Geschichte präsent
 
 Einer muss sich quälen - der Autor oder der Leser. (Wolf Schneider; legendärer Journalistenausbilder)  
 
-Bei komplexen Texten müssen sich Beide quälen. (Ein anonymer Journalistenausbilder; ohne Ausbildung.)  
+Bei komplexen Texten müssen sich Autor und Leser quälen.  
 
 Bildung lässt sich nicht downloaden. (Günther Jauch, 2009)  
 
@@ -49,14 +50,14 @@ Die im Februar 1689 gedruckte Einladung zur öffentlichen Aufführung einer late
 
 
 
-
 Erst nach einer - zunächst nur pro Forma erfolgten - Immatrikulation an der Universität Rostock wechselte Jauch im April 1689 zum Grundstudium der Philosophie und Theologie nach Jena. Offenkundiger Grund war die Absicht, die dort (in Jena) praktizierten, überregional berüchtigten, menschenverachtenden Depositionsrituale für Erstinscribenten zu umgehen.  
 
 Nach einem - spätestens im 1. Quartal 1694 beendeten - Aufenthalt in Leipzig (bei dem er zufällig durchaus E. Neumeister, J.B. Carpzov, J. Schelle, J. Kuhnau oder J.A. Stübel begegnet sein könnte) beschloss [J]ohann [C]hristoph [J]auch seine - vor allem durch gedruckte, personenbezogene „Beiträge“ in gebundener Rede recht engmaschig verfolgbare - akademische Ausbildung 1695 in Rostock mit einer „Disputation“ (in der ehrenvollen Form als Vorsitzer einer „Dissertation“, wo er sich mittels der Invocatio [J]esu [C]hristo [J]uvante im Titulus zu erkennen gibt) unter Betreuung durch den fast gleichaltrigen, früh verstorbenen Danziger Theologen, Gräzisten und Kieler Kortholt-Schüler [J]ohann [G]ottlieb [M]öller (1670-1698), der etlichen seiner sonstigen gedruckten Disputationen die Formeln [J]esu [G]ratia [M]oderante oder [I]n [G]loriam [M]ediatoris oder auch [J]mmensi [G]loriam [M]ediatoris voranzustellen pflegte.  
-Die Wahl des Themas hatte möglicherweise den Beweggrund, dem für ein alsbald anzutretendes bürgerliches Predigtamt bestimmten Jauch ohne hinreichende schriftliche Vorleistungen eine akademische Befähigung zu attestieren. Denn: inhaltlich ging es um die Diskussion der Legitimität von nicht-examinierten „Laien“ (und damit waren entgegen heutigem Sprachgebrauch nicht nur Theologen sondern auch Philosophen gemeint) für eine dogmatische Entscheidungsfindung während des I. Konzils von Nicaea - und zwar ohne dass diese selbst einer formellen „Disputation“ unterworfen wurden. Somit wohnt dem Ganzen eine - heute kaum verständliche - Selbstbezüglichkeit inne. (Einschätzung ohne Gewähr anhand einer automatischen [Übersetzung](https://gemini.google.com/share/5b430fa5ef4d) des kompexen lateinischen Textes.)  
+
+Die Wahl des Themas hatte möglicherweise den Beweggrund, dem für ein alsbald anzutretendes bürgerliches Predigtamt bestimmten Jauch ohne hinreichende schriftliche Vorleistungen eine akademische Befähigung zu attestieren. Denn: inhaltlich ging es um die Diskussion der Legitimität von nicht-examinierten „Laien“ (und damit waren entgegen heutigem Sprachgebrauch nicht nur Theologen sondern auch Philosophen gemeint) für eine dogmatische Entscheidungsfindung während des I. Konzils von Nicaea - und zwar ohne dass diese selbst einer formellen „Disputation“ unterworfen wurden. Somit wohnt dem Ganzen eine - heute kaum verständliche - Selbstbezüglichkeit innerhalb der lutherischen Spät-Scholastik inne. (Einschätzung ohne Gewähr anhand einer automatischen [Übersetzung](https://gemini.google.com/share/5b430fa5ef4d) des kompexen lateinischen Textes.)  
 
 
-Unter Möllers Führung hatte er „als der erste und liebste“ von sechs per Pedes Apostolorum mitreisenden Studiosi am Ziel einer von Juli bis September 1694 währenden, vom nachmaligen Rostocker Universitätsbibliothekar und Poetik-Professor Carl Arndt sorgfältigst dokumentierten theologischen Exkursion (die später so titulierte „Preußische Reise“) durch Pommern, Ostpreußen und Brandenburg kurz vor dessen Tod den Frühaufklärer Samuel von Pufendorff in Berlin heimgesucht.  
+Unter Möllers Führung hatte Jauch „als der erste und liebste“ von sechs per Pedes Apostolorum mitreisenden Studiosi am Ziel einer von Juli bis September 1694 währenden, vom nachmaligen Rostocker Universitätsbibliothekar und Poetik-Professor Carl Arndt sorgfältigst dokumentierten theologischen Exkursion (die später so titulierte „Preußische Reise“) durch Pommern, Ostpreußen und Brandenburg kurz vor dessen Tod den Frühaufklärer Samuel von Pufendorff in Berlin heimgesucht.  
 
 Leider wurde bei der Publikation des Reisetagebuchs (vgl. Kohlfeldt 1905) mehr Wert auf die - zweifelsohne interessanten - touristischen und landeskundlichen Aspekte der Tour gelegt und die angeblich schwer zu entziffernden Diskussionen mit den besuchten Theologen ausgelassen. Sie dürften aber durch das handschriftliche [Original](https://gemini.google.com/share/2e3b652a5528) zu ergänzen sein. Stichproben anhand einer Parallelquelle lassen erhoffen, dass es mehr um akademischen Smalltalk ging als um dogmatische Auseinandersetzungen.  
 
@@ -112,7 +113,7 @@ Als vorerst letztes Beispiel für die ungute Atmosphäre unter den Beteiligten m
 
 
 
-Jauch amtierte ab 1696 an der - 1861 wegen Bergsenkungsschäden abgetragenen, kurz zuvor noch photographierten, - spätgotischen Lamberti-Kirche mit ihrer einst (nach der von Michael Praetorius 1614 dokumentierten ursprünglichen Registerauflistung) größten Orgel ihrer Zeit, der zu Beginn des 18. Jahrhunderts mit 43 Stimmen immer noch klangmächtigsten, von Georg Flor (und bis 1698 von dessen, in der „Möllerschen Handschrift“ vertretenen und als Komponist geistlicher Lieder aus der Feder Johann Rists bekannten Vater Christian Flor) bespielten Orgel Lüneburgs, als Johann Sebastian Bach im Frühjahr 1700 sein Auslandspraktikum in der wenige Minuten von Jauchs Predigtstätte entfernten Partikularschule bei dem ehemaligen Michaeliskloster und in der auf dem Weg dorthin gelegenen Wohnung des Johannis-Organisten Georg Böhm (Neue Sülze Nr. 9) begann - dem Amtsnachfolger des älteren und Konkurrenten des jüngeren Flor. Reste dieser Orgel haben sich möglicherweise in der Katharinenkirche in D 21409 Embsen erhalten.  
+Jauch amtierte ab 1696 an der - 1861 wegen Bergsenkungsschäden abgetragenen, kurz zuvor noch photographierten, - spätgotischen Lamberti-Kirche mit ihrer einst (nach der von Michael Praetorius 1614 dokumentierten ursprünglichen Registerauflistung) größten Orgel ihrer Zeit, der zu Beginn des 18. Jahrhunderts mit 43 Stimmen immer noch klangmächtigsten, von Georg Flor (und bis 1698 von dessen, in der „Möllerschen Handschrift“ vertretenen und als Komponist geistlicher Lieder aus der Feder Johann Rists bekannten Vater Christian Flor) bespielten Orgel Lüneburgs, als Johann Sebastian Bach im Frühjahr 1700 sein Auslandspraktikum in der wenige Minuten von Jauchs Predigtstätte entfernten Partikularschule nahe dem ehemaligen Michaeliskloster und in der auf dem Weg dorthin gelegenen Wohnung des Johannis-Organisten Georg Böhm (Neue Sülze Nr. 9) begann - dem Amtsnachfolger des älteren und Konkurrenten des jüngeren Flor. Reste dieser Orgel haben sich möglicherweise in der Katharinenkirche in D 21409 Embsen erhalten.  
 
 
 Dass Jauch eine oder mehrere Wiederaufführungen der 1667 für St. Lamberti entstandenen Matthäus-Passion Christian Flors (sen.) miterlebte oder zumindest deren Text und Musik einsehen konnte, ist als nicht unwahrscheinlich anzunehmen. Das seit 1945 im niederschlesischen Steinau (Śzinawa) verschollene Werk lässt sich dank der ausführlichen Beschreibung und auszugsweisen Spartierung der für Aufführungszwecke angefertigten, leider unvollständigen Stimmen-Abschrift durch Peter Epstein (BJ 1931) als ein früher Meilenstein der „Norddeutschen Territorialpassion“ (W. Braun) bewerten - wenngleich Epsteins durchaus bedenkenswerte Assoziationen zu BWV 244 heute nicht mehr als ganz so relevant betrachtet werden wie zum Zeitpunkt ihrer Veröffentlichung.  
