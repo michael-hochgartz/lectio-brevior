@@ -28,7 +28,7 @@ Man muss dem Gericht natürlich eine stimmige und lebensnahe Geschichte präsent
 
 Einer muss sich quälen - der Autor oder der Leser. (Wolf Schneider; legendärer Journalistenausbilder)  
 
-Bei komplexen Texten müssen sich Autor und Leser quälen.  
+Bei komplexen Texten müssen sich Autor und Leser quälen. (N.N.)  
 
 Bildung lässt sich nicht downloaden. (Günther Jauch, 2009)  
 
@@ -97,19 +97,19 @@ Geistesgeschichtlich bewegte Reyher sich in einer Grauzone, in der biblisch besc
 
 Da eine, vielleicht geplante, aber nie zustande gekommene Bestallung (vgl. Stieber 1745; Willgeroth 1924) als einer von üblicherweise mehreren, naturgemäß konkurrierenden (da zugleich als personenbezogene Beichtväter amtierenden) Hofpredigern in Güstrow durch das seit dem Tod des Erbprinzen Karl 1688 an den Pocken erwartbare, im Oktober 1695 mit dem Dahinscheiden des letzten Herzogs Adolf eingetretene Erlöschen der dynastischen Linie gegenstandslos geworden war, wurde Jauch „nach gehaltener Abschieds-Predigt in der Schlosskirche gnädigst dimittiret“ und im Verlauf eines offenbar wohlwollend forcierten Magisterexamens auf Initiative des nicht ganz zufällig (nämlich wegen Frühinscription seines Sohnes) in Rostock weilenden Lüneburger Bürgermeisters und Proto-Consuls Ludolph von Stöterogge („ein grosser Gönner der Gelehrten“) als Diakonus (Inhaber der 2. Pfarrstelle) an die dortige Lambertikirche berufen - unter aktenkundigen Begleitumständen, die auf strukturell bedingte, lebenslange Misshelligkeiten im Verhältnis zu einigen seiner Kollegen vorauswiesen.  
 
-So wurde Jauch aufgegeben, eine Probepredigt zu halten über „[Hos XIII, 9](https://gemini.google.com/share/10ac528934fahttps://gemini.google.com/share/10ac528934fa) Israel du bringst dich in Unglück … bey mir.“ (Die krass sinnverändernde Auslassung „…“ steht exakt so in der Personalakte). Jedem bibelkundigen Zuhörer oder Mitleser musste aber bewusst sein, dass die anschließenden Verse 10 und 11 in frappierender Weise auf die aktuelle berufliche Situation des Prüflings - nämlich als stellungsloser Hofprediger ohne Herzog - angewendet werden konnten:  
+So wurde Jauch aufgegeben, eine Probepredigt zu halten über „[Hos XIII, 9](https://gemini.google.com/share/10ac528934fa) Israel du bringst dich in Unglück … bey mir.“ (Die krass sinnverändernde Auslassung „…“ steht exakt so in der Personalakte). Jedem bibelkundigen Zuhörer oder Mitleser musste aber bewusst sein, dass die anschließenden Verse 10 und 11 in frappierender Weise auf die aktuelle berufliche Situation des Prüflings - nämlich als stellungsloser Hofprediger ohne Herzog - angewendet werden konnten:  
 
 „9. Israel, du bringst dich in Unglück; denn dein Heil steht allein bei mir.  
 10. Wo ist dein König hin, der dir helfen möge in allen deinen Städten? und deine Richter, von denen du sagtest: Gib mir Könige und Fürsten?  
 11. Wohlan, ich gab dir einen König in meinem Zorn, und will ihn dir in meinem Grimm wegnehmen.“ 
 
-Ob hier eine homiletische [Geschicklichkeitsprüfung](https://gemini.google.com/share/8d81837163behttps://gemini.google.com/share/8d81837163be) oder nur blanke Häme intendiert war, ist zunächst kaum zu entscheiden. Jedoch lässt sich der zweite aufgetragene Text (Jac 5, 7-8) nach dieser provokant wirkenden Vorgabe als eine Vermahnung zur Versöhnung an alle Beteiligten deuten - auch hier unter Einbeziehung des nachfolgenden 9. Verses als eines buchstäblichen Sub-Textes:  
+Ob hier eine homiletische [Geschicklichkeitsprüfung](https://gemini.google.com/share/8d81837163be) oder nur blanke Häme intendiert war, ist zunächst kaum zu entscheiden. Jedoch lässt sich der zweite aufgetragene Text (Jac 5, 7-8) nach dieser provokant wirkenden Vorgabe als eine Vermahnung zur Versöhnung an alle Beteiligten deuten - auch hier unter Einbeziehung des nachfolgenden 9. Verses als eines buchstäblichen Sub-Textes:  
 
 „9. Seufzet nicht widereinander, liebe Brüder, auf daß ihr nicht verdammt werdet. Siehe, der Richter ist vor der Tür.“  
 
 Der Eindruck dieser, am 5. Sonntag nach Trinitatis (3.7.1695) und wohl noch an einem weiteren Tag abgelegten beiden Probepredigten, „wobey die meisten [warum nicht alle?] aus den vornehmen Geschlechtern, auch Gelehrten der Stadt zugegen waren“, war am Ende offenbar derart überzeugend, „daß so wol hohe als niedrige durch seinen Lehrreichen Mund geweydet zu werden wünscheten.“  
 
-Die Ordination Jauchs erfolgte schließlich am 8. Januar 1696 - und am 19. Mai desselben Jahres die Vermählung mit der gleichaltrigen Anna Margareta Meier (1669-1750), jüngste Tochter des ein Jahr zuvor gestorbenen Lambertipfarrers und „Senior Ministerii“ Georg Meier. Sie stellt damit wohl eher eine zeitübliche [Versorgungsehe](https://gemini.google.com/share/45a840b7637ahttps://gemini.google.com/share/45a840b7637a) als eine Liebesheirat dar.  
+Die Ordination Jauchs erfolgte schließlich am 8. Januar 1696 - und am 19. Mai desselben Jahres die Vermählung mit der gleichaltrigen Anna Margareta Meier (1669-1750), jüngste Tochter des ein Jahr zuvor gestorbenen Lambertipfarrers und „Senior Ministerii“ Georg Meier. Sie stellt damit wohl eher eine zeitübliche [Versorgungsehe](https://gemini.google.com/share/45a840b7637a) als eine Liebesheirat dar.  
 
 Bereits im Vorfeld hatte Jauch Unterstützung von unterschiedlichen Seiten erhalten: „Geist- und Weltliche hatten demnach ein gutes Urtheil von ihm gefället, schrifft- und mündliche Zeugisse preiseten seine Orthodoxie und Aufführung aufs beste, einige gelehrte politici hatten aus seinen Discoursen eine besondere erudition bemercket“ - selbst wenn man diese 1719 publizierte Eloge aus der Feder seines Ex-Kommilitonen (und von den genannten „politici“ finanzierten Biographen) Georg Bertram auf ihren wahrscheinlichen Wahrheitsgehalt reduziert.  
 
@@ -139,7 +139,7 @@ Die Tradition regelmäßiger Aufführungen am Karfreitag reichte übrigens so la
 
 Aufgeführt wurden nach beinahe konstantem, aber nicht komplettem Kalendarium an den drei städtischen „Haupt“-Kirchen (Johannis, Lamberti, Nikolai - nicht aber an der weitgehend exempten Kirche des ehemaligen Michaelis-Klosters) - mit klarer Fokussierung auf die wesentlichen Sonn- und Feiertage in St. Johannis - ab 1. Advent 1721 auch Teile des ersten „Concerten-Jahrgangs“ von Georg Philipp Telemann, der anfänglich 1716/17 auf Texte Neumeisters, ab 1725 dann ergänzt durch Simonis, Telemann selbst und andere, in Frankfurt komponiert worden war.  
 
-Mehr als 40 dieser weitgehend durch RISM-Konkordanzen dokumentierbaren Kompositionen erklangen unter Leitung des - als finanziellem Profiteur fungierenden, als Prügelpädagoge unrühmlich aktenkundig gewordenen, als Komponist laut zeitgenössischen Urteilen nur mäßig erfolgreichen - Kantors Bernhard Christian Bohmsen in jenen Gottesdiensten in St. Johannis, in denen Jauch um 14 Uhr die mittägliche Hauptredigt hielt und Georg Böhm die Orgel spielte. Die Reihe endete - textlich und musikalisch bemerkenswert bescheiden - am 25. Sonntag nach Trinitatis 1722. Was darauf folgte, ist nicht bekannt.  
+Mehr als 40 dieser weitgehend durch RISM-Konkordanzen dokumentierbaren Kompositionen erklangen unter Leitung des - als finanziellem Profiteur fungierenden, als Prügelpädagoge unrühmlich aktenkundig gewordenen, als Komponist laut zeitgenössischen Urteilen nur mäßig erfolgreichen - Kantors Bernhard Christian Bohmsen in jenen Gottesdiensten in St. Johannis, in denen Jauch um 14 Uhr die mittägliche Hauptpredigt hielt und Georg Böhm die Orgel spielte. Die Reihe endete - textlich und musikalisch bemerkenswert bescheiden - am 25. Sonntag nach Trinitatis 1722. Was darauf folgte, ist nicht bekannt.  
 
 
 Unter den ungenannten, laut Vorwort in Lüneburg zu suchenden Autoren (vielleicht auch Autorinnen?) einer Textsammlung für einen bereits 1713/14 vom Lamberti-Organisten Georg Flor (jun.) veranstalteten Kantatenjahrgang ist - neben dem bislang als ambivalent agierend beschriebenen Kantor (1694-1704) und späteren Stadtschreiber Heinrich Büttner und dem ambitioniert wirkenden, letztlich aber erfolglosen Dichter-Talent Joachim Christian Heini (1682-1738) - auch Johann Christoph Jauch zu vermuten.  
@@ -147,9 +147,8 @@ Unter den ungenannten, laut Vorwort in Lüneburg zu suchenden Autoren (vielleich
 Weiterhin sind Einzeltextdrucke von Trauerkantaten für die Beisetzungen und Hochzeitskantaten für die Copulationen Lüneburger und benachbarter Honoratioren überliefert, die jeweils in ähnlicher Konstellation (aber wohl als reine Organistenmusiken ohne produktive Beteiligung des Kantors) realisiert wurden - wobei Böhm in diesen Fällen (zu denen auch Jauchs Beisetzung am 6.2.1725 zählt) das vom Rat in einem Verwaltungsgerichtsverfahren auf St. Johannis beschränkte, aber dem Grunde nach bestätigte Privileg zur kostenpflichtigen Erstellung der Kompositionen besaß.
 
 Die Beförderung zum Superintendenten, die unter Berufung auf Sparbemühungen ohne überregionale Ausschreibung erfolgte und die mit einem nur geringen Einkommenszuwachs verbunden war, wurde gleichwohl von einem höher rangierenden Amtsbruder auf ausführlich dokumentierte, erschreckend intrigenhafte Weise bekämpft. Sie erfolgte gegen den wiederholt, „unter Thränen“ erklärten Willen Jauchs, der sich bald darauf, am 17. April 1714, in einem sehr persönlich gehaltenen Brief (nach Inhalt und Diktion durchaus vergleichbar mit Bachs Schreiben an seinen Thüringer / Lüneburger Jugendfreund Georg Erdmann) an seinen ehemaligen Kommilitonen, den seinerzeitigen Jenaer Universitätsorganisten, nunmehrigen Universitätsrektor und späteren Bach-Bewunderer (vgl. [DOK II, 369](https://www.perplexity.ai/search/Was-steht-in-RV3mjc88RSK3jncKjlyYNg#0)) Johann Jakob Syrbius, zu den näheren Umständen seiner Ernennung äußerte.  
-<https://g.co/gemini/#share/03584715fa91>  
 
-Diese wurden überlagert von langjährigen Präzedenzstreitigkeiten zwischen Patriziat und Geistlichem [Ministerium](https://gemini.google.com/share/76b5c5815c23https://gemini.google.com/share/76b5c5815c23) (es ging - zumindest vordergründig - tatsächlich um die Rangfolge bei öffentlichen Auftritten), als dessen penibel, wegen der erwähnten Anfeindungen fast ängstlich agierender theologischer Geschäftsführer Jauch ein Jahrzehnt lang fungieren sollte. (Vgl. Wiesenfeldt 2016.)  
+Diese wurden überlagert von langjährigen Präzedenzstreitigkeiten zwischen Patriziat und Geistlichem [Ministerium](https://gemini.google.com/share/76b5c5815c23) (es ging - zumindest vordergründig - tatsächlich um die Rangfolge bei öffentlichen Auftritten), als dessen penibel, wegen der erwähnten Anfeindungen fast ängstlich agierender theologischer Geschäftsführer Jauch ein Jahrzehnt lang fungieren sollte. (Vgl. Wiesenfeldt 2016.)  
 
 Das jährliche Gehalt Jauchs setzte sich laut Anstellungsvertrag zuammen aus einem Fixum von 500 Rthlr. sowie aus amtsüblichen Naturalleistungen im Wert von 32 plus 16 Rthlr. (Für seinen Nachfolger werden per anno 1735 pauschal 800 Rthlr. genannt; vgl. Meyer 1941.) Bzgl. des Lebensstandards dürfte Jauch damit in etwa mit J.S. Bachs Leipziger Verhältnissen vergleichbar sein (vgl. Wolff 2000).  
 An Akzidenzien gebührten Jauch zwar keine Einnahmen aus Taufen, wohl aber ein Teil der in St. Johannis proclamierten Copulationen und die Zahlungen für Leichenbegängnisse und Beichten.  
@@ -158,7 +157,7 @@ Letztere waren in Lüneburg nach dem Prinzip der Personalgemeinden - also Pfarrg
 
 Bei wem der junge J.S. Bach während seiner Lüneburger Zeit beichtete, und ob (und ggf. wann und wo und von wem) der 15jährige konfirmiert wurde, ist bislang nicht einmal ansatzweise Gegenstand von Überlegungen. Als „Waisenknabe“ ohne jeglichen elterlichen Anhang und mit hoch aktuellem Migrationshintergrund käme für diese Funktion wohl nur ein nachgeordneter Geistlicher in Betracht, etwa der II. Prediger an St. Michaelis, Johann Jacob Boie.  
 
-Dass Georg Böhm samt Familie und Gesinde sich Jauch (eventuell schon bei seiner Ankunft in Lüneburg?) als Beichtvater erwählt hat, ist zwar mangels [Confitentenregistern](https://gemini.google.com/share/6cd0537e1363https://gemini.google.com/share/6cd0537e1363) nicht sicher belegbar, erscheint aber durchaus als möglich.  
+Dass Georg Böhm samt Familie und Gesinde sich Jauch (eventuell schon bei seiner Ankunft in Lüneburg?) als Beichtvater erwählt hat, ist zwar mangels [Confitentenregistern](https://gemini.google.com/share/6cd0537e1363) nicht sicher belegbar, erscheint aber durchaus als möglich.  
 
 Bei seinem Dienstantritt 1698 fand Böhm ansonsten an St. Johannis Lüder Westing (amt. 1696-1719), Friedrich Heinrich Oldecop (1697-1708) und Heinrich Jonathan Wehrenberg (1698-1713) vor. Sollte er seinerzeit auf einen von ihnen vertraut haben, müsste er nach deren Tod zu Figuren wie Benedikt Benjamin Mirus (1720-1722) oder Johann Georg Fiken (1723-1740) oder Heinrich Clemens Dithmers (1709-1722) gewechselt sein. Oder eben (1715 bzw. 1723) zu Johann Christoph Jauch.  
 
@@ -167,7 +166,7 @@ Entsprechend fiel sein Klagegesang gegenüber Syrbius aus, und auch sein Biograp
 
 Die Begründung für die letztendliche Annahme seines neuen Amtes gegenüber Syrbius zeugt davon, dass Jauch die Entscheidung in die Hände einer höheren Instanz zu legen versucht hatte - und dies auch gegenüber einer breiteren Öffentlichkeit thematisierte:  
 
-„Allein dessen allen ungeacht habe ich das was Gott auff meine Schultern legen wollen, theils ein beschwerliche Amts theils eine beharrliche Verfolgungslast müßen machen, und habe mit [Jeremia](https://gemini.google.com/share/1dfee021767chttps://gemini.google.com/share/1dfee021767c) bey meinem Antritt sagen können, Herr du hast mich überredet und ich habe mich überreden laßen. Du bist mir zu stark gewesen und hast gewonnen.“  
+„Allein dessen allen ungeacht habe ich das was Gott auff meine Schultern legen wollen, theils ein beschwerliche Amts theils eine beharrliche Verfolgungslast müßen machen, und habe mit [Jeremia](https://gemini.google.com/share/1dfee021767c) bey meinem Antritt sagen können, Herr du hast mich überredet und ich habe mich überreden laßen. Du bist mir zu stark gewesen und hast gewonnen.“  
 
 Jer 20,7 ist als offenkundiger Text der Antrittspredigt eine durchaus gewagte Wahl - besonders wenn man auch hier die nachfolgenden Verse 10 bis 12 mitliest, deren Anspielungen bei wörtlicher Interpretation nichts an Deutlichkeit vermissen lassen:  
 
@@ -279,7 +278,7 @@ Und ich sanck in Ohnmacht nieder.
 
 Sollte J.S. Bach von diesem gedruckten Text Kenntnis erlangt haben, wäre er mit Sicherheit an die Umstände erinnert worden, unter denen er bei der Rückkehr von seiner Dienstreise in das böhmische Karlovy Vary (Karlsbad) im Juli 1720 beim Betreten seiner Wohnung in Köthen von Tod und Begräbnis seiner ersten Ehefrau Maria Barbara erfuhr.  
 
-Unterwegs muss Tobias Christoph Jauch demnach („Denn ich musste zeitig wissen“) wohl aus der aktuellen Ausgabe des Holsteinischen [Correspondenten](https://gemini.google.com/share/50f2a7413346https://gemini.google.com/share/50f2a7413346) vom 29./30. Januar, die wenige Tage darauf (laut ungeschriebenem, aber rekonstruierbarem Plan am Dienstag, 6. Februar - auf jeden Fall während der Kompositionsphase von BWV 127) auch in Leipzig vorlag - vom Tod seines Vaters am „Stickfluß“ erfahren haben, also an einer - seinerzeit meist durch das Endstadium einer chronischen [Tuberkulose](https://gemini.google.com/share/38682c7cf6cehttps://gemini.google.com/share/38682c7cf6ce) beförderten - akuten Lungenerkrankung, die nach Beschreibungen zeitgenössischer medizinischer Autoren („Catharrus suffocativus“) nach spätestens drei Tagen zu einem qualvollen Erstickungstod führte.  
+Unterwegs muss Tobias Christoph Jauch demnach („Denn ich musste zeitig wissen“) wohl aus der aktuellen Ausgabe des Holsteinischen [Correspondenten](https://gemini.google.com/share/50f2a7413346) vom 29./30. Januar, die wenige Tage darauf (laut ungeschriebenem, aber rekonstruierbarem Plan am Dienstag, 6. Februar - auf jeden Fall während der Kompositionsphase von BWV 127) auch in Leipzig vorlag - vom Tod seines Vaters am „Stickfluß“ erfahren haben, also an einer - seinerzeit meist durch das Endstadium einer chronischen [Tuberkulose](https://gemini.google.com/share/38682c7cf6ce) beförderten - akuten Lungenerkrankung, die nach Beschreibungen zeitgenössischer medizinischer Autoren („Catharrus suffocativus“) nach spätestens drei Tagen zu einem qualvollen Erstickungstod führte.  
 
 „Nieder-Elbe, den 29. Jan. Aus Lüneburg vernimmt man, daß am 19ten dieses der daselbst sehr beliebte Superintendent Hr. Jauch, an einem Stich-Flusse, plötzlich verstorben.  
 
@@ -460,15 +459,12 @@ Der Verweis auf die Amtspflichten in der Osterwoche erscheint bei näherer Betra
 
 Bei der Materialsammlung für eine allumfassend angelegte Dokumentation der Feiern zum Reformationsjubiläum 1717 durch den Gothaer Hofbibliothekar Ernst Salomon Cyprian war Jauch (als „Haupt“ des Lüneburger Ministeriums) eine briefliche Anfrage der Leipziger Verlagsbuchhandlung „Gleditsch et Weidemann“ durch seinen Nachbarn, den Drucker, Verleger und Buchführer Johann von Stern übermittelt worden, der sie von seinem routinemäßigen Besuch der Leipziger Ostermesse 1718 mitgebracht hatte.  
 
-Unter dem Datum des 20.4.1718 entschuldigt Jauch sich für die verspätete Beantwortung, die er u.a. mit einer vorangegangenen Reise begründet und die er ursprünglich bis zur nächsten Messe im Herbst aufschieben wollte - wohl in der Absicht, von Stern wiederum als Überbringer einzusetzen. 
-<<https://g.co/gemini/share/d48a55477a57>> ..
+Unter dem Datum des 20.4.1718 entschuldigt Jauch sich für die verspätete Beantwortung, die er u.a. mit einer vorangegangenen Reise begründet und die er ursprünglich bis zur nächsten [Messe](https://gemini.google.com/share/d48a55477a57) im Herbst aufschieben wollte - wohl in der Absicht, von Stern wiederum als Überbringer einzusetzen.  
 Stattdessen wurde das Schreiben durch Ludolph Daniel Kraut, den Sohn des ihm unterstellten und zugleich freundschaftlich verbundenen Rektors Paul Kraut, nach Leipzig überbracht, wohin jener sich zum Theologiestudium begab - bevor er sich (am 10. Oktober 1720) zusammen mit Tobias Jauchs älterem Bruder Ludolph Friedrich an der Univserität Helmstedt immatrikulierte. Tobias vollzog diesen Schritt übrigens erst am 6.10.1727. (Vgl. Erler 1909; Mundhenke 3/1979, 5186/87;6137)  
-<<https://g.co/gemini/share/2572fbf2a02f>>  
 
 Der Brief belegt zudem, dass die ungewöhnlich aufwändige, zunächst auf Latein exerzierte, dann wegen des großen Erfolgs in einer deutschen Übersetzung zweimal für das breite Publikum wiederholte, mit musikalischen Arien durchflochtene Dramatisierung wesentlicher Ereignisse der Reformation 1517 durch einen „Actus Oratorio Dramaticus“ im „Rectorat“ des Johanneums mit ca. 50 namentlich benannten Mitwirkenden (darunter Kraut junior in der Hauptrolle des Dr. Martinus Luther und Tobias Jauch als Rezitator) auf eine Initiative des Superintendenten in seiner Funktion als Schulinspektor zurückging. (Vgl. Cyprian 1719).  
 
-Das erwähnte Schreiben an J.J. Syrbius von 1714 war ebenfalls durch einen zwecks Immatrikulation (in diesem Fall nach Jena) reisenden Studenten überbracht worden, nämlich durch den aus Ratzeburg stammenden, von Jauch beherbergten und pädagogisch betreuten Georg Ludwig Neubaur (1693-1775). Aus der zeitlichen Differenz zwischen Briefdatierung und dem Eintrag in der Matrikel ergibt sich in diesem Fall eine ungefähre Reisezeit von 10 Tagen zwischen Lüneburg und Jena. Das könnte auch als Anhaltspunkt für die Dauer der Rückreise von Jauchs Sohn Tobias im Januar 1725 betrachtet werden, als dieser von Leipzig (ca. eine Tagesreise östlich von Jena gelegen) an das Totenbett seines Vaters gerufen wurde.  
-<<https://www.perplexity.ai/search/Wie-lange-dauerte-srv1o38GS_aq3VHGGaY4XQ#1>>  
+Das erwähnte Schreiben an J.J. Syrbius von 1714 war ebenfalls durch einen zwecks Immatrikulation (in diesem Fall nach Jena) reisenden Studenten überbracht worden, nämlich durch den aus Ratzeburg stammenden, von Jauch beherbergten und pädagogisch betreuten Georg Ludwig Neubaur (1693-1775). Aus der zeitlichen Differenz zwischen Briefdatierung und dem Eintrag in der Matrikel ergibt sich in diesem Fall eine ungefähre Reisezeit von 10 Tagen zwischen Lüneburg und Jena. Das könnte auch als Anhaltspunkt für die Dauer der [Rückreise](https://www.perplexity.ai/search/Wie-lange-dauerte-srv1o38GS_aq3VHGGaY4XQ) von Jauchs Sohn Tobias im Januar 1725 betrachtet werden, als dieser von Leipzig (ca. eine Tagesreise östlich von Jena gelegen) an das Totenbett seines Vaters gerufen wurde.  
 
 Am 3.11.1718 entschuldigt Jauch sich beim Dresdener Kreuzkirchen-Pfarrer und Superintendenten Valentin Ernst Löscher, dem er „per couvert“ (vgl. Zedler 6/1507) antwortet, wegen der verspäteten Rückmeldung auf dessen Anfrage nach Gelegenheiten für eine standesgemäße, aber nicht zu teure Unterbringung einer sächsischen Predigerwitwe in einem norddeutschen „Evangelisch-Lutherisch Closter“:  
 
@@ -478,8 +474,7 @@ Als weiterer Kandidat für eine temporäre persönliche Beziehung zwischen Lüne
 
 Wie schließlich in diesem Zusammenhang die Tatsache zu bewerten ist, dass C.F. Henrici unter dem Datum des 1.1.1725 ein Gedicht auf die Hochzeit des Sohnes von Jauchs Kollegen, Johann Georg Koltemann (1721-29 an St. Lamberti und St. Nikolai amtierend), verfasste, das er später in seine gedruckte Gedichtsammlung aufnahm, bleibt zu untersuchen.  
 
-Diese konkreten Beispiele belegen, dass die Kommunikation zwischen Nord- und Mitteldeutschland nicht nur auf die reguläre, reitende Reichspost und die immer wieder mühsam regulierten, fahrenden Nebenposten („Gelbe Kutsche“; „Braunschweiger Küchenpost“) angewiesen war, sondern - trotz aller Unwägbarkeiten - auch auf die persönliche Überbringung durch reisende (vielleicht gar reitende?) Vertrauenspersonen setzen konnte - und dass Jauch durchaus Wert auf eine zeitnahe Beantwortung von Anfragen legte.  
-<<https://podcasts.apple.com/de/podcast/radiowissen/id257719552?i=1000644707683>>  
+Diese konkreten Beispiele belegen, dass die Kommunikation zwischen Nord- und Mitteldeutschland nicht nur auf die reguläre, reitende [Reichspost](https://podcasts.apple.com/de/podcast/radiowissen/id257719552?i=1000644707683) und die immer wieder mühsam regulierten, fahrenden Nebenposten („Gelbe Kutsche“; „Braunschweiger Küchenpost“) angewiesen war, sondern - trotz aller Unwägbarkeiten - auch auf die persönliche Überbringung durch reisende (vielleicht gar reitende?) Vertrauenspersonen setzen konnte - und dass Jauch durchaus Wert auf eine zeitnahe Beantwortung von Anfragen legte.  
 
 Dass J.S. Bach bei der Komposition der zweiten Text-Tranche seiner Choralkantaten zum 9., 16. und 23. Juli 1724 erhebliche systemische Irregularitäten in Kauf nehmen musste, ließe sich auch durch Komplikationen bei der Übermittlung der Manuskripte erklären und bedarf weiterer Untersuchungen. (Vgl. z.B. Scheide 2003.)  
 
@@ -588,12 +583,10 @@ Den Brückenschlag zu den außergewöhnlichen Zitaten des „Votum Justinianum�
 
 J.N.D.N.J.C.A.  = [I]n [N]omine [D]omini [N]ostri [J]esu [C]hristi [A]men  
 
-und die - nach dem seit der Antike in der abendlichen Dichtkunst anerkannten und praktizierten Kunstgriff des „Letterwechsels“ (Anagramm) anders gereiht (und ggf. auch ohne das „Amen“) - eine Art vorangestelltes Kolophon ergeben könnte:  
+und die - nach dem seit der Antike in der abendlichen Dichtkunst anerkannten und praktizierten Kunstgriff des „Letterwechsels“ (Anagramm) anders gereiht (und ggf. auch ohne das „Amen“) - eine Art vorangestelltes Kolophon ergeben [könnte](https://g.co/gemini/share/6e834af6cfba):  
 N. D. N. A. J. C. J.
 
-[N]on [D]ele(te) [N]omen [A]uctoris [J]ohann [C]hristoph [I]auch!  
-
-<<https://g.co/gemini/share/6e834af6cfba>>  
+[N]on [D]ele(te) [N]omen [A]uctoris [J]ohann [C]hristoph [I]auch!    
 
 und die von Kümmerling (1963; 1970) mit dreieinhalb guten Gründen (Stilkritik; Schreiber; Wasserzeichen; buchbinderischer Befund) nicht mehr (wie von Stein 1937/39) [M]onsieur [B]ruhns, sondern [M]onsieur [B]öhm zugeschrieben wurde.  
 
@@ -606,8 +599,7 @@ Bemerkenswert an diesem Lüneburger Libretto ist diese Dichotomie: Zum einen zie
 
 Zum anderen wird das hier wörtlich nacherzählte biblische Narrativ auf eine Weise durch Arien kommentiert, die mit ihrer moderateren Wortwahl (Ausnahme: „… wenn kräht der Gewissens-Hahn …“) näher an dem am „Sermo humilis“ (vgl. Axmacher 1984; Haselböck 2004) orientierten, volksnahen Predigtstil angesiedelt ist als die ein Jahr darauf in Hamburg - unter gänzlich anderen Umständen, nämlich in Form eines spektakulären, großbürgerlichen, nur vorgeblich privaten musikalischen Konventikels zelebrierte Brockes-Passion - wie aus der formal und inhaltlich extrem verdichteten Arie Nr. 7 erhellt.  
 
-Deren erste drei Zeilen sind offenkundig inpspiriert von einer an analoger Stelle platzierten Aria der „Tochter Zion“ aus Christian Friedrich Hunolds 1706 (im Jahr seiner Flucht aus Norddeutschland) in Hamburg gedruckten, von Reinhard Keiser schon 1704 vertonten und unter Protesten der Geistlichkeit aufgeführten Passionsoratorium „Der blutige und sterbende Jesus“, wo es u.a heißt:  
-<<https://g.co/gemini/share/79f9f21e515b>>  
+Deren erste drei Zeilen sind offenkundig inpspiriert von einer an analoger Stelle platzierten Aria der „Tochter Zion“ aus Christian Friedrich [Hunolds](https://g.co/gemini/share/79f9f21e515b) 1706 (im Jahr seiner Flucht aus Norddeutschland) in Hamburg gedruckten, von Reinhard Keiser schon 1704 vertonten und unter Protesten der Geistlichkeit aufgeführten Passionsoratorium „Der blutige und sterbende Jesus“, wo es u.a heißt:  
 
 Besiege diese Nacht  
 …  
@@ -712,12 +704,11 @@ Bislang konnte immerhin ein konkretes Werk aus diesem Bestand nachgewiesen werde
 
 Auf Johann Christoph Jauch dürfte zum Beispiel die Anschaffung jener achtbändigen Ausgabe des 1697 erschienenen „Wagnerschen Gesangbuchs“ zurückgehen (Nr. 2645 - 2652 des Katalogs), einer enzyklopädischen, allein schon aus materiellen Gründen keineswegs für den Massengebrauch konzipierten Choraltext-Anthologie, die auch als wesentlicher Bestandteil der theologischen Bibliothek Bachs belegt ist. Damit ist die Voraussetzung für die Annahme gegeben, dass sich Dichter und Komponist bei einer Abstimmung über das hymnologische Programm der Choralkantaten auf das gleiche, umfangreiche Repertorium von Kirchenliedern stützen konnten.  
 
-Je vier Titel von zwei prominenten Vertretern der Norddeutschen Reformorthodoxie, nämlich August Pfeiffer (Lübeck) und Heinrich Müller (Rostock), belegen zudem - zusammen mit weiteren Werken anderer Autoren - eine quantitativ mit 23 bzw. 32 Prozent beachtenswerte, theologisch durchaus tendenziöse Schnittmenge der hinterlassenen Bibliotheken Bachs und seines Hauptlibrettisten. (Vgl. Wilhelmi 1979: Nrn. 5, 8, 10 sic!, 11,14, 20, 36, 38, 39, 42, 51, 52 sowie die Zweifelsfälle 2, 7, 13, 35, 45.)  
-<https://g.co/gemini/share/79f3741969c7>  
+Je vier Titel von zwei prominenten Vertretern der Norddeutschen [Reformorthodoxie](https://g.co/gemini/share/79f3741969c7), nämlich August Pfeiffer (Lübeck) und Heinrich Müller (Rostock), belegen zudem - zusammen mit weiteren Werken anderer Autoren - eine quantitativ mit 23 bzw. 32 Prozent beachtenswerte, theologisch durchaus tendenziöse Schnittmenge der hinterlassenen Bibliotheken Bachs und seines Hauptlibrettisten. (Vgl. Wilhelmi 1979: Nrn. 5, 8, 10 sic!, 11,14, 20, 36, 38, 39, 42, 51, 52 sowie die Zweifelsfälle 2, 7, 13, 35, 45.)  
 
 Zu erwähnen bleibt schließlich die Tatsache, dass unter Nr. 1881 des Iauch-Katalogs ein Exemplar des 1720 in Hamburg bei Trausold erschienenen Neuen Testaments verzeichnet ist, welches „also gedrucket, daß alle Worte und Reden, Welche der HErr JESUS selber gesprochen, Mit rothen Littern, Die übrige Haupt-Sprüche aber in schwartzem Abdruck, Mit grösseren Buchstaben, Zu lesen sind.“ 
-Dieses typographische Unikat erinnert an den Umstand, dass das Autograph der Matthäus-Passion (und vielleicht auch schon die verschollene Originalhandschrift der Frühfassung und vielleicht auch deren Textvorlage?) für das explizite Bibelwort und für den Cantus firmus des Exordiums rote Tinte verwendet - durch wen auch immer Bach zu dieser außergewöhnlichen Gestaltungsweise angeregt worden sein mag.  
-<<https://g.co/gemini/share/957a8f41dc04>>  
+Dieses typographische [Unikat](https://g.co/gemini/share/957a8f41dc04) erinnert an den Umstand, dass das Autograph der Matthäus-Passion (und vielleicht auch schon die verschollene Originalhandschrift der Frühfassung und vielleicht auch deren Textvorlage?) für das explizite Bibelwort und für den Cantus firmus des Exordiums rote Tinte verwendet - durch wen auch immer Bach zu dieser außergewöhnlichen Gestaltungsweise angeregt worden sein mag.  
+
 
 Von Jauchs Musikliebe zeugen, neben einer anrührenden Bemerkung über sein durch Kindergeschrei gestörtes „Saiten-Spiel“ in dem Trauergedicht seines Sohnes Ludolph Friedrich, seinen eigenen Worten im Titel der Hochzeitskantate für den Lamberti-Organisten Georg Flor 1705 („… aus Nachbarlicher Freundschafft auch Liebe zur Music entworffen…“) sowie dem Vortrag einer selbst gedichteten, wohl auf Kosten des zu Ehrenden gedruckten, laut Titel während der Rostocker Antrittsvorlesung seines Magistervaters Johann Gottlieb Möller vorgetragenen (zur Begleitung der selbst geschlagenen Laute improvisierten?) Strophenarie - vor allem seine Rolle als beiläufig genannter, gleichwohl federführend tätiger Kurator einer neu geordneten, auf 100 Stücke vergrößerten und mit biblischen Sinnsprüchen angereicherten Ausgabe der „Elmenhorst-Lieder“ für das Lüneburger Verlagshaus von Stern.  
 
@@ -726,7 +717,7 @@ Der „in jener Zeit“ - also im Frühjahr 1700 während der Arbeiten an der El
 Der Kindheit denck’ ich nicht  
 Vielleicht hat schon mein Weinen  
 Und dessen wimmerndes Gethön  
-Mehr als dein Saiten-Spiel,  
+Mehr als dein [Saiten-Spiel](https://g.co/gemini/share/e053dda9a487),  
 das doch so rein und schön  
 Dir müssen angenehme scheinen  
 Es war dein sehr beredter Mund  
@@ -736,7 +727,7 @@ Mehr als ein sinnreich Wort dir müssen wol gefallen.
 Dein Wille gab vielleicht, wenn hier die Einfalt sprach  
 Mir liebreich nach.  
 
-<<https://g.co/gemini/share/e053dda9a487>>  
+
 
 Die 1911 in Band 45 der Denkmäler Deutscher Tonkunst von J. Kromolicki und W. Krabbe nach zeitgemäßen musikwissenschaftlichen Prinzipien bearbeitete Elmenhorst-Edition wurde - laut den datierten Vorworten des langjährigen Autors, des Hamburger Katharinen-Predigers und Operndichters Heinrich Elmenhorst (20. April) und des Herausgebers, des damaligen Lüneburger Superintendenten Heinrich Jonathan Wehrenberg (16. März) in jenem Frühjahr des Jahres 1700 abgeschlossen, in welchem der 15jährige, bald darauf seiner stimmphysiologischen Existenzgrundlage entledigte Sopranist Johann Sebastian Bach, (wohl ab 3. April, spätestens aber zum 1. Mai) in Lüneburg ansässig wurde und dort in der Wohnung des Johannis-Organisten Georg Böhm, wo er Tabulaturen Hamburger, Lübecker und Lüneburger Orgelmeister inkorporierte, dem damaligen Lamberti-Diakon, Kurator dieser Neuausgabe, zunächst Schützling und dann Nachfolger Wehrenbergs - Johann Christoph Jauch - begegnet sein dürfte, während dieser mit Böhm an der Schlusskorrektur des Projekts arbeitete.  
 
