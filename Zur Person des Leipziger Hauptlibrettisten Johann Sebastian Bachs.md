@@ -4,15 +4,15 @@ Entwurf für ein Vortragsmanuskript (Es gilt das gesprochene Wort.)
 
 Michael Hochgartz
 D 48153 Münster  
-michael@hochgartz.de - 03.04.2024  
+michael@hochgartz.de - 04.04.2024  
 Quelltext, Versionsgeschichte und Literaturverzeichnis:  
 <https://github.com/michael-hochgartz/lectio-brevior>  
 <https://huggingface.co/Picander>  
 
 Technische Hinweise: 
 
-- Die ab Februar 2024 gelegentlich eingepflegten Hinweise auf externe Erläuterungen zu einzelnen Aspekten und Begriffen tragen experimentellen Charakter. Ihre KI-basierte technische Konsistenz ist naturgemäß unverbindlich. Das gilt auch für die dort wiedergegebenen Inhalte. Gleichwohl mögen sie Rezipienten als Ausgangspunkte für weiterführendes Recherchieren und Raisonnieren dienen.  
-- Die entgegen üblicher Praxis inverse Verwendung von eckigen Klammern [] als Merkmal auch für Hervorhebungen statt nur für Auslassungen ist der Verwendung von Markdown als Zielformat geschuldet.  
+- Die ab Februar 2024 gelegentlich eingepflegten Hinweise auf externe Anmerkungen zu einzelnen Aspekten und Begriffen tragen experimentellen Charakter. Ihre KI-basierte technische Konsistenz ist naturgemäß unverbindlich. Das gilt auch für die dort wiedergegebenen Inhalte. Gleichwohl mögen sie Rezipienten als Ausgangspunkte zum Recherchieren oder [Raisonnieren](https://www.perplexity.ai/search/Was-versteht-man-hiUyvtrbTxaqOvl3IpBFqg) dienen.  
+- Die entgegen üblicher Praxis inverse Verwendung von eckigen Klammern [] als Merkmal auch für Hervorhebungen statt nur für Auslassungen ist der Verwendung von [Markdown](https://www.perplexity.ai/search/Welche-typographischen-Auszeichnungen-693c7axxQJWXM.uVy8JG8w) als Zielformat des primär in [Scrivener](https://www.perplexity.ai/search/Was-ist-Scrivener-G9ecLoaZSFiVEWKTg8he3g) gepflegten Textes geschuldet.  
 
 
 
@@ -189,6 +189,8 @@ Du weißt, daß die verfolgte Gottesstadt
 den ärgsten Feind nur in sich selber hat  
 durch die Gefährlichkeit der falschen Brüder  
 
+Bemerkenswert an diesem speziellen Charakteristikum in Jauchs Biographie ist übrigens der Umstand, dass es J.S. Bach laut seinen eigenen Worten im Brief an Georg Erdmann 1730 in dieser Hinsicht in Leipzig aufgrund einer „wunderlichen Obrigkeit“ ganz ähnlich erging, denn er schreibt: „…mithin fast in stetem Verdruß, Neid und Verfolgung leben muß.“  
+
 
 Ein Wechsel an die Marktkirche St. Georg in Hannover (die „dortige Haupt Kirchen“ des Kurfürstentums Braunschweig-Lüneburg - und somit eine „sehr avantageuse Verbeßerung“ - so Jauch in einer Eingabe von 1709) gelangte 1705 nicht zum Erfolg, da er - motiviert durch eine „aus hochgeneigter affection ohne mein Ansuchen“ gewährte Gehaltszulage seiner Patronatsherren von immerhin 100 Rthlr. p.a. - noch vor dem Ende des Verfahrens abgesagt hatte, obwohl er sich in Hannover hinsichtlich seiner Einkünfte „wohl dreyfach“ hätte verbessern können.  
 
@@ -198,7 +200,7 @@ Bereits 1707 hatte Jauch eine Anstellung als „Capellan“ dortselbst vorzeitig
 
 Vorgänger in jenem Amt war der durch seine literarischen Werke bekannt gewordene Johannes Riemer, und bereits der wortgewaltige Satiriker Johann Balthasar Schupp passt bestens in diese Tradition. Es scheint, als legte man an St. Jakobi immer wieder Wert auf sprachschöpferische Ambitionen der Hauptprediger. (Vgl. auch die einschlägige Literatur über den „Ersten Hamburgischen Theaterstreit“.) Die Wahl fiel - dies sei am Rande bemerkt - auf den ausgewiesenen Sprachwissenschaftler und Dichter Neumeister, der den Wechsel seines Metiers mit der rhetorischen Frage problematisierte: „Ob ein Poete wohl Superintendens seyn könne?“ (vgl. Merzbacher 2000).  
 
-Dass der sprachlich in Mitteldeutschland sozialisierte Neumeister (später mit feiner Ironie - nämlich in schönstem niederdeutschen Genitiv - formulierend: „Geld ist der Hamburger ihr Gott!“) seine neue Gemeinde unter Hinweis auf die erwartete Niederkunft seiner Frau monatelang auf die Übersiedlung aus dem damals brandenburgischen Sorau (Żary) warten ließ, wäre bei einer erfolgreichen Wahl Jauchs nicht nur wegen der geographischen Nähe, sondern auch wegen dessen völlig anders gearteter Persönlichkeitsstruktur kaum denkbar gewesen. Wohl in Erwartung einer langen, erfolgreichen Wirkungszeit (die dann tatsächlich eintreten sollte) „renovirten“ die Kirchgeschworenen 1715 die Kanzel in St. Jakobi - unter Anbringung einer vom Kirchenvolk bis heute zu bewundernden Gedenkinschrift.  
+Dass der sprachlich in Mitteldeutschland sozialisierte Neumeister (später mit feiner Ironie - nämlich in schönstem niederdeutschen Genitiv - [formulierend](https://www.perplexity.ai/search/Von-wem-stammt-p1msD3NdQDSvI17jrwGxjg): „Geld ist der Hamburger ihr Gott!“) seine neue Gemeinde unter Hinweis auf die erwartete Niederkunft seiner Frau monatelang auf die Übersiedlung aus dem damals brandenburgischen Sorau (Żary) warten ließ, wäre bei einer erfolgreichen Wahl Jauchs nicht nur wegen der geographischen Nähe, sondern auch wegen dessen völlig anders gearteter Persönlichkeitsstruktur kaum denkbar gewesen. Wohl in Erwartung einer langen, erfolgreichen Wirkungszeit (die dann tatsächlich eintreten sollte) „renovirten“ die Kirchgeschworenen 1715 die Kanzel in St. Jakobi - unter Anbringung einer vom Kirchenvolk bis heute zu bewundernden Gedenkinschrift.  
 
 Ähnliche Aufstiegsambitionen sind übrigens auch für Jauchs vier Jahre jüngeren ehemaligen Rostocker Kommilitonen Georg Raphel belegt, den Kollegen und Nachfolger (1714 als Nikolai-Prediger, 1725 als Superintendent). Seit 1702 als Konrektor am Johanneum tätig, lehnte Raphel 1721 eine Wahl an den Hamburger Dom und 1727 eine Berufung an die dortige Hauptkirche St. Petri ab - im ersten Fall bedingt durch Kompetenzstreitigkeiten unter den Patronatsherren.  
 
