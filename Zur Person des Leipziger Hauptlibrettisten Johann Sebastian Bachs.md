@@ -4,34 +4,31 @@ Entwurf für ein Vortragsmanuskript (Es gilt das gesprochene Wort.)
 
 Michael Hochgartz
 D 48153 Münster  
-michael@hochgartz.de - 06.05.2024  
+michael@hochgartz.de - 14.05.2024  
 
 Quelltext, Versionsgeschichte und Literaturverzeichnis:  
 <https://github.com/michael-hochgartz/lectio-brevior>  
 
 
 
-Ob ein Poete wohl Superintendens seyn könne? 
+Ob ein Poete wohl Superintendens seyn könne?  
 (Erdmann Neumeister, 1704)  
 
 Der seine Gottesfurcht mit Wissenschafft vereinet  
 Und durch Beredsamkeit ein Felsen-Hertz erweichet  
 (Michael Christoph Brandenburg, 1714)  
 
-Learn the facts - then try on the stories like clothes. 
+Learn the facts - then try on the stories like clothes.  
 (John Le Carré, [1974](https://www.telepolis.de/features/John-le-Carre-und-das-Vermaechtnis-der-Spione-3931465.html))  
 
-Man muss dem Gericht natürlich eine stimmige und lebensnahe Geschichte präsentieren, und man kann da auch [Schreibfreude](https://www.perplexity.ai/search/Schreibfreude-AYQU.21pSxONtZMjThDFdQ#2) entwickeln. 
+Man muss dem Gericht natürlich eine stimmige und lebensnahe Geschichte präsentieren, und man kann da auch [Schreibfreude](https://www.perplexity.ai/search/Schreibfreude-AYQU.21pSxONtZMjThDFdQ#2) entwickeln.  
 (Hans-Gerd Jauch, 2012)  
 
-Bildung lässt sich nicht downloaden. 
+Bildung lässt sich nicht downloaden.  
 (Günther Jauch, 2009)  
 
-Einer muss sich quälen - der Autor oder der Leser. 
+Einer muss sich quälen - der Autor oder der Leser.  
 (Wolf Schneider)  
-
-Es war nicht anders zu erwarten, als dass ein in seinen Ausdrucksformen unserem Zeitgeschmacke zu fern liegendes und dazu in seiner Ausführung so schwieriges Werk zuerst lau oder gar mit Abneigung aufgenommen wurde. (Wilhelm Christian Junghans, 1855)  
-
 
 Bei dem Autor der Texte für Johann Sebastian Bachs Choralkantaten des Jahrgangs 1724/25 und für einige von deren Vor- und Nachläufer, für Teile seiner Johannes-Passion und für eine Anfang 1725 abgebrochene Urfassung der Matthäus-Passion handelt es sich um den Lüneburger Lamberti-, Nikolai- und Johannis-Prediger, den 1714 zum Superintendenten und Inspektor der Lateinschule Johanneum und ihres Kantatenchors ernannten Johann Christoph [Jauch](https://d-nb.info/gnd/117088900) (1669-1725), den jahrzehntelangen unmittelbaren Zeitgenossen, mutmaßlichen Studienkollegen und späteren theologischen Vorgesetzten, Kanzelredner bei gemeinsam absolvierten Kantatenaufführungen und vielleicht auch Beichtvater von Bachs „Lehrmeister“ Georg Böhm - dem Komponisten der bei Jauchs Beisetzung in St. Johannis am 6. Februar 1725 aufgeführten Trauermusik.  
 
@@ -884,7 +881,7 @@ Es bleibt ferner zu untersuchen, in wie weit die nach Wolff (2020) als Proto-Cho
 
 Eine genauere Analyse des von Krummacher (2018) thematisierten zögerlichen Umgangs von - wohl schon in den Textvorlagen nicht eindeutig definiertem - Da Capo in diesem speziellen Teil des Kantatenkorpus könnte hierzu als methodischer Einstieg dienen.  
 
-Nicht nur war der erste Sammeldruck des den jeweiligen Titel bestimmenden Chorals von BWV 60 und von BWV 20 („O Ewigkeit, du Donnerwort“, Johann Rist, Lüneburg: Stern, 1652) sämtlichen namentlich aufgelisteten Führungsmitgliedern des ev. Michaelis-Klosters gewidmet. Auch der Text des Schlußchorals von BWV 60 („Es ist genug“) stammte von einer Person mit Lüneburger Lebensbezug, nämlich von dem 1672 gestorbenen Michaelis-Pastor Franz Joachim Burmeister - [Poeta Laureta Caesareus](https://www.perplexity.ai/search/Poeta-Laureta-Caesareus-IBPMjtm0QHmj2FrWBR3FuA) und Mitglied einer traditionsreichen Lüneburger Musikerfamilie sowie des von Rist 1656 gegründeten und bis 1667 geleiteten, nicht nur sprachpflegerisch tätigen sondern auch musikinteressierten [Elbschwanen-Ordens](https://www.perplexity.ai/search/ElbschwanenOrde-_SSryjxjQfKWSoQDNnbNnw).  
+Nicht nur war der erste Sammeldruck des den jeweiligen Titel bestimmenden Chorals von BWV 60 und von BWV 20 („O Ewigkeit, du Donnerwort“, Johann Rist, Lüneburg: Stern, 1652) sämtlichen namentlich aufgelisteten Führungsmitgliedern des ev. Michaelis-Klosters gewidmet. Auch der Text des Schlußchorals von BWV 60 („Es ist genug“) stammte von einer Person mit Lüneburger Lebensbezug, nämlich von dem 1672 gestorbenen Michaelis-Pastor Franz Joachim Burmeister - [Poeta Lauretus Caesareus](https://www.perplexity.ai/search/Poeta-Laureta-Caesareus-IBPMjtm0QHmj2FrWBR3FuA) und Mitglied einer traditionsreichen Lüneburger Musikerfamilie sowie des von Rist 1656 gegründeten und bis 1667 geleiteten, nicht nur sprachpflegerisch tätigen sondern auch musikinteressierten [Elbschwanen-Ordens](https://www.perplexity.ai/search/ElbschwanenOrde-_SSryjxjQfKWSoQDNnbNnw).  
 
 Hat hier der Autor einen gleich zweifachen Anlauf unternommen, sein Material und die daraus zunächst zu erhoffenden, sodann im fernen Leipzig tatsächlich entstandenen Kompositionen auch einer - formell zwar konkurrierenden - Institution vor seiner Haustür anzudienen (dem seit der Aera von Spörcken nachhaltig geförderten Mettenchor und seinen instrumentalen Adjuvanten), deren aufführungspraktische Kompetenzen nach allem, was bekannt ist, deutlich über denjenigen des von ihm selbst als Inspektor betreuten wie als Prediger erlebten (eher wohl erlittenen) Chorus Symphoniacus an St. Johannis standen?  
 
@@ -899,7 +896,8 @@ Bekräftigt wird diese abschließende Bewertung in gewisser Weise durch die uner
 
 Der erwähnte Psalmenbearbeiter Danielis war musikalisch insofern vorgebildet, als er 1695/96 (also beim Amtsantritt Jauchs und vier Jahre vor Bachs Intermezzo in dieser Institution) als Bassist im Mettenchor der Michaeliskirche gesungen hatte, bevor er im Juni 1697 zum Studium nach Helmstedt und 1702 an die Universität Jena wechselte. Wie bald darauf auch Bach, wird er dem damaligen, frisch ernannten Lamberti-Prediger Jauch bei den extensiven, systematischen Besingungen der Lüneburger Stadtviertel im Winterhalbjahr sowie bei weiteren Auftritten, etwa anlässlich von Beisetzungen, unter Augen und Ohren gekommen sein.  
 
-Die Publikation Danielis’ und das Vorwort Jauchs wurden (es bleibt zu fragen: durch wen?) nach einer Vorankündigung im Katalog zur Michaelismesse 1722 (Erscheinungsorte demnach: Celle und Leipzig; Bezugsmöglichkeiten laut Titel „beym Autore und bey Christ. Jul. Hoffmann, Buchdr. u. Buchhändl.“) in einer am 19.1.1723 erschienenen Rezension im führenden überregionalen Blatt der Zeit, dem “Holsteinischen Correspondenten”, kurz und kritisch (wenn nicht gar, durch Verwendung des Pejorativums „Flickwörter“ und dem Vorwurf einer Abweichung „von den Worten der Schrifft“, letzlich durch die finale Andeutung „bald andere Umstände“) abwertend besprochen. Bei Würdigung des Gesamtkorpus solcher seltenen Beiträge in der damaligen Tagespresse bleibt der Eindruck, es könnte sich hier um eine bewusste Replik gehandelt haben, veranlasst - oder zumindest wohlwollend beachtet oder gar verfassst - durch den Urheber der ursprünglichen Anmerkung von 1704: Erdmann Neumeister - sofern man diesem die durchaus regelkonforme Umformung des lateinischen Werktitels sowie einige norddeutsche Regionalismen und die kaum verdeckte Sottise im letzten Halbsatz zurechnen möchte.  
+Die Publikation Danielis’ und das Vorwort Jauchs wurden (es bleibt zu fragen: durch wen?) nach einer Vorankündigung im Katalog zur Michaelismesse 1722 (Erscheinungsorte demnach: Celle und Leipzig; Bezugsmöglichkeiten laut Titel „beym Autore und bey Christ. Jul. Hoffmann, Buchdr. u. Buchhändl.“) in einer am 19.1.1723 erschienenen Rezension im führenden überregionalen Blatt der Zeit, dem “Holsteinischen Correspondenten”, kurz und kritisch (wenn nicht gar, durch Verwendung des Pejorativums „Flickwörter“ und dem Vorwurf einer Abweichung „von den Worten der Schrifft“, letzlich durch die finale Andeutung „bald andere Umstände“) abwertend besprochen. 
+Bei Würdigung des Gesamtkorpus solcher seltenen Beiträge in der damaligen Tagespresse bleibt der Eindruck, es könnte sich hier um eine bewusste Replik gehandelt haben, veranlasst - oder zumindest wohlwollend beachtet oder gar verfassst - durch den Urheber der ursprünglichen Anmerkung von 1704: Erdmann Neumeister - sofern man diesem die durchaus regelkonforme Umformung des lateinischen Werktitels sowie einige norddeutsche Regionalismen und die kaum verdeckte Sottise im letzten Halbsatz zurechnen möchte.  
 
 „Zelle. Der hiesige Guarnison-Prediger, Herr David Christ. Danielis, hat neulich heraus gegeben Melodias sacratissimas, d.i. die Heil. Psalmen Davids etc. auf die aller-bekannteste Melodeyen der Evangelisch-Lutherischen Kirchen-Gesänge in Versen verfasset. Er hält sich zwar ziemlich an den Worten der Schrifft; doch hat ihn auch öffters das Metrum gezwungen, davon abzuweichen. Der Herr Superintendens Jauch zu Lüneburg, der eine Vorrede dazu gemacht, nennet sie recht wohlgerathen, gesteht aber auch selbst, daß sie nicht gar zu fliessend. Und in der That ist diese Paraphrasis nicht allein hart, sondern auch voller Flickwörter, dazu bald die Reime, bald andere Umstände mögen Anlaß gegeben haben. Dem Wercke ist sonst ein Anhang von einigen Gebeten, ingleichen ein Paßions-Lied aus Esaiae Cap. 35 und endlich eine Anweisung auf alle Sonn- und Fest-Tage beygefüget, dafern man etwa diese Psalme zu seiner Privat-Andacht singen wolte.“  
 
@@ -1011,11 +1009,11 @@ Da Behms gedruckte Sammlung als einzig verortbaren Bestandteil ein „Oratorium 
 
 Soweit nicht der am 8. Juni 1713 im Alter von 62 Jahren an „[Cardialgia und Wassersucht](https://www.perplexity.ai/search/Was-verstand-man-gOoPf6fETzKd1IsRq.Tv_w)“ dahingeschiedene Heinrich Jonathan Wehrenberg gemeint war (der bereits am Epiphaniastag 1711 auf der Kanzel von St. Johannis den ersten von mehreren „hefftigen Schlag-Flüssen“ erlitten hatte), dürfte diese Anmerkung auf Wehrenbergs Nachfolger, langjährigen Freund und Protégé Johann Christoph Jauch zielen.  
 
-Das Vorwort Behms enthält überdies an gleicher Stelle einen kurzen, kryptischen Gedanken zum kritischen Verhältnis zwischen „Politici“ und Geistlichen Herren bzgl. der gesellschaftlichen Akzeptanz des Tabakrauchens. Sie mögen als Marginalie zu Diskussionen über BWV 515 dienen, dessen Textautor kürzlich vorgestellt wurde (Vgl. Koska 2023b).  
+Das Vorwort Behms enthält überdies an gleicher Stelle einen kurzen, kryptischen Gedanken zum kritischen Verhältnis zwischen „Politici“ und Geistlichen Herren bzgl. der gesellschaftlichen Akzeptanz des Tabakrauchens. Sie mögen als Marginalie zu der Diskussionen über BWV 515 dienen, dessen Textautor kürzlich vorgestellt wurde (Vgl. Koska 2023b).  
 
 
 
-Zweifelsfrei identifizierbare Bildnisse Jauchs sind nicht bekannt. Die bis zur pseudonymen Intervention des Verfassers Anfang 2018 im deutschsprachigen Wikipedia-Artikel über Johann Christoph(er) Jauch als seitenverkehrter Ausschnitt eingebundene, vorgeblich um 1985 angefertigte Reproduktion eines etwa lebensgroßen, ohne Rahmen, Signatur und prima vista erkennbare Beischriften überlieferten, sehr schadhaften Ölportraits, welches an der Ostseite einer Kapelle im südlichen Seitenschiff der Lüneburger Johanniskirche hängt, stellt - entgegen einer Tradition im „Jauchschen Familienarchiv“ - seinen befreundeten Kommilitionen, Kollegen und Nachfolger Georg Raphel (1673-1740) dar, wie sich bei intensiver örtlicher Beleuchtung aus den Aufschriften der als Staffage abgebildeten Buchrückens ergibt, die wörtlich auch im Titel einer 1731/1747 veröffentlichten Publikation Raphels auftauchen. 
+Zweifelsfrei identifizierbare Bildnisse Jauchs sind nicht bekannt. Die bis zur pseudonymen Intervention des Verfassers Anfang 2018 im deutschsprachigen Wikipedia-Artikel über Johann Christoph(er) Jauch als seitenverkehrter Ausschnitt eingebundene, vorgeblich um 1985 angefertigte Reproduktion eines etwa lebensgroßen, ohne Rahmen, Signatur und prima vista erkennbare Beischriften überlieferten, sehr schadhaften Ölportraits, welches an der Ostseite einer Kapelle im südlichen Seitenschiff der Lüneburger Johanniskirche hängt, stellt - entgegen einer Tradition im „Jauchschen Familienarchiv“ - seinen befreundeten Kommilitionen, Kollegen und Nachfolger Georg Raphel (1673-1740) dar, wie sich bei intensiver örtlicher Beleuchtung aus den Aufschriften der als Staffage abgebildeten Buchrücken ergibt, die wörtlich auch im Titel einer 1731/1747 veröffentlichten Publikation Raphels auftauchen. 
 Zudem stimmt die dort abgebildete biblische Devise nicht mit derjeningen Jauchs (Ps. 73, 24) überein. (Vgl. dazu neuerdings auch Jauchs Amtsnachfolger, Superintendent em. Dr. Christoph Wiesenfeldt, in: Lüneburger Blätter, Dezember 2018).  
 
 In Raphels 1702 abgeschlossenem Stammbuch finden sich keine Einträge von Jauch, jedoch zahlreiche verfolgenswerte Hinweise auf eine frühe, gemeinsame akademische Entourage.  
