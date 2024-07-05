@@ -4,7 +4,7 @@ Entwurf für ein Vortragsmanuskript (Es gilt das gesprochene Wort.)
 
 Michael Hochgartz
 D 48153 Münster  
-michael@hochgartz.de - 23.06.2024  
+michael@hochgartz.de - 05.07.2024  
 
 Quelltext, Versionsgeschichte und Literaturverzeichnis:  
 <https://github.com/michael-hochgartz/lectio-brevior>  
@@ -30,7 +30,7 @@ Bildung lässt sich nicht downloaden.
 Einer muss sich quälen - der Autor oder der Leser.  
 (Wolf Schneider)  
 
-Bei dem Autor der Texte für Johann Sebastian Bachs Choralkantaten des Jahrgangs 1724/25 und für einige von deren Vor- und Nachläufer, für Teile seiner Johannes-Passion und für eine Anfang 1725 abgebrochene Urfassung der Matthäus-Passion handelt es sich um den Lüneburger Lamberti-, Nikolai- und Johannis-Prediger, den 1714 zum Superintendenten und Inspektor der Lateinschule Johanneum und ihres Kantatenchors ernannten Johann Christoph [Jauch](https://d-nb.info/gnd/117088900) (1669-1725), den jahrzehntelangen unmittelbaren Zeitgenossen, mutmaßlichen Studienkollegen und späteren theologischen Vorgesetzten, Kanzelredner bei gemeinsam absolvierten Kantatenaufführungen und vielleicht auch Beichtvater von Bachs „Lehrmeister“ Georg Böhm - dem Komponisten der bei Jauchs Beisetzung in St. Johannis am 6. Februar 1725 aufgeführten Trauermusik, deren Text von Jauchs literarischem Ziehsohn Michael Christoph Brandenburg stammte.  
+Bei dem Autor der Texte für Johann Sebastian Bachs Choralkantaten des Jahrgangs 1724/25 und für einige von deren Vor- und Nachläufern, für Teile seiner Johannes-Passion und für eine Anfang 1725 abgebrochene Urfassung der Matthäus-Passion handelt es sich um den Lüneburger Lamberti-, Nikolai- und Johannis-Prediger, den 1714 zum Superintendenten und Inspektor der Lateinschule Johanneum und ihres Kantatenchors ernannten Johann Christoph [Jauch](https://d-nb.info/gnd/117088900) (1669-1725), den jahrzehntelangen unmittelbaren Zeitgenossen, mutmaßlichen Studienkollegen und späteren theologischen Vorgesetzten, Kanzelredner bei gemeinsam absolvierten Kantatenaufführungen und vielleicht auch Beichtvater von Bachs „Lehrmeister“ Georg Böhm - dem Komponisten der bei Jauchs Beisetzung in St. Johannis am 6. Februar 1725 aufgeführten Trauermusik, deren Text von Jauchs literarischem Ziehsohn Michael Christoph Brandenburg stammte.  
 
 
 Jauchs Vater Christian (1638-1718) stammte aus dem thüringischen Sulza (D 99518 Bad Sulza) in der Nähe von Jena, wo sich seine Vorfahren seit 1512 nachweisen lassen, seine 1702 gestorbene Mutter Ingeborg Nicolai (von deren 1723 erwähntem Trauergedicht aus der Feder ihres Sohnes bislang kein Exemplar gefunden werden konnte) aus dem Holsteinischen Husum.  
@@ -45,7 +45,7 @@ Dessen Vater, Herzog Gustav Adolf (Dichter von Kirchenliedern sowie von 100 rege
 
 Eine erste Förderung hatte Jauch durch die Eltern erfahren, die „bey zarter Jugend ein herrlich [ingenium](https://www.perplexity.ai/search/Was-verstand-man-bDmHQ7leQJCE_y98TedMWg) bey diesem ältesten Sohne verspüret“, und es war „ihre erste Sorge, wie sie ihn zu allem guten anführen, und zur Ehre GOttes auferziehen mögten“.  
 
-Die im Februar 1689 gedruckte Einladung zur öffentlichen Aufführung einer lateinischen Oration anlässlich des Geburtstags seines Landesherrns durch den Rektor der Domschule Güstrow ist das früheste Indiz für die sprachgestalterische Kompetenz des damals 19jährigen Jauch, der bei dieser Gelegenheit als „[Praestantissimus Juvenum](https://www.perplexity.ai/search/Praestantissimu-Juvenum-RlvMwMMMRTu.cZQ77vP58A)“ bezeichnet wurde.  
+Die im Februar 1689 gedruckte Einladung zur öffentlichen Aufführung einer lateinischen Oration anlässlich des Geburtstags seines Landesherrn durch den Rektor der Domschule Güstrow ist das früheste Indiz für die sprachgestalterische Kompetenz des damals 19jährigen Jauch, der bei dieser Gelegenheit als „[Praestantissimus Juvenum](https://www.perplexity.ai/search/Praestantissimu-Juvenum-RlvMwMMMRTu.cZQ77vP58A)“ bezeichnet wurde.  
 
 
 
@@ -178,7 +178,7 @@ Ja, redet nur die Wahrheit spärlich,
 seid immer falsch, was tut mir das?  
 Ihr Spötter seid mir ungefährlich.  
 
-Und BWV 126 (4.2.1725) - vordergründig gemünzt auf Luthers (heute zuweilen als despektierlich emfpundene) Invektiven gegen „des Papsts und Türken Mord“ - erinnert zumindest unterschwellig an die falschen Amtsbrüder, als diese sich übergangen fühlten und darob (so Jauch gegenüber Syrbius 1714) „gar böse geworden“ waren:  
+Und BWV 126 (4.2.1725) - vordergründig gemünzt auf Luthers (heute zuweilen als despektierlich emfpundenen) Invektiven gegen „des Papsts und Türken Mord“ - erinnert zumindest unterschwellig an die falschen Amtsbrüder, als diese sich übergangen fühlten und darob (so Jauch gegenüber Syrbius 1714) „gar böse geworden“ waren:  
 
 Du weißt, daß die verfolgte Gottesstadt  
 den ärgsten Feind nur in sich selber hat  
@@ -890,7 +890,7 @@ Es bleibt ferner zu untersuchen, in wie weit die nach Wolff (2020) als Proto-Cho
 
 Eine genauere Analyse des von Krummacher (2018) thematisierten zögerlichen Umgangs von - wohl schon in den Textvorlagen nicht eindeutig definiertem - Da Capo in diesem speziellen Teil des Kantatenkorpus könnte hierzu als methodischer Einstieg dienen.  
 
-Nicht nur war der erste Sammeldruck des den jeweiligen Titel bestimmenden Chorals von BWV 60 und von BWV 20 („O Ewigkeit, du Donnerwort“, Johann Rist, Lüneburg: Stern, 1652) sämtlichen namentlich aufgelisteten Führungsmitgliedern des ev. Michaelis-Klosters gewidmet. Auch der Text des Schlußchorals von BWV 60 („Es ist genug“) stammte von einer Person mit Lüneburger Lebensbezug, nämlich von dem 1672 gestorbenen Michaelis-Pastor Franz Joachim Burmeister - [Poeta Lauretus Caesareus](https://www.perplexity.ai/search/Poeta-Laureta-Caesareus-IBPMjtm0QHmj2FrWBR3FuA) und Mitglied einer traditionsreichen Lüneburger Musikerfamilie sowie des von Rist 1656 gegründeten und bis 1667 geleiteten, nicht nur sprachpflegerisch tätigen, sondern auch musikinteressierten [Elbschwanen-Ordens](https://www.perplexity.ai/search/ElbschwanenOrde-_SSryjxjQfKWSoQDNnbNnw).  
+Nicht nur war der erste Sammeldruck des den jeweiligen Titel bestimmenden Chorals von BWV 60 und von BWV 20 („O Ewigkeit, du Donnerwort“, Johann Rist, Lüneburg: Stern, 1652) sämtlichen namentlich gelisteten Führungsmitgliedern des ev. Michaelis-Klosters gewidmet. Auch der Text des Schlußchorals von BWV 60 („Es ist genug“) stammte von einer Person mit Lüneburger Lebensbezug, nämlich von dem 1672 gestorbenen Michaelis-Pastor Franz Joachim Burmeister - [Poeta Lauretus Caesareus](https://www.perplexity.ai/search/Poeta-Laureta-Caesareus-IBPMjtm0QHmj2FrWBR3FuA) und Mitglied einer traditionsreichen Lüneburger Musikerfamilie sowie des von Rist 1656 gegründeten und bis 1667 geleiteten, nicht nur sprachpflegerisch tätigen, sondern auch musikinteressierten [Elbschwanen-Ordens](https://www.perplexity.ai/search/ElbschwanenOrde-_SSryjxjQfKWSoQDNnbNnw).  
 
 Hat hier der Autor einen gleich zweifachen Anlauf unternommen, sein Material und die daraus zunächst zu erhoffenden, sodann im fernen Leipzig tatsächlich entstandenen Kompositionen auch einer - formell zwar konkurrierenden - Institution vor seiner Haustür anzudienen (dem seit der Aera von Spörcken nachhaltig geförderten Mettenchor und seinen instrumentalen Adjuvanten), deren aufführungspraktische Kompetenzen nach allem, was bekannt ist, deutlich über denjenigen des von ihm selbst als Inspektor betreuten wie als Prediger erlebten (eher wohl erlittenen) Chorus Symphoniacus an St. Johannis standen?  
 
@@ -917,7 +917,7 @@ Der zeitlebens wenig ambitioniert wirkende Jauch hatte bei der Suche Bachs und s
 Henricis jeweils beigegebene [Kontrafakturen](https://www.perplexity.ai/search/Kontrafaktur-lJhy5SrGTtuOxQzrQNVrSg) bekannter Kirchenlieder stellen ein höchst interessantes Parallelprojekt zu Bachs Choralkantatentexten dar und sind auf eventuelle Querbeziehungen hin zu überprüfen - obwohl die Intention des Verfassers wohl darin bestand, strophenweise handhabbares Füllmaterial bei der optimalen Ausnutzung des Druckpapiers zu nutzen - ein weiteres Argument für die ursprüngliche Intention in Form von Einzeldrucken.  
 
 
-Mit Johann Christoph Jauch konnte Bach bei seiner weitgehend vom Aufführungskalender diktierten kompositorischen Akkulturation in Leipzig auf einen theologischen Gewährsmann setzen, der sich zwar sprachstilistisch nur sehr subtil und im Verlauf eines durchaus rekonstruierbaren Entwicklungsprozesses an die eine Tagesreise von Lüneburg residierende norddeutsche Avantgarde angenähert hatte - also an Barthold Hinrich Brockes und seinen Kreis (gewiss auch unter dem Einfluss seiner eigenen Schüler Michael Christoph Brandenburg, Matthias Daniel Behm und Joachim Christian Heini), der aber konfessionell deutlich unproblematischer erscheinen musste als der (nach heutiger offizieller Lesart wegen Häresie, inoffiziell aber wohl wegen temporärer individualspychologischer Probleme) seit 1697 amtsenthobene, zeitweise unter Hausarrest stehende, sodann unter ansatzweise ermittelbaren Bedingungen geduldete und besoldete, Bach bis Frühsommer 1723 noch nicht persönlich bekannte Conrector emeritus Johann Andreas Stübel - von dem kaum den intellektuellen und gesellschaftlichen Kinderschuhen entwachsenen Leipziger [Enfant terrible](https://www.perplexity.ai/search/Enfant-terrible-DjFQOgZcTLyuivPqnpwFVw) Christian Friedrich Henrici ganz zu schweigen.  
+Mit Johann Christoph Jauch konnte Bach bei seiner weitgehend vom Aufführungskalender diktierten kompositorischen Akkulturation in Leipzig auf einen theologischen Gewährsmann setzen, der sich zwar sprachstilistisch nur sehr subtil und im Verlauf eines durchaus rekonstruierbaren Entwicklungsprozesses an die eine Tagesreise von Lüneburg residierende norddeutsche Avantgarde angenähert hatte - also an Barthold Hinrich Brockes und seinen Kreis (gewiss auch unter dem Einfluss seiner eigenen Schüler Michael Christoph Brandenburg, Matthias Daniel Behm und Joachim Christian Heini), der aber konfessionell deutlich unproblematischer erscheinen musste als der (nach heutiger offizieller Lesart wegen Häresie, inoffiziell aber wohl wegen temporärer individualspychologischer Probleme) seit 1697 amtsenthobene, zeitweise unter Hausarrest stehende, sodann unter ansatzweise ermittelbaren Bedingungen geduldete und besoldete, Bach bis Frühsommer 1723 noch nicht persönlich bekannte Conrector emeritus Johann Andreas Stübel - von dem kaum den intellektuellen und gesellschaftlichen Kinderschuhen entwachsenen Leipziger [enfant terrible](https://www.perplexity.ai/search/Enfant-terrible-DjFQOgZcTLyuivPqnpwFVw) Christian Friedrich Henrici ganz zu schweigen.  
 
 Stübel, der zeitweise mit einem - von ihm selbst dokumentierten - Publikationsverbot belegt wurde, schildert die auslösenden Ereignisse in einem 1698 gedruckten Schriftenkatalog so:  
 
@@ -1018,7 +1018,7 @@ Da Behms gedruckte Sammlung als einzig verortbaren Bestandteil ein „Oratorium 
 
 Soweit nicht der am 8. Juni 1713 im Alter von 62 Jahren an „[Cardialgia und Wassersucht](https://www.perplexity.ai/search/Was-verstand-man-gOoPf6fETzKd1IsRq.Tv_w)“ dahingeschiedene Heinrich Jonathan Wehrenberg gemeint war (der bereits am Epiphaniastag 1711 auf der Kanzel von St. Johannis den ersten von mehreren „hefftigen Schlag-Flüssen“ erlitten hatte), dürfte diese Anmerkung auf Wehrenbergs Nachfolger, langjährigen Freund und Protégé Johann Christoph Jauch zielen.  
 
-Das Vorwort Behms enthält überdies an gleicher Stelle einen kurzen, kryptischen Gedanken zum kritischen Verhältnis zwischen „Politici“ und Geistlichen Herren bzgl. der gesellschaftlichen Akzeptanz des Tabakrauchens. Sie mögen als Marginalie zu der Diskussionen über BWV 515 dienen, dessen Textautor kürzlich vorgestellt wurde (Vgl. Koska 2023b).  
+Das Vorwort Behms enthält überdies an gleicher Stelle einen kurzen, kryptischen Gedanken zum kritischen Verhältnis zwischen „Politici“ und Geistlichen Herren bzgl. der gesellschaftlichen Akzeptanz des Tabakrauchens. Sie mögen als Marginalie zu den Diskussionen über BWV 515 dienen, dessen endlich ermittelter Textautor kürzlich vorgestellt wurde (Vgl. Koska 2023b).  
 
 
 
