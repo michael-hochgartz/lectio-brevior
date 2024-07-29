@@ -4,7 +4,7 @@ Entwurf für ein Vortragsmanuskript (Es gilt das gesprochene Wort.)
 
 Michael Hochgartz
 D 48153 Münster  
-michael@hochgartz.de - 26.07.2024  
+michael@hochgartz.de - 29.07.2024  
 
 Quelltext, Versionsgeschichte und Literaturverzeichnis:  
 <https://github.com/michael-hochgartz/lectio-brevior>  
@@ -30,7 +30,7 @@ Bildung lässt sich nicht downloaden.
 Einer muss sich quälen - der Autor oder der Leser.  
 (Wolf Schneider)  
 
-Bei dem Autor der Texte für Johann Sebastian Bachs Choralkantaten des Jahrgangs 1724/25 und für einige von deren Vor- und Nachläufern, für Teile seiner Johannes-Passion und für eine Anfang 1725 abgebrochene Urfassung der Matthäus-Passion handelt es sich um den Lüneburger Lamberti-, Nikolai- und Johannis-Prediger, den 1714 zum Superintendenten und Inspektor der Lateinschule Johanneum und ihres Kantatenchors ernannten Johann Christoph [Jauch](https://d-nb.info/gnd/117088900) (1669-1725), den jahrzehntelangen unmittelbaren Zeitgenossen, mutmaßlichen Studienkollegen und späteren theologischen Vorgesetzten, Kanzelredner bei gemeinsam absolvierten Kantatenaufführungen und vielleicht auch Beichtvater von Bachs „Lehrmeister“ Georg Böhm - dem Komponisten der bei Jauchs Beisetzung in St. Johannis am 6. Februar 1725 aufgeführten Trauermusik.  
+Bei dem Autor der Texte für Johann Sebastian Bachs Choralkantaten des Jahrgangs 1724/25 und für einige von deren Vor- und Nachläufern, für Teile seiner Johannes-Passion und für eine Anfang 1725 abgebrochene Urfassung der Matthäus-Passion handelt es sich mit hoher Wahrscheinlichkeit um den Lüneburger Lamberti-, Nikolai- und Johannis-Prediger, den 1714 zum Superintendenten und Inspektor der Lateinschule Johanneum und ihres Kantatenchors ernannten Johann Christoph [Jauch](https://d-nb.info/gnd/117088900) (1669-1725), den jahrzehntelangen unmittelbaren Zeitgenossen, mutmaßlichen Studienkollegen und späteren theologischen Vorgesetzten, Kanzelredner bei gemeinsam absolvierten Kantatenaufführungen und vielleicht auch Beichtvater von Bachs „Lehrmeister“ Georg Böhm - dem Komponisten der bei Jauchs Beisetzung in St. Johannis am 6. Februar 1725 aufgeführten Trauermusik.  
 
 
 Jauchs Vater Christian (1638-1718) stammte aus dem thüringischen Sulza (D 99518 Bad Sulza) in der Nähe von Jena, wo sich seine Vorfahren seit 1512 nachweisen lassen, seine 1702 gestorbene Mutter Ingeborg Nicolai (von deren 1723 erwähntem Trauergedicht aus der Feder ihres Sohnes bislang kein Exemplar gefunden werden konnte) aus dem Holsteinischen Husum.  
@@ -937,7 +937,7 @@ Der Umstand, dass Jauchs Brüder Johann Daniel und Franz Georg sowie sein Schwag
 
 Ob sich in den Kantatentexten von Anfang 1725 erste Spuren einer unterschwelligen Auseinandersetzung mit dem „[Thorner Blutgericht](https://www.perplexity.ai/search/Thorner-Blutgericht-RXsBypMVSsW6jDn4Uc69Sw)“ finden lassen - einem von Jesuiten initiierten, am 7. Dezember 1724 an der lutherischen bürgerlichen Elite der polnischen Stadt Thorn blutig exekutierten, staatlich inszenierten religiösen Racheakt - an dessen militärischer Durchsetzung Franz Georg Jauch beteiligt war und das im protestantischen Europa nachhaltige Empörung auslöste (z.B. in den 1725 gedruckten „acht Catechismus-Predigten … nebst beygefügten Anmerckungen über die letzte Lieder-Andacht der getödteten…“ des Lübecker Superintendenten, Hymnologen und Lieder-Freunds Georg Heinrich Goetze), ist aufgrund der engen zeitlichen Abfolgen eher unwahrscheinlich.
 
-Am 10. Mai 1855 - also gut 130 Jahre nach dem Tod ihres ursprünglichen Textdichters - wurde die Matthäus-Passion Johann Sebastian Bachs auch in Lüneburg unter Benutzung einer „durch königliche Huld“ dem Johanneum geschenkten Partitur und geleitet von dem 1836-1843 in Leipzig wirkenden Musikpaedagogen, nunmehrigen Johannis-Organisten Louis Anger erstmals aufgeführt, in Jauchs langjähriger Wirkungstätte als Prediger, Seelsorger, Superintendent und Schulinspektor, an dem Ort, an dem seine sterblichen Überreste im Chorraum vis à vis der jahrzehntelang von Georg Böhm (und einst wohl auch vom jungen Bach) gespielten Orgel seit 1725 bis zur Auflassung der innerkirchlichen Grabstätten im 19. Jahrhundert ruhten.  
+Am 10. Mai 1855 - also gut 130 Jahre nach dem Tod ihres ursprünglichen Textdichters - wurde die Matthäus-Passion Johann Sebastian Bachs auch in Lüneburg unter Benutzung einer „durch königliche Huld“ dem Johanneum geschenkten Partitur und geleitet von dem 1836-1843 in Leipzig wirkenden Musikpaedagogen, nunmehrigen Johannis-Organisten Louis Anger (vgl. DOK VI, B78) erstmals aufgeführt, in Jauchs langjähriger Wirkungstätte als Prediger, Seelsorger, Superintendent und Schulinspektor, an dem Ort, an dem seine sterblichen Überreste im Chorraum vis à vis der jahrzehntelang von Georg Böhm (und einst wohl auch vom jungen Bach) gespielten Orgel seit 1725 bis zur Auflassung der innerkirchlichen Grabstätten im 19. Jahrhundert ruhten.  
 
 Die aus rezeptionsgeschichtlicher Sicht durchaus erhellende Rezension dieser Aufführung in Ausgabe 3/1855 der Niederrheinischen Musikzeitung (Geck 1967: deest) stellt die frühest nachweisbare gemeinsame Erwähnung der Stichworte „Bach“, „Matthäus-Passion“ und „Lüneburg“ dar.  
 
