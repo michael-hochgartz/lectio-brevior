@@ -4,7 +4,7 @@ Entwurf für ein Vortragsmanuskript (Es gilt das gesprochene Wort.)
 
 Michael Hochgartz
 D 48153 Münster  
-michael@hochgartz.de - 29.07.2024  
+michael@hochgartz.de - 08.08.2024  
 
 Quelltext, Versionsgeschichte und Literaturverzeichnis:  
 <https://github.com/michael-hochgartz/lectio-brevior>  
@@ -18,6 +18,9 @@ Der seine Gottesfurcht mit Wissenschafft vereinet
 Und durch Beredsamkeit ein Felsen-Hertz erweichet  
 (Michael Christoph Brandenburg, 1714)  
 
+Mein Lüneburg lob ich mir! Es war ein kleines Leipzig und bildete seine Leute.  
+(nach J.W. Goethe)  
+
 Learn the facts - then try on the stories like clothes.  
 (John Le Carré, [1974](https://www.telepolis.de/features/John-le-Carre-und-das-Vermaechtnis-der-Spione-3931465.html))  
 
@@ -27,8 +30,15 @@ Man muss dem Gericht natürlich eine stimmige und lebensnahe Geschichte präsent
 Bildung lässt sich nicht downloaden.  
 (Günther Jauch, 2009)  
 
+Die Diplomitie ist die größtmögliche Form der Ignoranz gegenüber Originalquellen. Diplomioten lesen nicht nur grundsätzlich keine handschriftlichen Dokumente, sondern leugnen sogar ihre Existenz. (Nach Walter [Moers](http://Quelle:%20https://beruhmte-zitate.de/themen/ignoranz/)).  
+
 Einer muss sich quälen - der Autor oder der Leser.  
 (Wolf Schneider)  
+
+Einer? - Alle!
+(Ich)  
+
+
 
 Bei dem Autor der Texte für Johann Sebastian Bachs Choralkantaten des Jahrgangs 1724/25 und für einige von deren Vor- und Nachläufern, für Teile seiner Johannes-Passion und für eine Anfang 1725 abgebrochene Urfassung der Matthäus-Passion handelt es sich mit hoher Wahrscheinlichkeit um den Lüneburger Lamberti-, Nikolai- und Johannis-Prediger, den 1714 zum Superintendenten und Inspektor der Lateinschule Johanneum und ihres Kantatenchors ernannten Johann Christoph [Jauch](https://d-nb.info/gnd/117088900) (1669-1725), den jahrzehntelangen unmittelbaren Zeitgenossen, mutmaßlichen Studienkollegen und späteren theologischen Vorgesetzten, Kanzelredner bei gemeinsam absolvierten Kantatenaufführungen und vielleicht auch Beichtvater von Bachs „Lehrmeister“ Georg Böhm - dem Komponisten der bei Jauchs Beisetzung in St. Johannis am 6. Februar 1725 aufgeführten Trauermusik.  
 
@@ -536,7 +546,7 @@ Der junge J.S. Bach dürfte dem 1698 zum zweiten Prediger an St. Michaelis ernan
 
 Weiterhin ergibt sich die Frage nach einem karrieretaktischen Zweck einer Komposition wie BWV 196. Wenige Monate nach dem genannten Ergeinis starb der - damals mehr denn heute hochgerühmte - Lüneburger Nikolai-Organist Johann Jakob Löwe von Eisenach. Selbst wenn Bach damals schon der Umstand bekannt gewesen sein sollte, dass dessen am 11.12.1703 angetretene Nachfolge an der Nikolai- und an der Marienkirche bereits 1696 Georg Ernst Blech, einem Sohn des Michaelis-Kantors, zugesagt worden war (vgl. Walter 1967), dürfte ihn das kaum an dem Versuch gehindert haben, seiner noch sehr jungen Karriere als Weimarischer Lakai und Hilfsgeiger (oder Hilfslakai und Geiger?) durch eine derartige Initiativbewerbung aufgeholfen zu haben. BWV 196 wäre demnach als eine Art „Probestück“ zu betrachten. Zur stilistischen Beeinflussung durch Komponisten wie Torelli und Albinoni durch den im Januar 1703 mit entsprechenden Notenkäufen aus Venedig nach Weimar zurückgekehrten Kapellmeister-Sohn J.W. Drese vgl. Küster (1996).  
 
-Schließlich ist die Rolle eines potentiellen Förderes zu untersuchen. Seit Dezember 1700 amtierte mit dem Landschaftsdirektor Ernst Wilhelm von Spörcken eine Persönlichkeit, die den großräumigen Komplex St. Michaelis bis zu seinem Tod 1726 nicht nur organisatorisch und baulich (grunderneuerter Wohntrakt; neue Orgel), sondern auch durch Förderung von Musik und Theater auf ein bis dahin kaum gekanntes Niveau zu heben vermochte. Freilich ist nicht bekannt, ob 1703 Aussicht auf eine freie oder zusätzliche Stelle im musikalischen Ensemble der landständischen Bildungsinstitution und ihrer kirchlichen Feierstätte bestand.  
+Schließlich ist die Rolle eines potentiellen Förderes zu untersuchen. Seit Dezember 1700 amtierte mit dem Landschaftsdirektor Ernst Wilhelm von Spörcken eine Persönlichkeit, die den großräumigen Komplex St. Michaelis bis zum Tod 1726 nicht nur organisatorisch und baulich (grunderneuerter Wohntrakt; neue Orgel), sondern auch durch Förderung von Musik und Theater auf ein bis dahin kaum gekanntes Niveau zu heben vermochte. Freilich ist nicht bekannt, ob 1703 Aussicht auf eine freie oder zusätzliche Stelle im musikalischen Ensemble der landständischen Bildungsinstitution und ihrer kirchlichen Feierstätte bestand.  
 
 Sechs Jahre nach dem Glückwunsch für Boje, nämlich 1709, heißt es im Titel einer Trauermusik für Jauchs Amtsbruder an St. Nicolai, Friedrich Heinrich Oldecop:  
 
@@ -548,7 +558,7 @@ was sich lesen lässt als:
 
 [M]agister [I] [AUCH] [P]rediger [zu] [L]üneburg.  
 
-Jauchs Vorlieben für derartige Spielereien übertrugen sich auf seinen Sohn Ludolph Friedrich, der 1716 (unter mehr als beiläufiger Erwähnung seines Elternhauses : „[Venerandi Domini Parentes](https://www.perplexity.ai/search/Venerandi-Domini-Parentes-NI5TiIDUQrKpTI_sBXnnCg)“) in einem Schulprogramm am Johanneum zu Ehren des neuerdings im fernen London residierenden Landesherrn König Georg I. dessen Namen in der typographisch (im Nachbarhaus, bei Cornelius Johann von Stern) plakativ gestalteten Form eines klassischen Akrostichons lobpreiste:  
+Jauchs Vorlieben für derartige Spielereien übertrugen sich auf seinen Sohn Ludolph Friedrich, der 1716 (unter mehr als beiläufiger Erwähnung seines Elternhauses: „[Venerandi Domini Parentes](https://www.perplexity.ai/search/Venerandi-Domini-Parentes-NI5TiIDUQrKpTI_sBXnnCg)“) in einem Schulprogramm am Johanneum zu Ehren des neuerdings im fernen London residierenden Landesherrn König Georg I. dessen Namen in der typographisch (im Nachbarhaus, bei Cornelius Johann von Stern) plakativ gestalteten Form eines klassischen Akrostichons lobpreiste:  
 
 [G]loriosus  
 [E]rectus  
@@ -571,9 +581,11 @@ Dan[I]el Jo[A]chim im Kre[U]z, und das Kreuz in Joa[CH]im.
 Unter diesem Zeichen bin ich der Sieger für immer,  
 GOTT hat mir seine Gnade erwiesen.“  
 
-Man beachte auch in diesem Fall die syntaktische Umstellung (Joachim Daniel -> Daniel Joachim zugunsten der korrekten Konstituierung des Achrostichons, das hier zu einem - zusammen mit dem graphischen Emblem -  mehrschichtigen Chiasmus überhöht wird - obwohl, oder weil, theoretisch statt Dan[I]el Jo[A]chim auch Joach[I]m D[A]niel möglich gewesen wäre. Und zwar auch in der polnischen Version.  
+Man beachte auch in diesem Fall die syntaktische Umstellung (Joachim Daniel -> Daniel Joachim zugunsten der korrekten Konstituierung des linearisierten Achrostichons, das hier zu einem - zusammen mit dem graphischen Emblem -  mehrschichtigen Chiasmus überhöht wird - obwohl, oder weil, theoretisch statt Dan[I]el Jo[A]chim auch Joach[I]m D[A]niel möglich gewesen wäre. Und zwar auch in der polnischen Version.  
 
 Dass ein schöpferischer Umgang mit einzelnen Lettern seine Tücken haben kann, belegt ein spektakulöser Vorfall während des „Zeithainer Lustlagers“ zu Ehren Augusts des Starken und seiner Gäste 1730. Daniel Jauch hatte ein Feuerwerk arrangieren dürfen (oder vielleicht müssen), welches - wohl durch ein phonetisches Missverständnis der amtlichen polnisch/sächsischen Staatssekretäre - statt eines „VIVAT“ ein missverstehbares „FIFAT“ in den Nachthimmel projizierte, was nachträglich verlegenheitshalber zu „[FAUSTA IUBILA FECERUNT AUGUSTI TEMPORA](https://www.perplexity.ai/search/FAUSTA-IUBILA-FECERUNT-Xo1WGBukTom.DC9II42xEA)“ verschlimmbessert wurde und welches bis vor wenigen Jahren als selbstironisch genutztes Autoren-Pseudonym in zahlreichen familienbezüglichen Wikipedia-Beiträgen nachzuweisen ist.  
+
+Zur Einordnung in den Zeitgeist: ein Beispiel für die Verwendung eines recht einfach gestrickten Anagramms stellt die Umformung des Nachnamens „Teleman(n)“ zu „Melante“ durch den Namensträger selbst dar. Aber bereits im 1732 erschienenen 2. Band des „Zedler-Lexikons“ wird ein solches Verfahren mit Spott überhäuft: „Der Nutzen der hieraus entstehen soll, kann gar nicht angegeben werden, u. die Vergnügung, die sich dabey befindet, gehöret nur vor die schwachen Geister, die sich gerne mit Kleinigkeiten aufhalten. Der gute Geschmack unserer heutigen Gelehrten hat dieselben längstens verbannt, und die Satyren-Schreiber haben dieselben hier und dar lächerlich gemacht.“ Offenbar war die Methode des Buchstabentauschs mit Fortschreiten der literarischen Aufklärung (Gottsched?) von einer poetologischen Gestaltungsmöglichkeit zu einem kryptographischen Nebenzweck degradiert worden.  
 
 Den Brückenschlag zu den außergewöhnlichen Zitaten des „Votum Justinianum“ [J.N.D.N.J.C.](https://www.perplexity.ai/search/JNDNJC-pdbFA4MCRIW_Ag8RPhxwVA) im autographen Kopftitel der Choralkantate BWV 20 und auf dem Umschlag des apographen Überlieferungsträgers der Frühfassung der Matthäus-Passion BWV 244b bildet die zwischen 1705 und 1715 datierte Abschrift einer Michaelisfest-Kantate „di M.B.“ in der Sammlung Bokemeyer auf den Text „Satanas und sein Getümmel“, deren Titel diese Buchstabenfolge anführt:
 
@@ -591,8 +603,9 @@ und die von Kümmerling (1963; 1970) mit dreieinhalb guten Gründen (Stilkritik;
 
 Wer immer diesen nirgendwo sonst nachweisbaren Kantatentext geschaffen hat - er muss in einem besonderen Vertrauensverhältnis zu Böhm gestanden oder auch nur in dessen Region gelebt haben. Der Sammelband D-B Mus.ms. 30101 enthält ausschließlich Werke von drei norddeutsche Komponisten, deren Nachnamen mit „B“ beginnen: Bruhns, Böhm, Brunckhorst. Der gesamte Text bleibt in [stilometrischer](https://www.perplexity.ai/search/Stilometrie-UWjKwhHIRqqWxwEfxl8Hqw) Hinsicht mit den gesicherten bzw. zugeschriebenen Dichtungen Jauchs unter Berücksichtigung der mutmaßlichen Entstehungszeit abzugleichen.  
 
+Über die Gründe J.C. Jauchs, seine Autorschaft nur doppelt verschleiert, nämlich in Form einer intrikaten Kombination von linearisiertem Achrostichon und Anagramm zu dokumentieren, so dass sie zwar für (möglichst wenige?) Eingeweihte erkennbar blieb, offiziell aber nicht zutage trat, lässt sich nur spekulieren. Traute er der literarischen Qualität der Hervorbringungen seiner poetischen Nebenstunden nicht - oder fürchtete er, seiner fortwährend feindlich gesonnenen Umgebung (die o.g. genannten „falschen Brüder“) Angriffsflächen für die Fortsetzung ihrer Intrigen zu bieten?  
 
-Die Zuschreibung der Autorschaft des lange Zeit verschollenen, 1870 (im Vorfeld von P. Spittas Bach-Biographie) ohne die entscheidenden Teile veröffentlichten, den folgenreichen Brand der Ratsbücherei 1959 in Form von zwei leidlich lädierten Exemplaren überlebenden Textbuchs der von Georg Böhm 1711 - ein Jahr vor der Uraufführung der Brockes-Passion im nahen Hamburg - dem Lüneburger Rat (zusätzlich auch mit einem handschriftlichen Exemplar) gewidmeten Lukas-Passion (Scheitler 2005: deest) ist bislang ungesichert, liegt aufgrund der Übereinstimmung einiger Stilmerkmale mit den Hochzeitskantaten von 1705 und dem 1713/14 erschienenen, auf Texten lokaler Autoren beruhenden Kantatenjahrgang Flors aber durchaus im Bereich des Möglichen. (Vgl. Walter 1967, der neben Jauch auch dessen Vorgänger Wehrenberg - und somit einen der weiteren Beiträger für die insgesamt acht Gratulationen zur o.g. Hochzeit - zur Diskussion stellt.)  
+Die Zuschreibung der Autorschaft des lange Zeit verschollenen, 1870 (im Vorfeld von P. Spittas Bach-Biographie) ohne die entscheidenden Teile veröffentlichten, den folgenreichen Brand der Ratsbücherei 1959 in Form von zwei leidlich lädierten Exemplaren überlebenden Textbuchs der von Georg Böhm 1711 - ein Jahr vor der Uraufführung der Brockes-Passion im nahen Hamburg - dem Lüneburger Rat (zugleich mit einem handschriftlichen Exemplar) gewidmeten Lukas-Passion (Scheitler 2005: deest) ist bislang ungesichert, liegt aufgrund der Übereinstimmung einiger Stilmerkmale mit den Hochzeitskantaten von 1705 und dem 1713/14 erschienenen, auf Texten lokaler Autoren beruhenden Kantatenjahrgang Flors aber durchaus im Bereich des Möglichen. (Vgl. Walter 1967, der neben Jauch auch dessen Vorgänger Wehrenberg - und somit einen der weiteren Beiträger für die insgesamt acht Gratulationen zur o.g. Hochzeit - zur Diskussion stellt.)  
 
 Bemerkenswert an diesem Lüneburger Libretto ist diese Dichotomie: Zum einen ziehen sich durch die Passion 14 Strophen „Auß D. Joh. Olearii Passions Liede O Jesu Gottes Lamm etc. in der Melodey O Gott du frommer Gott“ - und zwar jedesmal ausdrücklich an „Die Gemeine“ als ausführendes, nicht nur stumm rezipierendes Organ zugewiesen.  
 
@@ -642,7 +655,7 @@ Zum Stichwort „Gewissens-Hahn“ in Böhms Passion ist anzumerken: Die Spur di
 Wird mir gleich der Sünden-Hahn  
 Im Gewissen krehen müssen  
 
-Auf den ersten Blick hat sich somit (spätestens 1724) der Textbeiträger für Bachs Johannes-Passion derselben Vorlage („Der grünen Jugend Nothwendige Gedancken“) bedient wie 13 Jahre zuvor der Urheber des Librettos für Georg Böhms Lukas-Passion.  
+Auf den ersten Blick hat sich somit (spätestens 1724) der Textbeiträger für Bachs Johannes-Passion derselben Buchs („Der grünen Jugend Nothwendige Gedancken“) bedient wie 13 Jahre zuvor der Urheber des Librettos für Georg Böhms Lukas-Passion.  
 
 Weise griff nun seinerseits auf eine 1666 publizierte Formulierung aus Heinrich Müllers „Geistlichen Erquickstunden“ zurück. Dieses Werk ist sowohl in Bachs nachgelassener Büchersammlung (Wilhelmi Nr. 42) nachweisbar als auch in Form einer ohne Ortsangabe genannten Auflage von 1720, die als Nr. 1288 in Jauchs Bibliothekskatalog verzeichnet ist. (Vielleicht ein Parallelexemplar zu dem ebenfalls 1720 und ohne Verlagsort katalogisierten Exemplar 0001/8 Asc. 2330 der LMU München?)  
 Widmungsträgerin der ersten Gesamtausgabe dieser Müllerschen Texte war auf jeden Fall niemand anderes als die unmittelbare Dienstherrin von Jauchs Mutter, die Herzogin Magdalena Sybilla von Mecklenburg-Güstrow. (Ein wohl um 1700 gedrucktes Exemplar einer der bis ins 20. Jahrhundert reichenden, auch auf Ungarisch und Norwegisch erschienenen Auflagen im Eigentum des Verfassers.)  
@@ -661,7 +674,7 @@ Eine weitere Anspielung an Müllers Text:
 
 „Der öffentlichen Hasser gibts viel, noch mehr der falschen Brüder, die unter dem Zucker freundlicher Worte ein Hertzensgifft verbergen, und mit dem Schein gleissender Gebärden die Einfalt betriegen.“  
 
-findet sich in der Choralkantate BWV 115 (5.11.1724):  
+Eine weitere Anspielung an Müllers Text findet sich in der Choralkantate BWV 115 (5.11.1724):  
 
 Des Satans List ist ohne Grund,  
 die Sünder zu bestricken,  
@@ -691,10 +704,10 @@ Jauchs berufliches Wirken konzentrierte sich auf die Sorge für eine, wie er es 
 
 1695 hatte der Vierundzwanzigjährige - wie sich aus einem auszugsweise gedruckten Brief des Kopenhagener Hofpredigers, Universitätsrektors, Kirchenlieddichters und luthertreuen Kontroverstheologen Hector Gottfried Masius an seinen Rostocker Kollegen Johannes Fecht (Jauchs Mentor) ergibt - unter dem Beifall der sämtlichen Zuhörer („totius auditorii applausum“) vor dem jungen dänischen Prinzen Carl (1680-1729) in dessen dortiger Schlosskirche gepredigt - bevor dieser von seinen Erziehungsberechtigten einem allzu „deutschen“ Einfluss entzogen wurde. Die Reise war „auf sein unterthänigstes Ansuchen“ durch Herzog Gustav Adolf „gnädigst vergönnet“ worden, „dessen Stipendiat er war“.  
 
-Bei dieser Gelegenheit hatte er sich „mit dasigen berühmten Männern“ (und vielleicht auch mit Urban Gottfried Sieber, nach dessen Studium in Kiel damals Hofmeister nahe Schloss Frederiksborg und später einer der nachgeordneten Nachmittagsprediger während der Leipziger Uraufführungen der Choralkantaten?) „in nützliche discourse … öffters eingelassen“.  
+Bei dieser Gelegenheit hatte er sich „mit dasigen [leider ungenannten] berühmten Männern“ (und vielleicht auch mit Urban Gottfried Sieber, nach dessen Studium in Kiel damals Hofmeister nahe Schloss Frederiksborg und später einer der nachgeordneten Nachmittagsprediger während der Leipziger Uraufführungen der Choralkantaten?) „in nützliche discourse … öffters eingelassen“.  
 
 
-Die Gemahlin Augusts des Starken, Christiane Eberhardine von Brandenburg-Bayreuth, lud Jauch (wohl durch Vermittlung ihrer elterlichen Entourage) nach der kontrovers diskutierten Konversion ihres kurfürstlich / königlichen Gemahls zum Predigen während einer „Brunnen-Cur“ in ihre Privatgemächer auf Schloss Pretzsch und in die nahegelegene Stadtkirche ein.  
+Die Gemahlin Augusts des Starken, Christiane Eberhardine von Brandenburg-Bayreuth, lud Jauch (wohl durch Vermittlung ihrer elterlichen Entourage) vor, während oder nach der kontrovers diskutierten Konversion ihres kurfürstlich / königlichen Gemahls zum Predigen während einer „Brunnen-Cur“ in ihre Privatgemächer auf Schloss Pretzsch und in die nahegelegene Stadtkirche ein.  
 
 Dort hätte er in Kontakt mit dem späteren Leipziger Thomaspastor und Beichtvater Bachs, Christian Weise d.Ä. treten können, der 1724/25 bei den Uraufführungen eines Teils der Choralkantaten auf der Kanzel stehen sollte. Weise war aufgrund seiner homiletischen Kompetenz von 1696 bis 1699 als Diakonus in das benachbarte Torgau berufen worden und predigte ebenfalls öffentlich und privatim vor der Fürstin.  
 
@@ -702,16 +715,20 @@ Dem steht eventuell entgegen, dass dieser Vorgang laut Bertram (1719) erst nach 
 
 
 Jauchs besondere seelsorgerische Kompetenz wurde auch propagiert durch ein (ebenfalls von Bertram 1719 kolportiertes) Ereignis, das zu dem sehr speziellen Phänomen der „Maleficantenberichte“ gehört. Demnach hatte er einen zum Tode verurteilten römisch-katholischen Dragoner aus dem Regiment des Generalmajors Villars (Claude-Louis-Hector de Villars, Marschall von Frankreich ) auf dem etwa eine halbe Meile (3 bis 4 Kilometer) langen Weg zur militärischen Exekution durch provisorische Glaubensinstruktion, Examination und Verabreichung des Abendmahls zum „wahren Glaubens-Grund“ überzeugt - nachdem dieser noch kurz zuvor von einem Pater Le Blanche „in einem Gartenhause“ die Heilige Kommunion „nach päbstlicher Weise“ empfangen hatte. (Vgl. Jakubowski-Tiessen 2011)  
-1725 spielt eine vergleichbare Thematik übrigens eine Rolle in der Lebensgeschichte des, auch von C.F. Henrici  konfessisons-kontrovers publizistisch ausgeschlachteten, spektakulären Ermordung des Dresdner Kreuzkirchen-Pfarrers [Hermann Joachim Hahn](https://de.wikipedia.org/wiki/Hermann_Joachim_Hahn).  
+1725 spielte eine vergleichbare Thematik übrigens eine Rolle in der auch von C.F. Henrici konfessisons-kontrovers ausgeschlachteten Lebensgeschichte des auf spektakuläre Weise ermordeten Dresdner Kreuzkirchen-Pfarrers [Hermann Joachim Hahn](https://de.wikipedia.org/wiki/Hermann_Joachim_Hahn).  
 
 
 Der 1765 aus dem Nachlass des 1698 erstgeborenen Sohnes, des Lüneburger Michaelis-Pastors Ludolph Friedrich Jauch, kurzfristig samt „Stellagen“ versteigerte Bibliotheksbestand ermöglicht anhand eines Auktionskatalogs, der etwa 5.000 Bände, Konvolute, Faszikel und leider nicht näher spezifizierte Kapseln verzeichnet, detaillierte Einblicke in Bildungsstand und Interessenlage der beiden Besitzer, wobei (möglicherweise erhebliche, teilweise verfolgbare) Abspaltungen im Rahmen einer mutmaßlichen Erbteilung 1725ff ebenso im Blick behalten werden müssen wie die offenkundigen Zukäufe nach dem Tod des Erstbesitzers. (Privates Digitalisat des einzigen erhaltenen Exemplars sowie eine daraus entwickelte Datenbank im Besitz des Verfassers.)  
 
 Bislang konnte immerhin ein konkretes Werk aus diesem Bestand nachgewiesen werden: Ein in der GWLB Hannover (Signatur: T-A262:1) überliefertes Exemplar des „Codex Pseudepigraphus Veteris Testamenti“ des Hamburger Rektors Johann Albert Fabricius, (2. Auflage Hamburg 1722; Katalog Nrn. 2792 und 2793) trägt einen eigenhändigen, bei der bibliothekarischen Erfassung als „Jauch, Ludwig Friedrich“ nicht ganz korrekt aufgelösten Besitzeintrag - wohinter sich mit einiger Sicherheit Ludolph Friedrich verbirgt, den sein Vater einst in die Obhut des Hamburger Gelehrten zu übergeben versucht hatte. (s.o.)
 
-Auf Johann Christoph Jauch dürfte zum Beispiel die Anschaffung jener achtbändigen Ausgabe des 1697 erschienenen „Wagnerschen Gesangbuchs“ zurückgehen (Nr. 2645 - 2652 des Katalogs), einer enzyklopädischen, allein schon aus materiellen Gründen keineswegs für den Massengebrauch konzipierten Choraltext-Anthologie, die auch als wesentlicher Bestandteil der theologischen Bibliothek Bachs belegt ist. Damit ist die Voraussetzung für die Annahme gegeben, dass sich Dichter und Komponist bei einer Abstimmung über das hymnologische Programm der Choralkantaten auf das gleiche, umfangreiche Repertorium von Kirchenliedern stützen konnten.  
+Auf Johann Christoph Jauch dürfte zum Beispiel die Anschaffung jener achtbändigen Ausgabe des 1697 erschienenen „Wagnerschen Gesangbuchs“ zurückgehen (Nr. 2645 - 2652 des Katalogs), einer enzyklopädischen, allein schon aus materiellen Gründen keineswegs für den Massengebrauch konzipierten Choraltext-Anthologie, die auch als wesentlicher Bestandteil der theologischen Bibliothek Bachs belegt ist. Damit ist die Voraussetzung für die Annahme gegeben, dass sich Dichter und Komponist bei einer Abstimmung über das hymnologische Programm der Choralkantaten auf das gleiche, umfangreiche Repertorium von Kirchenliedern stützen konnten. Freilich, ohne dass bekannt ist, wann welches der 1750 posthum verzeichneten spärlichen Reste aus Bachs Bibliothek jeweils in seinen Besitz gelangte.  
 
-Je vier Titel von zwei prominenten Vertretern der Norddeutschen [Reformorthodoxie](https://g.co/gemini/share/79f3741969c7), nämlich August Pfeiffer (Lübeck) und Heinrich Müller (Rostock), belegen zudem - zusammen mit weiteren Werken anderer Autoren - eine quantitativ mit 23 bzw. 32 Prozent beachtenswerte, theologisch durchaus tendenziöse Schnittmenge der hinterlassenen Bibliotheken Bachs und seines Hauptlibrettisten. (Vgl. Wilhelmi 1979: Nrn. 5, 8, 10 sic!, 11,14, 20, 36, 38, 39, 42, 51, 52 sowie die Zweifelsfälle 2, 7, 13, 35, 45.)  
+Dieses methodische Manko gehört wohl auf immer zu den beklagenswerten, „unvermeidlichen Lücken“ in dessen Lebensgeschichte. Ansatzweise lösbar durch Zuordnung der Titel zu Kategorien wie „lutherisch-orthodox“, „reformpietistisch“, „früh-aufklärerisch“. Anders betrachtet: Bis wann hatte Bach überhaupt ein Interesse an der theoretischen Untermauerung theologischer Positionen, wenn sein Produktionsvolumen sich doch Ende der 1720er Jahre erschöpfte? Oder war seine Handbibliothek überwiegend „nur“ Andachtslektüre?  
+
+Tragisch erscheinen vor diesem Hintergrund die, mit enormem historistisch-hermeneutischem Aufwand herbeigeführten, auf geduldigem Papier und teils mit Subventionen publizierten, lebenslangen Lebenslügen von Vertretern einer selbstermächtigten „Theologischen Bachforschung“, die - wie Martin Petzoldt oder Renate Steiger, letztlich aus ganz anderer Perspektive auch Eric Thomas Chafe - Bach hochkomplexe semantische Konstrukte unterschieben, die doch recht eigentlich auf seine bekannten wie unbekannten Text-Lieferanten zurückzuführen und ihnen anzudichten, anzuloben und auch anzukreiden sein sollten.  
+
+Gleichwohl: Je vier Titel von zwei prominenten Vertretern der Norddeutschen [Reformorthodoxie](https://g.co/gemini/share/79f3741969c7), nämlich August Pfeiffer (Lübeck) und Heinrich Müller (Rostock), belegen zudem - zusammen mit weiteren Werken anderer Autoren - eine quantitativ mit 23 bzw. 32 Prozent beachtenswerte, theologisch durchaus tendenziöse Schnittmenge der hinterlassenen Bibliotheken Bachs und seines Hauptlibrettisten. (Vgl. Wilhelmi 1979: Nrn. 5, 8, 10 sic!, 11,14, 20, 36, 38, 39, 42, 51, 52 sowie die Zweifelsfälle 2, 7, 13, 35, 45.)  
 
 Zu erwähnen bleibt schließlich die Tatsache, dass unter Nr. 1881 des Iauch-Katalogs ein Exemplar des 1720 in Hamburg bei Trausold erschienenen Neuen Testaments verzeichnet ist, welches „also gedrucket, daß alle Worte und Reden, Welche der HErr JESUS selber gesprochen, Mit rothen Littern, Die übrige Haupt-Sprüche aber in schwartzem Abdruck, Mit grösseren Buchstaben, Zu lesen sind.“ 
 Dieses typographische [Unikat](https://g.co/gemini/share/957a8f41dc04) erinnert an den Umstand, dass das Autograph der Matthäus-Passion (und vielleicht auch schon die verschollene Originalhandschrift der Frühfassung und vielleicht auch deren Textvorlage?) für das explizite Bibelwort und für den Cantus firmus des Exordiums rote Tinte verwendet - durch wen auch immer Bach zu dieser außergewöhnlichen Gestaltungsweise angeregt worden sein mag.  
