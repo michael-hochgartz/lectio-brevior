@@ -4,7 +4,7 @@ Bibliographische Handreichung zu den Manuskriptentwürfen:
 - Zur Person des Leipziger Hauptlibrettisten Johann Sebastian Bachs.md
 
 Michael Hochgartz (D 48153 Münster)  
-michael@hochgartz.de - 24.03.2024  
+michael@hochgartz.de - 09.08.03.2024  
 https://github.com/michael-hochgartz/lectio-brevior   
 
 Fachkundige Leser der Entwürfe des Thesenpapiers und des Vortragsmanuskripts erhalten auf diesem Weg einen Zugriff auf die in kürzest möglicher Form referenzierte Standardliteratur und auf einige wenige Spezialtexte. Eine vollständige Bibliographie bleibt ebenso einer späteren Ausarbeitung vorbehalten wie der Nachweis der mit erheblichen Aufwänden ermittelten, unpublizierten Archivalien, Briefe und Originaldrucke. Wie die beiden Haupttexte, so trägt auch diese Aufstellung den Charakter eines fortlaufenden Werkstattberichts.  
@@ -83,7 +83,8 @@ Abkürzungen
 **Marx**, Hans Joachim:  '... eines welt-berühmten Mannes gewisse Passion': zur Herkunft der Händel zugeschriebenen 'Johannes-Passion', Musica 41/4 (**1987**), 311-316  
 **Maul**, Michael, Johann Sebastian Bachs Besuche in der Residenzstadt Gera, BJ **2004a**, 101–120  
 **Maul**, Michael, Alles mit Gott und nichts ohn’ ihn – Eine neu aufgefundene Aria von Johann Sebastian Bach, BJ **2005**, 7–34  
-**Maul**, Michael, "Wie wunderbar sind deine Werke", Berlin **2023**  
+**Maul**, Michael, "Wie wunderbar sind deine Werke", Berlin **2023** 
+**Maul/Wollny**,  Buxtehude, Reinken und der junge Bach : Überlegungen zur "Weimarer Orgeltabulatur" / Michael Maul und Peter Wollny. In: Dieterich Buxtehude : Text - Kontext - Rezeption : Bericht über das Symposion an der Musikhochschule Lübeck, 10.-12. Mai 2007, Kassel **2011**, 144-187  
 **Melamed**, Daniel R.: Zum Text und Kontext der „Keiser“-Markuspasion, BJ **1999**, 35ff  
 **Mendel**, Arthur, Traces of the pre-history of Bachs St. John and St. Matthew Passions, in: Festschrift Otto Erich Deutsch, Kassel **1963**  
 **Mendel 1964**  
