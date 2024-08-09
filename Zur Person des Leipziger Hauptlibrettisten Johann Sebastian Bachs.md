@@ -30,13 +30,11 @@ Man muss dem Gericht natürlich eine stimmige und lebensnahe Geschichte präsent
 Bildung lässt sich nicht downloaden.  
 (Günther Jauch, 2009)  
 
-Die Diplomitie ist die größtmögliche Form der Ignoranz gegenüber Originalquellen. Diplomioten lesen nicht nur grundsätzlich keine handschriftlichen Dokumente, sondern leugnen sogar ihre Existenz. (Nach Walter [Moers](http://Quelle:%20https://beruhmte-zitate.de/themen/ignoranz/))  
-
 Einer muss sich quälen - der Autor oder der Leser.  
 (Wolf Schneider)  
 
 Einer? - Alle!
-(Ich)  
+(Ich auch)  
 
 
 
@@ -722,11 +720,9 @@ Der 1765 aus dem Nachlass des 1698 erstgeborenen Sohnes, des Lüneburger Michael
 
 Bislang konnte immerhin ein konkretes Werk aus diesem Bestand nachgewiesen werden: Ein in der GWLB Hannover (Signatur: T-A262:1) überliefertes Exemplar des „Codex Pseudepigraphus Veteris Testamenti“ des Hamburger Rektors Johann Albert Fabricius, (2. Auflage Hamburg 1722; Katalog Nrn. 2792 und 2793) trägt einen eigenhändigen, bei der bibliothekarischen Erfassung als „Jauch, Ludwig Friedrich“ nicht ganz korrekt aufgelösten Besitzeintrag - wohinter sich mit einiger Sicherheit Ludolph Friedrich verbirgt, den sein Vater einst in die Obhut des Hamburger Gelehrten zu übergeben versucht hatte. (s.o.)
 
-Auf Johann Christoph Jauch dürfte zum Beispiel die Anschaffung jener achtbändigen Ausgabe des 1697 erschienenen „Wagnerschen Gesangbuchs“ zurückgehen (Nr. 2645 - 2652 des Katalogs), einer enzyklopädischen, allein schon aus materiellen Gründen keineswegs für den Massengebrauch konzipierten Choraltext-Anthologie, die auch als wesentlicher Bestandteil der theologischen Bibliothek Bachs belegt ist. Damit ist die Voraussetzung für die Annahme gegeben, dass sich Dichter und Komponist bei einer Abstimmung über das hymnologische Programm der Choralkantaten auf das gleiche, umfangreiche Repertorium von Kirchenliedern stützen konnten. Freilich, ohne dass bekannt ist, wann welches der 1750 posthum verzeichneten spärlichen Reste aus Bachs Bibliothek jeweils in seinen Besitz gelangte.  
+Auf Johann Christoph Jauch dürfte zum Beispiel die Anschaffung jener achtbändigen Ausgabe des 1697 erschienenen „Wagnerschen Gesangbuchs“ zurückgehen (Nr. 2645 - 2652 des Katalogs), einer enzyklopädischen, allein schon aus materiellen Gründen keineswegs für den Massengebrauch konzipierten Choraltext-Anthologie, die auch als wesentlicher Bestandteil der theologischen Bibliothek Bachs belegt ist. Damit ist die Voraussetzung für die Annahme gegeben, dass sich Dichter und Komponist bei einer Abstimmung über das hymnologische Programm der Choralkantaten auf das gleiche, umfangreiche Repertorium von Kirchenliedern stützen konnten. Freilich, ohne dass bekannt ist, wann welche der 1750 posthum verzeichneten Reste aus Bachs Bibliothek jeweils in seinen Besitz gelangten.  
 
-Dieses methodische Manko gehört wohl auf immer zu den beklagenswerten, „unvermeidlichen Lücken“ in dessen Lebensgeschichte. Ansatzweise lösbar durch Zuordnung der Titel zu Kategorien wie „lutherisch-orthodox“, „reformpietistisch“, „früh-aufklärerisch“. Anders betrachtet: Bis wann hatte Bach überhaupt ein Interesse an der theoretischen Untermauerung theologischer Positionen, wenn sein Produktionsvolumen sich doch Ende der 1720er Jahre erschöpfte? Oder war seine Handbibliothek überwiegend „nur“ Andachtslektüre?  
-
-Gleichwohl: Je vier Titel von zwei prominenten Vertretern der Norddeutschen [Reformorthodoxie](https://g.co/gemini/share/79f3741969c7), nämlich August Pfeiffer (Lübeck) und Heinrich Müller (Rostock), belegen zudem - zusammen mit weiteren Werken anderer Autoren - eine quantitativ mit 23 bzw. 32 Prozent beachtenswerte, theologisch durchaus tendenziöse Schnittmenge der hinterlassenen Bibliotheken Bachs und seines Hauptlibrettisten. (Vgl. Wilhelmi 1979: Nrn. 5, 8, 10 sic!, 11,14, 20, 36, 38, 39, 42, 51, 52 sowie die Zweifelsfälle 2, 7, 13, 35, 45.)  
+Je vier Titel von zwei prominenten Vertretern der Norddeutschen [Reformorthodoxie](https://g.co/gemini/share/79f3741969c7), nämlich August Pfeiffer (Lübeck) und Heinrich Müller (Rostock), belegen zudem - zusammen mit weiteren Werken anderer Autoren - eine quantitativ mit 23 bzw. 32 Prozent beachtenswerte, theologisch durchaus tendenziöse Schnittmenge der hinterlassenen Bibliotheken Bachs und seines Hauptlibrettisten. (Vgl. Wilhelmi 1979: Nrn. 5, 8, 10 sic!, 11,14, 20, 36, 38, 39, 42, 51, 52 sowie die Zweifelsfälle 2, 7, 13, 35, 45.)  
 
 Zu erwähnen bleibt schließlich die Tatsache, dass unter Nr. 1881 des Iauch-Katalogs ein Exemplar des 1720 in Hamburg bei Trausold erschienenen Neuen Testaments verzeichnet ist, welches „also gedrucket, daß alle Worte und Reden, Welche der HErr JESUS selber gesprochen, Mit rothen Littern, Die übrige Haupt-Sprüche aber in schwartzem Abdruck, Mit grösseren Buchstaben, Zu lesen sind.“ 
 Dieses typographische [Unikat](https://g.co/gemini/share/957a8f41dc04) erinnert an den Umstand, dass das Autograph der Matthäus-Passion (und vielleicht auch schon die verschollene Originalhandschrift der Frühfassung und vielleicht auch deren Textvorlage?) für das explizite Bibelwort und für den Cantus firmus des Exordiums rote Tinte verwendet - durch wen auch immer Bach zu dieser außergewöhnlichen Gestaltungsweise angeregt worden sein mag.  
