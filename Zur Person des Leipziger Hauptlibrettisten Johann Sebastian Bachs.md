@@ -4,7 +4,7 @@ Entwurf für ein Vortragsmanuskript (Es gilt das gesprochene Wort.)
 
 Michael Hochgartz
 D 48153 Münster  
-michael@hochgartz.de - 08.08.2024  
+michael@hochgartz.de - 09.08.2024  
 
 Quelltext, Versionsgeschichte und Literaturverzeichnis:  
 <https://github.com/michael-hochgartz/lectio-brevior>  
@@ -30,7 +30,7 @@ Man muss dem Gericht natürlich eine stimmige und lebensnahe Geschichte präsent
 Bildung lässt sich nicht downloaden.  
 (Günther Jauch, 2009)  
 
-Die Diplomitie ist die größtmögliche Form der Ignoranz gegenüber Originalquellen. Diplomioten lesen nicht nur grundsätzlich keine handschriftlichen Dokumente, sondern leugnen sogar ihre Existenz. (Nach Walter [Moers](http://Quelle:%20https://beruhmte-zitate.de/themen/ignoranz/)).  
+Die Diplomitie ist die größtmögliche Form der Ignoranz gegenüber Originalquellen. Diplomioten lesen nicht nur grundsätzlich keine handschriftlichen Dokumente, sondern leugnen sogar ihre Existenz. (Nach Walter [Moers](http://Quelle:%20https://beruhmte-zitate.de/themen/ignoranz/))  
 
 Einer muss sich quälen - der Autor oder der Leser.  
 (Wolf Schneider)  
@@ -725,8 +725,6 @@ Bislang konnte immerhin ein konkretes Werk aus diesem Bestand nachgewiesen werde
 Auf Johann Christoph Jauch dürfte zum Beispiel die Anschaffung jener achtbändigen Ausgabe des 1697 erschienenen „Wagnerschen Gesangbuchs“ zurückgehen (Nr. 2645 - 2652 des Katalogs), einer enzyklopädischen, allein schon aus materiellen Gründen keineswegs für den Massengebrauch konzipierten Choraltext-Anthologie, die auch als wesentlicher Bestandteil der theologischen Bibliothek Bachs belegt ist. Damit ist die Voraussetzung für die Annahme gegeben, dass sich Dichter und Komponist bei einer Abstimmung über das hymnologische Programm der Choralkantaten auf das gleiche, umfangreiche Repertorium von Kirchenliedern stützen konnten. Freilich, ohne dass bekannt ist, wann welches der 1750 posthum verzeichneten spärlichen Reste aus Bachs Bibliothek jeweils in seinen Besitz gelangte.  
 
 Dieses methodische Manko gehört wohl auf immer zu den beklagenswerten, „unvermeidlichen Lücken“ in dessen Lebensgeschichte. Ansatzweise lösbar durch Zuordnung der Titel zu Kategorien wie „lutherisch-orthodox“, „reformpietistisch“, „früh-aufklärerisch“. Anders betrachtet: Bis wann hatte Bach überhaupt ein Interesse an der theoretischen Untermauerung theologischer Positionen, wenn sein Produktionsvolumen sich doch Ende der 1720er Jahre erschöpfte? Oder war seine Handbibliothek überwiegend „nur“ Andachtslektüre?  
-
-Tragisch erscheinen vor diesem Hintergrund die, mit enormem historistisch-hermeneutischem Aufwand herbeigeführten, auf geduldigem Papier und teils mit Subventionen publizierten, lebenslangen Lebenslügen von Vertretern einer selbstermächtigten „Theologischen Bachforschung“, die - wie Martin Petzoldt oder Renate Steiger, letztlich aus ganz anderer Perspektive auch Eric Thomas Chafe - Bach hochkomplexe semantische Konstrukte unterschieben, die doch recht eigentlich auf seine bekannten wie unbekannten Text-Lieferanten zurückzuführen und ihnen anzudichten, anzuloben und auch anzukreiden sein sollten.  
 
 Gleichwohl: Je vier Titel von zwei prominenten Vertretern der Norddeutschen [Reformorthodoxie](https://g.co/gemini/share/79f3741969c7), nämlich August Pfeiffer (Lübeck) und Heinrich Müller (Rostock), belegen zudem - zusammen mit weiteren Werken anderer Autoren - eine quantitativ mit 23 bzw. 32 Prozent beachtenswerte, theologisch durchaus tendenziöse Schnittmenge der hinterlassenen Bibliotheken Bachs und seines Hauptlibrettisten. (Vgl. Wilhelmi 1979: Nrn. 5, 8, 10 sic!, 11,14, 20, 36, 38, 39, 42, 51, 52 sowie die Zweifelsfälle 2, 7, 13, 35, 45.)  
 
