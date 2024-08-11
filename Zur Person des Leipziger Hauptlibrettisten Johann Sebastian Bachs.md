@@ -4,7 +4,7 @@ Entwurf für ein Vortragsmanuskript (Es gilt das gesprochene Wort.)
 
 Michael Hochgartz
 D 48153 Münster  
-michael@hochgartz.de - 09.08.2024  
+michael@hochgartz.de - 11.08.2024  
 
 Quelltext, Versionsgeschichte und Literaturverzeichnis:  
 <https://github.com/michael-hochgartz/lectio-brevior>  
@@ -602,6 +602,9 @@ und die von Kümmerling (1963; 1970) mit dreieinhalb guten Gründen (Stilkritik;
 Wer immer diesen nirgendwo sonst nachweisbaren Kantatentext geschaffen hat - er muss in einem besonderen Vertrauensverhältnis zu Böhm gestanden oder auch nur in dessen Region gelebt haben. Der Sammelband D-B Mus.ms. 30101 enthält ausschließlich Werke von drei norddeutsche Komponisten, deren Nachnamen mit „B“ beginnen: Bruhns, Böhm, Brunckhorst. Der gesamte Text bleibt in [stilometrischer](https://www.perplexity.ai/search/Stilometrie-UWjKwhHIRqqWxwEfxl8Hqw) Hinsicht mit den gesicherten bzw. zugeschriebenen Dichtungen Jauchs unter Berücksichtigung der mutmaßlichen Entstehungszeit abzugleichen.  
 
 Über die Gründe J.C. Jauchs, seine Autorschaft nur doppelt verschleiert, nämlich in Form einer intrikaten Kombination von linearisiertem Achrostichon und Anagramm zu dokumentieren, so dass sie zwar für (möglichst wenige?) Eingeweihte erkennbar blieb, offiziell aber nicht zutage trat, lässt sich nur spekulieren. Traute er der literarischen Qualität der Hervorbringungen seiner poetischen Nebenstunden nicht - oder fürchtete er, seiner fortwährend feindlich gesonnenen Umgebung (die o.g. genannten „falschen Brüder“) Angriffsflächen für die Fortsetzung ihrer Intrigen zu bieten?  
+
+Nicht unerwähnt soll schließlich die Tatsache bleiben, dass die früheste, wohl in Georg Böhms Komponierstube entstandene eigenhändige Notenabschrift des 15jährigen J.S. Bach, die im Mai 2005 aufgetauchte Tabulatur von Reinkens Orgelfantasie „An Wasserflüssen Babylon“, mit der Invocatio „J.N.J.“ („In Nomine Jesu“) beginnt, wobei das erste „J“ in der Schreibweise sichtlich abweicht. Gleichwohl: Wer oder was mag den jungen Mettenschüler zur Wahl dieser Anrufung bewogen haben? Die - möglicherweise von Böhm geschriebene Kopiervorlage - oder eine andere Person aus dem Lüneburger Umfeld des Jahres 1700?  
+
 
 Die Zuschreibung der Autorschaft des lange Zeit verschollenen, 1870 (im Vorfeld von P. Spittas Bach-Biographie) ohne die entscheidenden Teile veröffentlichten, den folgenreichen Brand der Ratsbücherei 1959 in Form von zwei leidlich lädierten Exemplaren überlebenden Textbuchs der von Georg Böhm 1711 - ein Jahr vor der Uraufführung der Brockes-Passion im nahen Hamburg - dem Lüneburger Rat (zugleich mit einem handschriftlichen Exemplar) gewidmeten Lukas-Passion (Scheitler 2005: deest) ist bislang ungesichert, liegt aufgrund der Übereinstimmung einiger Stilmerkmale mit den Hochzeitskantaten von 1705 und dem 1713/14 erschienenen, auf Texten lokaler Autoren beruhenden Kantatenjahrgang Flors aber durchaus im Bereich des Möglichen. (Vgl. Walter 1967, der neben Jauch auch dessen Vorgänger Wehrenberg - und somit einen der weiteren Beiträger für die insgesamt acht Gratulationen zur o.g. Hochzeit - zur Diskussion stellt.)  
 
