@@ -4,7 +4,7 @@ Entwurf für ein Vortragsmanuskript (Es gilt das gesprochene Wort.)
 
 Michael Hochgartz
 D 48153 Münster  
-michael@hochgartz.de - 17.08.2024  
+michael@hochgartz.de - 19.08.2024  
 
 Quelltext, Versionsgeschichte und Literaturverzeichnis:  
 <https://github.com/michael-hochgartz/lectio-brevior>  
@@ -605,7 +605,7 @@ Wer immer diesen nirgendwo sonst nachweisbaren Kantatentext geschaffen hat - er 
 
 Nicht unerwähnt soll schließlich die Tatsache bleiben, dass eine der allerfrühesten, in Georg Böhms Komponierstube entstandenen eigenhändigen Notenabschriften des 15jährigen J.S. Bach, die im Mai 2005 in Weimar aufgetauchte Tabulatur von A. Reinkens Orgelfantasie „An Wasserflüssen Babylon“, mit der Invocatio „J.N.J.“ („In Nomine Jesu“) beginnt, wobei das erste „J“ in der Schreibweise etwas abweicht. Gleichwohl: Wer oder was mag den jungen Mettenschüler zur Wahl dieser Anrufung bewogen haben? Die - möglicherweise von Böhm geschriebene - Kopiervorlage oder eine Person aus seinem Lüneburger Umfeld des Jahres 1700?  
 
-Die Buchstabenfolge, die in gedruckten Theologica gelegentlich auftaucht, ist im musikalischen Kontext um 1700 sehr selten zu finden. Später (ab ca. 1720) verwendet Gottfried Heinrich Stölzel sie regelmäßig. Das älteste, bei RISM (ID no.: 190006905) nachgewiesene Zitat ist im Kopftitel einer zwölfstimmigen Kantate von Dietrich Buxtehude auf den Text „Frohlocket mit Händen“ (BuxWV 29) überliefert. Die in der Sammlung Düben befindliche Tabulatur wird um 1680-1690 datiert und dem anonymen, dort singulären Komponisten „HT5“ zugeschrieben.  
+Die Buchstabenfolge, die in gedruckten Theologica (z.B. auf dem Titel von Bachs Exemplar der „Calov-Bibel“) gelegentlich auftaucht, ist im musikalischen Kontext um 1700 sehr selten zu finden. Später (ab ca. 1720) verwendet Gottfried Heinrich Stölzel sie regelmäßig. Das älteste, bei RISM (ID no.: 190006905) nachgewiesene Zitat ist im Kopftitel einer zwölfstimmigen Kantate von Dietrich Buxtehude auf den Text „Frohlocket mit Händen“ (BuxWV 29) überliefert. Die in der Sammlung Düben befindliche Tabulatur wird um 1680-1690 datiert und dem anonymen, dort singulären Komponisten „HT5“ zugeschrieben.  
 
 Im Bachschen Kontext lässt sich „J.N.J“ nur noch ein einziges weiteres Mal nachweisen - leider nicht auf einem Autograph, sondern auf einer 1730/31 datierbaren Abschrift der Kantate BWV 73 von der Hand eines Kopisten namens Gottfried Ernst Sonntag, dem eine unbekannte Zwischenquelle vorgelegen haben muss.  
 
