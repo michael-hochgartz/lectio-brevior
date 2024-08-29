@@ -4,7 +4,7 @@ Entwurf für ein iterativ dokumentiertes Vortragsmanuskript (Es gilt das gesproc
 
 Michael Hochgartz
 D 48153 Münster  
-michael@hochgartz.de - 19.08.2024  
+michael@hochgartz.de - 29.08.2024  
 
 Quelltext, Versionsgeschichte und Literaturverzeichnis:  
 <https://github.com/michael-hochgartz/lectio-brevior>  
