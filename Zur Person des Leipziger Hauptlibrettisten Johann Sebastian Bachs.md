@@ -63,6 +63,16 @@ Leider wurde bei der Publikation des Reisetagebuchs (vgl. Kohlfeldt 1905) mehr W
 
 Es ergibt sich die Überlegung, ob die drei Jahrzehnte nach diesem Ereignis in Leipziger Kantatentexten anzutreffenden rationalismuskritischen Floskeln - z.B. in BWV 2 („Und was der eigen Witz erdenket, … der eine wählet dies, der andre das, die törichte Vernunft ist ihr Kompaß“), BWV 178 („Schweig, schweig nur, [taumelnde Vernunft](https://www.perplexity.ai/search/was-ist-eine-_T_jKyw1R36M0HIjfnhOSw)“) und BWV 121 („Was Wunder, daß allhie Verstand und Witz gebricht“), aber auch - syntaktisch recht verstanden - BWV 180 („noch durch Vernunft das hohe Werk ergründet“) ihren Urgrund in diesen prägenden Begegnungen hatten und inwieweit sie ferner als aktuelle, unterschwellige Kommentare des Autors zu den seit 1723 eskalierenden [Kontroversen](https://gemini.google.com/share/e491aed845c9) um den Philosophen Christian Wolff zu interpretieren sind. (Vgl Fischer 2017.)  
 
+In wieweit sich im Subtext von BWV 178 (zum 30.7.1724) überdies Anspielungen auf kontrovers-theologische Diskussionen (speziell auch zum Thema Terminismus) belegen lassen, bleibt (auch anhand weiterer Kantaten-Texte) zu untersuchen und hängt zum Beispiel davon ab, ob sich das „stets“ in Bezug auf einen für jedes Individuum definierten letztmöglichen Gnadenzeitpunkt nur versmetrisch (8.8.9.9.8.8) oder auch theologisch begründen lässt. Die Hoffnung auf eine jederzeit mögliche geistliche Neugeburt „nur“ (hier nicht einschränkend gemeint, sondern im Sinne von einzig und allein) durch Christi historischen Kreuzestod wird jedenfalls zweifelsfrei bekräftigt.  
+
+Sprich nicht: die Frommen sind verlorn  ,
+das Kreuz hat sie nur neu geborn.  
+Denn denen, die auf Jesum hoffen,  
+steht stets die Tür der Gnaden offen;  
+und wenn sie Kreuz und Trübsal drückt,  
+so werden sie mit Trost erquickt.  
+
+
 
 Wichtigster Förderer Jauchs während seiner Rostocker Zeit war zunächst und auch später jener erwähnte Theologe Johannes [Fecht](https://gemini.google.com/share/b9e19dfd5891), der als Theologieprofessor, Universitätsrektor und Superintendent gewissermaßen in - wenn auch nicht unmittelbarer - „akademischer Sukzession“ zu dem als Stichwortgeber für bis zu sieben Sätze von Bachs Matthäuspassion sowie je eines Satzes der Kantate BWV 2 und der Johannespassion geltenden Heinrich Müller stand.  
 
