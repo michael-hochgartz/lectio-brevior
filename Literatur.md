@@ -4,7 +4,7 @@ Bibliographische Handreichung zu den Manuskriptentwürfen:
 - Zur Person des Leipziger Hauptlibrettisten Johann Sebastian Bachs.md
 
 Michael Hochgartz (D 48153 Münster)  
-michael@hochgartz.de - 09.08.03.2024  
+michael@hochgartz.de - 31.08.2024  
 https://github.com/michael-hochgartz/lectio-brevior   
 
 Fachkundige Leser der Entwürfe des Thesenpapiers und des Vortragsmanuskripts erhalten auf diesem Weg einen Zugriff auf die in kürzest möglicher Form referenzierte Standardliteratur und auf einige wenige Spezialtexte. Eine vollständige Bibliographie bleibt ebenso einer späteren Ausarbeitung vorbehalten wie der Nachweis der mit erheblichen Aufwänden ermittelten, unpublizierten Archivalien, Briefe und Originaldrucke. Wie die beiden Haupttexte, so trägt auch diese Aufstellung den Charakter eines fortlaufenden Werkstattberichts.  
@@ -69,6 +69,7 @@ Abkürzungen
 **Kohlfeldt**, G. Eine akademische Ferienreise von Rostock bis Königsberg im Jahre 1694. in: Baltische Studien IX (**1905**), 1–54  
 **Koska**, Bernd: Christian Wahrmuth – Ein Leipziger Dichter von (Bachs?) Kantatentexten. Vortrag beim Bachfest Leipzig **2023a** <https://www.youtube.com/watch?v=6h9vpB1mSzI&t=1572s>  
 **Koska**, Bernd: Der Dichter des Liedes von der Tabakspfeife BWV 515. In: BJ **2023b**, 229-236.  
+**Kraft**, Günther: Zur Entstehungsgeschichte des Hochzeitsquodlibet (BWV 524). In: BJ **1956**, 140-154.  
 **Krausse**, Helmut K., Erdmann Neumeister und die Kantatentexte Johann Sebastian Bachs, in BJ **1986**, 7-32  
 **Krummacher**, Friedhelm: Bachs Zyklus der Choralkantaten: Aufgaben und Lösungen, Göttingen **1995**  
 **Krummacher**, Friedhelm: Johann Sebastian Bach: Die Kantaten und Passionen, 3 Bde, Kassel **2018**  

@@ -4,7 +4,7 @@ Entwurf für ein iterativ dokumentiertes Vortragsmanuskript (Es gilt das gesproc
 
 Michael Hochgartz
 D 48153 Münster  
-michael@hochgartz.de - 29.08.2024  
+michael@hochgartz.de - 31.08.2024  
 
 Quelltext, Versionsgeschichte und Literaturverzeichnis:  
 <https://github.com/michael-hochgartz/lectio-brevior>  
@@ -63,15 +63,16 @@ Leider wurde bei der Publikation des Reisetagebuchs (vgl. Kohlfeldt 1905) mehr W
 
 Es ergibt sich die Überlegung, ob die drei Jahrzehnte nach diesem Ereignis in Leipziger Kantatentexten anzutreffenden rationalismuskritischen Floskeln - z.B. in BWV 2 („Und was der eigen Witz erdenket, … der eine wählet dies, der andre das, die törichte Vernunft ist ihr Kompaß“), BWV 178 („Schweig, schweig nur, [taumelnde Vernunft](https://www.perplexity.ai/search/was-ist-eine-_T_jKyw1R36M0HIjfnhOSw)“) und BWV 121 („Was Wunder, daß allhie Verstand und Witz gebricht“), aber auch - syntaktisch recht verstanden - BWV 180 („noch durch Vernunft das hohe Werk ergründet“) ihren Urgrund in diesen prägenden Begegnungen hatten und inwieweit sie ferner als aktuelle, unterschwellige Kommentare des Autors zu den seit 1723 eskalierenden [Kontroversen](https://gemini.google.com/share/e491aed845c9) um den Philosophen Christian Wolff zu interpretieren sind. (Vgl Fischer 2017.)  
 
-In wieweit sich im Subtext von BWV 178 (zum 30.7.1724) überdies Anspielungen auf kontrovers-theologische Diskussionen (speziell auch zum Thema Terminismus) belegen lassen, bleibt (auch anhand weiterer Kantaten-Texte) zu untersuchen und hängt zum Beispiel davon ab, ob sich das „stets“ in Bezug auf einen für jedes Individuum definierten letztmöglichen Gnadenzeitpunkt nur versmetrisch (8.8.9.9.8.8) oder auch theologisch begründen lässt. Die Hoffnung auf eine jederzeit mögliche geistliche Neugeburt „nur“ (hier nicht einschränkend gemeint, sondern im Sinne von einzig und allein) durch Christi historischen Kreuzestod wird jedenfalls zweifelsfrei bekräftigt.  
+In wieweit sich im Subtext von BWV 178 (zum 30.7.1724) überdies Anspielungen auf kontroverstheologische Diskussionen (speziell auch zu dem, schwerpunktmäßig von Vertretern des Pietismus besetzten Thema Terminismus) belegen lassen, bleibt (auch anhand weiterer Kantaten-Texte) zu untersuchen und hängt zum Beispiel davon ab, ob sich das „stets“ in Bezug auf einen für jedes Individuum definierten [letztmöglichen](https://www.perplexity.ai/search/worum-stritten-um-1700-anhange-nkILtzxUTx6XPRHsccqwmA#0) Gnadenzeitpunkt („terminus preremptorius“) nur versmetrisch (8.8.9.9.8.8) oder auch theologisch begründen lässt. Die Hoffnung auf eine jederzeit mögliche geistliche Neugeburt „nur“ (hier nicht einschränkend gemeint, sondern im Sinne von einzig und allein; also als syntaktisch verstellter Partikel zu „Kreuz“, nicht als Adverb zu „geborn“) durch Christi historischen Kreuzestod wird jedenfalls zweifelsfrei bekräftigt. Das Schlüsselwort „stets“ wird von Bach musikalisch durchaus bemerkenswert behandelt: Bei der Wiederholung der betr. Zeile der - ansonsten hier überwiegend kleinteilig rhythmisierten - Tenor-Partie setzt der Komponist einen (auch von ihm theologisch intendierten?) Akzent durch einen vorgezogenen Schwerpunkt (also ohne das vorangehende „steht“) in Form einer in den Folgetakt übergebundenen Halbenote.  
 
-Sprich nicht: die Frommen sind verlorn  ,
+Sprich nicht: die Frommen sind verlorn,  
 das Kreuz hat sie nur neu geborn.  
 Denn denen, die auf Jesum hoffen,  
 steht stets die Tür der Gnaden offen;  
 und wenn sie Kreuz und Trübsal drückt,  
 so werden sie mit Trost erquickt.  
 
+Derartige musikalische Finessen dürften auf autonomen, spontanen Entscheidungen während des Kompositionsprozesses beruhen. Es wäre abwegig, in solchen Fällen zwingend eine detaillierte Absprache mit dem Text-Autor zu unterstellen.  
 
 
 Wichtigster Förderer Jauchs während seiner Rostocker Zeit war zunächst und auch später jener erwähnte Theologe Johannes [Fecht](https://gemini.google.com/share/b9e19dfd5891), der als Theologieprofessor, Universitätsrektor und Superintendent gewissermaßen in - wenn auch nicht unmittelbarer - „akademischer Sukzession“ zu dem als Stichwortgeber für bis zu sieben Sätze von Bachs Matthäuspassion sowie je eines Satzes der Kantate BWV 2 und der Johannespassion geltenden Heinrich Müller stand.  
@@ -867,7 +868,9 @@ Beobachtung am Rande: Jede der sieben Strophen dieses Liedes (Johann Flittner, g
 „Als ich anno 1690 zu Jehna studirte / hatte ich einen recht frommen und exemplarischen Stuben Gesellen / welcher jetzo in dem Chur-Fürstenthum Hannover ein beliebter Prediger ist / der sunge dieses Lied Morgens und Abends / hielte auch dafür / wenn er des Morgens dieses Lied nicht angestimmet / er sey den gantzen Tag in seinen studiis unglücklich / sünge er aber solches des Abends nicht / so wäre er die gantze Nacht unruhig / und nennet er es nicht anders als sein Asylum cum auxilio, das ist mein Lied / das mir Sicherheit und Hülffe in allen Verrichtungen verschaffet.“  
 
 
-In der Woche vor dem 1. Sonntag nach Trinitatis 1725 (dem Termin für den Beginn des neuen Schuljahres an St. Thomas und somit eines möglich erscheinenden neuen Kantatenprojekts) traf Bach mit dem nun zum Superintendenten avancierten Avenarius anlässlich einer Orgelweihe in Gera zusammen. Die Annahme erscheint reizvoll, dass bei dieser Begegnung eine nachträgliche Vervollständigung - vielleicht gar eine nachfolgende Textpublikation - des abgebrochenen Choralkantantenjahrgangs ein Thema gewesen sein könnte, obwohl Avenarius nicht als Verfasser von madrigalischen Dichtungen bekannt geworden ist. (Vgl. Maul 2004a, der die irrtümliche Datierung in DOK II korrigert.)
+In der Woche vor dem 1. Sonntag nach Trinitatis 1725 (dem Termin für den Beginn des neuen Schuljahres an St. Thomas und somit eines möglich erscheinenden neuen Kantatenprojekts) traf Bach mit dem nun zum Superintendenten avancierten Avenarius anlässlich einer Orgelweihe in Gera zusammen. Die Annahme erscheint reizvoll, dass bei dieser Begegnung eine nachträgliche Vervollständigung - vielleicht gar eine nachfolgende Textpublikation - des abgebrochenen Choralkantantenjahrgangs ein Thema gewesen sein könnte, obwohl Avenarius nicht als Verfasser von madrigalischen Dichtungen bekannt geworden ist. (Vgl. Maul 2004a, der die irrtümliche Datierung in DOK II korrigert.)  
+Einen ersten Kontakt zur Familie Avenarius dürfte Bach bereits in Ohrdruf aufgenommen haben, wo Johann Martin A., ein Neffe des späteren Superintendenten, von 1697 bis 1700 im Chor des dortigen Lyzeums als Präfekt fungierte. (Vgl. Kraft 1956)  
+
 
 Jauchs Neuordnung und Erweiterung der Elmenhorst-Lieder lässt sich vor dem Hintergrund der hymnologischen Aktivitäten seiner Jenaischen Zeitgenossen interpretieren, die um 1700 nach dem Tod des dortigen Superintendenten Georg Goetze (1633 -1699, nicht identisch mit dem fast gleichnamigen, gleichwohl wesensverwandten Lübecker Superintendenten und Hymnologen; 1667- 1728) mit einer Edition von dessen, 1692 (nach dem Vorbild Johann Benedict Carpzovs im nahen Leipzig) in der Stadtkirche St. Michael gehaltenen Liedpredigten einsetzten, die Jauch in Jena Sonntag für Sonntag - vielleicht gar als dessen ständiger Tischgast? - miterlebt haben muss. (Privates Digitalisat der posthumen Ausgabe, deren Haupttext mit [I]n [N]omine [J]esu beginnt, im Besitz des Verfassers.)  
 
