@@ -367,7 +367,7 @@ Man kann noch diese Nacht
 den Sarg vor deine Türe bringen.  
 
 
-Schon bald nach dem Beginn des Kantatenzyklus (BWV 135/4, 25.6.1724) bemüht der Autor eine Situationsbeschreibung, die - ohne erkennbaren Bezug zu einer dogmatischen Aussage oder zur Perikope des Predigttextes - auf seine individuelle psychische und physische Befindlichkeit hinweist. Müdigkeit und Nachtschweiß - die hier nur mühsam auf eine theologische Deutungsebene projiziert werden - gelten in der historischen wie in der heutigen Heilkunde als [Leitsymptome](https://poe.com/s/Gs6WVCLSlY2eUh1RIlIe) einer chronischen Tuberkulose - einer Krankheit, die immer noch weltweit verbreitet ist.  
+Schon bald nach dem Beginn des Kantatenzyklus (BWV 135/4, 25.6.1724) bemüht der Autor eine Situationsbeschreibung, die - auf den ersten Blick in eindeutiger Übernahme aus Ps. 6;7 - auf seine individuelle psychische und physische Befindlichkeit hinweist. Müdigkeit und Nachtschweiß, die zunächst im Rezititativ Nr. 2 („Ach heile mich, du Arzt der Seelen; ich bin sehr krank und schwach;“) auf eine theologische Deutungsebene projiziert werden, gelten - lebensweltlich betrachtet - in der historischen wie in der heutigen Heilkunde als [Leitsymptome](https://poe.com/s/Gs6WVCLSlY2eUh1RIlIe) einer chronischen Tuberkulose - einer Krankheit, die immer noch weltweit verbreitet ist.  
 
 Ich bin von Seufzen müde,  
 mein Geist hat weder Kraft noch Macht,  
@@ -438,6 +438,10 @@ So hör’ die seuffzer / die ich thu /
 Und bring’ mich bald zu deiner ruh’/  
 Wan drauff in meiner angst an mir  
 Der todes-schweiß gar bricht herfür /  
+
+Generell ergibt sich aus den vorgenannten Belegen die Frage, ob und in wieweit der Autor in diesen (und weiteren) Fällen mit einer Art „doppeltem literarischen Boden“ operiert, indem er das „[poetische Ich](https://www.perplexity.ai/search/was-besagt-die-theorie-vom-poe-snjSPJiRQ9qu9Dud6TQoBg#1)“ einen rein theologisch fundierten Text verkünden lässt, aus dem sich auf einer zweiten Ebene lebensweltliche Erlebnisse des „realen Ich“ herauslesen lassen. Das Thema lohnt weitere Untersuchungen, auch über den Choralkantaten-Jahrgang hinaus.  
+
+
 
 Ist es mehr als ein Zufall, dass Johann Sebastian Bach am 20.1.1726 (2. Sonntag nach Epiphanias) an den ersten Jahrestag des Todes seines Librettisten gedenkt, indem er einen 1711 publiziertenText aus der Feder des Darmstädter Hofpoeten Georg Christian Lehms vertont (BWV 13), der - mit nur schwachem Stichwortbezug zur Perikope („Jammerkrug“; Joh 2,1-2) - über„Ächzen und erbärmlich Weinen“ als Mittel gegen „der Sorgen Krankheit … in der Trauerbrust“ reflektiert? Obwohl Lehms erst 1717 an den Folgen einer Lungentuberkulose sterben sollte, nimmt sich sein sechs Jahre zuvor veröffentlichter Text wie die Vorwegnahme einer konkreten Krankheitssituation aus, die der des Autors von BWV 135 und BWV 127 erstaunlich gleicht:  
 
