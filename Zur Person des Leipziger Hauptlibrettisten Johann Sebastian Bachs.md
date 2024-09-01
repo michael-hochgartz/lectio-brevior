@@ -1,10 +1,10 @@
 Ob ein Superintendens wohl Poete seyn könne? - Zur Person des „Leipziger“ Hauptlibrettisten Johann Sebastian Bachs.  
 
-Entwurf für ein iterativ dokumentiertes Vortragsmanuskript (Es gilt das gesprochene Wort.)  
+Entwurf für ein [iterativ](https://www.perplexity.ai/search/was-heisst-iterativ-ausserhalb-qlO7djCNQTmWLc.hHH3MEg#0) dokumentiertes Vortragsmanuskript (Es gilt das gesprochene Wort.)  
 
 Michael Hochgartz
 D 48153 Münster  
-michael@hochgartz.de - 31.08.2024  
+michael@hochgartz.de - 01.09.2024  
 
 Quelltext, Versionsgeschichte und Literaturverzeichnis:  
 <https://github.com/michael-hochgartz/lectio-brevior>  
@@ -666,7 +666,7 @@ Zum Stichwort „Gewissens-Hahn“ in Böhms Passion ist anzumerken: Die Spur di
 Wird mir gleich der Sünden-Hahn  
 Im Gewissen krehen müssen  
 
-Auf den ersten Blick hat sich somit (spätestens 1724) der Textbeiträger für Bachs Johannes-Passion derselben Buchs („Der grünen Jugend Nothwendige Gedancken“) bedient wie 13 Jahre zuvor der Urheber des Librettos für Georg Böhms Lukas-Passion.  
+Auf den ersten Blick hat sich somit (spätestens 1724) der Textbeiträger für Bachs Johannes-Passion desselben Buchs („Der grünen Jugend Nothwendige Gedancken“) bedient wie 13 Jahre zuvor der Urheber des Librettos für Georg Böhms Lukas-Passion.  
 
 Weise griff nun seinerseits auf eine 1666 publizierte Formulierung aus Heinrich Müllers „Geistlichen Erquickstunden“ zurück. Dieses Werk ist sowohl in Bachs nachgelassener Büchersammlung (Wilhelmi Nr. 42) nachweisbar als auch in Form einer ohne Ortsangabe genannten Auflage von 1720, die als Nr. 1288 in Jauchs Bibliothekskatalog verzeichnet ist. (Vielleicht ein Parallelexemplar zu dem ebenfalls 1720 und ohne Verlagsort katalogisierten Exemplar 0001/8 Asc. 2330 der LMU München?)  
 Widmungsträgerin der ersten Gesamtausgabe dieser Müllerschen Texte war auf jeden Fall niemand anderes als die unmittelbare Dienstherrin von Jauchs Mutter, die Herzogin Magdalena Sybilla von Mecklenburg-Güstrow. (Ein wohl um 1700 gedrucktes Exemplar einer der bis ins 20. Jahrhundert reichenden, auch auf Ungarisch und Norwegisch erschienenen Auflagen im Eigentum des Verfassers.)  
@@ -963,7 +963,7 @@ Der Umstand, dass Jauchs Brüder Johann Daniel und Franz Georg sowie sein Schwag
 
 Ob sich in den Kantatentexten von Anfang 1725 erste Spuren einer unterschwelligen Auseinandersetzung mit dem „[Thorner Blutgericht](https://www.perplexity.ai/search/Thorner-Blutgericht-RXsBypMVSsW6jDn4Uc69Sw)“ finden lassen - einem von Jesuiten initiierten, am 7. Dezember 1724 an der lutherischen bürgerlichen Elite der polnischen Stadt Thorn blutig exekutierten, staatlich inszenierten religiösen Racheakt - an dessen militärischer Durchsetzung Franz Georg Jauch beteiligt war und das im protestantischen Europa nachhaltige Empörung auslöste (z.B. in den 1725 gedruckten „acht Catechismus-Predigten … nebst beygefügten Anmerckungen über die letzte Lieder-Andacht der getödteten…“ des Lübecker Superintendenten, Hymnologen und Lieder-Freunds Georg Heinrich Goetze), ist aufgrund der engen zeitlichen Abfolgen eher unwahrscheinlich.
 
-Am 10. Mai 1855 - also gut 130 Jahre nach dem Tod ihres ursprünglichen Textdichters - wurde die Matthäus-Passion Johann Sebastian Bachs auch in Lüneburg unter Benutzung einer „durch königliche Huld“ dem Johanneum geschenkten Partitur und geleitet von dem 1836-1843 in Leipzig wirkenden Musikpaedagogen, nunmehrigen (seit 1842) Johannis-Organisten Louis Anger (vgl. DOK VI, B78) erstmals aufgeführt, in Jauchs langjähriger Wirkungstätte als Prediger, Seelsorger, Superintendent und Schulinspektor, an dem Ort, an dem seine sterblichen Überreste im Chorraum vis à vis der jahrzehntelang von Georg Böhm (und einst wohl auch vom jungen Bach) gespielten Orgel seit 1725 bis zur Auflassung der innerkirchlichen Grabstätten im 19. Jahrhundert ruhten. Anger dürfte mit einiger Sicherheit Zeitzeuge (vielleicht gar Mitwirkender) der epochemachenden Leipziger Wiederaufführung der Passionsmusik durch Felix Mendelssohn Bartholdy im Jahr 1841 gewesen sein.  
+Am 10. Mai 1855 - also gut 130 Jahre nach dem Tod ihres ursprünglichen Textdichters - wurde die Matthäus-Passion Johann Sebastian Bachs auch in Lüneburg unter Benutzung einer „durch königliche Huld“ dem Johanneum geschenkten Partitur und geleitet von dem 1836-1843 in Leipzig wirkenden Musikpaedagogen, 1842 zum Johannis-Organisten berufenen Louis Anger (vgl. DOK VI, B78) erstmals aufgeführt, in Jauchs langjähriger Wirkungstätte als Prediger, Seelsorger, Superintendent und Schulinspektor, an dem Ort, an dem seine sterblichen Überreste im Chorraum vis à vis der jahrzehntelang von Georg Böhm (und einst wohl auch vom jungen Bach) gespielten Orgel seit 1725 bis zur Auflassung der innerkirchlichen Grabstätten im 19. Jahrhundert ruhten. Anger dürfte mit einiger Sicherheit Zeitzeuge (vielleicht gar Mitwirkender) der epochemachenden Leipziger Bearbeitung und Aufführung der Passionsmusik durch Felix Mendelssohn Bartholdy im Jahr 1841 gewesen sein.  
 
 Die aus rezeptionsgeschichtlicher Sicht durchaus erhellende Rezension dieser Aufführung in Ausgabe 3/1855 der Niederrheinischen Musikzeitung (Geck 1967: deest) stellt die frühest nachweisbare gemeinsame Erwähnung der Stichworte „Bach“, „Matthäus-Passion“ und „Lüneburg“ dar.  
 
