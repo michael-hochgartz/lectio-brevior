@@ -4,7 +4,7 @@ Entwurf für ein [iterativ](https://www.perplexity.ai/search/was-heisst-iterativ
 
 Michael Hochgartz
 D 48153 Münster  
-michael@hochgartz.de - 01.09.2024  
+michael@hochgartz.de - 02.09.2024  
 
 Quelltext, Versionsgeschichte und Literaturverzeichnis:  
 <https://github.com/michael-hochgartz/lectio-brevior>  
@@ -1150,6 +1150,6 @@ Technische Hinweise:
 - Die ab Februar 2024 gelegentlich eingepflegten Hinweise auf externe Anmerkungen zu einzelnen Aspekten und Begriffen tragen experimentellen Charakter. Ihre KI-basierte technische Konsistenz ist naturgemäß [unverbindlich](https://www.perplexity.ai/search/Lassen-sich-Ergebnisse-MYBqXLBUSWSkl6OUAbdo.Q). Das gilt auch für die dort wiedergegebenen Inhalte. Gleichwohl mögen sie Rezipienten als Ausgangspunkte zum [Recherchieren](https://forum.golem.de/kommentare/sonstiges/sci-hub-netzsperre-gegen-schattenbibliothek-ohne-amtliche-anordnung/sci-hubs-haeufigste-nutzer-.../170657,6787489,6787489,read.html) und/oder [Raisonnieren](https://www.perplexity.ai/search/Was-versteht-man-hiUyvtrbTxaqOvl3IpBFqg) dienen.  
 - Die entgegen üblicher Praxis inverse Verwendung von eckigen Klammern [] als Merkmal auch für Hervorhebungen statt nur für Auslassungen ist der Verwendung von [Markdown](https://www.perplexity.ai/search/Welche-typographischen-Auszeichnungen-693c7axxQJWXM.uVy8JG8w) als Zielformat des primär in [Scrivener](https://www.perplexity.ai/search/Was-ist-Scrivener-G9ecLoaZSFiVEWKTg8he3g) gepflegten Grund-Textes geschuldet.  
 
-S.D.G  
+S.D.G.  
 
-[S]ei [D]ies [G]estattatet!  
+[S]ei [D]ies [G]estattet!  
