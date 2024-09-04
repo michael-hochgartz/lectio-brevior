@@ -4,7 +4,7 @@ Entwurf für ein [iterativ](https://www.perplexity.ai/search/was-heisst-iterativ
 
 Michael Hochgartz
 D 48153 Münster  
-michael@hochgartz.de - 02.09.2024  
+michael@hochgartz.de - 04.09.2024  
 
 Quelltext, Versionsgeschichte und Literaturverzeichnis:  
 <https://github.com/michael-hochgartz/lectio-brevior>  
@@ -63,7 +63,7 @@ Leider wurde bei der Publikation des Reisetagebuchs (vgl. Kohlfeldt 1905) mehr W
 
 Es ergibt sich die Überlegung, ob die drei Jahrzehnte nach diesem Ereignis in Leipziger Kantatentexten anzutreffenden rationalismuskritischen Floskeln - z.B. in BWV 2 („Und was der eigen Witz erdenket, … der eine wählet dies, der andre das, die törichte Vernunft ist ihr Kompaß“), BWV 178 („Schweig, schweig nur, [taumelnde Vernunft](https://www.perplexity.ai/search/was-ist-eine-_T_jKyw1R36M0HIjfnhOSw)“) und BWV 121 („Was Wunder, daß allhie Verstand und Witz gebricht“), aber auch - syntaktisch recht verstanden - BWV 180 („noch durch Vernunft das hohe Werk ergründet“) ihren Urgrund in diesen prägenden Begegnungen hatten und inwieweit sie ferner als aktuelle, unterschwellige Kommentare des Autors zu den seit 1723 eskalierenden [Kontroversen](https://gemini.google.com/share/e491aed845c9) um den Philosophen Christian Wolff zu interpretieren sind. (Vgl Fischer 2017.)  
 
-In wieweit sich im Subtext von BWV 178 (zum 30.7.1724) überdies Anspielungen auf kontroverstheologische Diskussionen (speziell auch zu dem, schwerpunktmäßig von Vertretern des Pietismus besetzten Thema Terminismus) belegen lassen, bleibt (auch anhand weiterer Kantaten-Texte) zu untersuchen und hängt zum Beispiel davon ab, ob sich das „stets“ in Bezug auf einen für jedes Individuum definierten [letztmöglichen](https://www.perplexity.ai/search/worum-stritten-um-1700-anhange-nkILtzxUTx6XPRHsccqwmA#0) Gnadenzeitpunkt („terminus preremptorius“) nur versmetrisch (8.8.9.9.8.8) oder auch theologisch begründen lässt. Die Hoffnung auf eine jederzeit mögliche geistliche Neugeburt „nur“ (hier nicht einschränkend gemeint, sondern im Sinne von einzig und allein; also als syntaktisch verstellter Partikel zu „Kreuz“, nicht als Adverb zu „geborn“) durch Christi historischen Kreuzestod wird jedenfalls zweifelsfrei bekräftigt. Das Schlüsselwort „stets“ wird von Bach musikalisch durchaus bemerkenswert behandelt: Bei der Wiederholung der betr. Zeile der - ansonsten hier überwiegend kleinteilig rhythmisierten - Tenor-Partie setzt der Komponist einen (auch von ihm theologisch intendierten?) Akzent durch einen vorgezogenen Schwerpunkt (also ohne das vorangehende „steht“) in Form einer in den Folgetakt übergebundenen Halbenote.  
+In wieweit sich im Subtext von BWV 178 (zum 30.7.1724) überdies Anspielungen auf kontroverstheologische Diskussionen (speziell auch zu dem - schwerpunktmäßig von Vertretern des Pietismus besetzten - Thema Terminismus) belegen lassen, bleibt (auch anhand weiterer Kantatentexte) zu untersuchen und hängt zum Beispiel davon ab, ob das „stets“ in Bezug auf einen für jedes Individuum definierten [letztmöglichen](https://www.perplexity.ai/search/worum-stritten-um-1700-anhange-nkILtzxUTx6XPRHsccqwmA#0) Gnadenzeitpunkt („terminus preremptorius“) nur versmetrisch (8.8.9.9.8.8) oder auch theologisch begründet werden kann, dessen Verpassen „die Frommen […] verlorn“ sein lässt. Die Hoffnung auf eine jederzeit mögliche geistliche Neugeburt „nur“ (hier nicht einschränkend gemeint, sondern im Sinne von „einzig und allein“; also als syntaktisch verstellter Partikel zu „Kreuz“, nicht als Adverb zu „geborn“) durch Christi historischen Kreuzestod wird jedenfalls zweifelsfrei bekräftigt.  
 
 Sprich nicht: die Frommen sind verlorn,  
 das Kreuz hat sie nur neu geborn.  
@@ -72,7 +72,29 @@ steht stets die Tür der Gnaden offen;
 und wenn sie Kreuz und Trübsal drückt,  
 so werden sie mit Trost erquickt.  
 
-Derartige musikalische Finessen dürften auf autonomen, spontanen Entscheidungen während des Kompositionsprozesses beruhen. Es wäre abwegig, in solchen Fällen zwingend eine detaillierte Absprache mit dem Text-Autor zu unterstellen.  
+Zudem steht die von Bach vertonte Fassung in völliger inhaltlicher Übereinstimmung mit den wesentlichen Aussagen in Strophe 6 des zugrunde liegenden Chorals (Justus Jonas, 1524, nach Ps. 124):  
+
+Ach Herr Gott, wie reich tröstest du,  
+die gänzlich sind verlassen:  
+der Gnaden Thür steht nimmer zu,  
+Vernunft kann das nicht fassen.  
+Sie spricht : es ist nun alls verlorn;  
+da doch das Kreuz hat neu gebohrn,  
+die deiner Hilf erwarten.  
+
+Durch Verzicht auf jeweils ein Wort ließen sich die beiden Binnenzeilen des Kantatensatzes zu dem in Kirchenliedern allgegenwärtigen Schema 8.8.8.8.8.8 simplifizieren, allerdings um den Preis eines Verzichts auf das „stets“.  
+
+Denen, die auf Jesum hoffen,  
+steht die Tür der Gnaden offen;  
+
+Dass die beiden Zeilen dadurch ins trochäische Versmaß fielen, ließe sich - zusätzlich zum Befund des Textes von 1524 - so deuten, dass die vertonte Gestalt die semantisch ursprüngliche ist.  
+
+Der theologisch bedeutsame Schlüsselbegriff „stets“ wird von Bach musikalisch durchaus bemerkenswert behandelt: Bei der Wiederholung der betr. Zeile der - ansonsten hier überwiegend kleinwertig rhythmisierten - Tenor-Partie setzt der Komponist einen ganz gewiss theologisch intendierten Akzent durch einen vorgezogenen Schwerpunkt (also ohne das vorangehende „steht“) in Form einer in den Folgetakt übergebundenen Halbenote.  
+
+Derartige musikalische Finessen dürften auf autonomen, spontanen Entscheidungen während des Kompositionsprozesses beruhen. Es ist alles andere als naheliegend, in solchen Fällen zwingend eine detaillierte Absprache mit dem Text-Autor zu unterstellen.  
+
+Als vorläufiges Fazit der bisher angeführten, exemplarischen Beobachtungen ist festzuhalten, dass Johann Christoph Jauch, auf dem Boden der norddeutschen lutherischen Orthodoxie fußend, sich durchaus um ein kritisches Verhältnis sowohl zum Rationalismus (nach Jonas: „Vernunft kann das nicht fassen“) als auch zum Pietismus („der Gnaden Thür steht nimmer zu“) bemüht hat, also jeden beiden zunehmden mitbestimmenden Strömungen, von denen sich die erstere im Verlauf des späten 18. und gesamten 19. Jahrhunderts als führendes theologisches Paradigma erweisen sollte, während letztere ihren Einfluß eher auf dem weiten Feld individueller, gleichwohl auch strukturell wirksamer Lebensformen entwickelte.  
+
 
 
 Wichtigster Förderer Jauchs während seiner Rostocker Zeit war zunächst und auch später jener erwähnte Theologe Johannes [Fecht](https://gemini.google.com/share/b9e19dfd5891), der als Theologieprofessor, Universitätsrektor und Superintendent gewissermaßen in - wenn auch nicht unmittelbarer - „akademischer Sukzession“ zu dem als Stichwortgeber für bis zu sieben Sätze von Bachs Matthäuspassion sowie je eines Satzes der Kantate BWV 2 und der Johannespassion geltenden Heinrich Müller stand.  
