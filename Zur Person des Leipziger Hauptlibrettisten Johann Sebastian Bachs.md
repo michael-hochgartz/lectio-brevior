@@ -4,7 +4,7 @@ Entwurf für ein [iterativ](https://www.perplexity.ai/search/was-heisst-iterativ
 
 Michael Hochgartz
 D 48153 Münster  
-michael@hochgartz.de - 04.09.2024  
+michael@hochgartz.de - 06.09.2024  
 
 Quelltext, Versionsgeschichte und Literaturverzeichnis:  
 <https://github.com/michael-hochgartz/lectio-brevior>  
@@ -72,7 +72,7 @@ steht stets die Tür der Gnaden offen;
 und wenn sie Kreuz und Trübsal drückt,  
 so werden sie mit Trost erquickt.  
 
-Zudem steht die von Bach vertonte Fassung in völliger inhaltlicher Übereinstimmung mit den wesentlichen Aussagen in Strophe 6 des zugrunde liegenden Chorals (Justus Jonas, 1524, nach Ps. 124):  
+Zudem steht die von Bach vertonte Fassung in völliger inhaltlicher Übereinstimmung mit den wesentlichen Aussagen in Strophe 6 des zugrunde liegenden Chorals (Justus Jonas 1524, nach Ps. 124):  
 
 Ach Herr Gott, wie reich tröstest du,  
 die gänzlich sind verlassen:  
@@ -87,13 +87,13 @@ Durch Verzicht auf jeweils ein Wort ließen sich die beiden Binnenzeilen des Kan
 Denen, die auf Jesum hoffen,  
 steht die Tür der Gnaden offen;  
 
-Dass die beiden Zeilen dadurch ins trochäische Versmaß fielen, ließe sich - zusätzlich zum Befund des Textes von 1524 - so deuten, dass die vertonte Gestalt die semantisch ursprüngliche ist.  
+Dass die beiden Zeilen dadurch ins trochäische Versmaß fallen würden, ließe sich - zusätzlich zum Befund des Textes von 1524 - so deuten, dass die vertonte Gestalt die semantisch ursprüngliche ist.  
 
 Der theologisch bedeutsame Schlüsselbegriff „stets“ wird von Bach musikalisch durchaus bemerkenswert behandelt: Bei der Wiederholung der betr. Zeile der - ansonsten hier überwiegend kleinzählig rhythmisierten - Tenor-Partie setzt der Komponist einen theologisch intendierten Akzent durch einen vorgezogenen Schwerpunkt (also ohne das vorangehende „steht“) in Form einer in den Folgetakt übergebundenen Halbenote.  
 
 Derartige musikalische Finessen dürften auf autonomen, spontanen Entscheidungen während des Kompositionsprozesses beruhen. Es ist alles andere als naheliegend, in solchen Fällen zwingend eine detaillierte Absprache mit dem Text-Autor zu unterstellen.  
 
-Als vorläufiges Fazit der bisher angeführten, exemplarischen Beobachtungen ist festzuhalten, dass Johann Christoph Jauch, auf dem Boden der norddeutschen lutherischen Orthodoxie fußend, sich durchaus um ein kritisches Verhältnis sowohl zum Rationalismus (nach Justus Jonas: „Vernunft kann das nicht fassen“) als auch zum Pietismus („der Gnaden Thür steht nimmer zu“) bemüht hat, also jenen beiden zunehmend mitbestimmenden Strömungen, von denen sich die erstere im Verlauf des späten 18. und gesamten 19. Jahrhunderts als führendes theologisches Paradigma erweisen sollte, während letztere ihren Einfluß eher auf dem weiten Feld individueller, gleichwohl auch strukturell wirksamer, regional begrenzter Lebensformen entwickelte.  
+Als vorläufiges Fazit der bisher angeführten, exemplarischen Beobachtungen ist festzuhalten, dass Johann Christoph Jauch, auf dem Boden der norddeutschen lutherischen Orthodoxie fußend, sich durchaus um ein kritisches Verhältnis sowohl zum Rationalismus (nach Justus Jonas: „Vernunft kann das nicht fassen“) als auch zum Pietismus („der Gnaden Thür steht nimmer zu“) bemüht hat, also jenen beiden zunehmend mitbestimmenden Strömungen, von denen sich die erstere im Verlauf des späten 18. und gesamten 19. Jahrhunderts als führendes theologisches Paradigma erweisen sollte, während letztere ihren Einfluß eher auf dem weiten Feld individualistischer, gleichwohl auch strukturell wirksamer, regional eingehegter Lebens- und Glaubenspraktiken entwickelte.  
 
 
 
@@ -759,7 +759,7 @@ Der 1765 aus dem Nachlass des 1698 erstgeborenen Sohnes, des Lüneburger Michael
 
 Bislang konnte immerhin ein konkretes Werk aus diesem Bestand nachgewiesen werden: Ein in der GWLB Hannover (Signatur: T-A262:1) überliefertes Exemplar des „Codex Pseudepigraphus Veteris Testamenti“ des Hamburger Rektors Johann Albert Fabricius, (2. Auflage Hamburg 1722; Katalog Nrn. 2792 und 2793) trägt einen eigenhändigen, bei der bibliothekarischen Erfassung als „Jauch, Ludwig Friedrich“ nicht ganz korrekt aufgelösten Besitzeintrag - wohinter sich mit einiger Sicherheit Ludolph Friedrich verbirgt, den sein Vater einst in die Obhut des Hamburger Gelehrten zu übergeben versucht hatte. (s.o.)
 
-Auf Johann Christoph Jauch dürfte zum Beispiel die Anschaffung jener achtbändigen Ausgabe des 1697 erschienenen „Wagnerschen Gesangbuchs“ zurückgehen (Nr. 2645 - 2652 des Katalogs), einer enzyklopädischen, allein schon aus materiellen Gründen keineswegs für den Massengebrauch konzipierten Choraltext-Anthologie, die auch als wesentlicher Bestandteil der theologischen Bibliothek Bachs belegt ist. Damit ist die Voraussetzung für die Annahme gegeben, dass sich Dichter und Komponist bei einer Abstimmung über das hymnologische Programm der Choralkantaten auf das gleiche, umfangreiche Repertorium von Kirchenliedern stützen konnten. Freilich, ohne dass bekannt ist, wann welche der 1750 posthum verzeichneten Reste aus Bachs Bibliothek jeweils in seinen Besitz gelangten.  
+Auf Johann Christoph Jauch dürfte zum Beispiel die Anschaffung jener achtbändigen Ausgabe des 1697 erschienenen „Wagnerschen Gesangbuchs“ zurückgehen (Nr. 2645 - 2652 des Katalogs), einer enzyklopädischen, allein schon aus materiellen Gründen keineswegs für den Massengebrauch konzipierten Choraltext-Anthologie, die auch als wesentlicher Bestandteil der theologischen Bibliothek Bachs belegt ist. Damit ist die Voraussetzung für die Annahme gegeben, dass sich Dichter und Komponist bei einer Abstimmung über das hymnologische Programm der Choralkantaten auf das gleiche, umfangreiche Repertorium von Kirchenliedern stützen konnten. Freilich, ohne dass bekannt ist, wann welche der 1750 buchstäblich posthum verzeichneten Reste aus Bachs Bibliothek jeweils in seinen Besitz gelangten.  
 
 Je vier Titel von zwei prominenten Vertretern der Norddeutschen Reformorthodoxie, nämlich August Pfeiffer (Lübeck) und Heinrich Müller (Rostock), belegen zudem - zusammen mit weiteren Werken anderer Autoren - eine quantitativ mit 23 bzw. 32 Prozent beachtenswerte, theologisch durchaus tendenziöse Schnittmenge der hinterlassenen Bibliotheken Bachs und seines Hauptlibrettisten. (Vgl. Wilhelmi 1979: Nrn. 5, 8, 10 sic!, 11,14, 20, 36, 38, 39, 42, 51, 52 sowie die Zweifelsfälle 2, 7, 13, 35, 45.)  
 
@@ -800,7 +800,7 @@ wobei aber auch die vorangehende Zeile mitgelesen werden sollte:
 
 „… und mit beygefügten Grund-Sprüchen heiliger Schrifft und sonderlichen Uberschrifften bemercket, …“  
 
-Von Georg Böhm stammen nicht nur die Vertonungen von 23 der 27 neu hinzugefügten Strophenarien, er dürfte auch für die endgültig modernisierte musikalische Gestalt der kompletten Sammlung in Richtung auf Generalbasslieder mit unsanglicher Basstimme verantwortlich gewesen sein, die in den ersten beiden Auflagen von dem (unter mysteriösen Umständen aus der Musikgeschichte entfleuchten) Johann Wolfgang Franck und 1700 zum verbleibenden Teil auch vom Kieler Kantor Peter Laurentius Wockenfuß komponiert wurden.  
+Von Georg Böhm stammen nicht nur die Vertonungen von 23 der 27 neu hinzugefügten Strophenarien, er dürfte auch für die endgültig modernisierte musikalische Gestalt der kompletten Sammlung in Richtung auf Generalbasslieder mit betont unsanglicher Basstimme verantwortlich gewesen sein, die in den ersten beiden Auflagen von dem (unter mysteriösen Umständen aus der Musikgeschichte entfleuchten) Johann Wolfgang Franck und 1700 zum verbleibenden Teil auch vom Kieler Kantor Peter Laurentius Wockenfuß komponiert wurden.  
 
 Elmenhorsts Passions-Arie Nr. 12 scheint mit den Anfangsworten:  
 
@@ -811,7 +811,7 @@ auf die theologisch (gehet -> kommt, helft), aber auch poetologisch (durch gesch
 
 Kommt Ihr Töchter, helft mir klagen  
 
-Bemerkenswert ist ferner, dass diese Sammlung eine Rezeptionsgeschichte aufweist, die sich durch das gesamte 19. Jahrhundert zieht. Sie beginnt aber schon kurz nach ihrer Erstveröffentlichung 1681. Zunächst mit einer „Cantata“ des kaum bekannten, am 1.2.1692 (also noch während Jauchs Studienaufenthalt) in Jena immatrikulierten Johann Magnus Knüpfer (1661-1715) auf den Text „Wie seh ich dich mein Jesu bluten“ (Nr. 16), die 1690, 1696 und 1715 von Samuel Jacobi mit der Kantorei der Fürstenschule Grimma aufgeführt wurde.  
+Staunenswert ist ferner, dass diese Sammlung eine Rezeptionsgeschichte aufweist, die sich durch das gesamte 19. Jahrhundert zieht. Sie beginnt aber schon kurz nach ihrer Erstveröffentlichung 1681. Zunächst mit einer „Cantata“ des kaum bekannten, am 1.2.1692 (also noch während Jauchs Studienaufenthalt) in Jena immatrikulierten Johann Magnus Knüpfer (1661-1715) auf den Text „Wie seh ich dich mein Jesu bluten“ (Nr. 16), die 1690, 1696 und 1715 von Samuel Jacobi mit der Kantorei der Fürstenschule Grimma aufgeführt wurde.  
 Ferner mit zwei weiteren Arien, die im Textbuch einer - punktuell krass antijüdisch formulierten - Johannes-Passion auftauchen, welche 1704 vom Musikdirektor am Hamburger Dom, Friedrich Nikolaus Brauns, „abgesungen“ wurde: „Die bittre Trauerzeit beginnet abermal“ (Nr. 10) und „Jesus neigt sein Haupt und stirbt“ (Nr. 20).  
 
 Da die Musik dieser Hamburger Johannes-Passion (mit Ausnahme der beiden erwähnten, in welcher Gestalt auch immer integrierten Elmenhorst-Arien, denen jeweils ein „Ritornello“ folgt) nicht erhalten ist, lässt sich über deren Komponisten wenig Gewissheit erlangen .  
@@ -1023,6 +1023,7 @@ So hört man nicht vergeblich an,
 Was Glocken-Läuten lehren kann.  
 
 (Bertram 1719, nicht paginierter Nachsatz „Addendum ad. p. 724 seq.“ Die gegossene Form ist ortho- und typographisch deutlich antiquierter; vgl. Wiesenfeldt 2011; Wiesenfeldt 2014.)  
+Die ebenfalls zu Lebzeiten Jauchs 1723 durch den ortsansässigen Paul Voß umgegossene „Grosse Vossische Glocke“ der ehemaligen Lambertikirche wurde nach deren Abbruch zur Nikolaikirche verbracht, wo sie die Massen-Beschlagnahmen während des II. Weltkriegs nicht überstand. Leider ist nicht der Inhalt der Inschrift überliefert, sondern nur eine Kurzbeschreibung der figürlichen Zier („Christus am Kreuz und die Schlange am Kreuz“) sowie der Durchmesser: 1713 mm, aus dem sich auf einen ungefähren Schlagton bei a0/b0 schließen lässt. (Vgl. Wolf 1902).   
 
 
 Der Text der von Georg Böhm (laut Aktenlage allein erwerbsberechtigt für derartige Aufträge in St. Johannis) vertonten Trauerkantate zur Beisetzung Jauchs am Dienstag, 6.2.1725, stammt von Michael Christoph Brandenburg (1694-1766) - auch er ein Schüler des Johanneums - der von Jauch nach einer Brandkatastrophe in seiner Geburtsstadt Boizenburg (Oktober 1709) in die Familie aufgenommen und in seinen literarischen Ambitionen nachhaltig gefördert worden war, wie der Zwanzigjährige anlässlich der Amtseinführung des Superintendenten am 23.2.1714 in einigen, um Wohlgeformtheit bemühten Alexandrinern (von wem finanziert?) drucken ließ, darunter diese Zeilen:  
