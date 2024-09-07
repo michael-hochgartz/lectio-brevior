@@ -476,6 +476,8 @@ doch fällt mein Herz und Hoffen nicht.
 Mein Jesus sieht auf mich im Sterben  
 und lässet mir kein Leid geschehn.  
 
+Der buchstäbliche Perspektivwechsel - Jesus sieht auf den Sterbenden, der sich mit letzter Kraft um einen Blick auf den „treuen Heiland“ bemüht, der diese Art der Zuwendung treuevoll erwidert - ist ein weiteres Indiz für die untrügliche Hoffnung des Autors dieser Zeilen auf ein Ende, das „kein Leid“ verursacht.  
+
 Generell ergibt sich aus den vorgenannten Belegen die Frage, ob und in wieweit der Autor in diesen (und weiteren) Fällen mit einer Art „doppeltem literarischen Boden“ operiert, indem er das „[poetische Ich](https://www.perplexity.ai/search/was-besagt-die-theorie-vom-poe-snjSPJiRQ9qu9Dud6TQoBg#1)“ einen vordergründig rein theologisch fundierten Text verkünden lässt, aus dem sich auf einer zweiten Ebene lebensweltliche Erlebnisse, Empfindungen und Erwartungen des „realen Ich“ herauslesen lassen. Das Thema „[Subtexte](https://www.perplexity.ai/search/was-versteht-man-unter-dem-beg-Yjlva8QCQFyFgt49e34l8Q#0)“ in Bachs wortgebundenen Werken lohnt weitere Untersuchungen, auch über den Choralkantaten-Jahrgang hinaus (ganz besonders bzgl.  BWV 211) - und sei es - im vorliegenden Fall - mit dem Ziel der Erkenntnis, dass J.C. Jauch hier ein Alleinstellungsmerkmal praktizierte.  
 
 
