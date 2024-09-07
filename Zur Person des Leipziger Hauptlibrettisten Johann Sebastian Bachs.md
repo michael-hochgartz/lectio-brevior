@@ -458,7 +458,7 @@ Und bring’ mich bald zu deiner ruh’/
 Wan drauff in meiner angst an mir  
 Der todes-schweiß gar bricht herfür /  
 
-Auffällig sind die Querbezüge zur dritten Strophe des Chorals „Meinen Jesum lass ich nicht“, der einen Monat zuvor (7.1.1725) Grundlage für die gleichnamige Kantate BWV 124 bildete:  
+Auffällig sind Querbezüge zur dritten Strophe des Chorals „Meinen Jesum lass ich nicht“, der einen Monat zuvor (7.1.1725) Grundlage für die gleichnamige Kantate BWV 124 bildete:  
 
 Lass vergehen das Gesicht,  
 Hören, Schmecken, Fühlen weichen,  
@@ -476,10 +476,11 @@ doch fällt mein Herz und Hoffen nicht.
 Mein Jesus sieht auf mich im Sterben  
 und lässet mir kein Leid geschehn.  
 
-Der buchstäbliche Perspektivwechsel - Jesus sieht auf den Sterbenden, der sich mit letzter Kraft um einen Blick auf den „treuen Heiland“ bemüht, der diese Art der Zuwendung treuevoll erwidert - ist ein weiteres Indiz für die untrügliche Hoffnung des Autors dieser Zeilen auf ein Ende, das „kein Leid“ verursacht.  
+Der unübersehbare Perspektivwechsel - Jesus sieht auf den Sterbenden, der sich mit letzter Kraft um einen Blick auf den „treuen Heiland“ bemüht, der diese Art der Zuwendung ebenso treuevoll erwidert - ist ein weiteres Indiz für die untrüglich empfundene Hoffnung des Autors dieser Zeilen auf ein Ende, das „kein Leid“ verursachen möge.  
 
-Generell ergibt sich aus den vorgenannten Belegen die Frage, ob und in wieweit der Autor in diesen (und weiteren) Fällen mit einer Art „doppeltem literarischen Boden“ operiert, indem er das „[poetische Ich](https://www.perplexity.ai/search/was-besagt-die-theorie-vom-poe-snjSPJiRQ9qu9Dud6TQoBg#1)“ einen vordergründig rein theologisch fundierten Text verkünden lässt, aus dem sich auf einer zweiten Ebene lebensweltliche Erlebnisse, Empfindungen und Erwartungen des „realen Ich“ herauslesen lassen. Das Thema „[Subtexte](https://www.perplexity.ai/search/was-versteht-man-unter-dem-beg-Yjlva8QCQFyFgt49e34l8Q#0)“ in Bachs wortgebundenen Werken lohnt weitere Untersuchungen, auch über den Choralkantaten-Jahrgang hinaus (ganz besonders bzgl.  BWV 211) - und sei es - im vorliegenden Fall - mit dem Ziel der Erkenntnis, dass J.C. Jauch hier ein Alleinstellungsmerkmal praktizierte.  
+Generell ergibt sich aus den vorgenannten Belegen die Frage, ob und in wieweit der Autor in diesen (und weiteren) Fällen mit einer Art „doppeltem literarischen Boden“ operiert, indem er das „[poetische Ich](https://www.perplexity.ai/search/was-besagt-die-theorie-vom-poe-snjSPJiRQ9qu9Dud6TQoBg#1)“ einen vordergründig rein theologisch fundierten Text verkünden lässt, aus dem sich auf einer zweiten Ebene lebensweltliche Erlebnisse, Empfindungen und Erwartungen des „realen Ich“ herauslesen lassen.  
 
+Das Thema „[Subtexte](https://www.perplexity.ai/search/was-versteht-man-unter-dem-beg-Yjlva8QCQFyFgt49e34l8Q#0)“ in Bachs wortgebundenen Werken lohnt weitere Untersuchungen, auch über den Choralkantaten-Jahrgang hinaus (ganz besonders bzgl. BWV 211!) - und sei es mit dem Ziel der Erkenntnis , dass der jeweilige Autor - im vorliegenden Fall J.C. Jauch gewollt oder ungewollt ein Alleinstellungsmerkmal praktizierte. 
 
 
 Ist es mehr als ein Zufall, dass Johann Sebastian Bach am 20.1.1726 (2. Sonntag nach Epiphanias) an den ersten Jahrestag des Todes seines Librettisten gedenkt, indem er einen 1711 publiziertenText aus der Feder des Darmstädter Hofpoeten Georg Christian Lehms vertont (BWV 13), der - mit nur schwachem Stichwortbezug zur Perikope („Jammerkrug“; Joh 2,1-2) - über„Ächzen und erbärmlich Weinen“ als Mittel gegen „der Sorgen Krankheit … in der Trauerbrust“ reflektiert? Obwohl Lehms erst 1717 an den Folgen einer Lungentuberkulose sterben sollte, nimmt sich sein sechs Jahre zuvor veröffentlichter Text wie die Vorwegnahme einer konkreten Krankheitssituation aus, die der des Autors von BWV 135 und BWV 127 erstaunlich gleicht:  
