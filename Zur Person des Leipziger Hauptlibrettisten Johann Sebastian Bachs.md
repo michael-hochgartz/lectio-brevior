@@ -476,7 +476,7 @@ Und bring’ mich bald zu deiner ruh’/
 Wan drauff in meiner angst an mir  
 Der todes-schweiß gar bricht herfür /  
 
-Generell ergibt sich aus den vorgenannten Belegen die Frage, ob und in wieweit der Autor in diesen (und weiteren) Fällen mit einer Art „doppeltem literarischen Boden“ operiert, indem er das „[poetische Ich](https://www.perplexity.ai/search/was-besagt-die-theorie-vom-poe-snjSPJiRQ9qu9Dud6TQoBg#1)“ einen vordergründig rein theologisch fundierten Text verkünden lässt, aus dem sich auf einer zweiten Ebene lebensweltliche Erlebnisse des „realen Ich“ herauslesen lassen. Das Thema „Subtexte“ in Bachs wortgebundenen Werken lohnt weitere Untersuchungen, auch über den Choralkantaten-Jahrgang hinaus - und sei es um der Preis der Erkenntnis, dass J.C. Jauch hier ein Alleinstellungsmerkmal besaß.  
+Generell ergibt sich aus den vorgenannten Belegen die Frage, ob und in wieweit der Autor in diesen (und weiteren) Fällen mit einer Art „doppeltem literarischen Boden“ operiert, indem er das „[poetische Ich](https://www.perplexity.ai/search/was-besagt-die-theorie-vom-poe-snjSPJiRQ9qu9Dud6TQoBg#1)“ einen vordergründig rein theologisch fundierten Text verkünden lässt, aus dem sich auf einer zweiten Ebene lebensweltliche Erlebnisse des „realen Ich“ herauslesen lassen. Das Thema „[Subtexte](https://www.perplexity.ai/search/was-versteht-man-unter-dem-beg-Yjlva8QCQFyFgt49e34l8Q#0)“ in Bachs wortgebundenen Werken lohnt weitere Untersuchungen, auch über den Choralkantaten-Jahrgang hinaus (ganz besonders zu BWV 211) - und sei es - im vorliegenden Fall - um der Preis der Erkenntnis, dass J.C. Jauch hier ein Alleinstellungsmerkmal besaß.  
 
 
 
