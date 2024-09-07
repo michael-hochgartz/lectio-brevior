@@ -458,6 +458,15 @@ mich auf dieser Welt erreichen:
 wenn der Lebensfaden bricht,  
 meinen Jesus lass ich nicht.  
 
+Das Motiv des Sehverlusts in der Sterbestunde findet drei Wochen später (zum 2.2.1725) eine weitere Entsprechung in BWV 125 :  
+
+Ich will auch mit gebrochnen Augen  
+nach dir, mein treuer Heiland, sehn.  
+Wenngleich des Leibes Bau zerbricht,  
+doch fällt mein Herz und Hoffen nicht.  
+Mein Jesus sieht auf mich im Sterben  
+und lässet mir kein Leid geschehn.  
+
 Ferner gibt es einige Allusionen zu einer anonymen (I. A. = Inc. Auct. = ungewisser Autor) Paraphrase des Chorals „Herr Jesu Christ …“, die wenige Ordnungsnummern nach dem Original (Nr. 379) unter den Sterbeliedern des Lüneburgischen Landesgesangbuchs (Celle 1697, 1716) zu finden ist, wo es in Strophe 9 / 10 heißt:  
 
 Wan sich die zunge nicht mehr reg’t  
