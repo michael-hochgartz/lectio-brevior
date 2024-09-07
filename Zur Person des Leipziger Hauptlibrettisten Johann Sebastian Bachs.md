@@ -478,6 +478,8 @@ und lässet mir kein Leid geschehn.
 
 Der unübersehbare Perspektivwechsel - Jesus sieht auf den Sterbenden, der sich mit letzter Kraft um einen Blick auf den „treuen Heiland“ bemüht, der diese Art der Zuwendung ebenso treuevoll erwidert - ist ein weiteres Indiz für die untrüglich empfundene Hoffnung des Autors dieser Zeilen auf ein Ende, das „kein Leid“ verursachen möge.  
 
+Ob J.S. Bach in seinen, von einer medizinisch zeitüblich brutal, schließlich letal traktierten Augenkrankheit geprägten, letzten Tagen, Wochen, Monaten ähnliche Erfahrungen durchleben musste?  
+
 Generell ergibt sich aus den vorgenannten Belegen die Frage, ob und in wieweit der Autor in diesen (und weiteren) Fällen mit einer Art „doppeltem literarischen Boden“ operiert, indem er das „[poetische Ich](https://www.perplexity.ai/search/was-besagt-die-theorie-vom-poe-snjSPJiRQ9qu9Dud6TQoBg#1)“ einen vordergründig rein theologisch fundierten Text verkünden lässt, aus dem sich auf einer zweiten Ebene lebensweltliche Erlebnisse, Empfindungen und Erwartungen des „realen Ich“ herauslesen lassen.  
 
 Das Thema „[Subtexte](https://www.perplexity.ai/search/was-versteht-man-unter-dem-beg-Yjlva8QCQFyFgt49e34l8Q#0)“ in Bachs wortgebundenen Werken lohnt weitere Untersuchungen, auch über den Choralkantaten-Jahrgang hinaus (ganz besonders bzgl. BWV 211!) - und sei es mit dem Ziel der Erkenntnis , dass der jeweilige Autor - im vorliegenden Fall J.C. Jauch gewollt oder ungewollt ein Alleinstellungsmerkmal praktizierte. 
