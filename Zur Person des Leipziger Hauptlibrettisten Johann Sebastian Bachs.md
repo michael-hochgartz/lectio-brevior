@@ -449,6 +449,15 @@ der mit Geduld zu seinem Leiden geht
 und diesen schweren Weg auch mich geleitet  
 und mir die Ruhe zubereitet.  
 
+Ferner gibt es einige Allusionen zu einer anonymen (I. A. = Inc. Auct. = ungewisser Autor) Paraphrase des Chorals „Herr Jesu Christ …“, die wenige Ordnungsnummern nach dem Original (Nr. 379) unter den Sterbeliedern des Lüneburgischen Landesgesangbuchs (Celle 1697, 1716) zu finden ist, wo es in Strophe 9 / 10 heißt:  
+
+Wan sich die zunge nicht mehr reg’t  
+Und meine sprach’ sich gänzlich leg’t /  
+So hör’ die seuffzer / die ich thu /  
+Und bring’ mich bald zu deiner ruh’/  
+Wan drauff in meiner angst an mir  
+Der todes-schweiß gar bricht herfür /  
+
 Auffällig sind die Querbezüge zur dritten Strophe des Chorals „Meinen Jesum lass ich nicht“, der einen Monat zuvor (7.1.1725) Grundlage für die gleichnamige Kantate BWV 124 bildete:  
 
 Lass vergehen das Gesicht,  
@@ -467,16 +476,7 @@ doch fällt mein Herz und Hoffen nicht.
 Mein Jesus sieht auf mich im Sterben  
 und lässet mir kein Leid geschehn.  
 
-Ferner gibt es einige Allusionen zu einer anonymen (I. A. = Inc. Auct. = ungewisser Autor) Paraphrase des Chorals „Herr Jesu Christ …“, die wenige Ordnungsnummern nach dem Original (Nr. 379) unter den Sterbeliedern des Lüneburgischen Landesgesangbuchs (Celle 1697, 1716) zu finden ist, wo es in Strophe 9 / 10 heißt:  
-
-Wan sich die zunge nicht mehr reg’t  
-Und meine sprach’ sich gänzlich leg’t /  
-So hör’ die seuffzer / die ich thu /  
-Und bring’ mich bald zu deiner ruh’/  
-Wan drauff in meiner angst an mir  
-Der todes-schweiß gar bricht herfür /  
-
-Generell ergibt sich aus den vorgenannten Belegen die Frage, ob und in wieweit der Autor in diesen (und weiteren) Fällen mit einer Art „doppeltem literarischen Boden“ operiert, indem er das „[poetische Ich](https://www.perplexity.ai/search/was-besagt-die-theorie-vom-poe-snjSPJiRQ9qu9Dud6TQoBg#1)“ einen vordergründig rein theologisch fundierten Text verkünden lässt, aus dem sich auf einer zweiten Ebene lebensweltliche Erlebnisse des „realen Ich“ herauslesen lassen. Das Thema „[Subtexte](https://www.perplexity.ai/search/was-versteht-man-unter-dem-beg-Yjlva8QCQFyFgt49e34l8Q#0)“ in Bachs wortgebundenen Werken lohnt weitere Untersuchungen, auch über den Choralkantaten-Jahrgang hinaus (ganz besonders zu BWV 211) - und sei es - im vorliegenden Fall - um der Preis der Erkenntnis, dass J.C. Jauch hier ein Alleinstellungsmerkmal besaß.  
+Generell ergibt sich aus den vorgenannten Belegen die Frage, ob und in wieweit der Autor in diesen (und weiteren) Fällen mit einer Art „doppeltem literarischen Boden“ operiert, indem er das „[poetische Ich](https://www.perplexity.ai/search/was-besagt-die-theorie-vom-poe-snjSPJiRQ9qu9Dud6TQoBg#1)“ einen vordergründig rein theologisch fundierten Text verkünden lässt, aus dem sich auf einer zweiten Ebene lebensweltliche Erlebnisse, Empfindungen und Erwartungen des „realen Ich“ herauslesen lassen. Das Thema „[Subtexte](https://www.perplexity.ai/search/was-versteht-man-unter-dem-beg-Yjlva8QCQFyFgt49e34l8Q#0)“ in Bachs wortgebundenen Werken lohnt weitere Untersuchungen, auch über den Choralkantaten-Jahrgang hinaus (ganz besonders bzgl.  BWV 211) - und sei es - im vorliegenden Fall - mit dem Ziel der Erkenntnis, dass J.C. Jauch hier ein Alleinstellungsmerkmal praktizierte.  
 
 
 
