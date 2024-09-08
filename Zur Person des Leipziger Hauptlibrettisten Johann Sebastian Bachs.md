@@ -4,7 +4,7 @@ Entwurf für ein [iterativ](https://www.perplexity.ai/search/was-heisst-iterativ
 
 Michael Hochgartz
 D 48153 Münster  
-michael@hochgartz.de - 07.09.2024  
+michael@hochgartz.de - 08.09.2024  
 
 Quelltext, Versionsgeschichte und Literaturverzeichnis:  
 <https://github.com/michael-hochgartz/lectio-brevior>  
@@ -388,6 +388,16 @@ ist mancher tot und kalt!
 Man kann noch diese Nacht  
 den Sarg vor deine Türe bringen.  
 
+Selbst in einer ansonsten vollständig durch die freudenreiche Feier von Christi Geburt bestimmten Kantate (BWV 133, „Ich freue mich in dir“, zum III. Weihnachtstag 1724) bringt der Autor es fertig, Gedanken an das eigene Ende einzuflechten, indem er schreibt: 
+
+Wohlan des Todes Furcht und Schmerz  
+erwägt nicht mein getröstet Herz  
+Will er vom Himmel sich  
+bis zu der Erde lenken,  
+so wird er auch an mich  
+in meiner Gruft gedenken  
+[…]  
+.
 
 Schon bald nach dem Beginn des Kantatenzyklus (BWV 135/4, 25.6.1724) bemüht der Autor eine Situationsbeschreibung, die - auf den ersten Blick in eindeutiger Übernahme aus Ps. 6;7 - auf seine individuelle psychische und physische Befindlichkeit hinweist. Müdigkeit und Nachtschweiß, die zunächst im Rezititativ Nr. 2 („Ach heile mich, du Arzt der Seelen; ich bin sehr krank und schwach;“) auf eine theologische Deutungsebene projiziert werden, gelten - lebensweltlich betrachtet - in der historischen wie in der heutigen Heilkunde als [Leitsymptome](https://poe.com/s/Gs6WVCLSlY2eUh1RIlIe) einer chronischen Tuberkulose - einer Krankheit, die immer noch weltweit verbreitet ist.  
 
@@ -399,6 +409,11 @@ in großen Schweiß und Tränen liege.
 Ich gräme mich fast tot und bin vor Trauern alt;  
 denn meine Angst ist mannigfalt. (BWV 135/4)  
 
+Der Tagesanbruch als vorläufige Erlösung von nächtlichen Qualen wird im Terzett der Kantate BWV 38 (Aus tiefer Not schrei ich zu dir, zum 29.10.1724) thematisiert:  
+
+Wie bald erscheint des Trostes Morgen  
+auf diese Nacht der Not und Sorgen!  
+
 Ähnliche Andeutungen, die auf eine chronische Erschöpfung schließen lassen, finden sich auch in einer unabhängigen Quelle, nämlich im Text der am 6.2.1725 anlässlich der Beisetzung Johann Christoph Jauchs in St. Johannis aufgeführten Trauerkantate. Fast scheint es so, als habe deren (noch zu nennender) Verfasser die entsprechenden Zeilen von BWV 135 gekannt - zumindest aber die zugrunde liegenden Lebensverhältnisse des zu Betrauernden:  
 
 Inzwischen blieb doch dies dein Leben  
@@ -406,7 +421,7 @@ Von mancher Last gedrückt, mit mancher Müh umgeben:
 Daher uns das nicht Wunder nimmt,  
 Wenn deine fromme Seel’ oft klagend angestimmt,  
 Daß sie ermüdet, und dabey  
-Begierig nach der Ruhe sey.
+Begierig nach der Ruhe sey.  
 
 Der unmittelbar anschließende Choral zitiert - durchaus passend - die zweite Strophe des Kirchenlieds „Du, o schönes Weltgebäude“, dessen fünfte Strophe „Komm, o Tod, du Schlafes Bruder“ in der Kreuzstabkantate BWV 56 (zum 27.10.1726) verwendet wird.  
 
@@ -478,11 +493,11 @@ und lässet mir kein Leid geschehn.
 
 Der unübersehbare Perspektivwechsel - Jesus sieht auf den Sterbenden, der sich mit letzter Kraft um einen Blick auf den „treuen Heiland“ bemüht, der diese Art der Zuwendung ebenso treuevoll erwidert - ist ein weiteres Indiz für die untrüglich empfundene Hoffnung des Autors dieser Zeilen auf ein Ende, das „kein Leid“ verursachen möge.  
 
-Ob J.S. Bach in seinen, von einer medizinisch zeitüblich brutal, schließlich letal traktierten Augenkrankheit geprägten, letzten Tagen, Wochen, Monaten ähnliche Erfahrungen durchleben musste?  
+Ob J.S. Bach 1750 in seinen, von einer medizinisch zeitüblich brutal, schließlich mit letalem Ausgang traktierten Augenkrankheit geprägten, letzten Tagen, Wochen, Monaten ähnliche Erfahrungen durchleben musste?  
 
 Generell ergibt sich aus den vorgenannten Belegen die Frage, ob und in wieweit der Autor in diesen (und weiteren) Fällen mit einer Art „doppeltem literarischen Boden“ operiert, indem er das „[poetische Ich](https://www.perplexity.ai/search/was-besagt-die-theorie-vom-poe-snjSPJiRQ9qu9Dud6TQoBg#1)“ einen vordergründig rein theologisch fundierten Text verkünden lässt, aus dem sich auf einer zweiten Ebene lebensweltliche Erlebnisse, Empfindungen und Erwartungen des „realen Ich“ herauslesen lassen.  
 
-Das Thema „[Subtexte](https://www.perplexity.ai/search/was-versteht-man-unter-dem-beg-Yjlva8QCQFyFgt49e34l8Q#0)“ in Bachs wortgebundenen Werken lohnt weitere Untersuchungen, auch über den Choralkantaten-Jahrgang hinaus (ganz besonders bzgl. BWV 211!) - und sei es mit dem Ziel der Erkenntnis , dass der jeweilige Autor - im vorliegenden Fall J.C. Jauch gewollt oder ungewollt ein Alleinstellungsmerkmal praktizierte. 
+Das Thema „[Subtexte](https://www.perplexity.ai/search/was-versteht-man-unter-dem-beg-Yjlva8QCQFyFgt49e34l8Q#0)“ in Bachs wortgebundenen Werken lohnt weitere Untersuchungen, auch über den Choralkantaten-Jahrgang hinaus (ganz besonders bzgl. BWV 211!) - und sei es mit dem Ziel der Erkenntnis , dass der jeweilige Autor - im vorliegenden Fall J.C. Jauch - ein Alleinstellungsmerkmal praktizierte, was als Distinktionsmerkmal beim hermeneutischen Prozess der „authorship-attribution“ eine Rolle spielen könnte.  
 
 
 Ist es mehr als ein Zufall, dass Johann Sebastian Bach am 20.1.1726 (2. Sonntag nach Epiphanias) an den ersten Jahrestag des Todes seines Librettisten gedenkt, indem er einen 1711 publiziertenText aus der Feder des Darmstädter Hofpoeten Georg Christian Lehms vertont (BWV 13), der - mit nur schwachem Stichwortbezug zur Perikope („Jammerkrug“; Joh 2,1-2) - über„Ächzen und erbärmlich Weinen“ als Mittel gegen „der Sorgen Krankheit … in der Trauerbrust“ reflektiert? Obwohl Lehms erst 1717 an den Folgen einer Lungentuberkulose sterben sollte, nimmt sich sein sechs Jahre zuvor veröffentlichter Text wie die Vorwegnahme einer konkreten Krankheitssituation aus, die der des Autors von BWV 135 und BWV 127 erstaunlich gleicht:  
