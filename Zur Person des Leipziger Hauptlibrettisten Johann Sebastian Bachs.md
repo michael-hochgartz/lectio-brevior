@@ -804,7 +804,10 @@ Mit JEsu trete ich den Tod nun freudig an.
 
 „Lasst mich doch mit meinen JEsu ziehen“ - dieses im Druck dezent, aber erkennbar hervorgehobene Zitat fußt augenscheinlich auf jenem, 1653 von Sigmund von Birken veröffentlichten Kirchenlied zu einer 1641 veröffentlichen Melodie des Hamburger Jacobi-Organisten Johann Schop, dem langjährigen musikalischen Zuträger von Johann Rist. Somit sicherlich ein Beispiel für die altbewährte lutherische Praxis, Sterbenden mit ihnen, für sie oder um sie herumstehend Choräle zu singen oder zu sprechen - oder in letzter Not ins Ohr zu flüstern.  
 
-Inhaltliche und stilistische Korrespondenzen mit späteren Texten Jauchs bleiben zu untersuchen, desgleichen die Frage, inwieweit es bei der „Rollenverteilung“ von derartigen Beiträgen formelle oder informelle Usancen gab.  
+Inhaltliche und stilistische Korrespondenzen mit späteren Texten Jauchs bleiben zu untersuchen, desgleichen die Frage, inwieweit es bei der „Rollenverteilung“ von derartigen Beiträgen innerhalb der lokalen „Peer-Group“ formelle oder informelle Usancen gab.  
+
+Und schließlich: findet sich hier ein Nucleus für die changierende Mischung zwischen poetischem und individual-psychologischem „ICH“, das sich in etlichen der Jauch zuzuschreibenden Kantatentexten um 1724 - mit hinreichender intellektueller Neugier - finden lässt?  
+
 
 
 
