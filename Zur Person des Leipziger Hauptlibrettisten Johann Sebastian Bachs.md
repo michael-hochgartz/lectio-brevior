@@ -779,6 +779,35 @@ Und schließlich: die frei komponierte Musik von Böhms einzig nachweisbarer Pas
 Jauchs berufliches Wirken konzentrierte sich auf die Sorge für eine, wie er es im Brief an J.J. Syrbius formulierte: „große Gemeine von vielen 1000 Seelen“ - also auf die Verkündigung durch das gesprochene statt durch das gedruckte Wort. Ohne erkennbare Ambitionen auf die Fortsetzung einer akademischen Karriere hatte er vor prominenten Personen, z.B. in der Schlosskirche in Zeitz, vor dem dortigen, von den klandestinen katholischen Ambitionen des Regenten dominierten, durch „ 5. Fürstl. Persohnen“ vertretenen Hof „mit grossem applausu geprediget“, der den verbliebenen mecklenburgischen Familienmitgliedern seiner verstorbenen herzoglichen Förderer dynastisch verbunden war - vielleicht mit der Absicht, doch noch irgendwo zu einer adäquaten Anstellung als Hofprediger zu gelangen. Noch 1718 nimmt er im erwähnten Brief an den Dresdener Superintendenten Löscher Anteil an der allseits erhofften Rückkehr des kurz danach verstorbenen Herzogs Moritz Wilhelm „zu unserer Religion“.  
 
 
+Ein - bei näherer Betrachtung - durchaus konkreter Beleg für eine individuelle geistliche Betreuung eines Prominenten findet sich in dem 1713 gedruckten Epicedium anlässlich des Todes des Lüneburger Bürgermeisters Friedrich Hermann von Witzendorff. Damals noch auf Platz fünf in der Anciennität des Geistlichen Ministeriums rangierend (knapp ein Jahr vor seiner allseits ungewollten und ungeliebten Beförderung an dessen Spitze), begnügt der Nicolai-Prediger Jauch sich in seinem pflichtgemäßen, im Vergleich länglich erscheinenden Beitrag nicht mit allgemein üblichen Trostsprüchen oder gelahrten griechischen Zitaten, sondern integriert mehr als subtil eine konkrete Schilderung der Sterbeumstände des Verblichenen, die hier (mit zeilenweisen Auslassungen) zitiert werden soll:  
+
+Nun kams nach vieler Last / zwar gantz zum Krancken-Bette  
+Der Cörper nam nachgrad noch allgemählig ab  
+Da gings mit Sorge / Furchte und Hoffnung umb die Wette  
+Allein das letzte wahr dennoch der Todt: das Grab. (Syrach 41. V. 1.2.)  
+
+Ich komm nur wiederum auff deinen Todt und Sterben  
+Daß Du Dir selbsten offt / andächtig vorgestellt:  
+
+Wie gerne hörtest’ du auff deinem Krancken-Bette  
+Die geistliche Gespräch von GOtt und seinem Wort  
+
+Hierüber muste sichs / so immer hin verweilen  
+Da Vierzehn Wochen her die Kranckheit fast gewährt /  
+
+So warstu schon vorher am Abend gantz bereit.  
+
+Da hieß es: Last mich doch mit meinem JEsu ziehen  
+Daß ich auch selig nun mit JEsu sterben kan:  
+Nun ist die rechte Zeit: Nun will ich eiligst fliehen  
+Mit JEsu trete ich den Tod nun freudig an.  
+
+„Lasst mich doch mit meinen JEsu ziehen“ - dieses im Druck dezent, aber erkennbar hervorgehobene Zitat fußt augenscheinlich auf jenem, 1653 von Sigmund von Birken veröffentlichten Kirchenlied zu einer 1641 veröffentlichen Melodie des Hamburger Jacobi-Organisten Johann Schop, dem langjährigen musikalischen Zuträger von Johann Rist. Somit sicherlich ein Beispiel für die altbewährte lutherische Praxis, Sterbenden mit ihnen, für sie oder um sie herumstehend Choräle zu singen oder zu sprechen - oder in letzter Not ins Ohr zu flüstern.  
+
+Inhaltliche und stilistische Korrespondenzen mit späteren Texten Jauchs bleiben zu untersuchen, desgleichen die Frage, inwieweit es bei der „Rollenverteilung“ von derartigen Beiträgen formelle oder informelle Usancen gab.  
+
+
+
 1695 hatte der Vierundzwanzigjährige - wie sich aus einem auszugsweise gedruckten Brief des Kopenhagener Hofpredigers, Universitätsrektors, Kirchenlieddichters und luthertreuen Kontroverstheologen Hector Gottfried Masius an seinen Rostocker Kollegen Johannes Fecht (Jauchs Mentor) ergibt - unter dem Beifall der sämtlichen Zuhörer („totius auditorii applausum“) vor dem jungen dänischen Prinzen Carl (1680-1729) in dessen dortiger Schlosskirche gepredigt - bevor dieser von seinen Erziehungsberechtigten einem allzu „deutschen“ Einfluss entzogen wurde. Die Reise war „auf sein unterthänigstes Ansuchen“ durch Herzog Gustav Adolf „gnädigst vergönnet“ worden, „dessen Stipendiat er war“.  
 
 Bei dieser Gelegenheit hatte er sich „mit dasigen [leider ungenannten] berühmten Männern“ (und vielleicht auch mit Urban Gottfried Sieber, nach dessen Studium in Kiel damals Hofmeister nahe Schloss Frederiksborg und später einer der nachgeordneten Nachmittagsprediger während der Leipziger Uraufführungen der Choralkantaten?) „in nützliche discourse … öffters eingelassen“.  
