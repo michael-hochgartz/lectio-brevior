@@ -4,7 +4,8 @@ Entwurf für ein [iterativ](https://www.perplexity.ai/search/was-heisst-iterativ
 
 Michael Hochgartz
 D 48153 Münster  
-michael@hochgartz.de - 02.10.2024  
+[michael@hochgartz.de](mailto:michael@hochgartz.de)  
+Version: 02.10.2024  
 
 Quelltext, Versionsgeschichte und Literaturverzeichnis:  
 <https://github.com/michael-hochgartz/lectio-brevior>  
