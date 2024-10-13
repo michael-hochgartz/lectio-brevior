@@ -1,11 +1,11 @@
 Ob ein Superintendens wohl Poete seyn könne? - Zur Person des „Leipziger“ Hauptlibrettisten Johann Sebastian Bachs.  
 
-Entwurf für ein [iterativ](https://www.perplexity.ai/search/was-heisst-iterativ-ausserhalb-qlO7djCNQTmWLc.hHH3MEg#0) dokumentiertes Vortragsmanuskript (Es gilt das gesprochene Wort.)  
+[Iterativ](https://www.perplexity.ai/search/was-heisst-iterativ-ausserhalb-qlO7djCNQTmWLc.hHH3MEg#0) dokumentierter Entwurf für ein Vortragsmanuskript (Es gilt das gesprochene Wort.)  
 
 Michael Hochgartz
 D 48153 Münster  
 [michael@hochgartz.de](mailto:michael@hochgartz.de)  
-Version: 12.10.2024  
+Version: 13.10.2024  
 
 Quelltext, Versionsgeschichte und Literaturverzeichnis:  
 <https://github.com/michael-hochgartz/lectio-brevior>  
