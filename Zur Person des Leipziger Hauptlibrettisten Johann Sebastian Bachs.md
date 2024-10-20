@@ -5,7 +5,7 @@ Ob ein Superintendens wohl Poete seyn könne? - Zur Person des „Leipziger“ H
 Michael Hochgartz
 D 48153 Münster  
 [michael@hochgartz.de](mailto:michael@hochgartz.de)  
-Version: 13.10.2024  
+Version: 20.10.2024  
 
 Quelltext, Versionsgeschichte und Literaturverzeichnis:  
 <https://github.com/michael-hochgartz/lectio-brevior>  
@@ -18,6 +18,12 @@ Ob ein Poete wohl Superintendens seyn könne?
 Der seine Gottesfurcht mit Wissenschafft vereinet  
 Und durch Beredsamkeit ein Felsen-Hertz erweichet  
 (Michael Christoph Brandenburg, 1714)  
+
+Jetzt bin ich müd` vom Rennen und Laufen  
+Jetzt will ich mich im Grabe verschnaufen.  
+Lebt wohl! Dort oben, ihr christlichen Brüder  
+Ja, das versteht sich, dort seh`n wir uns wieder.  
+(Heinrich Heine, 1851)
 
 Learn the facts - then try on the stories like clothes.  
 (John Le Carré, [1974](https://www.telepolis.de/features/John-le-Carre-und-das-Vermaechtnis-der-Spione-3931465.html))  
@@ -47,7 +53,7 @@ Dessen Vater, Herzog Gustav Adolf (Dichter von Kirchenliedern sowie von 100 rege
 
 Eine erste Förderung hatte Jauch durch die Eltern erfahren, die „bey zarter Jugend ein herrlich [ingenium](https://www.perplexity.ai/search/Was-verstand-man-bDmHQ7leQJCE_y98TedMWg) bey diesem ältesten Sohne verspüret“, und es war „ihre erste Sorge, wie sie ihn zu allem guten anführen, und zur Ehre GOttes auferziehen mögten“.  
 
-Die im Februar 1689 auf Veranlssungs des Rektors der Domschule Güstrow gedruckte Einladung zur öffentlichen Aufführung einer lateinischen Oration anlässlich des Geburtstags seines Landesherrn ist das früheste Indiz für die sprachgestalterische Kompetenz des damals 19jährigen Jauch, der bei dieser Gelegenheit als „[Praestantissimus Juvenum](https://www.perplexity.ai/search/Praestantissimu-Juvenum-RlvMwMMMRTu.cZQ77vP58A)“ bezeichnet wurde.  
+Die im Februar 1689 auf Veranlassung des Rektors der Domschule Güstrow gedruckte Einladung zur öffentlichen Aufführung einer lateinischen Oration anlässlich des Geburtstags seines Landesherrn ist das früheste Indiz für die sprachgestalterische Kompetenz des damals 19jährigen Jauch, der bei dieser Gelegenheit als „[Praestantissimus Juvenum](https://www.perplexity.ai/search/Praestantissimu-Juvenum-RlvMwMMMRTu.cZQ77vP58A)“ bezeichnet wurde.  
 
 
 
@@ -64,7 +70,7 @@ Leider wurde bei der Publikation des Reisetagebuchs (vgl. Kohlfeldt 1905) mehr W
 
 Es ergibt sich die Überlegung, ob die drei Jahrzehnte nach diesem Ereignis in Leipziger Kantatentexten anzutreffenden rationalismuskritischen Floskeln - z.B. in BWV 2 („Und was der eigen Witz erdenket, … der eine wählet dies, der andre das, die törichte Vernunft ist ihr Kompaß“), BWV 178 („Schweig, schweig nur, [taumelnde Vernunft](https://www.perplexity.ai/search/was-ist-eine-_T_jKyw1R36M0HIjfnhOSw)“) und BWV 121 („Was Wunder, daß allhie Verstand und Witz gebricht“), aber auch - syntaktisch recht verstanden - BWV 180 („noch durch Vernunft das hohe Werk ergründet“) ihren Urgrund in diesen prägenden Begegnungen hatten und inwieweit sie ferner als aktuelle, unterschwellige Kommentare des Autors zu den seit 1723 eskalierenden [Kontroversen](https://gemini.google.com/share/e491aed845c9) um den Philosophen Christian Wolff zu interpretieren sind. (Vgl Fischer 2017.)  
 
-In wieweit sich im Subtext von BWV 178 (zum 30.7.1724) überdies Anspielungen auf kontroverstheologische Diskussionen, speziell auch zu dem - schwerpunktmäßig von Vertretern des Pietismus besetzten - Thema Terminismus, belegen lassen, bleibt (auch anhand weiterer Kantatentexte) zu untersuchen und hängt zum Beispiel davon ab, ob das „stets“ in Bezug auf einen für jedes Individuum definierten [letztmöglichen](https://www.perplexity.ai/search/worum-stritten-um-1700-anhange-nkILtzxUTx6XPRHsccqwmA#0) Gnadenzeitpunkt („terminus preremptorius“) nur versmetrisch (8.8.9.9.8.8) oder auch theologisch begründet werden kann, dessen Verpassen „die Frommen […] verlorn“ sein lässt. Die Hoffnung auf eine jederzeit mögliche geistliche Neugeburt „nur“ (hier nicht einschränkend gemeint, sondern im Sinne von „einzig und allein“; also als syntaktisch verstellter Partikel zu „Kreuz“, nicht als Adverb zu „geborn“) durch Christi historischen Kreuzestod wird jedenfalls dogmatisch zweifelsfrei bekräftigt und für die lieben Einfältigen leichter rezipierbar gemacht.  
+In wieweit sich im Subtext von BWV 178 (zum 30.7.1724) überdies Anspielungen auf kontroverstheologische Diskussionen, speziell auch zu dem - schwerpunktmäßig von Vertretern des Pietismus besetzten - Thema Terminismus, belegen lassen, bleibt (auch anhand weiterer Kantatentexte) zu untersuchen und hängt zum Beispiel davon ab, ob das „stets“ in Bezug auf einen für jedes Individuum definierten [letztmöglichen](https://www.perplexity.ai/search/worum-stritten-um-1700-anhange-nkILtzxUTx6XPRHsccqwmA#0) Gnadenzeitpunkt („terminus preremptorius“) nur versmetrisch (8.8.9.9.8.8) oder auch theologisch begründet werden kann, dessen Verpassen „die Frommen […] verlorn“ sein lässt. Die Hoffnung auf eine jederzeit mögliche geistliche Neugeburt „nur“ (hier nicht einschränkend gemeint, sondern im Sinne von „einzig und allein“; also als syntaktisch verstellter Partikel zu „Kreuz“, nicht als Adverb zu „geborn“) durch Christi historisch/heroischen Kreuzestod wird jedenfalls dogmatisch zweifelsfrei bekräftigt und für die lieben Einfältigen leichter rezipierbar gemacht.  
 
 Sprich nicht: die Frommen sind verlorn,  
 das Kreuz hat sie nur neu geborn.  
@@ -86,7 +92,7 @@ die deiner Hilf erwarten.
 Durch Verzicht auf je ein Wort ließen sich die beiden Binnenzeilen des Kantatensatzes zu dem in Kirchenliedern allgegenwärtigen Schema 8.8.8.8.8.8 simplifizieren, allerdings um den Preis eines Verzichts auf das „stets“.  
 
 Denen, die auf Jesum hoffen,  
-steht die Tür der Gnaden offen;  
+steht [ ] die Tür der Gnaden offen;  
 
 Dass die beiden Zeilen dadurch ins trochäische Versmaß fallen würden, ließe sich - zusätzlich zum Befund des Textes von 1524 - so deuten, dass die vertonte Gestalt die semantisch ursprüngliche ist.  
 
@@ -160,7 +166,7 @@ Immerhin ist nicht auszuschließen, dass am selben Karfreitag 1667 in gleich zwe
 
 Auf jeden Fall ergibt sich aus diesem Befund und seiner weiteren Betrachtung, dass Norddeutschland zwischen Hamburg, Rostock, Danzig und auch Lüneburg mehr denn je zu den frühesten Pflegestätten innovativer, protestantischer, bürgerlicher Passionsmusiken zu zählen ist.  
 
-Weiterhin ist auch der Umstand zu bedenken, dass 1674 ein Exemplar der ein Jahr zuvor in Lübeck gedruckten (und damit auch für „bürgerliche“ Zwecke bestimmten) Matthäus-Passion des Gottorfer Hofkapellmeisters Johann Theile (Besetzung: u.a. 2 Bratschen, 2 Gamben) für die Notenbibliothek von St. Johannis angeschafft wurde. Und schließlich verzeichnet die rekonstruierte Chorbibliothek des Michaelis-Klosters ein Exemplar der „Passio in Dialogo 2dum Matthaeum pro Clavicymbalo Organo &c. Mit 10 Stimmen gesetzt“ des Hamburger Kantors Thomas Selle aus dem Jahr 1642. (Vgl. Jekutsch 2000, Nr. 0772).  
+Weiterhin ist auch zu bedenken, dass 1674 ein Exemplar der ein Jahr zuvor in Lübeck gedruckten (und damit auch für „bürgerliche“ Zwecke bestimmten) Matthäus-Passion des Gottorfer Hofkapellmeisters Johann Theile (Besetzung: u.a. 2 Bratschen, 2 Gamben) für die Notenbibliothek von St. Johannis angeschafft wurde. Und schließlich verzeichnet die rekonstruierte Chorbibliothek des Michaelis-Klosters ein Exemplar der „Passio in Dialogo 2dum Matthaeum pro Clavicymbalo Organo &c. Mit 10 Stimmen gesetzt“ des Hamburger Kantors Thomas Selle aus dem Jahr 1642. (Vgl. Jekutsch 2000, Nr. 0772).  
 
 Die Tradition regelmäßiger Aufführungen vor oder während des Karfreitags reichte übrigens so lange, wie der [Chorus Symphoniacus](https://www.perplexity.ai/search/Chorus-Symphoniacus-fIRXf.kuRFKK7XWRtvWZPg) des Johanneums und der [Mettenchor](https://www.perplexity.ai/search/Mettenchor-oKUoOVwmQ_q1FzWu_JcMMg) von St. Michaelis zur Verfügung standen - also bis gegen Ende des 18. Jahrhunderts. (Vgl. Walter 1967.) Sie wurde 1855 mit einer ersten Aufführung von BWV 244 in St. Johannis wieder aufgenommen und wird bis heute fortgeführt.  
 
@@ -258,7 +264,7 @@ Wenn er des andern Wolseyn spürte:
 So daß ihr von der ächten Art  
 Ein paar getreuer Freunde war’t.  
 
-Unklar sind die weiteren Beziehungen zwischen den Familien. So heiratete Ludolph Friedrich am 7.6.1746 Sophie Justine (geb. 1717), die Tochter eines Kauf- und Handelsmanns in Lüneburg. Diese hinterließ bei ihrem Tod 1779 ein Testament, das sich im Stadtarchiv erhalten hat. (Vgl. Reuter 1918).  
+Unklar sind die weiteren Beziehungen zwischen den Familien. So heiratete Ludolph Friedrich am 7.6.1746 Sophie Justine (geb. 1717), die Tochter eines Kauf- und Handelsmanns in Lüneburg. Diese hinterließ bei ihrem Tod 1779 ein Testament, das sich im Stadtarchiv erhalten hat, sich für die vorliegende Untersuchung aber als unergiebig erwiesen hat. (Vgl. Reuter 1918).  
 
 Es scheint, als habe Georg Bertram bereits vor 1719 (freilich in allgemeinerem Zusammenhang) die für die heutige Forschung betrüblichste Konsequenz aus dem plötzlichen, im Folgenden zu schildernden Tod Jauchs vorausgeahnt - nämlich die Unmöglichkeit, dessen Kantatentexte von 1724/25 nach Art eines J.C. Birkmann gesammelt zu publizieren: „… weil man wol weiß / wenn die Herren Autores davon sterben / daß es doch mit Editirung dergleichen operum postumorum die rechte Art nicht hat.“ (Zur Typologie der Publikationsformen vgl. Hobohm in BJ 1997).   
 
@@ -364,7 +370,7 @@ O seliges, gewünschtes Ende!
 
 Es ist nicht genau bekannt, in welchem gesundheitlichen Zustand sich Johann Christoph Jauch an seinem letzten Lebenstag befand. Auch wenn er nicht ganz bis zum Ende bei klarem Verstand gewesen sein sollte, so starb er doch vielleicht in dem Bewußtsein, dass sein Text - ein seltenes, aber nicht singuläres Beispiel für eine Bibel-Auslegung „ad hominem“ - zu diesen Stunden in einer Vertonung eines Komponisten erklingen sollte, der über den Verlauf seiner Erkrankung informiert gewesen sein musste.  
 
-Ob dem von Bach vertonten „aus seinem“ urspünglich „aus meinem“ Körper zugrundelag, wie vier Zeilen später angedeutet („meine Sterbekissen“) bleibt der Vorstellungskraft des Betrachters überlassen.  
+Ob dem von Bach vertonten „aus seinem Körper“ urspünglich „aus meinem Körper“ zugrundelag, wie vier Zeilen später angedeutet („meine Sterbekissen“), bleibt der Vorstellungskraft des Betrachters überlassen.  
 
 
 [Individualeschatologische](https://www.perplexity.ai/search/individualescha-Rn5G7Iz7SdO_hoMOO3.4QA) Ahnungen dieser Art finden sich bereits zwei Wochen zuvor, am 1. Sonntag nach Epiphanias (7.1.1725), in der Kantate BWV 124/3:  
@@ -502,7 +508,14 @@ Ob J.S. Bach 1750 in seinen, von einer medizinisch zeitüblich brutal, schließl
 
 Generell ergibt sich aus den vorgenannten Belegen die Frage, ob und in wieweit der Autor in diesen (und in weiteren) Fällen mit einer Art „doppeltem literarischen Boden“ operiert, indem er das „[poetische Ich](https://www.perplexity.ai/search/was-besagt-die-theorie-vom-poe-snjSPJiRQ9qu9Dud6TQoBg#1)“ einen vordergründig rein theologisch fundierten Text verkünden lässt, aus dem sich auf einer zweiten Ebene lebensweltliche Erlebnisse, Empfindungen und Erwartungen des „realen Ich“ herauslesen lassen.  
 
-Das Thema „[Subtexte](https://www.perplexity.ai/search/was-versteht-man-unter-dem-beg-Yjlva8QCQFyFgt49e34l8Q#0)“ in Bachs wortgebundenen Werken lohnt weitere Untersuchungen, auch über den Choralkantaten-Jahrgang hinaus (ganz besonders bzgl. BWV 211!)  
+Wäre ein Vergleich mit Heinrich Heines bitter-ironischem Ruf aus seiner Pariser Matratzengruft 1851 eine allzu voreilige Vorwegnahme einer literarischen Gestaltungsweise?  
+
+Jetzt bin ich müd` vom Rennen und Laufen  
+Jetzt will ich mich im Grabe verschnaufen.  
+Lebt wohl! Dort oben, ihr christlichen Brüder  
+Ja, das versteht sich, dort seh`n wir uns wieder.  
+
+Das Thema „[Subtexte](https://www.perplexity.ai/search/was-versteht-man-unter-dem-beg-Yjlva8QCQFyFgt49e34l8Q#0)“ in Bachs wortgebundenen Werken lohnt auf jeden Fall weitere Untersuchungen, auch über den Choralkantaten-Jahrgang hinaus (ganz besonders bzgl. BWV 211!)  
 
 
 Ist es mehr als ein Zufall, dass Johann Sebastian Bach am 20.1.1726 (2. Sonntag nach Epiphanias) an den ersten Jahrestag des Todes seines Librettisten gedenkt, indem er einen 1711 publiziertenText aus der Feder des Darmstädter Hofpoeten Georg Christian Lehms vertont (BWV 13), der - mit nur schwachem Stichwortbezug zur Perikope („Jammerkrug“; Joh 2,1-2) - über„Ächzen und erbärmlich Weinen“ als Mittel gegen „der Sorgen Krankheit … in der Trauerbrust“ reflektiert? Obwohl Lehms erst 1717 an den Folgen einer Lungentuberkulose sterben sollte, nimmt sich sein sechs Jahre zuvor veröffentlichter Text wie die Vorwegnahme einer konkreten Krankheitssituation aus, die der des Autors von BWV 135 und BWV 127 erstaunlich gleicht:  
