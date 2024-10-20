@@ -508,7 +508,7 @@ Ob J.S. Bach 1750 in seinen, von einer medizinisch zeitüblich brutal, schließl
 
 Generell ergibt sich aus den vorgenannten Belegen die Frage, ob und in wieweit der Autor in diesen (und in weiteren) Fällen mit einer Art „doppeltem literarischen Boden“ operiert, indem er das „[poetische Ich](https://www.perplexity.ai/search/was-besagt-die-theorie-vom-poe-snjSPJiRQ9qu9Dud6TQoBg#1)“ einen vordergründig rein theologisch fundierten Text verkünden lässt, aus dem sich auf einer zweiten Ebene lebensweltliche Erlebnisse, Empfindungen und Erwartungen des „realen Ich“ herauslesen lassen.  
 
-Wäre ein Vergleich mit Heinrich Heines bitter-ironischem Ruf aus seiner Pariser Matratzengruft 1851 eine allzu voreilige Vorwegnahme einer literarischen Gestaltungsweise?  
+Wäre ein Vergleich mit Heinrich Heines bitter-ironischem Ruf aus seiner Pariser „Matratzengruft“ 1851 eine allzu voreilige Vorwegnahme eines literarischen Prinzips?  
 
 Jetzt bin ich müd` vom Rennen und Laufen  
 Jetzt will ich mich im Grabe verschnaufen.  
