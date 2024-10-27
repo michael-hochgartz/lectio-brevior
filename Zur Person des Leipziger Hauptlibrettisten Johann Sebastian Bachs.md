@@ -5,7 +5,7 @@ Ob ein Superintendens wohl Poete seyn könne? - Zur Person des „Leipziger“ H
 Michael Hochgartz
 D 48153 Münster  
 [michael@hochgartz.de](mailto:michael@hochgartz.de)  
-Version: 22.10.2024  
+Version: 27.10.2024  
 
 Quelltext, Versionsgeschichte und Literaturverzeichnis:  
 <https://github.com/michael-hochgartz/lectio-brevior>  
@@ -19,7 +19,7 @@ Der seine Gottesfurcht mit Wissenschafft vereinet
 Und durch Beredsamkeit ein Felsen-Hertz erweichet  
 (Michael Christoph Brandenburg, 1714)  
 
-Jetzt bin ich müd` vom Rennen und Laufen  
+Jetzt bin ich müd  vom Rennen und Laufen  
 Jetzt will ich mich im Grabe verschnaufen.  
 Lebt wohl! Dort oben, ihr christlichen Brüder  
 Ja, das versteht sich, dort seh`n wir uns wieder.  
