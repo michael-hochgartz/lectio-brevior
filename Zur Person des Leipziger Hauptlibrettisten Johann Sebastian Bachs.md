@@ -1,11 +1,11 @@
 Ob ein Superintendens wohl Poete seyn könne? - Zur Person des „Leipziger“ Hauptlibrettisten Johann Sebastian Bachs.  
 
-[Iterativ](https://www.perplexity.ai/search/was-heisst-iterativ-ausserhalb-qlO7djCNQTmWLc.hHH3MEg#0) dokumentierter Entwurf für ein Vortragsmanuskript (Es gilt das demnächst gesprochene Wort.)  
+[Iterativ](https://www.perplexity.ai/search/was-heisst-iterativ-ausserhalb-qlO7djCNQTmWLc.hHH3MEg#0) dokumentierter Entwurf für ein Vortragsmanuskript (Es gilt das gesprochene Wort.)  
 
 Michael Hochgartz
 D 48153 Münster  
 [michael@hochgartz.de](mailto:michael@hochgartz.de)  
-Version: 12.11.2024  
+Version: 13.11.2024  
 
 Quelltext, Versionsgeschichte und Literaturverzeichnis:  
 <https://github.com/michael-hochgartz/lectio-brevior>  
@@ -1158,7 +1158,7 @@ dieselben ferner segnen!“
 
 Brandenburg (und nicht etwa Jauch) war ab 1724 das einzige externe Mitglied der Hamburger Patriotischen Gesellschaft, für deren Organ „Der Patriot“ er unter einem Pseudonym Beiträge verfasste.  
 
-Der 1722-25 für den immerwährenden Freund der Familie Bach - Georg Philipp Telemann - (sicherlich nicht ohne wohlwollende Beobachtung durch seinen ehemaligen Tischherrn Jauch) in einzelnen Lieferungen bereitgestellte „Brandenburgische“ Kantatenjahrgang blieb im Dezember 1725 (Beginn eines neuen regulären Kirchenjahres) unvollendet, da der Verfasser durch persönliche Befindlichkeiten und seine Tätigkeit als Prediger in Sterley (Herzogtum Lauenburg) ausgelastet war. (Vgl. die im entscheidenden Punkt krass sinnverändernde [Interpretation](https://www.perplexity.ai/search/wie-lassen-sich-die-nachfolgen-2D4QswzLS.m1uxBhiEsuuw) durch eine derzeit noch als weltweit führend angesehene, hinsichtlich fundamentaler sprachlicher Logiken an entscheidenden Stellen immer wieder versagende, „Intelligenz“. Freilich sei eingestanden, dass der verwendete Promt „durch seinen…“ mehr oder weniger absichtlich semantisch recht kurz gegriffen war.)  
+Der 1722-25 für den immerwährenden Freund der Familie Bach - Georg Philipp Telemann - (sicherlich nicht ohne wohlwollende Beobachtung durch seinen ehemaligen Tischherrn Jauch) in einzelnen Lieferungen bereitgestellte „Brandenburgische“ Kantatenjahrgang blieb im Dezember 1725 (Beginn eines neuen regulären Kirchenjahres) unvollendet, da der Verfasser durch persönliche Befindlichkeiten und seine Tätigkeit als Prediger in Sterley (Herzogtum Lauenburg) ausgelastet war. (Vgl. die in Punkt 2 der Antwort krass sinnverändernde [Interpretation](https://www.perplexity.ai/search/wie-lassen-sich-die-nachfolgen-2D4QswzLS.m1uxBhiEsuuw) durch eine zeitweise als führend angesehene, hinsichtlich fundamentaler sprachlicher Logiken jedoch an entscheidenden Stellen immer wieder versagende, „Intelligenz“. Freilich sei eingestanden, dass das im Anfrage-Prompt verwendete Zitat in einem wichtigen Detail „… durch seinen …“ syntaktisch/semantisch wohl zu kurz gegriffen war. In der analogen Welt hieß das bislang: aus dem Zusammenhang gerissen.)  
 
 Zusammen mit dem ebenfalls aus arbeitsökonomischen Gründen nicht vollständig abgelieferten Jahrgang Erdmann Neumeisters für Telemann mag dies als eine bemerkenswerte zeitliche (und folgt man den hier vorgebrachten Argumenten: auch geographische) Koinzidenz zum Abbruch des Bachschen Choralkantatenjahrgangs betrachtet werden.  
 
