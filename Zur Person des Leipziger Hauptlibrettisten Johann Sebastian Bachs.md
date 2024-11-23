@@ -7,7 +7,7 @@ D 48153 Münster
 [michael@hochgartz.de](mailto:michael@hochgartz.de)  
 Version: 23.11.2024  
 
-Quelltext, Versionsgeschichte und provisorische Literaturverzeichnis:  
+Quelltext, Versionsgeschichte und provisorisches Literaturverzeichnis:  
 <https://github.com/michael-hochgartz/lectio-brevior>  
 
 
