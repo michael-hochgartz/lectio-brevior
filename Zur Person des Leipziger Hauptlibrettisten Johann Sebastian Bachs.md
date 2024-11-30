@@ -5,7 +5,7 @@ Ob ein Superintendens wohl Poete seyn könne? - Zur Person des „Leipziger“ H
 Michael Hochgartz
 D 48153 Münster  
 [michael@hochgartz.de](mailto:michael@hochgartz.de)  
-Version: 28.11.2024  
+Version: 29.11.2024  
 
 Quelltext, Versionsgeschichte und provisorisches Literaturverzeichnis:  
 <https://github.com/michael-hochgartz/lectio-brevior>  
@@ -34,8 +34,8 @@ Man muss dem Gericht natürlich eine stimmige und lebensnahe Geschichte präsent
 Bildung lässt sich nicht downloaden.  
 (Günther Jauch, 2009)  
 
-Einer muss sich quälen - der Schreiber oder der Leser.  
-(Wolf Schneider)  
+Wenn man den Kern treffen will, muss man die Klangfarben der Sprache erspüren.  
+(Merkel 2024, nach Rainer Kunze). 
 
 
 Bei dem Autor der Texte für Johann Sebastian Bachs Choralkantaten des Jahrgangs 1724/25 und für einige von deren Vor- und Nachläufern, für Teile seiner Johannes-Passion und für eine Anfang 1725 abgebrochene Urfassung der Matthäus-Passion handelt es sich mit hoher [Wahrscheinlichkeit](https://www.perplexity.ai/search/ex-falso-sequitur-quodlibet-0YBcKfHFSASACnaBboQDfQ) um den Lüneburger Lamberti-, Nikolai- und Johannis-Prediger, den 1714 zum Superintendenten und Inspektor der Lateinschule Johanneum und ihres Kantatenchors ernannten Johann Christoph [Jauch](https://d-nb.info/gnd/117088900) (1669-1725), den jahrzehntelangen unmittelbaren Zeitgenossen, mutmaßlichen Studienkollegen und späteren theologischen Vorgesetzten, Kanzelredner bei gemeinsam absolvierten Kantatenaufführungen und vielleicht auch Beichtvater von Bachs „Lehrmeister“ Georg Böhm - dem Komponisten der bei Jauchs Beisetzung in St. Johannis am 6. Februar 1725 aufgeführten Trauermusik.  
@@ -850,7 +850,7 @@ Der 1765 aus dem Nachlass des 1698 erstgeborenen Sohnes, des Lüneburger Michael
 
 Bislang konnte immerhin ein konkretes Werk aus diesem Bestand nachgewiesen werden: Ein in der GWLB Hannover (Signatur: T-A262:1) überliefertes Exemplar des „Codex Pseudepigraphus Veteris Testamenti“ des Hamburger Rektors Johann Albert Fabricius, (2. Auflage Hamburg 1722; Katalog Nrn. 2792 und 2793) trägt einen eigenhändigen, bei der bibliothekarischen Erfassung als „Jauch, Ludwig Friedrich“ nicht ganz korrekt aufgelösten Besitzeintrag - wohinter sich mit einiger Sicherheit Ludolph Friedrich verbirgt, den sein Vater einst in die Obhut des Hamburger Gelehrten zu übergeben versucht hatte. (s.o.)
 
-Auf Johann Christoph Jauch dürfte zum Beispiel die Anschaffung jener achtbändigen Ausgabe des 1697 erschienenen „Wagnerschen Gesangbuchs“ zurückgehen (Nr. 2645 - 2652 des Katalogs), einer enzyklopädischen, allein schon aus materiellen Gründen keineswegs für den Massengebrauch konzipierten Choraltext-Anthologie, die auch als wesentlicher Bestandteil der theologischen Bibliothek Bachs belegt ist. Damit ist die Voraussetzung für die Annahme gegeben, dass sich Dichter und Komponist bei einer Abstimmung über das hymnologische Programm der Choralkantaten auf das gleiche, umfangreiche Repertorium von Kirchenliedern stützen konnten. Freilich, ohne dass bekannt ist, wann welche der 1750 buchstäblich posthum verzeichneten Reste aus Bachs Bibliothek jeweils in seinen Besitz gelangten - aber das ist das systemische Risiko aller Spekulationen über die Hinterlassenschaften des Thomaskantors.  
+Auf Johann Christoph Jauch dürfte zum Beispiel die Anschaffung jener achtbändigen Ausgabe des 1697 erschienenen „Wagnerschen Gesangbuchs“ zurückgehen (Nr. 2645 - 2652 des Katalogs), einer enzyklopädischen, allein schon aus materiellen Gründen keineswegs für den Massengebrauch konzipierten Choraltext-Antologie, die auch als wesentlicher Bestandteil der theologischen Bibliothek Bachs belegt ist. Damit ist die Voraussetzung für die Annahme gegeben, dass sich Dichter und Komponist bei einer Abstimmung über das hymnologische Programm der Choralkantaten auf das gleiche, umfangreiche Repertorium von Kirchenliedern stützen konnten. Freilich, ohne dass bekannt ist, wann welche der 1750 buchstäblich posthum verzeichneten Reste aus Bachs Bibliothek jeweils in seinen Besitz gelangten - aber das kennzeichnet das systemische Risiko aller Spekulationen über die Hinterlassenschaften des Thomaskantors.  
 
 Wie dem auch sei: Je vier Titel von zwei prominenten Vertretern der Norddeutschen Reformorthodoxie, nämlich August Pfeiffer (Lübeck) und Heinrich Müller (Rostock), belegen zudem - zusammen mit weiteren Werken anderer Autoren - eine quantitativ mit 23 bzw. 32 Prozent beachtenswerte, theologisch durchaus tendenziöse Schnittmenge der hinterlassenen Bibliotheken Bachs und seines Hauptlibrettisten. (Vgl. Wilhelmi 1979: Nrn. 5, 8, 10 sic!, 11,14, 20, 36, 38, 39, 42, 51, 52 sowie die Zweifelsfälle 2, 7, 13, 35, 45.)  
 
