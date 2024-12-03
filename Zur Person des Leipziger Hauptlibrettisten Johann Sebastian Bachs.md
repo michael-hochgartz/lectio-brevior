@@ -5,7 +5,7 @@ Ob ein Superintendens wohl Poete seyn könne? - Zur Person des „Leipziger“ H
 Michael Hochgartz
 D 48153 Münster  
 [michael@hochgartz.de](mailto:michael@hochgartz.de)  
-Version: 02.12.2024  
+Version: 03.12.2024  
 
 Quelltext, Versionsgeschichte und provisorisches Literaturverzeichnis:  
 <https://github.com/michael-hochgartz/lectio-brevior>  
@@ -19,7 +19,7 @@ Der seine Gottesfurcht mit Wissenschafft vereinet
 Und durch Beredsamkeit ein Felsen-Hertz erweichet  
 (Michael Christoph Brandenburg, 1714)  
 
-Jetzt bin ich müd  vom Rennen und Laufen  
+Jetzt bin ich müd vom Rennen und Laufen  
 Jetzt will ich mich im Grabe verschnaufen.  
 Lebt wohl! Dort oben, ihr christlichen Brüder  
 Ja, das versteht sich, dort sehn wir uns wieder.  
@@ -35,7 +35,7 @@ Bildung lässt sich nicht downloaden.
 (Günther Jauch, 2009)  
 
 Wenn man den Kern treffen will, muss man die Klangfarben der Sprache erspüren.  
-(Angela Merkel 2024, nach Rainer Kunze). 
+(Rainer Kunze, nach Angela Merkel 2024). 
 
 
 Bei dem Autor der Texte für Johann Sebastian Bachs Choralkantaten des Jahrgangs 1724/25 und für einige von deren Vor- und Nachläufern, für Teile seiner Johannes-Passion und für eine Anfang 1725 abgebrochene Urfassung der Matthäus-Passion handelt es sich mit hoher [Wahrscheinlichkeit](https://www.perplexity.ai/search/ex-falso-sequitur-quodlibet-0YBcKfHFSASACnaBboQDfQ) um den Lüneburger Lamberti-, Nikolai- und Johannis-Prediger, den 1714 zum Superintendenten und Inspektor der Lateinschule Johanneum und ihres Kantatenchors ernannten Johann Christoph [Jauch](https://d-nb.info/gnd/117088900) (1669-1725), den jahrzehntelangen unmittelbaren Zeitgenossen, mutmaßlichen Studienkollegen und späteren theologischen Vorgesetzten, Kanzelredner bei gemeinsam absolvierten Kantatenaufführungen und vielleicht auch Beichtvater von Bachs „Lehrmeister“ Georg Böhm - dem Komponisten der bei Jauchs Beisetzung in St. Johannis am 6. Februar 1725 aufgeführten Trauermusik.  
@@ -49,7 +49,7 @@ Anlässlich der Übersiedlung seines Vaters nach Lüneburg und dessen Wiederverh
 
 Johann Christoph Jauch wurde am 13. September 1669 im Dom zu Güstrow getauft als Sohn einer Kammerzofe der Herzogin Magdalena Sybilla (geb. von Schleswig-Holstein-Gottorf) und eines „Ersten Lacquayen u. Tafeldeckers“ ihres Sohnes, des zuweilen - besonders nach Aufhebung seiner Tafel - höchstselbst die Laute spielenden Erbprinzen Karl von Mecklenburg-Güstrow.  
 
-Dessen Vater, Herzog Gustav Adolf (Dichter von Kirchenliedern sowie von 100 regelgerecht gereimten, durch Jauchs lebenslangen theologischen Mentor Johannes Fecht 1699 posthum veröffentlichten geistlichen Dichtungen und als „Der Gefällige“ Mitglied der „[Fruchtbringenden Gesellschaft](https://de.wikipedia.org/wiki/Fruchtbringende_Gesellschaft)“), förderte durch ein Stipendium die Ausbildung des sprachschöpferisch und rhetorisch überdurchschnittlich begabten Schülers und Studenten, der die Lateinschulen in Güstrow, Wismar und Schwerin besuchte, wo er unter Anleitung namentlich ermittelbarer Pädagogen und Musiker, „durch deren treue Anführung er so wol in dem Christenthum als Sprachen dergestalt zugenommen, daß er von der andern [Unterprima] classe mit Nutzen zu der Obersten [Oberprima] schreiten können“, eine theologische und humanistische Elementarbildung erhielt und zugleich - wie an solchen jahrhundertealten Bildungsinstituionen üblich - Erfahrungen als Chorsänger gemacht haben dürfte.  
+Dessen Vater, Herzog Gustav Adolf (Dichter von Kirchenliedern sowie von 100 regelgerecht gereimten, durch Jauchs lebenslangen theologischen Mentor Johannes Fecht 1699 posthum veröffentlichten geistlichen Dichtungen und als „Der Gefällige“ Mitglied der „[Fruchtbringenden Gesellschaft](https://de.wikipedia.org/wiki/Fruchtbringende_Gesellschaft)“), förderte durch ein Stipendium die Ausbildung des sprachschöpferisch und rhetorisch überdurchschnittlich begabten Schülers und Studenten, der die Lateinschulen in Güstrow, Wismar und Schwerin besuchte, wo er unter Anleitung namentlich ermittelbarer Pädagogen und Musiker, „durch deren treue Anführung er so wol in dem Christenthum als Sprachen dergestalt zugenommen, daß er von der andern [Unterprima] classe mit Nutzen zu der Obersten [Oberprima] schreiten können“, eine theologische und humanistische Elementarbildung erhielt und zugleich - wie an solchen jahrhundertealten Bildungsinstitutionen z.T. bis heute üblich - Erfahrungen als Chorsänger gemacht haben dürfte.  
 
 Eine erste Förderung hatte Jauch durch die Eltern erfahren, die „bey zarter Jugend ein herrlich [ingenium](https://www.perplexity.ai/search/Was-verstand-man-bDmHQ7leQJCE_y98TedMWg) bey diesem ältesten Sohne verspüret“, und es war „ihre erste Sorge, wie sie ihn zu allem guten anführen, und zur Ehre GOttes auferziehen mögten“.  
 
@@ -92,7 +92,7 @@ die deiner Hilf erwarten.
 Durch Verzicht auf je ein Wort ließen sich die beiden Binnenzeilen des Kantatensatzes zu dem in Kirchenliedern allgegenwärtigen Schema 8.8.8.8.8.8 simplifizieren, allerdings um den Preis eines Verzichts auf das „stets“.  
 
 [Denn] denen, die auf Jesum hoffen,  
-steht [ ] die Tür der Gnaden offen;  
+steht [ stets] die Tür der Gnaden offen;  
 
 Dass die beiden Zeilen dadurch ins trochäische Versmaß fallen würden, ließe sich - zusätzlich zum Befund des Textes von 1524 - so deuten, dass die vertonte Gestalt die semantisch ursprüngliche ist.  
 
