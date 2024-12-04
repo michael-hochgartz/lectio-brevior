@@ -5,7 +5,7 @@ Ob ein Superintendens wohl Poete seyn könne? - Zur Person des „Leipziger“ H
 Michael Hochgartz
 D 48153 Münster  
 [michael@hochgartz.de](mailto:michael@hochgartz.de)  
-Version: 03.12.2024  
+Version: 04.12.2024  
 
 Quelltext, Versionsgeschichte und provisorisches Literaturverzeichnis:  
 <https://github.com/michael-hochgartz/lectio-brevior>  
@@ -511,7 +511,7 @@ Generell ergibt sich aus den vorgenannten Belegen die Frage, ob und in wieweit d
 
 Wäre ein Vergleich mit Heinrich Heines bitter-ironischem Hilferuf aus seiner Pariser „Matratzengruft“ 1851 eine allzu voreilige Vorweg-Annahme eines - für barocke geistliche Gebrauchslyrik noch nicht thematisierten, wegen forschungsideologischer Grundbedenken wohl auch kaum je mit Erfolg zu untersuchenden - literarischen Gestaltungsprinzips?  
 
-Jetzt bin ich müd` vom Rennen und Laufen  
+Jetzt bin ich müd vom Rennen und Laufen  
 Jetzt will ich mich im Grabe verschnaufen.  
 Lebt wohl! Dort oben, ihr christlichen Brüder  
 Ja, das versteht sich, dort seh`n wir uns wieder.  
