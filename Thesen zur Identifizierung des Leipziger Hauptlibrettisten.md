@@ -2,7 +2,8 @@
 des „Leipziger“ Hauptlibrettisten  
 Johann Sebastian Bachs  
 Michael Hochgartz (D 48153 Münster)  
-[michael@hochgartz.de](mailto:michael@hochgartz.de) - 06.11.2024  
+[michael@hochgartz.de](mailto:michael@hochgartz.de)  
+Version: 29.12.2024  
 Quelltext, Versionsgeschichte und Literaturverzeichnis:  
 <https://github.com/michael-hochgartz/lectio-brevior>  
 
@@ -11,7 +12,6 @@ amore et studio elucidandae veritatis haec subscripta disputabuntur (Martin Luth
 … nos esse quasi nanos gigantum umeris insidentes, ut possimus plura eis et remotiora videre … (Bernardus Carnotensis, um 1120, auf den Schultern Ovids sitzend)  
 
 pro captu lectoris habent sua fata libretti (nach Terentianus Maurus)  
-
 
 
 0. Ausgangspunkt für die folgenden Überlegungen zur namentlichen Ermittlung des „Leipziger“ Hauptlibrettisten Johann Sebastian Bachs ist die Annahme, dass die Entstehung der anonym überlieferten Texte für einen bedeutenden Teil der für die regulären Sonn- und Festtage zwischen Trinitatis 1724 und Annuntiatio Domini 1725 entstandenen geistlichen Vokalwerke zwar aufgrund eines Benehmens zwischen den Beteiligten (Autor, Komponist; Prediger; Zensor und Korrektor) stattfand, nicht aber an demselben Ort wie die Komposition der Musik.  
@@ -57,7 +57,7 @@ Offensichtlich fiel Bach nach dem Tod seines „Leipziger“ Hauptlibrettisten i
 
 Die Tatsache, dass bis heute keine Parallelvertonung aus dem vorhandenen Textkorpus durch einen anderen Komponisten bekannt geworden ist (so schon Krausse 1986), lässt sich als Indiz dafür werten, dass das handschriftliche Material Bachs und des Autors Besitz zu Lebzeiten niemals geordnet verlassen hat - und auch nicht den der jeweiligen Nachkommen.  
 
-Zwischen dem Verkauf der Stimmensätze durch Bachs Witwe Anna Magdalena an den Rat der Stadt Leipzig (der sie bis heute ununterbrochen gehören) und der Edition in der Alten Bach Ausgabe (1850-1900) gab es keinen anderen Ort, an welchem die Texte in toto angetroffen werden konnten - auch nicht in dem extrem fragmentierten, lückenhaften Streubesitz der von Wilhelm Friedemann Bach auf legendenumwobene, schwer rekonstruierbare Art veruntreuten Partituren.  
+Zwischen dem Verkauf der Stimmensätze durch Bachs Witwe Anna Magdalena an den Rat der Stadt Leipzig (dem sie bis heute ununterbrochen gehören) und der Edition in der Alten Bach Ausgabe (1850-1900) gab es keinen anderen Ort, an welchem die Texte in toto angetroffen werden konnten - auch nicht in dem extrem fragmentierten, lückenhaften Streubesitz der von Wilhelm Friedemann Bach auf legendenumwobene, schwer rekonstruierbare Art veruntreuten Partituren.  
 
 Da aufgrund dieses Befunds nicht damit zu rechnen ist, dass jemals ein - zwangsläufig nur posthum denkbarer - Sammeldruck des unvollständigen Jahrgangs in Form eines (urheberische Initiativen oder gar verlegerische Investitionen der Erben) erfordernden Buches auftauchen könnte, das analog zum Fall J.C. Birkmann (vgl. Blanken 2015) eine Attribution anhand textlicher Konkordanzen ermöglichen würde, müssen andere Ansätze zur Identitätsermittlung herangezogen werden.  
 
@@ -112,11 +112,11 @@ Andernfalls wäre mit dem - ebenfalls sikzzenhaften - Satz BWV244b/4d zu fragen:
 
 Ferner: Belegen die durch Ziffern signalisierten Hinweise für den 2. Chorus - also: „18“ (Takte ab initio) sowie „16“ (Takte zwischen den ersten beiden Einsätzen) und „contano 20“ (also die ab nun zu zählenden Takte bis zum Subito auszuführenden - so die heutige Praxis - Einsatz von Satz 27b) - in fol. 43v und 44v der Partitur(!) P 26, dass Agricola bei der Niederschrift dieses vollständig, aber hinsichtlich der Darstellung der Doppelchöre zunächst noch platzsparender notierten, aber keineswegs weniger komplex zu lesenden Satzbildes (27a) bereits an die Anfertigung von Aufführungsmaterial dachte? Für die betroffenen Mitwirkenden wäre das eine willkommene Überlebenshilfe beim Abpassen des Einsatzes über dem buchstäblich über-irdisch, weil ohne Takt-spendenden Continuo dahinschwebenden Bassetto-Duetts („Sie führen ihn, er ist gefangen…“). Allein: der Nutzer der Partitur bräuchte derlei Hilfen nicht.  
 
-Insgesamt kann die Antwort nur Nein lauten, denn Ziel von Agricolas außergewöhnlichen Bemühungen war keineswegs eine Aufführung anhand von P 26. Eine solche hätte er durch Ausschreiben(lassen) von Stimmen nach AmB. 6+7 leichter verwirklichen können - oder am leichtesten, indem er seinen langjährigen Potsdamer Kollegen C.P.E. Bach um die leihweise Überlassung des kompletten, aufführungserprobten Materials der Spätfassung (D-B Mus.ms. Bach P 25 / D-B Mus.ms. Bach St 110) gebeten hätte.  
+Insgesamt kann die Antwort nur Nein lauten, denn Ziel von Agricolas außergewöhnlichen Bemühungen war keineswegs eine Aufführung anhand von P 26. Eine solche hätte er durch Ausschreiben(lassen) von Stimmen nach AmB. 6+7 leichter verwirklichen können - oder am leichtesten, indem er seinen langjährigen Potsdamer Kollegen und Berliner Mitbürger C.P.E. Bach um die leihweise Überlassung des kompletten, aufführungserprobten Materials der Spätfassung (D-B Mus.ms. Bach P 25 / D-B Mus.ms. Bach St 110) gebeten hätte.  
 
-Zudem bliebe zu fragen, warum er sich für die praktische Verwendung der Frühfassung interessiert haben könnte, die auch heute nur äußerst selten und eher aus akademischen oder diskographischen Interessen herangezogen wird. Somit ist davon auszugehen, dass die numerisch markierten Pausentakte bereits in der Vorlage vorhanden waren, also auf den Komponisten zurück gehen. Ob diese Einordnung mit den grundlegenden Beobachtungen R. L. Marshalls (1972) bzgl. Bachs Notationsgewohnheiten im überlieferten Kantaten-Korpus in Einklang gebracht werden können, die leider die Passionen unberücksichtigt lassen, bleibt zu prüfen.  
+Zudem bliebe zu fragen, warum er sich für die praktische Verwendung der Frühfassung interessiert haben könnte, die auch heute nur äußerst selten und eher aus akademischen oder diskographischen Interessen herangezogen wird. Bos dahin ist davon auszugehen, dass die numerisch markierten Pausentakte bereits in der Vorlage vorhanden waren, also auf den Komponisten zurück gehen. Ob diese Einordnung mit den grundlegenden Beobachtungen R. L. Marshalls (1972) bzgl. Bachs Notationsgewohnheiten im überlieferten Kantaten-Korpus in Einklang gebracht werden können, die leider die Passionen unberücksichtigt lassen, bleibt zu prüfen.  
 
-Zu klären bleibt, warum Agricola in dieser Partitur Gebrauch von zahlreichen notationstechnischen Abbreviaturen macht („col vl. primo“ etc.; auch da, wo es sich schreibtechnisch kaum zu lohnen scheint) - wie sie für viele seiner übrigen Handschriften (auch eigener Kompositionen) typisch sind. (Vgl. dazu möglicherweise die 2021 an der Universität Oxford verteidigte dreibändige, 900seitige Dissertation von Andrew Frampton, deren Wortlaut außerhalb des Lesesaals der Bibliothek des Bach-Archivs Leipzig auf dem europäischen Kontinent derzeit nicht zugänglich zu sein scheint.)  
+Zu klären bleibt, warum Agricola in dieser Partitur Gebrauch von zahlreichen notationstechnischen Abbreviaturen macht („col vl. primo“ etc.; auch da, wo es sich schreibtechnisch kaum zu lohnen scheint) - wie sie für viele seiner übrigen Handschriften (auch eigener Kompositionen) typisch sind. (Vgl. dazu die 2021 an der Universität Oxford verteidigte [Dissertation](https://ora.ox.ac.uk/objects/uuid:8a5fc96c-c15a-4e4e-ad32-ce032b100d5c) von Andrew Frampton. Auf den Seiten 804-806 wird die Handschrift P 26 rein formal katalogisiert - leider ohne Einbeziehung der Überlegungen von Chafe 1982.)  
 
 Ohne weiteres erklärbar ist hingegen der Umstand, dass sich Agricola bei der Rekonstruktion des - in den Fragmenten naturgemäß noch fehlenden, in der Farlau-Kopie nur in kürzest möglicher Form vorhandenen Titels (Kopftitel und das später davon durch J.P. Kirnberger abgeleitete Einband-Etikett) - für eine repräsentative Lösung auf der Basis eines nicht erhaltenen Textdrucks entschied, dessen auf Vorrat erstellte Exemplare für mehrere geplante, jeweils handschriftlich zu ergänzende Aufführungstermine aus den 1730er Jahren bestimmt waren. (Zum Prinzip am Beispiel von BWV 247 vgl. Schabalina 2009).  
 
@@ -129,7 +129,7 @@ Im Gegensatz zu anderen Passionsaufführungen (BWV 247) war der Aufführungsort 
 Die fehlende Endziffer könnte schließlich darauf hindeuten, dass es sich bei der Vorlage um ein Exemplar handelte, welches seit der Fertigstellung der Spätfassung 1736 wegen Fehlens der strukturell bedeutsamen Tausch-Komponente („O Mensch bewein“ etc.) unverkäuflich geworden war. 
 Mögliche Konsequenzen aus diesem Befund für den Aufführungskalender zwischen 1730 und 1736 bleiben darauf hin zu prüfen, ob nicht 1734 eine Wiederaufführung in der unveränderten Form von 1729 geplant war.  
 
-Der an P 26 angebundene, von anderer Hand nach anderer Vorlage auf anderem Papier kopierte Schlusschor (BWV 244/68: „Wir setzen uns…“) steht - das ist bis auf Weiteres unbestritten - mit Agricolas Konstrukt in keinem Zusammenhang. Die buchbinderische Integration in den Band dürfte wohl auf den Handschriftensammler Georg Poelchau zurückgehen. Freilich stellt sich die Frage nach einem eventuellen Aufführungszweck dieses (letzten)  Satzes.  
+Der an P 26 angebundene, von anderer Hand nach anderer Vorlage auf anderem Papier kopierte Schlusschor (BWV 244/68: „Wir setzen uns…“) steht - das ist bis auf Weiteres unbestritten - mit Agricolas Konstrukt in keinem Zusammenhang. (Vgl. aber Frampton 2021: „...but was added to the MS in Agricola’s lifetime.“ ) Die buchbinderische Integration in den Band dürfte wohl auf den Handschriftensammler Georg Poelchau zurückgehen. Freilich stellt sich die Frage nach einem eventuellen Aufführungszweck dieses (letzten)  Satzes.  
 
 
 
