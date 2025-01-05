@@ -5,7 +5,7 @@ Ob ein Superintendens wohl Poete seyn könne? - Zur Person des „Leipziger“ H
 Michael Hochgartz  
 D 48153 Münster  
 [michael@hochgartz.de](mailto:michael@hochgartz.de)  
-Version: 30.12.2024  
+Version: 05.01.2025  
 
 Quelltext, Versionsgeschichte und provisorisches Literaturverzeichnis:  
 <https://github.com/michael-hochgartz/lectio-brevior>  
@@ -318,7 +318,7 @@ Ein Blick in ein medizinisches [Lexikon](https://www.perplexity.ai/search/Wie-in
 
 „DEr Steck-Fluß ist ein plötzlicher Zufall / der die Patienten öfters in 12. biß 24. Stunden hinrichten kan / und ihn gar selten über den 3ten Tag leben lässet; Solches aber pfleget nicht sowol hagern / als corpulenten und voll-leibigen Personen zu begegnen / welche starcke / voll-blutige / und in ihren jüngern Jahren an Blut-Flüsse / oder auch ans Schröpffen und Aderlassen gewehnte Personen / in ihrem Alter / und gemeinlich beym trüben Wetter / überfället. Vorher gehet meistentheils [Engbrüstigkeit](https://www.perplexity.ai/search/Was-verstand-ein-M7oyhGjJT7KsU6tC2DXILw) und Husten vor / womit sodann verbunden ist ein heftiger zufluß seroser Feuchtigkeit: darauf pfleget sich Schwindel und Müdigkeit einzustellen / biß sie endliche schleunig erkalten / und auf der Brust ganz voll werden / und mit der grösten Gewalt nur noch ein wenig / und darzu mit starckem Recheln / athmen können; hierauf verlieren sich die Kräffte / dabey man befürchten muß / daß der Patient ersticken werde.“ (Vgl. Deigendesch 1719; Spickereit 2011. )  
 
-(Die zeitgenössischen Therapievorschläge seien an dieser Stelle aus vermutlich verstehbaren Gründen ignoriert, zumal der Verfasser dieser Zeilen am 6.12.2021 in den Genuss einer lebensrettenden, hoch-riskanten operativen [Heilung](https://youtu.be/hAvM1AeGA4g?feature=shared) einer [ähnlich](https://www.spiegel.de/panorama/leute/katharina-wagner-spricht-ueber-ihre-krankheit-und-die-folgen-a-0506d136-a95a-4855-b891-e0acd5cb2648) lebensbedrohenden Herz/Lungen-[Erkrankung](https://www.aerzteblatt.de/archiv/165532/Chronisch-thromboembolische-pulmonale-Hypertonie) kam.)  
+(Die zeitgenössischen Therapievorschläge seien an dieser Stelle aus vermutlich verstehbaren Gründen ignoriert, zumal der Verfasser dieser Zeilen am 6.12.2021 in den Genuss einer lebensrettenden, hoch-riskanten operativen [Heilung](https://youtu.be/hAvM1AeGA4g?feature=shared) einer [ähnlich](https://www.spiegel.de/panorama/leute/katharina-wagner-spricht-ueber-ihre-krankheit-und-die-folgen-a-0506d136-a95a-4855-b891-e0acd5cb2648) lebensbedrohenden Herz/Lungen-[  ](https://www.aerzteblatt.de/archiv/165532/Chronisch-thromboembolische-pulmonale-Hypertonie) kam.)  
 
 Zufälligerweise notifiziert der „Correspondent“ nur wenige Tage später (10.2.1725) auch den Tod jener Person, über die bislang als [den](https://www.perplexity.ai/search/grammatisch-korrekt-Zuflligerweise-dXzrfYZvRHSxrJxQmLJrUw) mutmaßlichen Urheber der Choralkantatentexte diskutiert wird (vgl. Schulze 1999):  
 
@@ -332,7 +332,7 @@ Diese Feststellung könnte zugleich ein finales Argument gegen die vermutete [Ur
 
 Die zeitliche Differenz zwischen [Spitzmarken](https://www.perplexity.ai/search/sptizmarke-IwzTTEmcS6GobB1LnoFKhA) und Erscheinungsdaten belegt auch an diesen Beispielen, dass derartige gedruckte Meldungen nicht mehr als sechs bis acht Tage für die Übermittlung zwischen Leipzig und Hamburg benötigten - und somit maximal fünf bis sieben Tage zwischen Leipzig und Lüneburg. (Vgl. Siegele 1983)  
 
-Von den drei Datumsangaben (19., 21., 26. Januar), die für Johann Christoph Jauchs Todestag genannt werden, kann naturgemäß nur eine korrekt sein. Zwar verhindert der unerkärte Verlust der diesen Zeitraum betreffenden Begräbnisregister von St. Johannis eine endgültige Klärung. Aber:  
+Von den drei Datumsangaben (19., 21., 26. Januar), die für Johann Christoph Jauchs Todestag genannt werden, kann naturgemäß nur eine korrekt sein. Zwar verhindert der Verlust der diesen Zeitraum betreffenden Begräbnisregister von St. Johannis eine endgültige Klärung. Aber:  
 
 Der im Deutschen [Geschlechterbuch](https://www.perplexity.ai/search/Deutsches-Geschlechterbuc-LB2SJ0_tQEOf5KvQ_m1UCg) (200/1996; 209/1999) sowie (bis zu einer vom Verfasser unter dem Pseudonym „Stubelius“ zum 2.10.2021 veranlassten Korrektur) im darauf fußenden Wikipedia-Artikel genannte 26. Januar scheidet aus, da bereits für den 24. Januar in Jauchs Personalakte eine Eingabe des Ministeriums-Seniors Friedrich Georg Koltemann wegen dringlicher Regelung zusätzlicher Predigtdienste überliefert ist, die durch den „unverhofften Todt“ des Superintendenten notwendig geworden waren, der „Denselben aus der Streitenden in die Triumphirende Kirche“ versetzte. Dieses Zitat nach dem spätmittelalterlichen Zisterzienser [Alanus ab Insulis](https://www.perplexity.ai/search/Wer-war-Alanus-zela7H2.R4aseGR_EVW0fA) („Ecclesia militans“ / „Ecclesia triumphans“) war wohl ein letzter, (mit etwas Wohlwollen misszuverstehender oder als blanker Sarkasmus an die Adressaten gemünzter?) Nachklapp zu den jahrzehntelangen Kontroversen um die Position Jauchs.  
 
