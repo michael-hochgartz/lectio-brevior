@@ -4,7 +4,7 @@ Bibliographische Handreichung zu den Manuskriptentwürfen:
 - Zur Person des Leipziger Hauptlibrettisten Johann Sebastian Bachs.md
 
 Michael Hochgartz (D 48153 Münster)  
-michael@hochgartz.de - 31.08.2024  
+michael@hochgartz.de - 16.01.2025  
 https://github.com/michael-hochgartz/lectio-brevior   
 
 Fachkundige Leser der Entwürfe des Thesenpapiers und des Vortragsmanuskripts erhalten auf diesem Weg einen Zugriff auf die in kürzest möglicher Form referenzierte Standardliteratur und auf einige wenige Spezialtexte. Eine vollständige Bibliographie bleibt ebenso einer späteren Ausarbeitung vorbehalten wie der Nachweis der mit erheblichen Aufwänden ermittelten, unpublizierten Archivalien, Briefe und Originaldrucke. Wie die beiden Haupttexte, so trägt auch diese Aufstellung den Charakter eines fortlaufenden Werkstattberichts.  
@@ -104,6 +104,7 @@ Bd. 1, Kassel **2004**
 **Scheide**, William H., Zum Verhältnis von Textdrucken und musikalischen Quellen der Kirchenkantaten Johann Sebastian Bachs, in BJ 62 **1976**, 79-94  
 **Scheitler**, Irmgard: Geistliche Musikzensur in Hamburg 1710 : ein verhindertes Passions-Oratorium und sein problematisches Libretto, BJ 88 **2004**, 55-72  
 **Scheitler**, Irmgard: Deutschsprachige Oratorienlibretti : von den Anfängen bis 1730, Paderborn **2005**  
+**Scheitler**, Irmgard: Die Kantate als dramatischer Text. Gedanken über die Entstehung der Kantatenform, in: Wolfgang Hirschmann, Dirk Rose: Die Kantate als Katalysator, Berlin **2018**  
 **Schleuning**, Peter: Johann Sebastian Bachs "Kunst der Fuge" : Ideologien, Entstehung, Analyse. Kassel **1993**  
 **Schulze**, Hans-Joachim: Schlusswort in: Bachforschung und Bachinterpretation heute : Wissenschaftler und Praktiker im Dialog ; Bericht über das Bachfest-Symposium 1978 der Philipps-Universität Marburg / hrsg. von Reinhold Brinkmann, Kassel **1981**  
 **Schulze**, Hans-Joachim: Texte und Textdicher, Christoph Wolff (Hg.), Die Welt der Bach-Kantaten / Bd. 3, Johann Sebastian Bachs Leipziger Kirchenkantaten, Stuttgart **1999**  
