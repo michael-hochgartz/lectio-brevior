@@ -5,7 +5,7 @@ Ob ein Superintendens wohl Poete seyn könne? - Zur Person des „Leipziger“ H
 Michael Hochgartz  
 D 48153 Münster  
 [michael@hochgartz.de](mailto:michael@hochgartz.de)  
-Version: 24.03.2025  
+Version: 27.03.2025  
 
 Quelltext, Versionsgeschichte und provisorisches Literaturverzeichnis:  
 <https://github.com/michael-hochgartz/lectio-brevior>  
@@ -1111,7 +1111,9 @@ Bemerkenswert ist der vom Rezensenten, einem gewissen „J.“ wiedergegebene er
 
 Hinter dem Kürzel „J.“ verbirgt sich der Johanneums-Rektor Wilhelm Christian Junghans (1803-1886), Urheber des 1870 erschienenen ersten wissenschaftlich fundierten (da im brieflichen Austausch mit dem legendären Bach-Biographen P. Spitta entstandenen), zwar nicht fehlerfreien, aber bis heute respektvoll rezipierten Beitrags zu J.S. Bachs Lüneburger Jahren.  
 
-Der Verfasser erinnert sich gerne daran, jenes ferne Ereignis während einer am Karfreitag 2018 mit lokalen Kräften aufgeführten Darbietung, unter Mitverfolgung auch der exakt bemessenen Blankoseiten seiner digital annotierten Version des Agricola-Torsos P 26 in der ansonsten menschenleeren, stockdunklen, vom Namensgeber König Georg I. von Großbritannien und Kurfürst von Hannover wohl nie betretenen „Fürstenloge“ direkt unter der imposanten Renaissanceorgel von St. Johannis näherungsweise nachempfunden zu haben - im Bewusstsein, dass ca. 100 Schritte entfernt jenes Gebäude lokalisiert ist, in welchem Ende 1724, Anfang 1725 ein nicht unbedeutender Teil der zugrunde liegenden „Poesia“ entstand. Noch einmal 50 Schritte weiter entfernt wurden fast ein Jahrhundert lang die Passionspredigten Heinrich Müllers immer wieder neu gesetzt, [gedruckt](https://www.museumlueneburg.de/auss/a24_salz_der_bibeln.php) und verkauft.  
+Der Verfasser erinnert sich gerne daran, jenes ferne Ereignis während einer am Karfreitag (30.3.2018) mit lokalen Kräften aufgeführten Darbietung, unter Mitverfolgung auch der exakt bemessenen Blankoseiten seiner digital annotierten Version des Agricola-Torsos P 26 in der ansonsten menschenleeren, stockdunklen, vom Namensgeber König Georg I. von Großbritannien und Kurfürst von Hannover wohl nie betretenen „Fürstenloge“ direkt unter der imposanten Renaissanceorgel von St. Johannis näherungsweise nachempfunden zu haben - im Bewusstsein, dass ca. 100 Schritte entfernt jenes Gebäude lokalisiert ist, in welchem Ende 1724, Anfang 1725 ein nicht unbedeutender Teil der zugrunde liegenden „Poesia“ entstand. Noch einmal 50 Schritte weiter entfernt wurden fast ein Jahrhundert lang die Passionspredigten Heinrich Müllers immer wieder neu gesetzt, [gedruckt](https://www.museumlueneburg.de/auss/a24_salz_der_bibeln.php) und verkauft.  
+
+Der nächste Besuch des Verfassers einer geplanten Aufführung von BWV 244 u.L.v. KMD Dr. Ulf Wellner ist für den Karfreitag, (18.4.2025), gebucht. („Fürstenloge“, Reihe 1, Platz 1). Rein chronologisch betrachtet  300 Jahre nach jenem Termin, für den J.S. Bach eine Uraufführung seiner Matthäuspassion als integralen Bestandteil seines Choralkantaten-Zyklus geplant hatte.  
 
 Nicht unerwähnt soll an dieser Stelle die Beobachtung bleiben, dass es sich bei einem der instrumental angedeuteten Choralzitate im Eingangschor der Kantate BWV 127 („Christe du Lamm Gottes“; zum 11.2.1725) und bei dem Anfang 1725 zunächst wohl nur instrumental aufgeschriebenen Cantus firmus „O Lamm Gottes unschuldig“ im Exordium von BWV 244b um die beiden durch eine zeitgenössische Quelle dokumentierten Sterbechoräle Heinrich Müllers handelt.  
 
