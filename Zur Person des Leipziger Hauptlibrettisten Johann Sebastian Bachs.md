@@ -5,7 +5,7 @@ Ob ein Superintendens wohl Poete seyn könne? - Zur Person des „Leipziger“ H
 Michael Hochgartz  
 D 48153 Münster  
 [michael@hochgartz.de](mailto:michael@hochgartz.de)  
-Version: 27.03.2025  
+Version: 30.03.2025  
 
 Quelltext, Versionsgeschichte und provisorisches Literaturverzeichnis:  
 <https://github.com/michael-hochgartz/lectio-brevior>  
@@ -26,10 +26,6 @@ Ja, das versteht sich, dort sehn wir uns wieder.
 (Heinrich Heine, 1851)
 
 Learn the facts - then try on the stories like clothes:  
-Tinker, Tailor,  
-Soldier, Sailor,  
-Rich Man, Poor Man,  
-Beggarman, Thief.  
 ([John Le Carré,](https://www.perplexity.ai/search/von-wem-stammt-dieses-zitat-le-L4AwNIyvQqKE4AlWdglF1Q) 1974)  
 
 Man muss dem Gericht natürlich eine stimmige und lebensnahe Geschichte präsentieren, und man kann da auch [Schreibfreude](https://www.perplexity.ai/search/Schreibfreude-AYQU.21pSxONtZMjThDFdQ#2) entwickeln.  
@@ -38,13 +34,8 @@ Man muss dem Gericht natürlich eine stimmige und lebensnahe Geschichte präsent
 Bildung lässt sich nicht downloaden.  
 (Günther Jauch, 2009)  
 
-Wenn man den Kern treffen will, muss man die [Klangfarben](https://youtu.be/O1W_1AZb4AQ?feature=shared&t=1413) der Sprache erspüren.  
-(Rainer Kunze; nach Angela Merkel 2024).  
 
-Worüber man nicht sprechen muss, davon kann man schreiben.  
-(frei nach Ludwig Wittgenstein 1918/1921)  
-
-Bei dem Autor der Texte für Johann Sebastian Bachs Choralkantaten des Jahrgangs 1724/25 und für einige von deren Vor- und Nachläufer, für Teile seiner Johannes-Passion und für eine Anfang 1725 abgebrochene Urfassung der Matthäus-Passion handelt es sich mit hoher [Wahrscheinlichkeit](https://www.perplexity.ai/search/ex-falso-sequitur-quodlibet-0YBcKfHFSASACnaBboQDfQ) um den Lüneburger Lamberti-, Nikolai- und Johannis-Prediger, den 1714 zum Superintendenten und Inspektor der Lateinschule Johanneum und ihres Kantatenchors ernannten Johann Christoph [Jauch](https://d-nb.info/gnd/117088900) (1669-1725), den jahrzehntelangen unmittelbaren Zeitgenossen, mutmaßlichen Studienkollegen und späteren theologischen Vorgesetzten, Kanzelredner bei gemeinsam absolvierten Kantatenaufführungen und vielleicht auch Beichtvater von Bachs „Lehrmeister“ Georg Böhm - dem Komponisten der bei Jauchs Beisetzung in St. Johannis am 6. Februar 1725 aufgeführten Trauermusik.  
+Bei dem Autor der Texte für Johann Sebastian Bachs Choralkantaten des Jahrgangs 1724/25 und für einige von deren Vor- und Nachläufer, für Teile seiner Johannes-Passion und für eine Anfang 1725 abgebrochene Urfassung der Matthäus-Passion handelt es sich um den Lüneburger Lamberti-, Nikolai- und Johannis-Prediger, den 1714 zum Superintendenten und Inspektor der Lateinschule Johanneum und ihres Kantatenchors ernannten Johann Christoph [Jauch](https://d-nb.info/gnd/117088900) (1669-1725), den jahrzehntelangen unmittelbaren Zeitgenossen, mutmaßlichen Studienkollegen und späteren theologischen Vorgesetzten, Kanzelredner bei gemeinsam absolvierten Kantatenaufführungen und vielleicht auch Beichtvater von Bachs „Lehrmeister“ Georg Böhm - dem Komponisten der bei Jauchs Beisetzung in St. Johannis am 6. Februar 1725 aufgeführten Trauermusik.  
 
 
 Jauchs Vater Christian (1638-1718) stammte aus dem thüringischen Sulza (D 99518 Bad Sulza) in der Nähe von Jena, wo sich seine Vorfahren seit 1512 nachweisen lassen, seine 1702 gestorbene Mutter Ingeborg Nicolai (von deren 1723 erwähntem Trauergedicht aus der Feder ihres Sohnes bislang kein konkretes Exemplar gefunden werden konnte) aus dem Holsteinischen Husum.  
