@@ -5,7 +5,7 @@ Ob ein Superintendens wohl Poete seyn könne? - Zur Person des „Leipziger“ H
 Michael Hochgartz  
 D 48153 Münster  
 [michael@hochgartz.de](mailto:michael@hochgartz.de)  
-Version: 25.04.2025  
+Version: 27.04.2025  
 
 Quelltext, Versionsgeschichte und provisorisches Literaturverzeichnis:  
 <https://github.com/michael-hochgartz/lectio-brevior>  
@@ -33,8 +33,6 @@ Man muss dem Gericht natürlich eine stimmige und lebensnahe Geschichte präsent
 
 Bildung lässt sich nicht downloaden.  
 (Günther Jauch, 2009)  
-
-[VERITAS](https://www.youtube.com/watch?v=9ofED6BInFs&t=1407s)!  
 
 
 Bei dem Autor der Texte für Johann Sebastian Bachs Choralkantaten des Jahrgangs 1724/25 und für einige von deren Vor- und Nachläufer, für Teile seiner Johannes-Passion und für eine Anfang 1725 abgebrochene Urfassung der Matthäus-Passion handelt es sich um den Lüneburger Lamberti-, Nikolai- und Johannis-Prediger, den 1714 zum Superintendenten und Inspektor der Lateinschule Johanneum und ihres Kantatenchors ernannten Johann Christoph [Jauch](https://d-nb.info/gnd/117088900) (1669-1725), den jahrzehntelangen unmittelbaren Zeitgenossen, mutmaßlichen Studienkollegen und späteren theologischen Vorgesetzten, Kanzelredner bei gemeinsam absolvierten Kantatenaufführungen und vielleicht auch Beichtvater von Bachs „Lehrmeister“ Georg Böhm - dem Komponisten der bei Jauchs Beisetzung in St. Johannis am 6. Februar 1725 aufgeführten Trauermusik.  
@@ -679,7 +677,7 @@ Dass ein schöpferischer Umgang mit einzelnen Lettern seine Tücken haben kann, 
 
 Zur Einordnung in den Zeitgeist: ein Beispiel für die Verwendung eines recht einfach gestrickten Anagramms stellt die Umformung des Nachnamens „Teleman(n)“ zu „Melante“ durch den Namensträger selbst dar. Aber bereits im 1732 erschienenen 2. Band des „Zedler-Lexikons“ wird ein solches Verfahren mit Spott überhäuft: „Der Nutzen der hieraus entstehen soll, kann gar nicht angegeben werden, u. die Vergnügung, die sich dabey befindet, gehöret nur vor die schwachen Geister, die sich gerne mit Kleinigkeiten aufhalten. Der gute Geschmack unserer heutigen Gelehrten [Gottsched?] hat dieselben längstens verbannt, und die Satyren-Schreiber haben dieselben hier und dar lächerlich gemacht.“ Offenbar war die Methode des Buchstabentauschs mit Fortschreiten der literarischen Aufklärung von einer poetologischen Gestaltungsmöglichkeit zu einem kryptographisch nutztbaren Nebenzweck degradiert worden.  
 
-Den Brückenschlag zu den außergewöhnlichen Zitaten des „Votum Justinianum“ [J.N.D.N.J.C.](https://www.perplexity.ai/search/JNDNJC-pdbFA4MCRIW_Ag8RPhxwVA) im autographen Kopftitel der Choralkantate BWV 20 und auf dem Umschlag des apographen Überlieferungsträgers der Frühfassung der Matthäus-Passion BWV 244b bildet die zwischen 1705 und 1715 datierte Abschrift einer Michaelisfest-Kantate „di M.B.“ in der Sammlung Bokemeyer auf den Text „Satanas und sein Getümmel“, deren Titel diese Buchstabenfolge anführt:
+Den Brückenschlag zu den außergewöhnlichen Zitat [J.N.D.N.J.C.](https://www.perplexity.ai/search/JNDNJC-pdbFA4MCRIW_Ag8RPhxwVA) im autographen Kopftitel der Choralkantate BWV 20 und auf dem Umschlag des apographen Überlieferungsträgers der Frühfassung der Matthäus-Passion BWV 244b bildet die zwischen 1705 und 1715 datierte Abschrift einer Michaelisfest-Kantate „di M.B.“ in der Sammlung Bokemeyer auf den Text „Satanas und sein Getümmel“, deren Titel diese Buchstabenfolge anführt:
 
 J.N.D.N.J.C.A.  
 
