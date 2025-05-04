@@ -1,11 +1,11 @@
 Ob ein Superintendens wohl Poete seyn könne? - Zur Person des „Leipziger“ Hauptlibrettisten Johann Sebastian Bachs.  
 
-[Iterativ](https://www.perplexity.ai/search/zeige-mir-bitte-die-letzten-10-6o_VmW2OTm2ZK1bhS4v4Yg) dokumentierter Entwurf für ein Vortragsmanuskript (Es gilt das gesprochene Wort.)  
+[Iterativ](https://www.perplexity.ai/search/zeige-mir-bitte-die-letzten-10-6o_VmW2OTm2ZK1bhS4v4Yg) dokumentierter Entwurf für ein [fiktionales](https://www.perplexity.ai/search/4459db81-4074-44d8-aa0d-7b2e673a9fc4) Vortragsmanuskript (Es gilt das gesprochene Wort.)  
 
 Michael Hochgartz  
 D 48153 Münster  
 [michael@hochgartz.de](mailto:michael@hochgartz.de)  
-Version: 27.04.2025  
+Version: 04.05.2025  
 
 Quelltext, Versionsgeschichte und provisorisches Literaturverzeichnis:  
 <https://github.com/michael-hochgartz/lectio-brevior>  
