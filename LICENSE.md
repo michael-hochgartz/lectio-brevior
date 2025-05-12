@@ -1,3 +1,1 @@
-LICENSE.md
-Copyright (c) 2014-2025 Michael Hochgartz
-
+Copyright (c) 2014-2025 Michael Hochgartz 
