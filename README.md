@@ -16,5 +16,3 @@ Aufbauend auf langjährigen Quellenstudien werden sodann Leben und Werk dieses T
 5. Synopse_BWV_244.png
 
 https://picander.de
-
-https://huggingface.co/Picander
