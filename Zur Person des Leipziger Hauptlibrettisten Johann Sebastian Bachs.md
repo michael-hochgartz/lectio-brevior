@@ -5,7 +5,10 @@ Ob ein Superintendens wohl Poete seyn könne? - Zur Person des „Leipziger“ [
 Michael Hochgartz  
 D 48153 Münster  
 [michael@hochgartz.de](mailto:michael@hochgartz.de)  
-Version: 11.05.2025  
+
+Version: 13.05.2025  
+DOI: 10.5281/zenodo.15390511  
+CC BY-NC-ND  
 
 Quelltext, Versionsgeschichte und provisorisches Literaturverzeichnis:  
 <https://github.com/michael-hochgartz/lectio-brevior>  
