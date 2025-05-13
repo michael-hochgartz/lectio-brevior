@@ -1,11 +1,18 @@
 „O Anfang sonder Ende?“ - Thesen zur Identifizierung  
 des „Leipziger“ Hauptlibrettisten  
 Johann Sebastian Bachs  
+
 Michael Hochgartz (D 48153 Münster)  
 [michael@hochgartz.de](mailto:michael@hochgartz.de)  
-Version: 29.12.2024  
+
+Version: 13.05.2025  
+DOI: 10.5281/zenodo.15390511  
+CC BY-NC-ND  
+
 Quelltext, Versionsgeschichte und Literaturverzeichnis:  
 <https://github.com/michael-hochgartz/lectio-brevior>  
+
+
 
 amore et studio elucidandae veritatis haec subscripta disputabuntur (Martin Luther [1517](https://www.perplexity.ai/search/Wer-schrieb-diesen-7Ao1YeZnRTmWBsEehMo1_Q))  
 
@@ -61,7 +68,7 @@ Zwischen dem Verkauf der Stimmensätze durch Bachs Witwe Anna Magdalena an den R
 
 Da aufgrund dieses Befunds nicht damit zu rechnen ist, dass jemals ein - zwangsläufig nur posthum denkbarer - Sammeldruck des unvollständigen Jahrgangs in Form eines (urheberische Initiativen oder gar verlegerische Investitionen der Erben) erfordernden Buches auftauchen könnte, das analog zum Fall J.C. Birkmann (vgl. Blanken 2015) eine Attribution anhand textlicher Konkordanzen ermöglichen würde, müssen andere Ansätze zur Identitätsermittlung herangezogen werden.  
 
-[Computerlinguistische](https://poe.com/s/3UueSOlj0pHACq2h3pyI) Methoden, wie sie der Verfasser dieser Thesen 2000 - 2010 anhand der Analyse von Meta-Studien etlicher bis dahin als klassisch geltender Verfahren (z.B. „[Entropy](https://en.wikipedia.org/wiki/Entropy_(information_theory))“; „Conditional probability“) zu evaluieren versuchte, dürften dabei - selbst mit massivem Einsatz heutiger „Künstlicher Intelligenz“ - nicht zu wesentlichen Erkenntnissen führen. Zu gering ist die für ein Fein-Training der erforderlichen Sprachmodelle Menge der auf Papier gedruckten, geschweige denn der maschinenlesbar verfügbaren, sicher zuweisbaren Vergleichstexte und ihrer Klassifizierung als originale „Poesie“ bzw.   als allgegenwärtige Bibel- und Choralzitate. Gleichwohl soll ein potentieller praktischer Nutzen nicht prinzipiell in Abrede gestellt werden.  
+[Computerlinguistische](https://poe.com/s/3UueSOlj0pHACq2h3pyI) Methoden, wie sie der Verfasser dieser Thesen 2000 - 2010 anhand der Analyse von Meta-Studien etlicher bis dahin als klassisch geltender Verfahren (z.B. „[Entropy](https://en.wikipedia.org/wiki/Entropy_(information_theory))“; „Conditional probability“) zu evaluieren versuchte, dürften dabei - selbst mit massivem Einsatz heutiger „Künstlicher Intelligenz“ - nicht zu wesentlichen Erkenntnissen führen. Zu [gering](https://www.perplexity.ai/search/wie-konnte-ai-oder-ki-bei-der-T7OHv_gHRbKut2gQZgONcg) ist die für ein Fein-Training der erforderlichen Sprachmodelle Menge der auf Papier gedruckten, geschweige denn der maschinenlesbar verfügbaren, sicher zuweisbaren Vergleichstexte und ihrer Klassifizierung als originale „Poesie“ bzw.   als allgegenwärtige Bibel- und Choralzitate. Gleichwohl soll ein potentieller praktischer Nutzen nicht prinzipiell in Abrede gestellt werden.  
 
 Alternative Ansätze konzentrieren sich also auf die kriminalistische Suche nach einem Anfang 1725 plötzlich verstorbenen lutherischen Theologen mit dichterischer Kompetenz, homiletischer Reputation, hymnologischem Hintergrund und untadelhaftem Lebenswandel - allerdings ohne (anders als Schulze 1999 und die ihm Folgenden) Leipzig als Lebensmittelpunkt zur impliziten Conditio sine qua non zu machen.  
 
@@ -110,7 +117,7 @@ Unter diesem Blickwinkel betrachtet erscheint die Erklärung dieser in P 26 wie 
 
 Andernfalls wäre mit dem - ebenfalls sikzzenhaften - Satz BWV244b/4d zu fragen: „Wozu dienet dieser Unrat?“, den Agricola hier - mit dem später (aber noch vor der äußerlich routiniert wirkenden, strukturell aber durchaus komplexen buchbinderischen Vereinigung bald nach 1800) von unbekannter Hand um rezyklierbare Leerbögen erleichterten Manuskript aus ursprünglich IX plus VII Ternionen kostbaren, großformatigen Doppelpapiers der Mitwelt zu präsentieren versuchte - der Nachwelt aber bislang nur als Rätsel zu hinterlassen vermochte. (Vgl. den Katalog Poelchau 1832, der - anders als Dürr 1974 - offenbar noch um den Charakter als skizzenbasiertes Elaborat wusste: „… nach einer späteren Bearbeitung, von Agricolas Hand. Unvollständig.“)  
 
-Ferner: Belegen die durch Ziffern signalisierten Hinweise für den 2. Chorus - also: „18“ (Takte ab initio) sowie „16“ (Takte zwischen den ersten beiden Einsätzen) und „contano 20“ (also die ab nun zu zählenden Takte bis zum Subito auszuführenden - so die heutige Praxis - Einsatz von Satz 27b) - in fol. 43v und 44v der Partitur(!) P 26, dass Agricola bei der Niederschrift dieses vollständig, aber hinsichtlich der Darstellung der Doppelchöre zunächst noch platzsparender notierten, aber keineswegs weniger komplex zu lesenden Satzbildes (27a) bereits an die Anfertigung von Aufführungsmaterial dachte? Für die betroffenen Mitwirkenden wäre das eine willkommene Überlebenshilfe beim Abpassen des Einsatzes über dem buchstäblich über-irdisch, weil ohne Takt-spendenden Continuo dahinschwebenden Bassetto-Duetts („Sie führen ihn, er ist gefangen…“). Allein: der Dirigent der Partitur bräuchte derlei Hilfen nicht.  
+Ferner: Belegen die durch Ziffern signalisierten Hinweise für den 2. Chorus - also: „18“ (Takte ab initio) sowie „16“ (Takte zwischen den ersten beiden Einsätzen) und „contano 20“ (also die ab nun zu zählenden Takte bis zum Subito auszuführenden - so die heutige Praxis - Einsatz von Satz 27b) - in fol. 43v und 44v der Partitur(!) P 26, dass Agricola bei der Niederschrift dieses vollständig, aber hinsichtlich der Darstellung der Doppelchöre zunächst noch platzsparender notierten, aber keineswegs weniger komplex zu lesenden Satzbildes (27a) bereits an die Anfertigung von Aufführungsmaterial dachte? Für die betroffenen Mitwirkenden wäre das eine willkommene Überlebenshilfe beim Abpassen des Einsatzes über dem buchstäblich über-irdisch, weil ohne Takt-spendenden Continuo dahinschwebenden Bassetto-Duetts („Sie führen ihn, er ist gefangen…“). Allein: der Komponist der Partitur bräuchte derlei Hilfen nicht. Ein fremder Dirigent und die Stimmen-Extrakteure vielleicht sehr wohl.  
 
 Insgesamt kann die Antwort nur Nein lauten, denn Ziel von Agricolas außergewöhnlichen Bemühungen war keineswegs eine Aufführung anhand von P 26. Eine solche hätte er durch Ausschreiben(lassen) von Stimmen nach AmB. 6+7 leichter verwirklichen können - oder am leichtesten, indem er seinen langjährigen Potsdamer Kollegen und Berliner Mitbürger C.P.E. Bach um die leihweise Überlassung des kompletten, aufführungserprobten Materials der Spätfassung (D-B Mus.ms. Bach P 25 / D-B Mus.ms. Bach St 110) gebeten hätte.  
 
@@ -120,13 +127,13 @@ Zu klären bleibt, warum Agricola in dieser Partitur Gebrauch von zahlreichen no
 
 Ohne weiteres erklärbar ist hingegen der Umstand, dass sich Agricola bei der Rekonstruktion des - in den Fragmenten naturgemäß noch fehlenden, in der Farlau-Kopie nur in kürzest möglicher Form vorhandenen Titels (Kopftitel und das später davon durch J.P. Kirnberger abgeleitete Einband-Etikett) - für eine repräsentative Lösung auf der Basis eines nicht erhaltenen Textdrucks entschied, dessen auf Vorrat erstellte Exemplare für mehrere geplante, jeweils handschriftlich zu ergänzende Aufführungstermine aus den 1730er Jahren bestimmt waren. (Zum Prinzip am Beispiel von BWV 247 vgl. Schabalina 2009).  
 
-Wortwahl und Zeilenfall weisen derart typisch auf einen vervielfältigten „Text zur Music“ hin, dass keine Zweifel an der Verwendung als bewusst gewähltes Versatzstück durch Agricola möglich sind  
+Wortwahl, Schriftgestaltung und Zeilenfall des Titelblatts weisen derart typisch auf einen vervielfältigten „Text zur Music“ hin, dass keine Zweifel an der Verwendung als bewusst gewähltes Versatzstück durch Agricola möglich sind  
 
-Eine Originalpartitur als Vorlage scheidet wegen der handschriftlichen „Variable“ in  der letzten Ziffer des Datums (vgl. die jahrhundertelang geübte Praxis beim Druck von echten und gefälschten [Geigenzetteln](https://www.perplexity.ai/search/Warum-wurden-in-mzDy7h2UTDuMxMX_HBwzJg)) ebenso aus wie der Sammeldruck Henricis, welcher (seit wann?) der Kopie in Form einer undatierten Abschrift von Agricolas Hand beigegeben ist. Agricola war sich demnach der verschiedenen Fassungen bzw. Bearbeitungsstände des Werks stets bewusst.  
+Eine Originalpartitur als Titel-Vorlage scheidet wegen der handschriftlichen „Variable“ (173x) in der letzten Ziffer des Datums (vgl. die jahrhundertelang geübte Praxis beim Druck von echten und gefälschten [Geigenzetteln](https://www.perplexity.ai/search/Warum-wurden-in-mzDy7h2UTDuMxMX_HBwzJg)) ebenso aus wie der Sammeldruck Henricis, welcher (seit wann?) der Kopie in Form einer undatierten Abschrift von Agricolas Hand beigegeben ist. Agricola war sich demnach der verschiedenen Fassungen bzw. Bearbeitungsstände des Werks stets bewusst.  
 
 Im Gegensatz zu anderen Passionsaufführungen (BWV 247) war der Aufführungsort hier eindeutig fixiert und konnte somit ausgedruckt bzw. ausgeschrieben werden, da BWV 244 aufführungspraktisch (Platzgründe; Doppelchörigkeit; evtl. separat aufgestellter Cantus firmus-Chor) nur in St. Thomas realisierbar war.  
 
-Die fehlende Endziffer könnte schließlich darauf hindeuten, dass es sich bei der Vorlage um ein Exemplar handelte, welches seit der Fertigstellung der Spätfassung 1736 wegen Fehlens der strukturell bedeutsamen Tausch-Komponente („O Mensch bewein“ etc.) unverkäuflich geworden war. 
+Die fehlende Endziffer (173x) könnte schließlich darauf hindeuten, dass es sich bei der Vorlage um ein Exemplar handelte, welches seit der Fertigstellung der Spätfassung 1736 wegen Fehlens der strukturell bedeutsamen Tausch-Komponente („O Mensch bewein“ etc.) unverkäuflich geworden war. 
 Mögliche Konsequenzen aus diesem Befund für den Aufführungskalender zwischen 1730 und 1736 bleiben darauf hin zu prüfen, ob nicht 1734 eine Wiederaufführung in der unveränderten Form von 1729 geplant war.  
 
 Der an P 26 angebundene, von anderer Hand nach anderer Vorlage auf anderem Papier kopierte Schlusschor (BWV 244/68: „Wir setzen uns…“) steht - das ist bis auf Weiteres unbestritten - mit Agricolas Konstrukt in keinem Zusammenhang. (Vgl. aber Frampton 2021: „...but was added to the MS in Agricola’s lifetime.“ ) Die buchbinderische Integration in den Band dürfte wohl auf den Handschriftensammler Georg Poelchau zurückgehen. Freilich stellt sich die Frage nach einem eventuellen Aufführungszweck dieses (letzten) Satzes.  
@@ -139,11 +146,13 @@ Die Intention dieses Vorgangs im Rahmen einer „Sichtbarmachung der eigenen His
 
 Nicht übersehen werden sollte in diesem Zusammenhang der Umstand, dass Agricola über längere Zeit fast täglich Gelegenheit hatte, jene klassischen Torsi auf sich wirken zu lassen, die sein Dienstherr Friedrich II. von Preußen 1742 mit der mehrere Hundert Objekte umfassende Antikensammlung des französischen Kardinals Melchior de Polignac erworben hatte.  
 
-Ursprünglich recht kostengünstig beschafft und mit zwei Schiffen von Paris über Rouen und Hamburg nach Schloss Charlottenburg verfrachtet und dort deponiert, sodann in weitere der aufwachsenden Ausstattungsszenarien in Potsdam (Sans, Souci; Neues Palais; Marmorpalais) durchaus planmäßig eingebunden, enthält sie bis heute auch Torsi, die bereits damals bei näherem Blick mehr oder weniger raffinierte, mit naturidentischen, antikischen Marmormaterialien ausgeführte, für den Kenner stets sichtbare Ergänzungstechniken aus verschiedenen Zeitschichten erkennen ließen. Um 1740 begann mit J.J. Winckelmann eine Entwicklung, die das „non finito“ schließlich (z.B. bei Auguste Rodin) nicht mehr als kaschierungsbedürftigen Makel, sondern als eigenständige künstlerische Aussageform betrachtete - und folglich manche Ergänzungen älterer Objekte überformte. (Vgl. Schleuning 1993; Dostern 2009)  
+Ursprünglich recht kostengünstig beschafft und mit zwei Schiffen von Paris über Rouen und Hamburg nach Schloss Charlottenburg verfrachtet und dort deponiert, sodann in weitere der aufwachsenden Ausstattungsszenarien in Potsdam (Sans, Souci; Neues Palais; Marmorpalais) durchaus planmäßig eingebunden, enthält sie bis heute auch Torsi, die bereits damals bei näherem Blick mehr oder weniger raffinierte, mit naturidentischen, antikischen Marmormaterialien ausgeführte, für den Kenner stets sichtbare Ergänzungstechniken aus verschiedenen Zeitschichten erkennen ließen.  
+
+Um 1740 begann mit J.J. Winckelmann eine Entwicklung, die das „non finito“ schließlich (z.B. bei Auguste Rodin) nicht mehr als kaschierungsbedürftigen Makel, sondern als eigenständige künstlerische Aussageform betrachtete - und folglich manche Ergänzungen älterer Objekte überformte. (Vgl. Schleuning 1993; Dostern 2009)  
 
 
 
-10. Die Entstehungsgeschichten des Anfang 1725 abgebrochenen Choralkantatenjahrgangs und der zur selben Zeit beiseite gelegten Erstfassung der Matthäus-Passion sind auf eine Weise verschränkt, die sich auch in der blockhaft wirkenden, von Eric Chafe (1982) tonartentheologisch gedeuteten Grobstruktur der von Agricola durch Einfügung exakt ermittelter Leerzeilen und (später von unbekannter Hand zum Teil wieder entnommenen) Blankobögen akribisch zum präsentierfähigen Torso gestalteten Passionsteile widerspiegelt.  
+10. Die Entstehungsgeschichten des Anfang 1725 abgebrochenen Choralkantatenjahrgangs und der zur selben Zeit beiseite gelegten Erstfassung der Matthäus-Passion sind auf eine Weise verschränkt, die sich auch in der blockhaft wirkenden, von Eric Chafe (1982) [tonartentheologisch](https://www.perplexity.ai/search/was-hat-eric-chafe-in-den-letz-txulmr2PT0SKfSdD7a3p9w) gedeuteten Grobstruktur der von Agricola durch Einfügung exakt ermittelter Leerzeilen und (später von unbekannter Hand zum Teil wieder entnommenen) Blankobögen akribisch zum präsentierfähigen Torso gestalteten Passionsteile widerspiegelt.  
 
 Die Postlieferungen für beide Projekte durch kostensparende Sammelsendungen „per couvert“ je nach den terminlichen Erfordernissen der Drucklegungen für die jeweils fünf bis acht Aufführungen umfassenden Leipziger Libretti der Kantaten schlugen in außergewöhnlicher Weise auf die vorausgeplante Architektur der - zur Zeit ihrer Entstehung naturgemäß noch ungehefteten - Passionsfragmente durch.  
 
@@ -207,7 +216,7 @@ Vorzeitige Wiederaufführung der Johannes-Passion am Karfreitag 1725 als mehr al
 
 C. F. Henrici erhält (im zeitlichen Umfeld der Arbeiten an BWV 249/249a, also noch im ersten Quartal 1725) einen ersten Einblick in die Bach vorliegenden Texte, denn er paraphrasiert die von der Brockes-Passion und weiteren Oratorien inspirierte „Rache-Arie“ BWV 244b Satz 27b in der Schlüsselszene (V. Aufzug, „neunter“ - recte: „eilfter“ - Auftritt) seines Ende 1725 einzeln und Anfang 1726 an den (fingierten?) Erscheinungsorten Berlin/Frankfurt/Hamburg gesammelt publizierten Lustspiels „Der akademische Schlendrian“ in Form von subtil feinstrukturierter Bühnenprosa.  
 
-Neben einem - genau diesen Satz betreffenden - musikalischen Selbstzitat Bachs in BWV 127 finden sich sprachliche Allusionen in Henricis Text für BWV 205 (zum 3.8.1725) und in seinen „Erbaulichen Gedancken“ von 1725, deren Inhalt und Publikationsgeschichte - nicht nur mangels öffentlich verfügbarem Digitalisat - seit Spitta 1873 bis vor kurzem nur unzureichend erforscht wurden.  
+Neben einem - genau diesen Satz betreffenden - musikalischen Selbstzitat Bachs in BWV 127 finden sich sprachliche [Allusionen](https://www.perplexity.ai/search/gibt-es-textliche-ubereinstimm-aJL4pVV5TOmSSH3sq4SxtA) in Henricis Text für BWV 205 (zum 3.8.1725) und in seinen „Erbaulichen Gedancken“ von 1725, deren Inhalt und Publikationsgeschichte - nicht nur mangels öffentlich verfügbarem Digitalisat - seit Spitta 1873 bis vor kurzem nur unzureichend erforscht wurden.  
 
 Henrici (gedruckt 1725):  
 
@@ -246,12 +255,12 @@ Dass selber die Sonne zur Finsternis werde,
 Durchschneidet die Fluten, durchwühlet die Erde,   
 Dass sich der Himmel selbst betrübt!  
 
-II. Karfreitag 1727: Erste aufführbare Fassung der Matthäus-Passion auf der Basis der vervollständigten Fragmente von 1725 sowie provisorisch integrierter Versatzstücke aus BWV 245/BC D1; eventuell schon unter Mitwirkung von J.C. Birkmann. Ebenfalls als kreative Notlösung zu betrachten. Es lagen noch nicht alle heute aus BWV 244b bekannten madrigalischen Sätze vor, weshalb (und wegen des somit noch hohen Anteils an Fremdmaterial) Henrici auf einen Abdruck in seiner Gedichtsammlung zunächst verzichtet. Christoph Gottlob Wecker lernt das Werk akustisch in dieser formal einfacheren Fassung kennen - sicherlich aber nicht auch optisch in einer Papierform, deren mutmaßlich sehr heterogene Zusammensetzung für einen Außenstehenden kaum praktisch zu verwenden war - es sei denn, es gab bereits in diesem Stadium eine Neuschrift. Die Partitur könnte wohl eher aus einer partiellen Neuerfassung des vervollständigten biblischen Textgerüsts bestanden haben, in das die 1725 fertig vorhandenen großen madrigalischen Sätze und die Versatzstücke ideell und materiell eingefügt wurden.  
+II. Karfreitag 1727: Erste aufführbare Fassung der Matthäus-Passion auf der Basis der vervollständigten Fragmente von 1725 sowie provisorisch integrierter Versatzstücke aus BWV 245/BC D1; eventuell schon unter Mitwirkung von J.C. Birkmann. Ebenfalls als kreative Notlösung zu betrachten. Es lagen noch nicht alle heute aus BWV 244b bekannten madrigalischen Sätze vor, weshalb (und wegen des somit noch hohen Anteils an Fremdmaterial) Henrici auf einen Abdruck in seiner Gedichtsammlung zunächst verzichtet. Christoph Gottlob Wecker lernt das Werk akustisch (oder bestenfalls als Mitwirkender anhand einer einzelnen Stimme) in dieser formal einfacheren Fassung kennen - sicherlich aber nicht auch optisch in einer kompletten Papierform, deren mutmaßlich sehr heterogene Zusammensetzung für einen Außenstehenden kaum praktisch zu verwenden war - es sei denn, es gab bereits in diesem Stadium eine Neuschrift. Die Partitur könnte wohl eher aus einer partiellen Neuerfassung des vervollständigten biblischen Textgerüsts bestanden haben, in das die 1725 fertig vorhandenen großen madrigalischen Sätze und die Versatzstücke ideell und materiell eingefügt wurden.  
 Eine klare klassische Klassifizierung als Konzeptschrift oder Reinschrift verbietet sich unter diesen Annahmen. Die ungeklärte (scheinbar unklärbare) Frage nach dem vollständig verschollenen Stimmenmaterial der Frühfassung(en) ist unter diesen Umständen zwar nicht substanziell, möglicherweise aber systemisch erforschbar.  
 
 Zum Beispiel: War ein erstmals angefertigter Stimmensatz für ein „Provisorium 1727“ zwei Jahre später, (nach den Umarbeitungen für BWV 244a im März 1729,) am Karfreitag dieses Jahres, für BWV 244b noch einsatztauglich? Wenn nicht: erforderte ein neuer Stimmensatz unter diesen Umständen eine neue Partitur als Vorlage für die Kopisten? Oder ergab sich ein damals heilloser - heute philologisch unheilbarer - Mischbefund, wie er z.B. für BWV 245 leider typisch ist?  
 
-IIIa/b. November 1728 bis März/April 1729: Erweiterung und Konsolidierung der Fassung II synchron zu den Arbeiten an der Trauermusik BWV 244a (vgl. zuletzt Stauber 2020) unter Eliminierung der 1727 eingefügten Versatzstücke und deren Ersatz und Ergänzung nach Texten Henricis. Aufführung am Karfreitag 1729 mit den auch für und in Köthen eingesetzten (und aus den dort realisierten Einnahmen subventionierten?) Kräften, darunter das soeben übernommene Collegium Musicum, auf der Basis einer heute verschollenen Partiturneuschrift, die 1755ff als Vorlage für die Auftragskopie J.C. Farlaus dienen sollte.  
+IIIa/b. November 1728 bis März/April 1729: Erweiterung und Konsolidierung der Fassung II synchron zu den Arbeiten an der Trauermusik BWV 244a (vgl. zuletzt Stauber 2020) unter Eliminierung der 1727 eingefügten Versatzstücke und deren Ersatz und Ergänzung nach Texten Henricis. Aufführung am Karfreitag 1729 mit den auch für und in Köthen eingesetzten (und aus den dort realisierten Einnahmen subventionierten?) Kräften, darunter das soeben übernommene Collegium Musicum, auf der Basis einer heute verschollenen Partiturneuschrift, die 1755ff als Vorlage für die von J.C. Farlau gelieferte Auftragskopie dienen sollte.  
 Für die finale Umarbeitung des Aufführungsmaterials verblieben Bach immerhin noch drei Arbeitswochen im Tempus clausum (24. März bis 14. April 1725) - sofern im calvinistischen Köthen nicht eine retardierte Rezeption der protestantischen Kalenderreform von 1700 praktiziert wurde.  
 Erster Abdruck des Textes in Henricis Gedichtsammlung zur Leipziger Ostermesse 1729, welche somit einen absolut aktuellen Sachstand wiedergibt. Christoph Gottlob Weckers Bitte um „Zusendung“ des Werks wird von Bach abschlägig beschieden, da er Partitur und Stimmen „heuer“ für seine eigene Aufführung benötigte.  
 Zu hinterfragen wäre, warum Wecker etwas anderes angenommen hatte. Vielleicht war er aufgrund der räumlichen und zeitlichen Entfernung nicht mehr auf dem aktuellen Informationsstand? Dem Argument einer Überforderung von Weckers Ensemble in Schweidnitz ist mit einem Hinweis auf jene Lösung zu entgegnen, die - freilich mit anderer Auswahl und Zielsetzung - für die legendäre Wiederaufführung 1829 gewählt wurde: eine ad hoc vorgenommene Streichung von „schwierig“ erscheinenden Sätzen. Oder aber: durch Verweis auf das o.g. Postulat einer von ihm 1727 vor Ort erlebten, kürzeren, musizierpraktisch beherrschbareren Fassung II.  
@@ -266,11 +275,11 @@ Ideelle Integration in einen neuerdings von diversen Autoren (vgl. z.B. Wolff 20
 
 A. Fassungen  
 
-I. 1725: belegt durch Agricolas Torso P 26 und die daraus sonst (nach Farlau) nicht genuin erklärbaren, P 25 entsprechenden originalen Lesarten  
+I. 1725: belegt durch Agricolas Torso P 26 und die daraus sonst (nämlich nach Farlau) nicht genuin erklärbaren, P 25 entsprechenden originalen Lesarten  
 II. 1727: hypothetisch wegen Parodiebeziehung zu IIIa/b, nach BC D1 und nach Rifkin 1975  
 IIIa. 1728: BWV 244a belegt durch Köthener Textüberlieferungen  
 IIIb. 1729: BWV 244b belegt durch Farlau Am.B 6+7 und Textdruck Henrici. 
-(Unveränderte Wiederaufführung für 173.. geplant?)  
+(Unveränderte Wiederaufführung für 173x. geplant?)  
 IV. 1736: BWV 244 belegt durch Autographe P 25 und St 110, Aufzeichnung des Thomas-Küsters Rost (DOK II/141) sowie das nachträgliche Titelblatt-Konstrukt in P 26  
 
 B. Entstehungsstadien der Einzelsätze:  
@@ -328,7 +337,8 @@ Satz 23 Gerne will ich …
 
 
 Satz 27a/b So ist … / Sind Blitze sind Donner …  
-1725: Text und Musik vollständig; 1725/26: Profane Paraphrase von 27b in Henricis Lustspiel „Der akademische Schlendrian“ V/11  
+1725: Text und Musik vollständig;  
+1725/26: Profane Paraphrase von 27b in Henricis Lustspiel „Der akademische Schlendrian“ V/11  
 1727: wie 1725  
 1728: -  
 1729: wie 1727  
@@ -431,14 +441,14 @@ Satz 68 Wir setzen uns …
 
 Während des Entstehungsvorgangs mutierte die Kantate BWV 127 von einer privaten, distanzübergreifenden Sterbebegleitung zum öffentlichen musikalischen Epitaph.  
 
-Dazu passt, dass in einem für den Wirkungsort des Autors verbindlichen Gesangbuch eine Variante des Chorals „Herr Jesu Christ …“ abgedruckt ist, die für den Fall, dass der Sterbende den Text nicht mehr selbst bewältigen konnte, den „Umstehenden“ zum stellvertretenden Singen oder Beten in Herz und Mund gelegt wurde.  
+Dazu passt, dass in einem für den Wirkungsort des Autors verbindlichen Gesangbuch eine singuläre Variante des Chorals „Herr Jesu Christ …“ abgedruckt ist, die für den Fall, dass der Sterbende den Text nicht mehr selbst bewältigen konnte, den „Umstehenden“ zum stellvertretenden Singen oder Beten in Herz und Mund gelegt wurde.  
 
 In demselben Gesangbuch gibt es wenige Ordnungsnummern weiter eine Paraphrase auf „Herr Jesu Christ…“, in welcher auffällige Entsprechungen zu BWV 127/2 enthalten sind, die im originalen Choraltext fehlen.  
 
 In etlichen weiteren Choralkantaten - nicht nur vom Januar 1725 - finden sich explizite Aussagen, die sich - bei Kenntnis der Hintergründe - als Auseinandersetzungen des Autors mir seiner aktuellen, durch eine chronische Krankheit geprägten Situation deuten lassen.  
 
 
-16. Die - erst anhand der seit 2018 verfügbaren Faksimile-Edition zweifelsfrei entzifferbare - Invocationsformel „J.N.D.N.J.C.“ (auf den ersten Blick vielleicht nur das Votum Justinianum: „In Nomine Domini Nostri Jesu Christi“) im eigenhändigen Kopftitel der Kantate BWV 20 (dem Auftaktwerk des Jahrgangs 1724/25) stellt - mit ihrer scheinbar einzigartigen Prolongation von Bachs vor- und nachher ca. 100 mal nachweisbaren Standardformel „J. J.“ (neutestamentlich: „Jesu Juva“ - alttestamentlich: „Jehova Juva“; auch: „Jove Juva“) - ein Bekenntnis des Komponisten zu seinem damaligen Textdichter dar, enthält sie doch als Rahmenbestandtteile dessen Initialen (Nachname vorangestellt) - zumal eine zeitübliche orthographische Inkonsequenz (J vor einem Vokal statt I vor einem Konsonanten) zugunsten der Eindeutigkeit dieser Namensandeutung in Kauf genommen wird.  
+16. Die - erst anhand der seit 2018 verfügbaren Faksimile-Edition zweifelsfrei entzifferbare - Invocationsformel „J.N.D.N.J.C.“ („In Nomine Domini Nostri Jesu Christi“) im eigenhändigen Kopftitel der Kantate BWV 20 (dem Auftaktwerk des Jahrgangs 1724/25) stellt - mit ihrer scheinbar einzigartigen Prolongation von Bachs vor- und nachher ca. 100 mal nachweisbaren Standardformel „J. J.“ (neutestamentlich: „Jesu Juva“ - alttestamentlich: „Jehova Juva“; auch: „Jove Juva“) - ein Bekenntnis des Komponisten zu seinem damaligen Textdichter dar, enthält sie doch als Rahmenbestandtteile dessen Initialen (Nachname vorangestellt) - zumal eine zeitübliche orthographische Inkonsequenz (J vor einem Vokal statt I vor einem Konsonanten) zugunsten der Eindeutigkeit dieser Namensandeutung in Kauf genommen wird.  
 
 Die Umstellung der Reihenfolge (Nachname, „N“, „D“, „N“, Vorname, Vorname) korrespondiert mit der, an bislang ungezählten Beispielen aus dem Kantaten-Corpus belegbaren, Neigung des Autors zu „Syntaktischen Diskontinuitäten“ - einem Begriff aus der strukturalistischen Linguistik, welcher die kreative, formverändernde, aber sinnerhaltende) „syntaktische Verschiebung“ von Elementen beschreibt - hier auf Wortanfänge einer - im Kern genitivischen („Domini“) - Abkürzung angewendet statt auf Satzbestandteile eines regelpoetischen, Alexandriner-kompatiblen Konstrukts. (Beliebiges Beispiel aus BWV 133/5: „des Todes Furcht und Schmerz“ statt „Furcht und Schmerz des Todes.“ Exzessiv verwendet u.a. in BWV 99.) Oder nach den Regeln der Zeit: ein klassisches Anagramm.  
 
@@ -496,7 +506,7 @@ Ob den an der Vorbereitung bzw. Vollendung des Werks Beteiligten bewußt war, da
 [Ge]h ihm ewig an der Seiten;  
 [Ch]ristus lässt mich für und für  
 [zu] dem Lebensbächlein leiten.  
-[S]elig, wer mit mir so spricht: 
+[S]elig, wer mit mir so spricht:  
 [Mei]nen Jesus lass ich nicht.  
 
 Ein ergänzender Beleg für eine Verwendung der eingangs diskutierten Invocation in ihrer usprünglichen Fassung findet sich übgrigens in einer 108-seitigen Festschrift zur Ehren der Ernennung von Bachs Leipziger „Ersatz“-Dichterin Christiane Mariane von Ziegler zur Kaiserlich Gekrönten Poetin durch die Universität Wittenberg (Vgl. Lamprecht 1734). Der erste Gratulant (Johann Gottlieb Kraus(e), 1723-27 a.o. Prof. für Rhetorik in Leipzig und - zusammen mit J.B. Mencke - ein früher Wissenschaftspublizist), lässt auf dem Titelblatt der lateinischen Version seines Textes die Buchstabenfolge drucken: I.N.D.N.J.C. In der folgenden deutschen Übersetzung findet sich (in Frakturbuchstaben) „J.N.U.H.J.C.“ - in diesem Kontext kaum anders zu lesen als [I]m [N]amen [U]nseres [H]errn [J]esu [C]hristi.  
