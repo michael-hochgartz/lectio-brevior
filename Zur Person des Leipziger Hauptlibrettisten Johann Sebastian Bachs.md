@@ -6,7 +6,7 @@ Michael Hochgartz
 D 48153 Münster  
 [michael@hochgartz.de](mailto:michael@hochgartz.de)  
 
-Version: 13.05.2025  
+Version: 14.05.2025  
 DOI: 10.5281/zenodo.15390511  
 CC BY-NC-ND  
 
@@ -195,7 +195,7 @@ An Akzidenzien gebührten Jauch zwar keine Einnahmen aus Taufen, wohl aber ein T
 
 Letztere waren in Lüneburg nach dem Prinzip der Personalgemeinden - also Pfarrgrenzen-übergreifend - organisiert. Die Entlassung des „Häretikers“ Petersen 1692 war übrigens durch dessen Absicht ausgelöst worden, den obligatorischen [Beichtpfennig](https://www.perplexity.ai/search/Was-war-ein-1D2KPvhSRySDS3iEfe8ZBw) abzuschaffen, und der Reformtheologe Heinrich Müller hatte zu seiner Zeit in Rostock diese Einkunftsart zwar nicht eliminiert, deren Erträge aber unter den Armen verteilt.  
 
-Bei wem der junge J.S. Bach während seiner Lüneburger Zeit beichtete, und ob (und ggf. wann und wo und von wem) der 15jährige konfirmiert wurde, ist bislang nicht einmal ansatzweise Gegenstand von Überlegungen. Als „Waisenknabe“ ohne jeglichen elterlichen Anhang und mit hoch aktuellem Migrationshintergrund käme für diese Funktion wohl nur ein nachgeordneter Geistlicher in Betracht, etwa der 2. Prediger an St. Michaelis, Johann Jacob Boie.  
+Bei wem der junge J.S. Bach während seiner Lüneburger Zeit beichtete, und ob (und ggf. wann und wo und von wem) der 15jährige konfirmiert wurde, ist bislang nicht einmal ansatzweise Gegenstand von Überlegungen. Für einen „Waisenknaben“ ohne jeglichen elterlichen Anhang und mit Migrationshintergrund käme für diese Funktion wohl nur ein nachgeordneter Geistlicher in Betracht, etwa der 2. Prediger an St. Michaelis, Johann Jacob Boie.  
 
 Dass Georg Böhm samt Familie und Gesinde sich Jauch (eventuell schon bei seiner Ankunft in Lüneburg?) als Beichtvater erwählt hat, ist zwar mangels Confitentenregistern nicht sicher belegbar, erscheint aber durchaus als möglich.  
 
@@ -231,7 +231,7 @@ durch die Gefährlichkeit der falschen Brüder
 Bemerkenswert an diesem speziellen Charakteristikum in Jauchs Biographie ist übrigens der Umstand, dass es J.S. Bach laut seinen eigenen Worten im Brief an Georg Erdmann 1730 in dieser Hinsicht in Leipzig aufgrund einer „wunderlichen und der Music wenig ergebenen Obrigkeit“ ganz ähnlich erging, denn er schreibt: „…mithin fast in stetem Verdruß, Neid und Verfolgung leben muß.“  
 
 Randbemerkung; 
-Jauchs möglicherweise wichtigste, bis heute fernwirksame Rolle bei der Planung und Genehmigung der essentiellen, optisch und muskikalisch wirkmächtigen Erweiterung der großen Orgel in St. Johannis durch den Orgelbauer Mathias Dropa (1712-1715) bleibt zu untersuchen, vllt. auch im Verlauf der jüngst für 2,2 Millionen Euro beauftragten [Restaurierung](https://www.ndr.de/nachrichten/niedersachsen/lueneburg_heide_unterelbe/lueneburger-millionenprojekt-orgelrestauration,orgelrestauration100.html) dieses europaweit exzeptionellen Instruments und der zugehörigen, aufwendigen, hoffentlich nicht geheim bleibenden Quellen-Dokumentation.   
+Jauchs möglicherweise wichtige Rolle bei der Planung und Genehmigung der optisch und musikalisch wirkmächtigen Erweiterung der großen Orgel in St. Johannis durch den Orgelbauer Mathias Dropa (1712-1715) bleibt zu untersuchen, vllt. auch im Verlauf der jüngst für 2,2 Millionen Euro beauftragten [Restaurierung](https://www.ndr.de/nachrichten/niedersachsen/lueneburg_heide_unterelbe/lueneburger-millionenprojekt-orgelrestauration,orgelrestauration100.html) dieses europaweit exzeptionellen Instruments und der zugehörigen, aufwendigen, hoffentlich nicht geheim bleibenden Quellen-Dokumentation.  
 
 
 
@@ -243,7 +243,7 @@ Bereits 1707 hatte Jauch eine Anstellung als „Capellan“ dortselbst vorzeitig
 
 Vorgänger in jenem Amt war der durch seine literarischen Werke bekannt gewordene Johannes Riemer, und bereits der wortgewaltige Satiriker Johann Balthasar Schupp passt bestens in diese Tradition. Es scheint, als legte man an St. Jakobi immer wieder Wert auf sprachschöpferische Ambitionen der Hauptprediger. (Vgl. auch die einschlägige Literatur über den „Ersten Hamburgischen Theaterstreit“.) Die Wahl fiel - dies sei am Rande bemerkt - auf den promovierten Sprachwissenschaftler und Dichter Neumeister, der den Wechsel seines Metiers mit der rhetorischen Frage problematisierte: „Ob ein Poete wohl Superintendens seyn könne?“ (Vgl. Merzbacher 2000).  
 
-Dass der sprachlich[ nicht nur ](https://youtu.be/gYJzeqYwDcw?feature=shared&t=1314)in Mitteldeutschland sozialisierte Neumeister (später mit feiner Ironie - nämlich in schönstem niederdeutschen Genitiv - [formulierend](https://www.perplexity.ai/search/Von-wem-stammt-p1msD3NdQDSvI17jrwGxjg): „Geld ist der Hamburger ihr Gott!“) seine neue, politisch und soziologisch ungleich anspruchsvollere Gemeinde unter Hinweis auf die erwartete Niederkunft seiner Frau monatelang auf die Übersiedlung aus dem damals brandenburgischen Sorau (heute: Żary) warten ließ, wäre bei einer erfolgreichen Wahl Jauchs nicht nur wegen der geographischen Nähe, sondern auch wegen dessen völlig anders gearteter Persönlichkeitsstruktur kaum denkbar gewesen. Wohl in Erwartung einer langen, erfolgreichen Wirkungszeit (die dann tatsächlich eintreten sollte) „renovirten“ die Kirchgeschworenen 1715 die Kanzel in St. Jakobi - unter Anbringung einer vom Kirchenvolk bis heute zu bewundernden Gedenkinschrift.  
+Dass der sprachlich[ nicht nur ](https://youtu.be/gYJzeqYwDcw?feature=shared&t=1314)in Mitteldeutschland sozialisierte Neumeister (später mit feiner Ironie - nämlich in schönstem [niederdeutschen Genitiv](https://www.perplexity.ai/search/3d6337e2-e1a0-4e6b-8b54-d5ea5af17af5) - [formulierend](https://www.perplexity.ai/search/Von-wem-stammt-p1msD3NdQDSvI17jrwGxjg): „Geld ist der Hamburger ihr Gott!“) seine neue, politisch und kulturell ungleich anspruchsvollere Gemeinde unter Hinweis auf die erwartete Niederkunft seiner Frau monatelang auf die Übersiedlung aus dem damals brandenburgischen Sorau (heute: Żary) warten ließ, wäre bei einer erfolgreichen Wahl Jauchs nicht nur wegen der geographischen Nähe, sondern auch wegen dessen völlig anders gearteter Persönlichkeitsstruktur kaum denkbar gewesen. Wohl in Erwartung einer langen, erfolgreichen Wirkungszeit (die dann tatsächlich eintreten sollte) „renovirten“ die Kirchgeschworenen 1715 die Kanzel in St. Jakobi - unter Anbringung einer vom Kirchenvolk bis heute zu bewundernden Gedenkinschrift.  
 
 Ähnliche Aufstiegsambitionen sind übrigens auch für Jauchs vier Jahre jüngeren ehemaligen Rostocker Kommilitonen Georg [Raphel](https://de.wikipedia.org/wiki/Georg_Raphel) belegt, den geschätzten Kollegen und Nachfolger (1714 als Nikolai-Prediger, 1725 als Superintendent). Seit 1702 als Konrektor am Johanneum tätig, lehnte Raphel 1721 eine Wahl an den Hamburger Dom und 1727 eine Berufung an die dortige Hauptkirche St. Petri ab - im ersten Fall bedingt durch Kompetenzstreitigkeiten unter den Patronatsherren.  
 
