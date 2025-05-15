@@ -4,12 +4,13 @@ Bibliographische Handreichung zu den Manuskriptentwürfen:
 - Zur Person des Leipziger Hauptlibrettisten Johann Sebastian Bachs.md
 
 Michael Hochgartz (D 48153 Münster)  
-michael@hochgartz.de - 16.01.2025  
+michael@hochgartz.de - 1615.05.2025  
 https://github.com/michael-hochgartz/lectio-brevior   
 
 Fachkundige Leser der Entwürfe des Thesenpapiers und des Vortragsmanuskripts erhalten auf diesem Weg einen Zugriff auf die in kürzest möglicher Form referenzierte Standardliteratur und auf einige wenige Spezialtexte. Eine vollständige Bibliographie bleibt ebenso einer späteren Ausarbeitung vorbehalten wie der Nachweis der mit erheblichen Aufwänden ermittelten, unpublizierten Archivalien, Briefe und Originaldrucke. Wie die beiden Haupttexte, so trägt auch diese Aufstellung den Charakter eines fortlaufenden Werkstattberichts.  
 
-Digitalisate der Musikhandschriften P25, P26 und AmB 6+7 sind in teils hervorragender Qualität via www.bach-digital.de verfügbar; desgl. neuerdings (Dezember 2020) auch die autographe Partitur von BWV 20.
+Digitalisate der Musikhandschriften P25, P26 und AmB 6+7 sind in teils hervorragender Qualität via www.bach-digital.de verfügbar; desgl. auch die autographe Partitur von BWV 20.  
+
 Abkürzungen  
 
 **ADB**: Allgemeine Deutsche Biographie  
@@ -18,8 +19,8 @@ Abkürzungen
 **BJ**: Bach-Jahrbuch <https://g.co/gemini/share/26c5499bc2a5>  
 **BWV**: Bach-Werke Verzeichnis  
 **HJB**: Händel-Jahrbuch  
-**HWV**:  Händel-Werke-Verzeichnis  
-**NBA**: Neue Bach-Ausgabe  
+**HWV**: Händel-Werke-Verzeichnis  
+**NBA**: Neue Bach-Ausgabe <https://www.perplexity.ai/search/28f58b53-2975-4060-9664-3a633181145b>  
 
 
 **Assmann, Jan** (1991): *Die Katastrophe des Vergessens. Das Deuteronomium als Paradigma kollektiver Mnemotechnik*. In: **Aleida Assmann & Dietrich Harth (Hrsg.)**: *Mnemosyne: Formen und Funktionen der kulturellen Erinnerung*. Frankfurt am Main: Suhrkamp, 337–355.  
@@ -73,9 +74,9 @@ Abkürzungen
 **Krausse**, Helmut K., Erdmann Neumeister und die Kantatentexte Johann Sebastian Bachs, in BJ **1986**, 7-32  
 **Krummacher**, Friedhelm: Bachs Zyklus der Choralkantaten: Aufgaben und Lösungen, Göttingen **1995**  
 **Krummacher**, Friedhelm: Johann Sebastian Bach: Die Kantaten und Passionen, 3 Bde, Kassel **2018**  
-**Kümmerling**, Harald „Difficile est satyram non scribere“ oder: Über eine gewisse Passion eine so genannten weltberühmten Mannes“, Beiträge zur Geschichte des Oratoriums seit Händel, R. Cadenbach / H. Loos (Hrsg), Festschrift Günther Massenkeil, Bonn **1986**, 57-69  
-**Leaver**, Robin, A., A catholic Hymnal for use in Lutheran Leipzig: Catholisches Gesang-Buch (Leipzig, 1724), in: Bach perspectives **2018**,  36-62  
-**Leisinger**, Ulrich, Die zweite Fassung der Johannes-Passion von 1725 - Nur ein Notbehelf?, Konferenzbericht Leipzig 2000, Hildeheim **2002**  
+**Kümmerling**, Harald, „Difficile est satyram non scribere“ oder: Über eine gewisse Passion eine so genannten weltberühmten Mannes“, H. Loos (Hrsg), Festschrift Günther Massenkeil, Bonn **1986**, 57-69  
+**Leaver**, Robin, A., A catholic Hymnal for use in Lutheran Leipzig: Catholisches Gesang-Buch (Leipzig, 1724), in: Bach perspectives **2018**, 36-62  
+**Leisinger**, Ulrich, Die zweite Fassung der Johannes-Passion von 1725 - Nur ein Notbehelf?, Konferenzbericht Leipzig 2000, Hildesheim **2002**  
 **Linke**, Wilhelm, Niedersächsische Familienkunde ein biographisches Verzeichnis ; auf Grund der Leichenpredigten und sonstigen Personalschriften der Königlichen Bibliothek zu Hannover und anderer hannoverscher Sammlungen, Hannover **1912**  
 **Linke**, Wilhelm, Katalog der Leichenpredigten und sonstigen Personalschriften des Staatsarchivs zu Hannover nebst Ergänzungen zu des Verfassers Niedersächsischer Familienkunde, Leipzig **1931**  
 **Marshall**, Robert L., The Compositional Process of J. S. Bach: A Study of the Autograph Scores of the Vocal Works, 2 vols Princeton, **1972**  
@@ -99,7 +100,8 @@ Bd. 1, Kassel **2004**
 **Rathey**, Markus, Der zweite Leipziger Jahrgang - Choralkantaten, in: Bachs Kantaten: Das Handbuch, Laaber **2012a**, 331-449  
 **Reinhardt**, Uta: Die evangelischen Pastoren in Lüneburg 1530-1980, in: Reformation vor 450 Jahren. Lüneburg **1980**, 113-169  
 **Reuter**, Die St. Michaeliskirche in Lüneburg. Hannover und Leipzig, **1918**  
-**Schabalina**, Tatjana: "Texte zur Music" in St. Petersburg. Weitere Funde, in BJ 95 **2009**, 11-48  
+**Schabalina**, Tatjana: "Texte zur Music" in St. Petersburg. Weitere Funde, in BJ 95 **2009**, 11-48 
+**Schabalina**, Tatjana: "Texte zur Music" in St. Petersburg, 2 Bde., Beeskow **2021**, (Bd.2 nicht verfügbar)  
 **Scheide**, William H.: Die Choralkantaten von 1724 und Bachs Köthener Besuch, in BJ 89 **2003**, 47-65  
 **Scheide**, William H., Zum Verhältnis von Textdrucken und musikalischen Quellen der Kirchenkantaten Johann Sebastian Bachs, in BJ 62 **1976**, 79-94  
 **Scheitler**, Irmgard: Geistliche Musikzensur in Hamburg 1710 : ein verhindertes Passions-Oratorium und sein problematisches Libretto, BJ 88 **2004**, 55-72  
