@@ -6,7 +6,7 @@ Michael Hochgartz
 D 48153 Münster  
 [michael@hochgartz.de](mailto:michael@hochgartz.de)  
 
-Version: 21.05.2025  
+Version: 22.05.2025  
 DOI: 10.5281/zenodo.15390511  
 CC BY-NC-ND 4.0 
 
@@ -743,11 +743,11 @@ und sodann diese seine Worte, die als [Nucleus](https://www.perplexity.ai/search
 
 „Wunder ist es / daß diesen gottlosen Menschen nicht der Blitz und Donner hat zerschmettert: Daß nicht die Erde ihren Mund auffgethan / und ihn verschlungen. Aber das ist Gottes Langmuth / die noch auff Besserung gewartet hat.“  
 
-Mit der betrüblichen Formulierung: „Wunder ist es …daß … nicht der Blitz und Donner …“,  die auf noch ältere Traditionen zurückweist, ist auch der folgende, von der theologischen Forschung bislang nicht zufriedenstellend erklärte chronologische Widerspruch in der entsprechenden Szene der Matthäus-Passion (27b) aufgelöst. Dort wird kein reales Geschehen kommentiert, für das es im Bibeltext an dieser Stelle auch gar keinen Beleg gibt, sondern die innere Beteiligung - das Mitleiden - der Hörenden über einen zwar erwünschbaren, aber aus soterologischer Sicht nicht erfüllbaren Eingriff der Schöpfung in das Passionsgeschehen.  
+Mit der betrüblichen Formulierung: „Wunder ist es …daß … nicht der Blitz und Donner …“,  die auf noch ältere Traditionen (Scriver) zurückweist, ist auch der folgende, von der theologischen Forschung bislang nicht zufriedenstellend erklärte chronologische Widerspruch in der entsprechenden Szene der Matthäus-Passion (27b) aufgelöst. Dort wird kein reales Geschehen geschildert, für das es im Bibeltext an dieser Stelle auch gar keinen Beleg gibt, sondern die in ein fiktionales Geschehen gekleidete, innere Beteiligung - das Mitleiden - der Hörenden über einen zwar erwünschbaren, aber aus soterologischer Sicht nicht erfüllbaren Eingriff der Schöpfung in das Passionsgeschehen.  
 
-Musikalische Konsequenzen: Um „Blitze!“ und „Donner!“ onomatopetisch zu legitimieren, verlegt Bach sie - ohne theologische Erfordernis, rein musikdramaturgisch - in den vorangehenden Satz 27a, wo sie in ein aetherisches, als [Bass-loses Duett](https://www.perplexity.ai/search/67572685-841c-4829-81ff-f077f26c4a0c) zwischen Sopran und Alt als Blitze („Lasst ihn! Hal-tet!!“) und Donner („Bin-det nicht!!!“) buchstäblich hineinblitzen und hineindonnern.  
+Musikalische Konsequenzen: Um „Blitze!“ und „Donner!“ in Satz 27b onomatopetisch zu legitimieren, verlegt Bach sie - ohne theologische Erfordernis, rein musikdramaturgisch - in den vorangehenden Satz 27a, wo sie in ein aetherisches, als [Bass-loses Duett](https://www.perplexity.ai/search/67572685-841c-4829-81ff-f077f26c4a0c) zwischen Sopran und Alt als Blitze („Lasst ihn! Hal-tet!!“) und Donner („Bin-det nicht!!!“) buchstäblich hineinblitzen und hineindonnern.  
 
-Welcher Text-Autor hätte das besser erfinden können? Welcher Opern-Komponist hätte das genialer vertonen können? Durch diesen dramaturgischen Trick: die Rückverlegung auf den allbekannten Topos eines anerkannten, volkstümlichen Predigtproduzenten (Heinrich Müller). Hier hat Bach ebenso knapp wie genial am Text am Text der Bibel vorbeikomponiert - um dessen Sinn zu erhöhen.  
+Welcher Text-Autor hätte das besser erfinden können? Welcher Opern-Komponist hätte das genialer vertonen können? Durch diesen dramaturgischen Trick: die Rückverlegung auf den allbekannten Topos eines anerkannten, volkstümlichen Predigtproduzenten (Heinrich Müller). Hier hat Bach ebenso knapp wie genial am Text der Bibel vorbeikomponiert - um dessen Sinn zu erhöhen.  
 
 Genauere stilkritische Analysen, die theologische und sprachliche Parameter berücksichtigen sollten, könnten vielleicht ergeben - auch unabhängig von der Frage nach dem tatsächlichen Autor - dass mit dem Text von Georg Böhms einzig nachweisbarer Passionsvertonung ein konzeptioneller Kern vorliegt, der vielleicht schon 1700 in der Elmenhorst-Arie Nr. 12 praeformiert war:  
 
