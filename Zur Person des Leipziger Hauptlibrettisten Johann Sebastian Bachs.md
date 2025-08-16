@@ -13,7 +13,7 @@ CC BY-NC-ND 4.0
 Quelltext, Versionsgeschichte und provisorisches Literaturverzeichnis:  
 <https://github.com/michael-hochgartz/lectio-brevior>  
 
-KI-basierte [Konsistenzprüfung](https://www.perplexity.ai/search/gibt-es-ansatze-die-unterschei-tPhGVq1LQiKHrHd0z6io_Q) des Hauptargumente
+KI-basierte [Konsistenzprüfung](https://www.perplexity.ai/search/gibt-es-ansatze-die-unterschei-tPhGVq1LQiKHrHd0z6io_Q) der Hauptargumente (Fragen an GPT 5)  
 
 
 
