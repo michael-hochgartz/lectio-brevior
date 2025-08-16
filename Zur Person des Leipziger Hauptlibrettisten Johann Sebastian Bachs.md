@@ -6,13 +6,14 @@ Michael Hochgartz
 D 48153 Münster  
 [michael@hochgartz.de](mailto:michael@hochgartz.de)  
 
-Version: 01.08.2025  
+Version: 16.08.2025  
 DOI: 10.5281/zenodo.15390511  
 CC BY-NC-ND 4.0 
 
 Quelltext, Versionsgeschichte und provisorisches Literaturverzeichnis:  
 <https://github.com/michael-hochgartz/lectio-brevior>  
 
+KI-basierte [Konsistenzprüfung](https://www.perplexity.ai/search/gibt-es-ansatze-die-unterschei-tPhGVq1LQiKHrHd0z6io_Q) des Hauptargumente
 
 
 
