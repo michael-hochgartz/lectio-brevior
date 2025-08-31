@@ -4,7 +4,7 @@ Bibliographische Handreichung zu den Manuskriptentwürfen:
 - Zur Person des Leipziger Hauptlibrettisten Johann Sebastian Bachs.md
 
 Michael Hochgartz (D 48153 Münster)  
-michael@hochgartz.de - 1615.05.2025  
+michael@hochgartz.de - 31.08.2025  
 https://github.com/michael-hochgartz/lectio-brevior   
 
 Fachkundige Leser der Entwürfe des Thesenpapiers und des Vortragsmanuskripts erhalten auf diesem Weg einen Zugriff auf die in kürzest möglicher Form referenzierte Standardliteratur und auf einige wenige Spezialtexte. Eine vollständige Bibliographie bleibt ebenso einer späteren Ausarbeitung vorbehalten wie der Nachweis der mit erheblichen Aufwänden ermittelten, unpublizierten Archivalien, Briefe und Originaldrucke. Wie die beiden Haupttexte, so trägt auch diese Aufstellung den Charakter eines fortlaufenden Werkstattberichts.  
@@ -23,8 +23,8 @@ Abkürzungen
 **NBA**: Neue Bach-Ausgabe <https://www.perplexity.ai/search/28f58b53-2975-4060-9664-3a633181145b>  
 
 
-**Assmann, Jan** (1991): *Die Katastrophe des Vergessens. Das Deuteronomium als Paradigma kollektiver Mnemotechnik*. In: **Aleida Assmann & Dietrich Harth (Hrsg.)**: *Mnemosyne: Formen und Funktionen der kulturellen Erinnerung*. Frankfurt am Main: Suhrkamp, 337–355.  
-**Axmacher, Elke**: Ein Quellenfund zum Text der Matthäus-Passion, BJ 64 (**1978**), 181-191  
+**Assmann, Jan** (1991): *Die Katastrophe des Vergessens. Das Deuteronomium als Paradigma kollektiver Mnemotechnik*. In: **Aleida Assmann & Dietrich Harth (Hrsg.)**: *Mnemosyne: Formen und Funktionen der kulturellen Erinnerung*. Frankfurt am Main: Suhrkamp, 337–355. DOI: 10.11588/propylaeumdok.00002234  
+**Axmacher, Elke**: Ein Quellenfund zum Text der Matthäus-Passion, BJ 64 (**1978**), 181-191  DOI: 10.13141/bjb.v19782058  
 **Bärwald, Manuel**: Rezension von: Bachs Johannespassion, Berlin 2011, BJ 98 (**2012**), 265-270  
 **Bertram, Johann Georg**: Das evangelische Lüneburg, Braunschweig **1719**  
 **Blanken, Christine**: Der Kantatenzyklus ‚GOtt-geheiligte Sabbaths-Zehnden‘ von 1728 und die Leipziger Kirchenmusik unter J. S. Bach in den Jahren 1724–1727, BJ 15 (**2015**), 13–74  
