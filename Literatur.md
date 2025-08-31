@@ -16,11 +16,11 @@ Abkürzungen
 **ADB**: Allgemeine Deutsche Biographie  
 **BC**: Bach-Compendium  
 **BG**: Alte Bach-Ausgabe  
-**BJ**: Bach-Jahrbuch <https://g.co/gemini/share/26c5499bc2a5>  
+**BJ**: Bach-Jahrbuch  
 **BWV**: Bach-Werke Verzeichnis  
 **HJB**: Händel-Jahrbuch  
 **HWV**: Händel-Werke-Verzeichnis  
-**NBA**: Neue Bach-Ausgabe <https://www.perplexity.ai/search/28f58b53-2975-4060-9664-3a633181145b>  
+**NBA**: Neue Bach-Ausgabe  
 
 
 **Assmann, Jan** (1991): *Die Katastrophe des Vergessens. Das Deuteronomium als Paradigma kollektiver Mnemotechnik*. In: **Aleida Assmann & Dietrich Harth (Hrsg.)**: *Mnemosyne: Formen und Funktionen der kulturellen Erinnerung*. Frankfurt am Main: Suhrkamp, 337–355. DOI: 10.11588/propylaeumdok.00002234  
