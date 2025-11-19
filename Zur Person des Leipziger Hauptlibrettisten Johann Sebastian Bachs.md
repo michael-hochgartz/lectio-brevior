@@ -6,7 +6,7 @@ Michael Hochgartz
 D 48153 Münster  
 [michael@hochgartz.de](mailto:michael@hochgartz.de)  
 
-Version: 18.11.2025  
+Version: 19.11.2025  
 DOI: 10.5281/zenodo.15390511  
 [CC BY-NC-ND 4.0](https://www.perplexity.ai/search/ist-es-sinnvoll-die-inhalte-ei-D2aeRXeDTjWmQHkBrl7n0g) 
 
@@ -280,7 +280,7 @@ Ein paar getreuer Freunde war’t.
 
 Unklar sind die weiteren Beziehungen zwischen den Familien. So heiratete Ludolph Friedrich am 7.6.1746 Sophie Justine (geb. 1717), die Tochter eines Kauf- und Handelsmanns in Lüneburg. Diese hinterließ bei ihrem Tod 1779 ein Testament, das sich im Stadtarchiv erhalten, für die vorliegende Untersuchung aber als unergiebig erwiesen hat. (Vgl. Reuter 1918).  
 
-Es scheint, als habe Georg Bertram bereits vor 1719 (freilich in allgemeinerem Zusammenhang) die für die heutige Forschung betrüblichste Konsequenz aus dem plötzlichen, im Folgenden zu schildernden Tod Jauchs vorausgeahnt - nämlich die Unmöglichkeit, dessen Kantatentexte von 1724/25 nach Art eines J.C. Birkmann gesammelt zu publizieren: „… weil man wol weiß / wenn die Herren Autores davon sterben / daß es doch mit Editirung dergleichen operum postumorum die rechte Art nicht hat.“ (Zur Typologie der Publikationsformen vgl. Hobohm in BJ 1997).   
+Es scheint, als habe Georg Bertram bereits vor 1719 (freilich in allgemeinerem Zusammenhang) die für die heutige Forschung betrüblichste Konsequenz aus dem plötzlichen, im Folgenden zu schildernden Tod Jauchs vorausgeahnt - nämlich die Unmöglichkeit, dessen Kantatentexte von 1724/25 nach Art eines J.C. [Birkmann](https://www.deutsche-digitale-bibliothek.de/item/CXCHWUWCTFCCFAKXITKH5GLJ2SJGVZEZ) gesammelt zu publizieren: „… weil man wol weiß / wenn die Herren Autores davon sterben / daß es doch mit Editirung dergleichen operum postumorum die rechte Art nicht hat.“ (Zur Typologie der Publikationsformen vgl. Hobohm in BJ 1997).   
 
 Johann Christoph Jauchs Todesumstände müssen derart dramatisch gewesen sein, dass man im Januar 1725 seinen zwanzigjährigen Sohn Tobias Christoph brieflich („…bald die Post…“) zurück in die Heimat beorderte. Der nachmalige Lüneburger [Notar](https://www.perplexity.ai/search/9ee2461d-0ae2-44de-9937-5fc43b0d5f3e) war am 14. November des Vorjahres in der [Lindenstadt](https://www.perplexity.ai/search/dc22eba4-4c20-4971-851a-f1f9dc51b12e) Leipzig, wo er dem zwei Wochen danach eingeschriebenen, aus Nürnberg stammenden Erstsemester und späteren Bach-Librettisten Christoph Birkmann begegnet sein dürfte, und wo er bereits fünf Tage darauf bei der Uraufführung von BWV 26 erstmals eine von Bach komponierte Musik auf einen Text seines Vaters leibhaftig miterlebt haben konnte, und wohin er vielleicht eine neue Lieferung von Kantaten- und Passionstexten aus dessen Schreibstube überbrachte - sich zum Studium „[der edlen Weisheits-Spur](https://www.perplexity.ai/search/8f12c293-23dc-4811-9c36-0046ad84b71d)“ immatrikulierte. (Vgl. Erler 1909).  
 
@@ -550,7 +550,7 @@ Die sonst bei Lehms in zeittypischer Manier poetisch überhöhte Todessehnsucht 
 Dass andererseits Johann Christoph Jauch von Lehms inspiriert worden sein dürfte, belegt das Beispiel von dessen Text zum 16. Sonntag nach Trinitatis. Dieser korreliert mit BWV 111 in folgenden Allusionen: „Ach! daß sich nicht sofort mein Geist / Aus dem bedrängten Körper reißt“ und mit BWV 127: „So mögen drauff die Sterbe-Klocken klingen“.  
 
 
-Jauch ist, mit Ausnahme seiner (anders als [bedauerlicherweise](https://www.perplexity.ai/search/df1d9174-c0c8-402b-acb9-64707b4268f6) im Fall J.C. Birkmann) - erfreulicherweise exzellent und fortlaufend digitaliserten, nicht nur aus sprachlichen Gründen heute aber kaum noch adäquat zu beurteilenden - Beteiligungen an lateinischen Disputationen, seiner zahlreichen, durchgängig auf gutem Deutsch verfassten gereimten Grußworten in Drucken befreundeter Rostocker Akademiker und seiner Beiträge in Lüneburger Personalschriften, auf den ersten Blick publizistisch kaum erkennbar hervorgetreten. Sein durch verschiedene Aussagen belegtes bescheidenes Wesen ist als Grund dafür anzusehen, dass er aus eigenem Antrieb wenig produziert hat, was heute noch rezipierenswert erscheint.  
+Jauch ist, mit Ausnahme seiner - erfreulicherweise exzellent und fortlaufend digitaliserten, nicht nur aus sprachlichen Gründen heute aber kaum noch adäquat zu beurteilenden - Beteiligungen an lateinischen Disputationen, seiner zahlreichen, durchgängig auf gutem Deutsch verfassten gereimten Grußworten in Drucken befreundeter Rostocker Akademiker und seiner Beiträge in Lüneburger Personalschriften, auf den ersten Blick publizistisch kaum erkennbar hervorgetreten. Sein durch verschiedene Aussagen belegtes bescheidenes Wesen ist als Grund dafür anzusehen, dass er aus eigenem Antrieb wenig produziert hat, was heute noch rezipierenswert erscheint.  
 
 Für die Praxis der brieflichen Kommunikation Johann Christoph Jauchs, dessen Bruder Carl (1680-1755) als Lübeckischer Postmeister in Lüneburg amtierte, gibt es erfreulich sachdienliche Belege von seiner eigenen Hand.  
 
