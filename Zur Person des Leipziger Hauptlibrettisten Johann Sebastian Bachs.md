@@ -6,7 +6,7 @@ Michael Hochgartz
 D 48153 Münster  
 [michael@hochgartz.de](mailto:michael@hochgartz.de)  
 
-Version: 26.11.2025  
+Version: 27.11.2025  
 DOI: 10.5281/zenodo.15390511  
 [CC BY-NC-ND 4.0](https://www.perplexity.ai/search/ist-es-sinnvoll-die-inhalte-ei-D2aeRXeDTjWmQHkBrl7n0g) 
 
@@ -55,10 +55,10 @@ Dessen Vater, Herzog Gustav Adolf (Dichter von letztendlich 100 regelgerecht ger
 
 Eine erste Förderung hatte Jauch durch die Eltern erfahren, die „bey zarter Jugend ein herrlich [ingenium](https://www.perplexity.ai/search/Was-verstand-man-bDmHQ7leQJCE_y98TedMWg) bey diesem ältesten Sohne verspüret“, und es war „ihre erste Sorge, wie sie ihn zu allem guten anführen, und zur Ehre GOttes auferziehen mögten“.  
 
-Die im Februar 1689 auf Veranlassung des Rektors der Domschule Güstrow gedruckte Einladung zur öffentlichen Darbietung einer lateinischen Oration anlässlich des Geburtstags seines Landesherrn ist das früheste Indiz für die sprachgestalterische Kompetenz des damals 19jährigen Jauch, der bei dieser Gelegenheit als „[Praestantissimus Juvenum](https://www.perplexity.ai/search/Praestantissimu-Juvenum-RlvMwMMMRTu.cZQ77vP58A)“ bezeichnet wurde.  
+Die im Februar 1689 auf Veranlassung des Rektors der Domschule Güstrow gedruckte Einladung zur öffentlichen Darbietung einer lateinischen Oration anlässlich des Geburtstags seines Landesherrn ist das früheste Indiz für die sprachgestalterische Kompetenz des damals 19jährigen Jauch, der bei dieser Gelegenheit als „Praestantissimus Juvenum“ bezeichnet wurde.  
 
 
-Erst nach einer - zunächst nur pro Forma erfolgten - Immatrikulation an der Universität Rostock wechselte Jauch im April 1689 zum [Grundstudium](https://www.perplexity.ai/search/warum-wurde-die-philosophie-la-0DyV9G8gQOehYZVLIDHcxA) der Philosophie (Ancilla Theologiae) nach Jena. Offenkundige Motivation für diesen Umweg war die Absicht, die dort (in Jena) praktizierten, überregional berüchtigten, menschenverachtenden [Depositionsrituale](https://www.perplexity.ai/search/Depositionsritu-unsbjSD8SPWnzxTykrqbfA) für Erstinscribenten zu umgehen. Als Studienort war Jena sicherlich auch prädestiniert aufgrund des in der unmittelbaren Umgebung lokalisierten familiären Umfelds.  
+Erst nach einer - zunächst nur pro Forma erfolgten - Immatrikulation an der Universität Rostock wechselte Jauch im April 1689 zum [Grundstudium](https://www.perplexity.ai/search/warum-wurde-die-philosophie-la-0DyV9G8gQOehYZVLIDHcxA) der Philosophie nach Jena. Offenkundige Motivation für diesen Umweg war die Absicht, die dort (in Jena) praktizierten, überregional berüchtigten, menschenverachtenden [Depositionsrituale](https://www.perplexity.ai/search/Depositionsritu-unsbjSD8SPWnzxTykrqbfA) für Erstinscribenten zu umgehen. Als Studienort war Jena sicherlich auch prädestiniert aufgrund des in der unmittelbaren Umgebung lokalisierten familiären Umfelds.  
 
 Nach einem - spätestens [Anfang 1694](https://www.perplexity.ai/search/497cf7f4-3f24-46c0-b97d-e7c029382217) beendeten - Aufenthalt in Leipzig (bei dem er zufällig durchaus E. Neumeister, J.B. Carpzov, J. Schelle, J. Kuhnau oder J.A. Stübel begegnet sein könnte) beschloss [J]ohann [C]hristoph [J]auch seine - vor allem durch gedruckte, personenbezogene „Beiträge“ in gebundener Rede recht engmaschig verfolgbare - akademische Ausbildung 1695 in Rostock in der ehrenvollen Form als [Praeses](https://www.perplexity.ai/search/Was-ist-der-ykB4rHvoSxGgXAwWOn62IA) einer Disputation seines Kommilitonen Daniel Sasse (wo er sich mittels der Invocatio [J]esu [C]hristo [J]uvante auch im Titulus zu erkennen gibt) unter Betreuung durch den fast gleichaltrigen, früh verstorbenen Danziger Theologen, Gräzisten und Kieler [Kortholt](https://www.perplexity.ai/search/christian-kortholt-wMbI9XAIRQmQIP3Fs3hPkw)-Schüler [J]ohann [G]ottlieb [M]öller (1670-1698), der etlichen seiner sonstigen gedruckten Disputationen die Formeln [J]esu [G]ratia [M]oderante oder [I]n [G]loriam [M]ediatoris oder auch [J]mmensi [G]loriam [M]ediatoris voranzustellen pflegte.  
 
@@ -91,8 +91,11 @@ die deiner Hilf erwarten.
 
 Durch Verzicht auf je ein Wort ließen sich die beiden Binnenzeilen des Kantatensatzes zu einem in Kirchenliedern allgegenwärtigen Schema 8.8.8.8.8.8 simplifizieren, allerdings um den Preis eines Verzichts auf das „stets“.  
 
-[Denn] denen, die auf Jesum hoffen,  
-steht [ stets] die Tür der Gnaden offen;  
+Denn denen, die auf Jesum hoffen,  
+steht stets die Tür der Gnaden offen;  
+
+Denen, die auf Jesum hoffen,  
+steht die Tür der Gnaden offen;  
 
 Dass die beiden Zeilen dadurch ins trochäische Versmaß fallen würden, ließe sich - zusätzlich zum Befund des Textes von 1524 - so deuten, dass die vertonte Gestalt die semantisch ursprüngliche ist.  
 
@@ -104,7 +107,7 @@ Als vorläufiges Fazit der bisher angeführten, exemplarischen Beobachtungen ist
 
 Wichtigster Förderer Jauchs während seiner Rostocker Zeit war zunächst und auch später jener erwähnte Theologe Johannes Fecht, der als Theologieprofessor, Universitätsrektor und Superintendent gewissermaßen in - wenn auch nicht unmittelbarer - „[akademischer Sukzession](https://www.perplexity.ai/search/2879ac79-6bc8-47a0-88dd-14e619e335bd)“ zu dem als Stichwortgeber für bis zu sieben Sätze von Bachs Matthäus-Passion sowie je eines Satzes der Kantate BWV 2 und der Johannespassion geltenden Heinrich Müller stand.  
 
-Fecht - dessen mehr als 10 Bände umfassender Manuskriptnachlass in Rostock, Hamburg und anderswo ebenso einer wissenschaftlichen Auswertung harrt wie der Katalog seiner 1742 stückweise versteigerten Bibliothek - war ein engagierter Vertreter der Norddeutschen [Reformorthodoxie](https://www.perplexity.ai/search/Lutherische-Reformorthodoxi-2uDBtB_dQT2ZNDP8EzYxHw) und - nach anfänglicher Sympathie um so entschiedenerer - Gegner der Radikalpietisten Philipp Jacob Spener und August Hermann Francke.  
+Fecht - dessen mehr als 10 Bände umfassender Manuskriptnachlass in Rostock, Hamburg und anderswo ebenso einer wissenschaftlichen Auswertung harrt wie auch der Katalog seiner 1742 stückweise versteigerten Bibliothek - war ein engagierter Vertreter der Norddeutschen [Reformorthodoxie](https://www.perplexity.ai/search/Lutherische-Reformorthodoxi-2uDBtB_dQT2ZNDP8EzYxHw) und - nach anfänglicher Sympathie um so entschiedenerer - Gegner der Radikalpietisten Philipp Jacob Spener und August Hermann Francke.  
 
 Die von deren Initiativen ausgelösten „[Leipziger Unruhen](https://www.perplexity.ai/search/was-versteht-man-unter-dem-the-Map0k1BkQ.OHZx4AznqVqg#0)“ hatten eine Fernwirkung auch in Lüneburg hervorgerufen durch die Person des Superintendenten Johann Wilhelm Petersen, der schließlich 1692 unter minutiös (sowohl von ihm selbt als auch durch die handelnden Institutionen) dokumentieren Umständen aus dem Amt entfernt wurde. Mit diesem - durch einen kirchenmusikalischen Eklat begleiteten - Fanal war jeglichen unorthodoxen Ansichten in Lüneburg bis weit in das 18. Jahrhundert hinein (vielleicht bis heute?) ein Riegel vorgeschoben worden - allenfalls bis zum Aufkommen jener rationalistisch angehauchten [Theologie](https://www.perplexity.ai/search/808a3c80-20df-435c-934e-8603c12a4f4c), die sich - wie anderswo auch - im Zuge der Spätaufklärung als [communis opinio](https://www.perplexity.ai/search/Was-bedeutet-communis-fH_3ZF_YS9GBjgCofJyRVw) etablieren sollte.  
 
@@ -113,7 +116,7 @@ Jauchs früheste Begegnung mit dem Themenbereich einer natürlich denkenden, von
 
 Der gedruckte Text [(VD17 12:150552A](https://www.deutsche-digitale-bibliothek.de/item/OAVBRJD7RG57DLE5TYCLBEADXWOCEVFX)) einer Disputation unter Leitung seiner Mentoren Johann Gottlieb Möller und Johannes Fecht, bei der Jauch am 7. März 1694 als „Respondent“ auftrat, lässt sich nicht sicher als schriftliche Vorleistung für einen Magistertitel kategorisieren (gewiss keine „Dissertation“ im heutigen Sinne.) Gleichwohl ist auch hier das Sujet von Interesse: Die [Diskussion](https://www.perplexity.ai/search/497cf7f4-3f24-46c0-b97d-e7c029382217) der Verhältnisbestimmung zwischen Offenbarung und Vernunft auf der Grundlage einer zunehmd kritisch zu befragenden Bibel.  
 
-Die von Bertram als „Specimen“ (Probestück) angeführte öffentliche Darstellung der Braunschweigisch-Lüneburgischen Reformationsgeschichte am Beispiel des „Corpus Doctrinae Julii“ hat offenbar keinen Niederschlag in einer gedruckten Publikation gefunden.  
+Eine von Bertram als „Specimen“ (Probestück) angeführte öffentliche Darstellung der Braunschweigisch-Lüneburgischen Reformationsgeschichte am Beispiel des „Corpus Doctrinae Julii“ hat offenbar keinen Niederschlag in einer gedruckten Publikation gefunden.  
 
 Der 1695 zu Jauchs Abschied aus Rostock gedruckte [Valedictionsbrief](https://search.worldcat.org/de/title/249354775) der - leider nicht namentlich genannten, aber teilweise ermittelbaren - „sämptl. Haußgenossen“ (ganz oder teilweise identisch mit den Mitpilgernden der „Preußischen Reise?) seines akademischen Ziehvaters Möller ist geprägt durch Analogien bei der Betrachtung von Beziehungen zwischen Kunst, Künstler, Tugend und Natur - dargestellt anhand eines optisch beeindruckenden chemischen Experiments, welches aus anorganischen Substanzen organisch wirkende, baumartige Gebilde wachsen lässt. („[Arbor Dianae](https://www.perplexity.ai/search/Was-bedeutet-der-rY7XabeyTCGELx3dW_TVQQ)“). Die letzten beiden der nachfolgend daraus auszugsweise zitierten Zeilen belegen den Übergang von einer mythologischen zu einer neuzeitlichen, bis heute gültigen Erklärweise - und damit den Paradigmenwechsel der Naturwissenschaften um 1700 schlechthin:  
 
