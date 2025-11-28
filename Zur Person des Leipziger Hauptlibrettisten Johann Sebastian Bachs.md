@@ -1,6 +1,6 @@
-Ob ein Superintendens wohl Poete seyn könne? - Zur Person des „Leipziger“ [Hauptlibrettisten](https://www.perplexity.ai/search/06136948-12db-4b42-8b06-5903794bdfec) Johann Sebastian Bachs.  
+Ob ein Superintendens wohl Poete seyn könne? - Zur Person des „Leipziger“ Hauptlibrettisten Johann Sebastian Bachs.  
 
-[Iterativ](https://www.perplexity.ai/search/zeige-mir-bitte-die-letzten-10-6o_VmW2OTm2ZK1bhS4v4Yg) dokumentierter Entwurf für ein [fiktionales](https://www.perplexity.ai/search/4459db81-4074-44d8-aa0d-7b2e673a9fc4) Vortragsmanuskript.  
+Iterativ dokumentierter Entwurf für ein fiktionales Vortragsmanuskript.  
 
 Michael Hochgartz  
 D 48153 Münster  
@@ -28,16 +28,16 @@ Jetzt bin ich müd vom Rennen und Laufen
 Jetzt will ich mich im Grabe verschnaufen.  
 Lebt wohl! Dort oben, ihr christlichen Brüder  
 Ja, das versteht sich, dort sehn wir uns wieder.  
-(Heinrich [Heine](https://www.perplexity.ai/search/aacb7a7c-fabe-4ffa-a873-02f5d0fff48e), 1851)
+(Heinrich Heine, 1851)
 
 Learn the facts - then try on the stories like clothes:  
-([John Le Carré,](https://www.perplexity.ai/search/von-wem-stammt-dieses-zitat-le-L4AwNIyvQqKE4AlWdglF1Q) 1974)  
+(John Le Carré, 1974)  
 
 Man muss dem Gericht natürlich eine stimmige und lebensnahe Geschichte präsentieren, und man kann da auch Schreibfreude entwickeln.  
-(Hans-Gerd Jauch, [2012](https://www.perplexity.ai/search/3faaf7da-749b-4c42-b49f-ac25992b81d2))  
+(Hans-Gerd Jauch, 2012)  
 
 Bildung lässt sich nicht downloaden.  
-(Günther Jauch, [2009](https://www.perplexity.ai/search/90e23b8f-7bd9-48b0-8d21-9f6979c2d7c8))  
+(Günther Jauch, 2009)  
 
 
 Bei dem Autor der Texte für Johann Sebastian Bachs Choralkantaten des Jahrgangs 1724/25 und für einige von deren Vor- und Nachläufer, für Teile seiner Johannes-Passion und für eine Anfang 1725 abgebrochene Urfassung der Matthäus-Passion handelt es sich mit hoher Wahrscheinlichkeit um den Lüneburger Lamberti-, Nikolai- und Johannis-Prediger, den 1714 zum Superintendenten und Inspektor der Lateinschule Johanneum und ihres Kantatenchors ernannten Johann Christoph [Jauch](https://d-nb.info/gnd/117088900) (1669-1725), den jahrzehntelangen unmittelbaren Zeitgenossen, mutmaßlichen Studienkollegen und späteren theologischen Vorgesetzten, Kanzelredner bei gemeinsam absolvierten Kantatenaufführungen und vielleicht auch Beichtvater von Bachs „Lehrmeister“ Georg Böhm - dem Komponisten der bei Jauchs Beisetzung in St. Johannis am 6. Februar 1725 aufgeführten Trauermusik.  
