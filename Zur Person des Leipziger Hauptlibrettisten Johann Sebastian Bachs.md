@@ -6,7 +6,7 @@ Michael Hochgartz
 D 48153 Münster  
 [michael@hochgartz.de](mailto:michael@hochgartz.de)  
 
-Version: 01.12.2025  
+Version: 03.12.2025  
 DOI: 10.5281/zenodo.15390511  
 [CC BY-NC-ND 4.0](https://www.perplexity.ai/search/ist-es-sinnvoll-die-inhalte-ei-D2aeRXeDTjWmQHkBrl7n0g) 
 
@@ -856,13 +856,26 @@ Inhaltliche und stilistische Korrespondenzen mit späteren Texten Jauchs bleiben
 Und schließlich: findet sich hier ein Nucleus für die changierende Mischung von rethorisch-poetischem, individual-psychologischem und nicht zuletzt auch theologischem „ICH“, das sich in etlichen der Jauch zuzuschreibenden Kantatentexten um 1724 - bei Vorliegen hinreichender intellektueller Neugier - finden lässt?  
 
 
-Angeregt durch eine intensive nächtliche Diskussion mit einem Large Language Model (Gemini 3 Pro; 30.11.2025) ergibt sich folgende Überlegung:  
+<Angeregt durch eine intensive nächtliche Diskussion mit einem Large Language Model (Gemini 3 Pro; 30.11.2025) ergibt sich folgende, provisorische Überlegung:>  
 
 Als treuer Vertreter der lutherischen (Reform-)Orthodoxie praktizierte Johann Christoph Jauch die Sterbevorbereitung und Sterbebeleitung in seinen „wohl viele Tausend Seelen“ umfassenden Gemeinden in der üblichen Art. Nämlich als „Richterzuspruch“ aufgrund objektivierbarer Werte (Bekenntnisse - Bibelsprüche - Choräle). Gleichsam als Absolution im katholisch verstehbaren Sinn - aber ohne Fegefeuer und Letzte Ölung.  
 
 Für Pietisten jener Zeit war - laut Gemini 3 - das Sterbebett hingegen gleichsam eine Bühne, auf der sie ihren „Bußkampf“ halböffentlich demonstrieren durften oder zu müssen glaubten. Ein Beweis für den Sieg um eine individuelle, ewiges Heil verheißende Wiedergeburt.  
 
-Kann es sein, dass Jauch, in jenem „realen Ich“, das zwischen den personenbezogenen Zeilen seiner Choralkantatentexte mehr als einmal durchscheint, seinen rein inneren „Bußkampf“ klandestin - und damit literarisch genial - zu dokumentieren versucht hat? Freilich ohne erkennbare Anzeichen einer pietistischen Wiedergeburtsbemühung. Denn wie schrieb er: „Das Kreuz hat sie nur neu geborn“.  Das Kreuz - nicht der Bußkampf.  
+Kann es sein, dass Jauch, in jenem „realen Ich“, das zwischen den personenbezogenen - den Sterbevorgang wiederholt vorauszeichnenden - Zeilen seiner Choralkantatentexte seinen rein inneren „Bußkampf“ klandestin - und damit literarisch genial - zu dokumentieren versucht hat? Freilich ohne erkennbare Anzeichen einer pietistischen Wiedergeburtsbemühung. Denn wie schrieb er in der Kantate BWV 178: „Das Kreuz hat sie nur neu geborn“. Das Kreuz - nicht der Bußkampf.  
+
+Der Text der Matthäuspassion ließe sich nach folgendem Schema strukturieren, welches nicht die üblichen „Actus“ widerspiegelt, sondern die individual-theologische Rolle der einzelnen Sätze aus der Sicht der Hörergruppen:  
+
+- Biblischer Bericht (inklusive der hochdramatischen Massenszenen) = gemeinsame Grundlage für Alle  
+
+- Arie und Arioso als individuelles Bekenntnis der gläubigen Seele ): textlich eher auf die dem Pietismus zuneigenden Hörer zugeschnitten  
+
+- Choräle mit Kommentarfunktion auf der Basis des orthodoxen Liedrepertoires: für den konservativen Teil des Auditoriums. (Der Pietismus hatte längst begonnen, sein eigenes Gesangsrepertoire zu produzieren.)  
+
+Exemplarischer Beleg: „Ich will bei meinem Jesu wachen“;  „Erbarme dich“; „Gebt mir meinen Jesum wieder; „Ja freilich“; „Komm süßes Kreuz“; (eventuell auch der Text von „Gerne will ich mich bequemen“): Johann Christoph Jauch. „Buß und Reu“ als herausragendes Beispiel für die Übernahme und Vertiefung des Prinzips öffentlicher Darstellung persönlichen Bußkampfs durch Christian Friedrich Henrici bei der Vervollständigung der Passion.  
+
+Dass die musikalisch hochexpressiven Kommentierungen aus der Ich-Perspektive mit der Abneigung jeder „Opernhafftigkeit“ durch breite Teile des Pietismus kontrastierten,, vermag vielleicht den integrierenden Charakter dieses nicht nur musikalischen, sodern auch theologischen Gesamtkunstwerks zu belegen.  
+
 
 1695 hatte der vierundzwanzigjährige J.C.Jauch - wie sich aus einem auszugsweise gedruckten Brief des Kopenhagener Hofpredigers, Universitätsrektors, Kirchenlieddichters und luthertreuen Kontroverstheologen Hector Gottfried Masius an seinen Rostocker Kollegen Johannes Fecht (Jauchs Mentor) ergibt - unter dem Beifall der sämtlichen Zuhörer („totius auditorii applausum“) vor dem jungen dänischen Prinzen Carl (1680-1729) in dessen dortiger Schlosskirche gepredigt - bevor dieser von seinen Erziehungsberechtigten einem allzu „deutschen“ Einfluss entzogen wurde. Die Reise war „auf sein unterthänigstes Ansuchen“ durch Herzog Gustav Adolf „gnädigst vergönnet“ worden, „dessen Stipendiat er war“.  
 
