@@ -858,7 +858,7 @@ Und schließlich: findet sich hier ein Nucleus für die changierende Mischung vo
 
 <Angeregt durch eine intensive nächtliche Diskussion mit einem Large Language Model (Gemini 3 Pro; 30.11.2025) ergibt sich folgende, provisorische Überlegung:>  
 
-Als treuer Vertreter der lutherischen (Reform-)Orthodoxie praktizierte Johann Christoph Jauch die Sterbevorbereitung und Sterbebeleitung in seinen „wohl viele Tausend Seelen“ umfassenden Gemeinden in der üblichen Art. Nämlich als „Richterzuspruch“ aufgrund objektivierbarer Werte (Bekenntnisse - Bibelsprüche - Choräle). Gleichsam als Absolution im katholisch verstehbaren Sinn - aber ohne Fegefeuer und Letzte Ölung.  
+Als treuer Vertreter der lutherischen Reformorthodoxie praktizierte Johann Christoph Jauch die Sterbevorbereitung und Sterbebeleitung in seinen „wohl viele Tausend Seelen“ umfassenden Gemeinden in der üblichen Art. Nämlich als „Richterzuspruch“ aufgrund objektivierbarer Werte (Bekenntnisse - Bibelsprüche - Choräle). Gleichsam als Absolution im katholisch verstehbaren Sinn - aber ohne Fegefeuer und Letzte Ölung.  
 
 Für Pietisten jener Zeit war - laut Gemini 3 - das Sterbebett hingegen gleichsam eine Bühne, auf der sie ihren „Bußkampf“ halböffentlich demonstrieren durften oder zu müssen glaubten. Ein Beweis für den Sieg um eine individuelle, ewiges Heil verheißende Wiedergeburt.  
 
