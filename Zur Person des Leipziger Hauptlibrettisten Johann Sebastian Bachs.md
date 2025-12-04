@@ -6,14 +6,14 @@ Michael Hochgartz
 D 48153 Münster  
 [michael@hochgartz.de](mailto:michael@hochgartz.de)  
 
-Version: 03.12.2025  
+Version: 04.12.2025  
 DOI: 10.5281/zenodo.15390511  
 [CC BY-NC-ND 4.0](https://www.perplexity.ai/search/ist-es-sinnvoll-die-inhalte-ei-D2aeRXeDTjWmQHkBrl7n0g) 
 
 Quelltext, Versionsgeschichte und provisorisches Literaturverzeichnis:  
 <https://github.com/michael-hochgartz/lectio-brevior>  
 
-KI-basierte [Konsistenzprüfung](https://www.perplexity.ai/search/gibt-es-ansatze-die-unterschei-t76NVqchR_675jDRX7tb7Q) einigerHauptargumente (Fragen an GPT 5)  
+KI-basierte Konsistenzprüfungen einigerHauptargumente (Fragen an [GPT 5](https://www.perplexity.ai/search/gibt-es-ansatze-die-unterschei-t76NVqchR_675jDRX7tb7Q) und [Gemini 3](https://gemini.google.com/share/e7eeb82d96ab))  
 
 
 
@@ -874,7 +874,7 @@ Der Text der Matthäuspassion ließe sich nach folgendem Schema strukturieren, w
 
 Exemplarischer Beleg: „Ich will bei meinem Jesu wachen“;  „Erbarme dich“; „Gebt mir meinen Jesum wieder; „Ja freilich“; „Komm süßes Kreuz“; (eventuell auch der Text von „Gerne will ich mich bequemen“): Johann Christoph Jauch. „Buß und Reu“ als herausragendes Beispiel für die Übernahme und Vertiefung des Prinzips öffentlicher Darstellung persönlichen Bußkampfs durch Christian Friedrich Henrici bei der Vervollständigung der Passion.  
 
-Dass die musikalisch hochexpressiven Kommentierungen aus der Ich-Perspektive mit der Abneigung jeder „Opernhafftigkeit“ durch breite Teile des Pietismus kontrastierten,, vermag vielleicht den integrierenden Charakter dieses nicht nur musikalischen, sodern auch theologischen Gesamtkunstwerks zu belegen.  
+Dass die musikalisch hochexpressiven Kommentierungen aus der Ich-Perspektive mit der Abneigung jeglicher „Opernhafftigkeit“ durch breite Teile des Pietismus kontrastierten, vermag vielleicht den integrierenden Charakter dieses nicht nur musikalischen, sodern auch theologischen Gesamtkunstwerks zu belegen.  </>
 
 
 1695 hatte der vierundzwanzigjährige J.C.Jauch - wie sich aus einem auszugsweise gedruckten Brief des Kopenhagener Hofpredigers, Universitätsrektors, Kirchenlieddichters und luthertreuen Kontroverstheologen Hector Gottfried Masius an seinen Rostocker Kollegen Johannes Fecht (Jauchs Mentor) ergibt - unter dem Beifall der sämtlichen Zuhörer („totius auditorii applausum“) vor dem jungen dänischen Prinzen Carl (1680-1729) in dessen dortiger Schlosskirche gepredigt - bevor dieser von seinen Erziehungsberechtigten einem allzu „deutschen“ Einfluss entzogen wurde. Die Reise war „auf sein unterthänigstes Ansuchen“ durch Herzog Gustav Adolf „gnädigst vergönnet“ worden, „dessen Stipendiat er war“.  
