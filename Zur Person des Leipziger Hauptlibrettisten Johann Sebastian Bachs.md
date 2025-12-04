@@ -856,7 +856,7 @@ Inhaltliche und stilistische Korrespondenzen mit späteren Texten Jauchs bleiben
 Und schließlich: findet sich hier ein Nucleus für die changierende Mischung von rethorisch-poetischem, individual-psychologischem und nicht zuletzt auch theologischem „ICH“, das sich in etlichen der Jauch zuzuschreibenden Kantatentexten um 1724 - bei Vorliegen hinreichender intellektueller Neugier - finden lässt?  
 
 
-<Angeregt durch eine intensive nächtliche Diskussion mit einem Large Language Model (Gemini 3 Pro; 30.11.2025) ergibt sich folgende, provisorische Überlegung:>  
+<Angeregt durch eine intensive nächtliche [Diskussion](https://gemini.google.com/app/06f2ae9a829d4c9b) mit einem Large Language Model (Gemini 3 Pro; 30.11.2025) ergibt sich folgende, provisorische Überlegung:>  
 
 Als treuer Vertreter der lutherischen Reformorthodoxie praktizierte Johann Christoph Jauch die Sterbevorbereitung und Sterbebeleitung in seinen „wohl viele Tausend Seelen“ umfassenden Gemeinden in der üblichen Art. Nämlich als „Richterzuspruch“ aufgrund objektivierbarer Werte (Bekenntnisse - Bibelsprüche - Choräle). Gleichsam als Absolution im katholisch verstehbaren Sinn - aber ohne Fegefeuer und Letzte Ölung.  
 
