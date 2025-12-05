@@ -6,7 +6,7 @@ Michael Hochgartz
 D 48153 Münster  
 [michael@hochgartz.de](mailto:michael@hochgartz.de)  
 
-Version: 04.12.2025  
+Version: 05.12.2025  
 DOI: 10.5281/zenodo.15390511  
 [CC BY-NC-ND 4.0](https://www.perplexity.ai/search/ist-es-sinnvoll-die-inhalte-ei-D2aeRXeDTjWmQHkBrl7n0g) 
 
@@ -867,13 +867,13 @@ Der Text der Matthäuspassion ließe sich alternativ nach folgendem Schema struk
 
 - Biblischer Bericht (inklusive der hochdramatischen Massenszenen): gemeinsame Grundlage für Alle  
 
-- Arie und Arioso als individuelles Bekenntnis der gläubigen Seele ): textlich eher auf die dem Pietismus zugeneigten Hörer zugeschnitten  
+- Arie und Arioso als individuelles Bekenntnis der gläubigen Seele: textlich eher auf die dem Pietismus zugeneigten Hörer zugeschnitten  
 
 - Choräle mit Kommentarfunktion auf der Basis des orthodoxen Liedrepertoires: für den konservativen Teil des Auditoriums. (Der Pietismus hatte längst begonnen, sein eigenes Gesangsrepertoire zu produzieren.)  
 
-Exemplarischer Beleg: „Ich will bei meinem Jesu wachen“;  „Erbarme dich“; „Gebt mir meinen Jesum wieder; „Ja freilich“; „Komm süßes Kreuz“; (eventuell auch der Text von „Gerne will ich mich bequemen“): Johann Christoph Jauch.  
+Exemplarische Belege: „Ich will bei meinem Jesu wachen“;  „Erbarme dich“; „Gebt mir meinen Jesum wieder; „Ja freilich“; „Komm süßes Kreuz“; (eventuell auch der Text von „Gerne will ich mich bequemen“): Johann Christoph Jauch.  
 
-„Buß und Reu“ als herausragendes Beispiel für die Übernahme und Vertiefung des Prinzips öffentlicher Darstellung persönlichen Bußkampfs durch Christian Friedrich Henrici bei der Vervollständigung der Passion.  
+„Buß und Reu“ als herausragendes Beispiel für die Übernahme und Vertiefung des Prinzips öffentlicher Darstellung eines persönlichen Bußkampfs durch Christian Friedrich Henrici bei der Vervollständigung der Passion.  
 
 Dass die musikalisch hochexpressiven Kommentierungen aus der Ich-Perspektive mit der Abneigung jeglicher „Opernhafftigkeit“ durch breite Teile des Pietismus kontrastierten, vermag vielleicht den integrierenden Charakter dieses nicht nur musikalischen, sodern auch theologischen Gesamtkunstwerks zu belegen.  </>
 
