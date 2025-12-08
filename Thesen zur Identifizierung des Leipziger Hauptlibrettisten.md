@@ -5,7 +5,7 @@ Johann Sebastian Bachs
 Michael Hochgartz (D 48153 Münster)  
 [michael@hochgartz.de](mailto:michael@hochgartz.de)  
 
-Version: 07.12.2025  
+Version: 08.12.2025  
 DOI: 10.5281/zenodo.15390511  
 [CC BY-NC-ND](https://www.perplexity.ai/search/ist-es-sinnvoll-die-inhalte-ei-D2aeRXeDTjWmQHkBrl7n0g)  
 
@@ -86,7 +86,7 @@ Dazu passt die Beobachtung, dass in der Kantate BWV 93 das Luther-Zitat aus 2Kö
 5. Derselbe Autor hat möglicherweise auch die Textauswahl und das theologische Konzept für die am Karfreitag 1724 aufgeführte Johannes-Passion (BWV 245 Fassung I) mitgestaltet.  
 
 
-6. Von diesem Autor stammen ebenfalls das theologische und das hymnologische Konzept sowie die bis dahin vorliegenden Teile der „Poesia“ für eine Anfang 1725 abgebrochene, schon 1727 oder spätestens 1729 durch Christian Friedrich Henrici vervollständigte Urfassung der Matthäus-Passion, die als integraler Teil des Choralkantatenjahrgangs geplant war. (Zur Grundidee vgl. Chafe 1982 und dessen nicht unangreifbare, vom Verfasser selbst als „betont rüde“ bezeichnete Zurückweisung durch Dürr 1988 und besonders 1990; ferner weniger spezifisch Leisinger 2002 und mit anderem Begründungszusammenhang auch Gardiner 2013.)  
+6. Von diesem Autor stammen ebenfalls das theologische und das hymnologische Konzept sowie die bis dahin vorliegenden Teile der „Poesia“ für eine Anfang 1725 abgebrochene, schon 1727 oder spätestens 1729 durch Christian Friedrich Henrici vervollständigte Urfassung der Matthäus-Passion, die als integraler Teil des Choralkantatenjahrgangs geplant war. (Zur Grundidee vgl. Chafe 1982 und deren nicht unangreifbare, vom Verfasser selbst als „betont rüde“ bezeichnete Zurückweisung durch Dürr 1988 und besonders 1990; ferner weniger spezifisch Leisinger 2002 und mit anderem Begründungszusammenhang auch Gardiner 2013.)  
 
 
 7. Einziger Grund für die vorzeitige Wiederaufführung einer provisorisch modifizierten Version der Johannes-Passion (BWV 245 II) am Karfreitag 1725 war der Ausfall des Autors als Librettist einer für diesen Termin vorgesehenen Erstaufführung der Matthäus-Passion BWV 244b. (Vgl. Brischwein 2001; Leisinger 2002; Gardiner 2013; evtl. auch Glöckner 2022.) Das von Leisinger (2002) angedachte, von Walter (2016) bekräftigte Postulat einer auf einem einzigen Choral („O Mensch bewein“) basierenden Passion wird damit überflüssig.  
