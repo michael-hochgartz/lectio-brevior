@@ -6,7 +6,7 @@ Michael Hochgartz
 D 48153 Münster  
 [michael@hochgartz.de](mailto:michael@hochgartz.de)  
 
-Version: 14.01.2026  
+Version: 15.01.2026  
 DOI: 10.5281/zenodo.15390511  
 [CC BY-NC-ND 4.0](https://www.perplexity.ai/search/ist-es-sinnvoll-die-inhalte-ei-D2aeRXeDTjWmQHkBrl7n0g) 
 
@@ -553,6 +553,9 @@ Dass andererseits Johann Christoph Jauch von Lehms inspiriert worden sein dürft
 
 
 Jauch ist, mit Ausnahme seiner - erfreulicherweise exzellent und fortlaufend digitaliserten, nicht nur aus sprachlichen Gründen heute aber kaum noch adäquat zu beurteilenden - Beteiligungen an lateinischen Disputationen, seiner zahlreichen, durchgängig auf gutem Deutsch verfassten gereimten Grußworte in Drucken befreundeter Rostocker Akademiker und seiner Beiträge in Lüneburger Personalschriften, auf den ersten Blick publizistisch kaum erkennbar hervorgetreten. Sein durch verschiedene Aussagen belegtes bescheidenes Wesen ist als Grund dafür anzusehen, dass er aus eigenem Antrieb wenig produziert hat, was heute noch rezipierenswert erscheint.  
+
+Dass unter den ca. 1 Dutzend der Rostocker „Freunde“ sich mindestens zwei Juristen befanden, korrespondiert mit der Beobachtung, dass in einigen Texten der Choralkantaten (z.B. BWV 5, 38, 111) juristische Metaphern auftauchen, die auf eine mehr als oberflächliche Beschäftigung mit der Materie hindeuten könnten. Aus seinen vorangehenden Jahren in Jena sind leider keinerlei schriftliche Zeugnisse überliefert.  
+
 
 Für die Praxis der brieflichen Kommunikation Johann Christoph Jauchs, dessen Bruder Carl (1680-1755) als Lübeckischer Postmeister in Lüneburg amtierte, gibt es erfreulich sachdienliche Belege von seiner eigenen Hand.  
 
