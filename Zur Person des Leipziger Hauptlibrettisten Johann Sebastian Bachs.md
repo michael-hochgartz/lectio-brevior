@@ -6,14 +6,14 @@ Michael Hochgartz
 D 48153 Münster  
 [michael@hochgartz.de](mailto:michael@hochgartz.de)  
 
-Version: 20.01.2026  
+Version: 08.02.2026  
 DOI: 10.5281/zenodo.15390511  
 [CC BY-NC-ND 4.0](https://www.perplexity.ai/search/ist-es-sinnvoll-die-inhalte-ei-D2aeRXeDTjWmQHkBrl7n0g) 
 
 Quelltext, Versionsgeschichte und provisorisches Literaturverzeichnis:  
 <https://github.com/michael-hochgartz/lectio-brevior>  
 
-KI-basierte Konsistenzprüfungen einiger Hauptargumente (Fragen an [GPT 5](https://www.perplexity.ai/search/gibt-es-ansatze-die-unterschei-t76NVqchR_675jDRX7tb7Q) und [Gemini 3](https://gemini.google.com/share/e7eeb82d96ab))  
+Multimediale Aufbereitung (KI-generierter [Podcast](https://picander.de/eine-ki-spricht-mit-sich-und-fuer-sich-selbst/))  
 
 
 
@@ -469,7 +469,7 @@ Eine Suche nach tieferen Ursachen für Jauchs persönliche Probleme - oder zumin
 
 „ … und meine so vielfältige Arbeit (wie ich ja fast wöchentlich dreimal nicht ohne Verkürzung meiner Leibes und Lebenskräfte doch herzlich gerne zu Gottes Ehre in meiner allseitigen geliebten Gemeine zum besten nach möglichstem Vermögen selbst verrichte) mich wohl viele Jahre eher als sonsten von den lieben Meinigen abreißen wird.“  
 
-Rechtfertigt diese Aussage die Annahme, dass J.C. Jauch mindestens anderthalb Jahrzehnte im ständigen Bewußtsein einer chronischen, auszehrenden Erkrankung (vulgo „Schwindsucht“) gelebt, gepredigt, gelitten und gedichtet hat?  
+Rechtfertigt diese Aussage die Annahme, dass J.C. Jauch mindestens anderthalb Jahrzehnte im ständigen Bewußtsein einer chronischen, auszehrenden , die Lunge und damit die Fähigkeit zur stimmlichen Kommunikation mit ein- bis zweitausend Hörern behindernde - Erkrankung (vulgo „Schwindsucht“) gelebt, gepredigt, gelitten und gedichtet hat?  
 
 Ist es eine mehr als zufällige Anspielung, wenn für die Choralkantate BWV 114 (zum 1.10.1724) der Autor das dreifache Kopulativkompositum „Sünden-Wasser-Sucht“ generiert, das ein - für schwere Lungenkrankheiten im Endstadium typisches - Symptom umschreibt, das hier freilich zu einer heute befremdlich wirkenden Illustration eines theologischen Sachverhalts erweitert wurde? (Vgl. Hiob 15,16; nach Vulgata bzw. nach Luther: „quanto magis abominabilis et inutilis homo qui bibit quasi aquas iniquitatem“ / „Wie viel weniger ein Mensch, der ein Greuel und schnöde ist, der Unrecht säuft wie Wasser…“).  
 
@@ -942,6 +942,8 @@ wobei aber auch die vorangehende Zeile mitgelesen werden sollte:
 „… und mit beygefügten Grund-Sprüchen heiliger Schrifft und sonderlichen Uberschrifften bemercket, …“  
 
 Dieses Zitat belegt die Bemühungen der theologisch konkret Verantwortlichen um eine deutliche Legitimation des gesamten Projekts anhand von unwiderlegbaren Bibelzitaten - vielleicht auch, um nicht in den Ruf von pietistischen Schwärmereien zu geraten?  
+
+Im Katalog von Jauchs nachgelassener Bibliothek findet sich neben dem Stern-Druck der Geistreichen Lieder auch Elmenhorsts „Bericht von den Opern“, Hamburg 1688; („Dramatologia, Das ist: Bericht von Denen Oper-Spielen“).  
 
 Von Georg Böhm stammen nicht nur die Vertonungen von 23 der 27 neu hinzugefügten Strophenarien, er dürfte auch für die endgültig modernisierte musikalische Gestalt der kompletten Sammlung in Richtung auf Generalbasslieder mit betont unsanglicher Basstimme verantwortlich gewesen sein, die in den ersten beiden Auflagen von dem (unter mysteriösen Umständen aus der Musikgeschichte entfleuchten) Johann Wolfgang Franck und 1700 zum verbleibenden Teil auch vom Kieler Kantor Peter Laurentius Wockenfuß komponiert wurden.  
 
