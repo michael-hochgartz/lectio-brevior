@@ -6,7 +6,7 @@ Michael Hochgartz
 D 48153 Münster  
 [michael@hochgartz.de](mailto:michael@hochgartz.de)  
 
-Version: 08.02.2026  
+Version: 12.03.2026  
 DOI: 10.5281/zenodo.15390511  
 [CC BY-NC-ND 4.0](https://www.perplexity.ai/search/ist-es-sinnvoll-die-inhalte-ei-D2aeRXeDTjWmQHkBrl7n0g) 
 
@@ -69,7 +69,7 @@ Leider wurde bei der Publikation des auch heute noch lesenswerten „Diariums“
 
 Es ergibt sich die Überlegung, ob die drei Jahrzehnte nach diesem Ereignis in Leipziger Kantatentexten anzutreffenden rationalismuskritischen Floskeln - z.B. in BWV 2 („Und was der eigen Witz erdenket, … der eine wählet dies, der andre das, die törichte Vernunft ist ihr Kompaß“), BWV 178 („Schweig, schweig nur, taumelnde Vernunft“) und BWV 121 („Was Wunder, daß allhie Verstand und Witz gebricht“), aber auch - syntaktisch recht verstanden - BWV 180 („noch durch Vernunft das hohe Werk ergründet“) ihren Urgrund in diesen prägenden Begegnungen hatten und inwieweit sie ferner als aktuelle unterschwellige Kommentare des Autors zu den seit 1723 eskalierenden Kontroversen um den Philosophen Christian Wolff zu interpretieren sind. (Vgl Fischer 2017.)  
 
-In wieweit sich im Subtext von BWV 178 (zum 30.7.1724) überdies Anspielungen auf kontroverstheologische Diskussionen, speziell auch zu dem - schwerpunktmäßig von Vertretern des Pietismus besetzten - Thema Terminismus, belegen lassen, bleibt (auch anhand weiterer Kantatentexte) zu untersuchen und hängt zum Beispiel davon ab, ob das „stets“ in Bezug auf einen für jedes Individuum definierten letztmöglichen Gnadenzeitpunkt („terminus preremptorius“) nur versmetrisch (8.8.9.9.8.8) oder auch theologisch begründet werden kann, dessen Verpassen „die Frommen […] verlorn“ sein lässt. Die Hoffnung auf eine jederzeit mögliche geistliche Neugeburt „nur“ (hier nicht beschränkend gemeint, sondern im Sinne von „einzig und allein“; also als syntaktisch verstellte Partikel zu „Kreuz“, nicht als Adverb zu „geborn“; möglicherweise ebenfalls versmetrisch erforderlich) durch Christi historisch/heroischen Kreuzestod wird jedenfalls dogmatisch zweifelsfrei bekräftigt und für die lieben Einfältigen leichter rezipierbar gemacht.  
+In wieweit sich im Subtext von BWV 178 (zum 30.7.1724) überdies Anspielungen auf kontroverstheologische Diskussionen, speziell auch zu dem - schwerpunktmäßig von Vertretern des Pietismus besetzten - Thema Terminismus, belegen lassen, bleibt (auch anhand weiterer Kantatentexte) zu untersuchen und hängt auch davon ab, ob das „stets“ in Bezug auf einen für jedes Individuum definierten letztmöglichen Gnadenzeitpunkt („terminus preremptorius“) nur versmetrisch (8.8.9.9.8.8) oder auch theologisch begründet werden kann, dessen Verpassen „die Frommen […] verlorn“ sein lässt. Die Hoffnung auf eine jederzeit mögliche geistliche Neugeburt „nur“ (hier nicht beschränkend gemeint, sondern im Sinne von „einzig und allein“; also als syntaktisch verstellte Partikel zu „Kreuz“, nicht als Adverb zu „geborn“; möglicherweise ebenfalls versmetrisch erforderlich) durch Christi historisch/heroischen Kreuzestod wird jedenfalls dogmatisch zweifelsfrei bekräftigt und für die lieben Einfältigen leichter rezipierbar gemacht.  
 
 Sprich nicht: die Frommen sind verlorn,  
 das Kreuz hat sie nur neu geborn.  
@@ -115,7 +115,7 @@ Jauchs früheste Begegnung mit dem Themenbereich einer natürlich denkenden, von
 
 Der gedruckte Text [(VD17 12:150552A](https://www.deutsche-digitale-bibliothek.de/item/OAVBRJD7RG57DLE5TYCLBEADXWOCEVFX)) einer Disputation unter Leitung seiner Mentoren Johann Gottlieb Möller und Johannes Fecht, bei der Jauch am 7. März 1694 als „Respondent“ auftrat, lässt sich nicht sicher als schriftliche Vorleistung für einen Magistertitel kategorisieren (gewiss keine „Dissertation“ im heutigen Sinne.) Gleichwohl ist auch hier das Sujet von Interesse: Die Diskussion der Verhältnisbestimmung zwischen Offenbarung und Vernunft auf der Grundlage einer zunehmd kritisch zu befragenden Bibel.  
 
-Eine von Bertram als „Specimen“ (Probestück) angeführte öffentliche Darstellung der Braunschweigisch-Lüneburgischen Reformationsgeschichte am Beispiel des „Corpus Doctrinae Julii“ hat offenbar keinen Niederschlag in einer gedruckten Publikation gefunden.  
+Eine vom späteren Biographen Bertram als „Specimen“ (Probestück) angeführte öffentliche Darstellung der Braunschweigisch-Lüneburgischen Reformationsgeschichte am Beispiel des „Corpus Doctrinae Julii“ hat offenbar keinen Niederschlag in einer gedruckten Publikation gefunden.  
 
 Der 1695 zu Jauchs Abschied aus Rostock gedruckte Valedictionsbrief der - leider nicht namentlich genannten, aber teilweise ermittelbaren - „sämptl. Haußgenossen“ (ganz oder teilweise identisch mit den Mitpilgernden der „Preußischen Reise?) seines akademischen Ziehvaters Möller ist geprägt durch Analogien bei der Betrachtung von Beziehungen zwischen Kunst, Künstler, Tugend und Natur - dargestellt anhand eines optisch beeindruckenden chemischen Experiments, welches aus anorganischen Substanzen organisch wirkende, baumartige Gebilde wachsen lässt. („Arbor Dianae“). Die letzten beiden der nachfolgend daraus auszugsweise zitierten Zeilen belegen den Übergang von einer mythologischen zu einer neuzeitlichen, bis heute gültigen Erklärweise - und damit den Paradigmenwechsel der Naturwissenschaften um 1700 schlechthin:  
 
@@ -503,7 +503,7 @@ Und bring’ mich bald zu deiner ruh’/
 Wan drauff in meiner angst an mir  
 Der todes-schweiß gar bricht herfür /  
 
-Auffällig sind Querbezüge zur dritten Strophe des Chorals „Meinen Jesum lass ich nicht“, der einen Monat zuvor (7.1.1725) Grundlage für die gleichartig-benamte Kantate BWV 124 bildete:  
+Auffällig sind Querbezüge zur dritten Strophe des Chorals „Meinen Jesum lass ich nicht“, der einen Monat zuvor (7.1.1725) Grundlage für die gleichartig benamte Kantate BWV 124 bildete:  
 
 Lass vergehen das Gesicht,  
 Hören, Schmecken, Fühlen weichen,  
@@ -718,9 +718,9 @@ Und auch dies noch: ein unverdächtiger Zeuge (der im ostfriesischen Emden amtie
 
 
 
-Die Zuschreibung der Autorschaft des lange Zeit verschollenen, 1870 (im Vorfeld von Philipp Spittas für fast 150 Jahre lang grundlegenden Bach-Biographie) ohne die entscheidenden Teile veröffentlichten, den folgenreichen Brand der Ratsbücherei 1959 in Form von zwei leidlich lädierten Exemplaren überlebenden Textbuchs der von Georg Böhm 1711 - ein Jahr vor der Uraufführung der Brockes-Passion im nahen Hamburg - dem Lüneburger Rat (zugleich mit einem handschriftlichen Exemplar) gewidmeten Lukas-Passion (Scheitler 2005: deest) ist bislang ungesichert, liegt aufgrund der Übereinstimmung einiger Stilmerkmale mit den Hochzeitskantaten von 1705 und dem 1713/14 erschienenen, auf Texten lokaler Autoren beruhenden Kantatenjahrgang Flors aber durchaus im Bereich des Möglichen. (Vgl. Walter 1967, der neben Jauch auch dessen Vorgänger Wehrenberg - und somit einen der weiteren Beiträger für die insgesamt acht Gratulationen zur o.g. Hochzeit - zur Diskussion stellt.)  
+Die Zuschreibung der Autorschaft des lange Zeit verschollenen, 1870 (im Vorfeld von Philipp Spittas grundlegender Bach-Biographie) ohne die entscheidenden Teile veröffentlichten, den folgenreichen Brand der Ratsbücherei 1959 in Form von zwei leidlich lädierten Exemplaren überlebenden Textbuchs der von Georg Böhm 1711 - ein Jahr vor der Uraufführung der Brockes-Passion im nahen Hamburg - dem Lüneburger Rat (zugleich mit einem handschriftlichen Exemplar) gewidmeten Lukas-Passion (Scheitler 2005: deest) ist bislang ungesichert, liegt aufgrund der Übereinstimmung einiger Stilmerkmale mit den Hochzeitskantaten von 1705 und dem 1713/14 erschienenen, auf Texten lokaler Autoren beruhenden Kantatenjahrgang Flors aber durchaus im Bereich des Möglichen. (Vgl. Walter 1967, der neben Jauch auch dessen Vorgänger Wehrenberg - und somit einen der weiteren Beiträger für die insgesamt acht Gratulationen zur o.g. Hochzeit - zur Diskussion stellt.)  
 
-Bemerkenswert an diesem Lüneburger Libretto ist diese Dichotomie: Zum einen ziehen sich durch das - somit vielleicht als eine sehr spezielle Form des spät weiterentwickelten Typus der Choral-Passion einzustufende Werk - 14 Strophen „Auß D. Joh. Olearii Passions Liede O Jesu Gottes Lamm etc. in der Melodey O Gott du frommer Gott“ - und zwar jedesmal ausdrücklich an „Die Gemeine“ als ausführendes, nicht nur stumm rezipierendes Organ zugewiesen.  
+Bemerkenswert an diesem Lüneburger Libretto ist diese Dichotomie: Zum einen ziehen sich durch das - somit vielleicht als eine sehr spezielle Form des weiterentwickelten Typus der Choral-Passion einzustufende Werk - 14 Strophen „Auß D. Joh. Olearii Passions Liede O Jesu Gottes Lamm etc. in der Melodey O Gott du frommer Gott“ - und zwar jedesmal ausdrücklich an „Die Gemeine“ als ausführendes, nicht nur stumm rezipierendes Organ zugewiesen.  
 
 Zum anderen wird das hier wörtlich nacherzählte biblische Narrativ auf eine Weise durch Arien kommentiert, die mit ihrer moderateren Wortwahl (Ausnahme: „… wenn kräht der Gewissens-Hahn …“) näher an dem am „Sermo humilis“ (vgl. Axmacher 1984; Haselböck 2004) orientierten, volksnahen Predigtstil angesiedelt ist als die ein Jahr darauf in Hamburg - unter gänzlich anderen Umständen, nämlich in Form eines spektakulären, auch sprachlich von der zeitgenössischen Oper profitierenden, großbürgerlichen, nur vorgeblich privaten musikalischen Konventikels zelebrierte Brockes-Passion - wie aus der formal und inhaltlich extrem verdichteten Arie Nr. 7 erhellt.  
 
