@@ -1,0 +1,508 @@
+<!DOCTYPE html>
+<html lang="de">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>J. S. Bach: Kantaten-Navigator ✨</title>
+    <script src="https://cdn.tailwindcss.com"></script>
+    <style>
+        @import url('https://fonts.googleapis.com/css2?family=Inter:wght@400;600;700&family=Playfair+Display:ital,wght@0,700;1,700&display=swap');
+        
+        body {
+            font-family: 'Inter', sans-serif;
+            background-color: #f8fafc;
+        }
+        .serif {
+            font-family: 'Playfair Display', serif;
+        }
+        .table-container {
+            max-height: 65vh;
+            overflow-y: auto;
+        }
+        ::-webkit-scrollbar {
+            width: 8px;
+        }
+        ::-webkit-scrollbar-track {
+            background: #f1f1f1;
+        }
+        ::-webkit-scrollbar-thumb {
+            background: #cbd5e1;
+            border-radius: 4px;
+        }
+        ::-webkit-scrollbar-thumb:hover {
+            background: #94a3b8;
+        }
+
+        .spinner {
+            border: 3px solid rgba(0,0,0,.1);
+            width: 24px;
+            height: 24px;
+            border-radius: 50%;
+            border-left-color: #0f172a;
+            animation: spin 1s linear infinite;
+        }
+        @keyframes spin {
+            0% { transform: rotate(0deg); }
+            100% { transform: rotate(360deg); }
+        }
+
+        #modalOverlay {
+            display: none;
+            background-color: rgba(15, 23, 42, 0.5);
+            backdrop-filter: blur(4px);
+        }
+
+        #chatWidget {
+            display: none;
+            box-shadow: 0 10px 25px -5px rgba(0, 0, 0, 0.1), 0 8px 10px -6px rgba(0, 0, 0, 0.1);
+        }
+    </style>
+</head>
+<body class="p-4 md:p-8">
+
+    <!-- Modal -->
+    <div id="modalOverlay" class="fixed inset-0 z-50 flex items-center justify-center p-4">
+        <div class="bg-white rounded-2xl shadow-2xl max-w-2xl w-full max-h-[80vh] flex flex-col overflow-hidden">
+            <div class="p-6 border-b border-slate-100 flex justify-between items-center bg-slate-50">
+                <h3 id="modalTitle" class="serif text-2xl text-slate-900">✨ Libretto & Text</h3>
+                <button onclick="closeModal()" class="text-slate-400 hover:text-slate-600">
+                    <svg class="w-6 h-6" fill="none" stroke="currentColor" viewBox="0 0 24 24"><path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M6 18L18 6M6 6l12 12"></path></svg>
+                </button>
+            </div>
+            <div id="modalContent" class="p-8 overflow-y-auto prose prose-slate max-w-none text-slate-700 leading-relaxed">
+                <!-- Content -->
+            </div>
+            <div class="p-4 border-t border-slate-100 text-right bg-slate-50 flex justify-between items-center">
+                <div id="externalLinkContainer"></div>
+                <button onclick="closeModal()" class="px-6 py-2 bg-slate-900 text-white rounded-lg hover:bg-slate-800 transition-colors">Schließen</button>
+            </div>
+        </div>
+    </div>
+
+    <!-- Chat Widget -->
+    <div id="chatWidget" class="fixed bottom-6 right-6 w-80 md:w-96 bg-white rounded-2xl border border-slate-200 flex flex-col z-40 overflow-hidden">
+        <div class="p-4 bg-slate-900 text-white flex justify-between items-center">
+            <div class="flex items-center gap-2">
+                <div class="w-8 h-8 rounded-full bg-slate-700 flex items-center justify-center text-lg">🎹</div>
+                <div>
+                    <p class="text-sm font-bold leading-none">Bach-Gespräch ✨</p>
+                    <p class="text-[10px] text-slate-400">Persona: J.S. Bach</p>
+                </div>
+            </div>
+            <button onclick="toggleChat()" class="text-slate-400 hover:text-white">
+                <svg class="w-5 h-5" fill="none" stroke="currentColor" viewBox="0 0 24 24"><path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M6 18L18 6M6 6l12 12"></path></svg>
+            </button>
+        </div>
+        <div id="chatMessages" class="h-64 p-4 overflow-y-auto bg-slate-50 flex flex-col gap-3 text-sm">
+            <div class="bg-white p-3 rounded-lg border border-slate-100 self-start max-w-[85%]">
+                Seyd gegrüßt! Ich bin Johann Sebastian Bach. Wie kann ich Euch bey Eurer Forschung behilflich seyn?
+            </div>
+        </div>
+        <div class="p-3 border-t border-slate-100 flex gap-2">
+            <input type="text" id="chatInput" placeholder="Schreibt Eure Frage..." class="flex-1 text-sm p-2 bg-slate-100 border-none rounded-md focus:ring-2 focus:ring-slate-300 focus:outline-none">
+            <button onclick="sendChatMessage()" id="chatSendBtn" class="bg-slate-900 text-white p-2 rounded-md hover:bg-slate-800 transition-all">
+                <svg class="w-4 h-4" fill="currentColor" viewBox="0 0 20 20"><path d="M10.894 2.553a1 1 0 00-1.788 0l-7 14a1 1 0 001.169 1.409l5-1.429A1 1 0 009 15.571V11a1 1 0 112 0v4.571a1 1 0 00.725.962l5 1.428a1 1 0 001.17-1.408l-7-14z"></path></svg>
+            </button>
+        </div>
+    </div>
+
+    <!-- Chat Trigger -->
+    <button id="chatTrigger" onclick="toggleChat()" class="fixed bottom-6 right-6 bg-slate-900 text-white p-4 rounded-full shadow-lg hover:scale-105 transition-transform z-30 flex items-center gap-2">
+        <span>✨ Bach-Gespräch</span>
+    </button>
+
+    <div class="max-w-6xl mx-auto">
+        <header class="mb-8 border-b border-slate-200 pb-6 flex flex-col md:flex-row md:items-end justify-between gap-4">
+            <div>
+                <div class="flex items-center gap-4 mb-2">
+                    <h1 class="serif text-4xl text-slate-900">Bach-Kantaten Navigator</h1>
+                    <button onclick="setApiKeyManual()" title="Gemini API Key konfigurieren" class="text-slate-400 hover:text-indigo-600 transition-colors">
+                        <svg class="w-5 h-5" fill="none" stroke="currentColor" viewBox="0 0 24 24"><path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M15 7a2 2 0 012 2m4 0a6 6 0 01-7.743 5.743L11 17H9v2H7v2H4a1 1 0 01-1-1v-2.586a1 1 0 01.293-.707l5.964-5.964A6 6 0 1121 9z"></path></svg>
+                    </button>
+                </div>
+                <p class="text-slate-600 italic">Erweiterter Korpus (BWV 1-215). Ein retrospektives Tagebuch der geistlichen und weltlichen Musik.</p>
+            </div>
+            <div class="bg-indigo-50 border border-indigo-100 p-4 rounded-xl shadow-sm max-w-md w-full">
+                <h4 class="text-sm font-bold text-indigo-900 mb-2 flex items-center gap-2">✨ KI-Berater</h4>
+                <div class="flex gap-2">
+                    <input type="text" id="aiQuery" placeholder="Z.B. 'Eine Kantate für Bass-Solo'..." class="flex-1 text-sm p-2 border border-indigo-200 rounded-md focus:outline-none focus:ring-2 focus:ring-indigo-400">
+                    <button onclick="askGeminiAdvisor()" id="advisorBtn" class="bg-indigo-600 text-white px-3 py-2 rounded-md hover:bg-indigo-700 transition-all text-sm font-medium whitespace-nowrap flex items-center gap-2">
+                        <span>Empfehlen</span>
+                        <div id="advisorLoading" class="spinner hidden" style="width:16px; height:16px; border-width:2px; border-left-color:white;"></div>
+                    </button>
+                </div>
+            </div>
+        </header>
+
+        <div class="grid grid-cols-1 md:grid-cols-3 gap-4 mb-6">
+            <div class="relative">
+                <input type="text" id="searchInput" placeholder="Suche nach BWV, Titel oder Anlass..." class="w-full p-3 pl-10 border border-slate-300 rounded-lg focus:outline-none transition-all">
+                <svg class="w-5 h-5 absolute left-3 top-3.5 text-slate-400" fill="none" stroke="currentColor" viewBox="0 0 24 24"><path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M21 21l-6-6m2-5a7 7 0 11-14 0 7 7 0 0114 0z"/></svg>
+            </div>
+            <div>
+                <select id="sortSelect" class="w-full p-3 border border-slate-300 rounded-lg bg-white focus:outline-none">
+                    <option value="bwv-asc">BWV: Aufsteigend</option>
+                    <option value="bwv-desc">BWV: Absteigend</option>
+                    <option value="title-asc">Titel: A-Z</option>
+                </select>
+            </div>
+            <div class="flex items-center justify-end">
+                <span id="counter" class="text-sm font-semibold bg-slate-200 px-4 py-2 rounded-full text-slate-700 tracking-wider">Lade...</span>
+            </div>
+        </div>
+
+        <div class="bg-white rounded-xl shadow-sm border border-slate-200 overflow-hidden">
+            <div class="table-container">
+                <table class="w-full text-left border-collapse">
+                    <thead class="bg-slate-50 sticky top-0 z-10">
+                        <tr>
+                            <th class="p-4 border-b font-bold text-slate-700">BWV</th>
+                            <th class="p-4 border-b font-bold text-slate-700">Titel</th>
+                            <th class="p-4 border-b font-bold text-slate-700">Anlass / Liturgie</th>
+                            <th class="p-4 border-b font-bold text-slate-700">Aktionen ✨</th>
+                        </tr>
+                    </thead>
+                    <tbody id="cantataBody"></tbody>
+                </table>
+            </div>
+        </div>
+
+        <footer class="mt-8 text-xs text-slate-400 flex justify-between items-center">
+            <p>© J. S. Bach Bausteindepot</p>
+            <div class="flex gap-4">
+                <span>BWV 1 - 215</span>
+                <span>✨ KI-Powered</span>
+            </div>
+        </footer>
+    </div>
+
+    <script>
+        // Key management for public distribution
+        let apiKey = sessionStorage.getItem('gemini_api_key') || "";
+
+        function setApiKeyManual() {
+            const input = prompt("Bitte gib deinen Gemini API Key ein (wird nur lokal gespeichert):", apiKey);
+            if (input !== null) {
+                apiKey = input;
+                sessionStorage.setItem('gemini_api_key', apiKey);
+            }
+        }
+        
+        const cantataData = [];
+        const basicData = [
+            { id: 1, t: "Wie schön leuchtet der Morgenstern", c: "Mariä Verkündigung" },
+            { id: 2, t: "Ach Gott, vom Himmel sieh darein", c: "2. n. Trin." },
+            { id: 3, t: "Ach Gott, wie manches Herzeleid", c: "2. n. Epiph." },
+            { id: 4, t: "Christ lag in Todes Banden", c: "Ostersonntag" },
+            { id: 5, t: "Wo soll ich fliehen hin", c: "19. n. Trin." },
+            { id: 6, t: "Bleib bei uns, denn es will Abend werden", c: "Ostermontag" },
+            { id: 7, t: "Christ unser Herr zum Jordan kam", c: "Johannistag" },
+            { id: 8, t: "Liebster Gott, wenn werd ich sterben?", c: "16. n. Trin." },
+            { id: 9, t: "Es ist das Heil uns kommen her", c: "6. n. Trin." },
+            { id: 10, t: "Meine Seel erhebt den Herren", c: "Mariä Heimsuchung" },
+            { id: 11, t: "Lobet Gott in seinen Reichen (Himmelfahrts-Oratorium)", c: "Himmelfahrt" },
+            { id: 12, t: "Weinen, Klagen, Sorgen, Zagen", c: "Jubilate" },
+            { id: 13, t: "Meine Seufzer, meine Tränen", c: "2. n. Epiph." },
+            { id: 14, t: "Wär Gott nicht mit uns diese Zeit", c: "4. n. Epiph." },
+            { id: 16, t: "Herr Gott, dich loben wir", c: "Neujahr" },
+            { id: 17, t: "Wer Dank opfert, der preiset mich", c: "14. n. Trin." },
+            { id: 18, t: "Gleichwie der Regen und Schnee vom Himmel fällt", c: "Sexagesimae" },
+            { id: 19, t: "Es erhub sich ein Streit", c: "Michaelisfest" },
+            { id: 20, t: "O Ewigkeit, du Donnerwort", c: "1. n. Trin." },
+            { id: 21, t: "Ich hatte viel Bekümmernis", c: "3. n. Trin." },
+            { id: 22, t: "Jesus nahm zu sich die Zwölfe", c: "Estomihi" },
+            { id: 23, t: "Du wahrer Gott und Davids Sohn", c: "Estomihi" },
+            { id: 24, t: "Ein ungefärbt Gemüte", c: "4. n. Trin." },
+            { id: 25, t: "Es ist nichts Gesundes an meinem Leibe", c: "14. n. Trin." },
+            { id: 26, t: "Ach wie flüchtig, ach wie nichtig", c: "24. n. Trin." },
+            { id: 27, t: "Wer weiß, wie nahe mir mein Ende", c: "16. n. Trin." },
+            { id: 28, t: "Gottlob! Nun geht das Jahr zu Ende", c: "n. Weihn." },
+            { id: 29, t: "Wir danken dir, Gott, wir danken dir", c: "Ratswahl" },
+            { id: 30, t: "Freue dich, erlöste Schar", c: "Johannistag" },
+            { id: 31, t: "Der Himmel lacht! Die Erde jubilieret", c: "Ostersonntag" },
+            { id: 32, t: "Liebster Jesu, mein Verlangen", c: "1. n. Epiph." },
+            { id: 33, t: "Allein zu dir, Herr Jesu Christ", c: "13. n. Trin." },
+            { id: 34, t: "O ewiges Feuer, o Ursprung der Liebe", c: "Pfingstsonntag" },
+            { id: 35, t: "Geist und Seele wird verwirret", c: "12. n. Trin." },
+            { id: 36, t: "Schwingt freudig euch empor", c: "1. Advent" },
+            { id: 37, t: "Wer da gläubet und getauft wird", c: "Himmelfahrt" },
+            { id: 38, t: "Aus tiefer Not schrei ich zu dir", c: "21. n. Trin." },
+            { id: 39, t: "Brich dem Hungrigen dein Brot", c: "1. n. Trin." },
+            { id: 40, t: "Darzu ist erschienen der Sohn Gottes", c: "2. Weihnachtstag" },
+            { id: 41, t: "Jesu, nun sei gepreiset", c: "Neujahr" },
+            { id: 42, t: "Am Abend aber desselbigen Sabbats", c: "Quasimodogeniti" },
+            { id: 43, t: "Gott fähret auf mit Jauchzen", c: "Himmelfahrt" },
+            { id: 44, t: "Sie werden euch in den Bann tun", c: "Exaudi" },
+            { id: 45, t: "Es ist dir gesagt, Mensch, was gut ist", c: "8. n. Trin." },
+            { id: 46, t: "Schauet doch und sehet", c: "10. n. Trin." },
+            { id: 47, t: "Wer sich selbst erhöhet, der soll erniedriget werden", c: "17. n. Trin." },
+            { id: 48, t: "Ich elender Mensch, wer wird mich erlösen", c: "19. n. Trin." },
+            { id: 49, t: "Ich geh und suche mit Verlangen", c: "20. n. Trin." },
+            { id: 50, t: "Nun ist das Heil und die Kraft", c: "Michaelisfest" },
+            { id: 51, t: "Jauchzet Gott in allen Landen!", c: "15. n. Trin." },
+            { id: 52, t: "Falsche Welt, dir trau ich nicht", c: "23. n. Trin." },
+            { id: 54, t: "Widerstehe doch der Sünde", c: "Oculi" },
+            { id: 55, t: "Ich armer Mensch, ich Sündenknecht", c: "22. n. Trin." },
+            { id: 56, t: "Ich will den Kreuzstab gerne tragen", c: "19. n. Trin." },
+            { id: 57, t: "Selig ist der Mann", c: "2. Weihnachtstag" },
+            { id: 58, t: "Ach Gott, wie manches Herzeleid II", c: "n. Neujahr" },
+            { id: 59, t: "Wer mich liebet, der wird mein Wort halten", c: "Pfingstsonntag" },
+            { id: 60, t: "O Ewigkeit, du Donnerwort II", c: "24. n. Trin." },
+            { id: 61, t: "Nun komm, der Heiden Heiland", c: "1. Advent" },
+            { id: 62, t: "Nun komm, der Heiden Heiland II", c: "1. Advent" },
+            { id: 63, t: "Christen, ätzet diesen Tag", c: "1. Weihnachtstag" },
+            { id: 64, t: "Sehet, welch eine Liebe", c: "3. Weihnachtstag" },
+            { id: 65, t: "Sie werden aus Saba alle kommen", c: "Epiphanias" },
+            { id: 66, t: "Erfreut euch, ihr Herzen", c: "Ostermontag" },
+            { id: 67, t: "Halt im Gedächtnis Jesum Christ", c: "Quasimodogeniti" },
+            { id: 68, t: "Also hat Gott die Welt geliebt", c: "Pfingstmontag" },
+            { id: 69, t: "Lobe den Herrn, meine Seele", c: "Ratswahl" },
+            { id: 70, t: "Wachet! betet! betet! wachet!", c: "26. n. Trin." },
+            { id: 71, t: "Gott ist mein König", c: "Ratswahl" },
+            { id: 72, t: "Alles nur nach Gottes Willen", c: "3. n. Epiph." },
+            { id: 73, t: "Herr, wie du willt, so schicks mit mir", c: "3. n. Epiph." },
+            { id: 74, t: "Wer mich liebet, der wird mein Wort halten II", c: "Pfingstsonntag" },
+            { id: 75, t: "Die Elenden sollen essen", c: "1. n. Trin." },
+            { id: 76, t: "Die Himmel erzählen die Ehre Gottes", c: "2. n. Trin." },
+            { id: 77, t: "Du sollt Gott, deinen Herren, lieben", c: "13. n. Trin." },
+            { id: 78, t: "Jesu, der du meine Seele", c: "14. n. Trin." },
+            { id: 79, t: "Gott der Herr ist Sonn und Schild", c: "Reformationsfest" },
+            { id: 80, t: "Ein feste Burg ist unser Gott", c: "Reformationsfest" },
+            { id: 81, t: "Jesus schläft, was soll ich hoffen?", c: "4. n. Epiph." },
+            { id: 82, t: "Ich habe genug", c: "M. Reinigung" },
+            { id: 83, t: "Erfreute Zeit im neuen Bunde", c: "M. Reinigung" },
+            { id: 84, t: "Ich bin vergnügt mit meinem Glücke", c: "Septuagesimae" },
+            { id: 85, t: "Ich bin ein guter Hirt", c: "Misericordias Domini" },
+            { id: 86, t: "Wahrlich, wahrlich, ich sage euch", c: "Rogate" },
+            { id: 87, t: "Bisher habt ihr nichts gebeten", c: "Rogate" },
+            { id: 88, t: "Siehe, ich will viel Fischer aussenden", c: "5. n. Trin." },
+            { id: 89, t: "Was soll ich aus dir machen, Ephraim?", c: "22. n. Trin." },
+            { id: 90, t: "Es reißet euch ein Ende mit Schrecken", c: "25. n. Trin." },
+            { id: 91, t: "Gelobet seist du, Jesu Christ", c: "1. Weihnachtstag" },
+            { id: 92, t: "Ich hab in Gottes Herz und Sinn", c: "Septuagesimae" },
+            { id: 93, t: "Wer nur den lieben Gott lässt walten", c: "5. n. Trin." },
+            { id: 94, t: "Was frag ich nach der Welt", c: "9. n. Trin." },
+            { id: 95, t: "Christus, der ist mein Leben", c: "16. n. Trin." },
+            { id: 96, t: "Herr Christus, der einge Gottessohn", c: "18. n. Trin." },
+            { id: 97, t: "In allen meinen Taten", c: "In ogni tempo" },
+            { id: 98, t: "Was Gott tut, das ist wohlgetan", c: "21. n. Trin." },
+            { id: 99, t: "Was Gott tut, das ist wohlgetan II", c: "15. n. Trin." },
+            { id: 100, t: "Was Gott tut, das ist wohlgetan III", c: "In ogni tempo" },
+            { id: 101, t: "Nimm von uns, Herr, du treuer Gott", c: "10. n. Trin." },
+            { id: 102, t: "Herr, deine Augen sehen nach dem Glauben", c: "10. n. Trin." },
+            { id: 103, t: "Ihr werdet weinen und heulen", c: "Jubilate" },
+            { id: 104, t: "Du Hirte Israel, höre", c: "Misericordias Domini" },
+            { id: 105, t: "Herr, gehe nicht ins Gericht", c: "9. n. Trin." },
+            { id: 106, t: "Gottes Zeit ist die allerbeste Zeit (Actus tragicus)", c: "Trauerfeier" },
+            { id: 107, t: "Was willst du dich betrüben", c: "7. n. Trin." },
+            { id: 108, t: "Es ist euch gut, dass ich hingehe", c: "Cantate" },
+            { id: 109, t: "Ich glaube, lieber Herr, hilf meinem Unglauben!", c: "21. n. Trin." },
+            { id: 110, t: "Unser Mund sei voll Lachens", c: "1. Weihnachtstag" },
+            { id: 111, t: "Was mein Gott will, das g’scheh allzeit", c: "3. n. Epiph." },
+            { id: 112, t: "Der Herr ist mein getreuer Hirt", c: "Misericordias Domini" },
+            { id: 113, t: "Herr Jesu Christ, du höchstes Gut", c: "11. n. Trin." },
+            { id: 114, t: "Ach, lieben Christen, seid getrost", c: "17. n. Trin." },
+            { id: 115, t: "Mache dich, mein Geist, bereit", c: "22. n. Trin." },
+            { id: 116, t: "Du Friedefürst, Herr Jesu Christ", c: "25. n. Trin." },
+            { id: 117, t: "Sei Lob und Ehr dem höchsten Gut", c: "In ogni tempo" },
+            { id: 118, t: "O Jesu Christ, meins Lebens Licht", c: "Trauerfeier" },
+            { id: 119, t: "Preise, Jerusalem, den Herrn", c: "Ratswahl" },
+            { id: 120, t: "Gott, man lobet dich in der Stille", c: "Ratswahl" },
+            { id: 121, t: "Christum wir sollen loben schon", c: "2. Weihnachtstag" },
+            { id: 122, t: "Das neugeborne Kindelein", c: "n. Weihn." },
+            { id: 123, t: "Liebster Immanuel, Herzog der Frommen", c: "Epiphanias" },
+            { id: 124, t: "Meinen Jesum lass ich nicht", c: "1. n. Epiph." },
+            { id: 125, t: "Mit Fried und Freud ich fahr dahin", c: "M. Reinigung" },
+            { id: 126, t: "Erhalt uns, Herr, bei deinem Wort", c: "Sexagesimae" },
+            { id: 127, t: "Herr Jesu Christ, wahr’ Mensch und Gott", c: "Estomihi" },
+            { id: 128, t: "Auf Christi Himmelfahrt allein", c: "Himmelfahrt" },
+            { id: 129, t: "Gelobet sei der Herr, mein Gott", c: "Trinitatis" },
+            { id: 130, t: "Herr Gott, dich loben alle wir", c: "Michaelisfest" },
+            { id: 131, t: "Aus der Tiefen rufe ich, Herr, zu dir", c: "In ogni tempo" },
+            { id: 132, t: "Bereitet die Wege, bereitet die Bahn", c: "4. Advent" },
+            { id: 133, t: "Ich freue mich in dir", c: "3. Weihnachtstag" },
+            { id: 134, t: "Ein Herz, das seinen Jesum lebend weiß", c: "Osterdienstag" },
+            { id: 135, t: "Ach Herr, mich armen Sünder", c: "3. n. Trin." },
+            { id: 136, t: "Erforsche mich, Gott, und erfahre mein Herz", c: "8. n. Trin." },
+            { id: 137, t: "Lobe den Herren, den mächtigen König der Ehren", c: "12. n. Trin." },
+            { id: 138, t: "Warum betrübst du dich, mein Herz", c: "15. n. Trin." },
+            { id: 139, t: "Wohl dem, der sich auf seinen Gott", c: "23. n. Trin." },
+            { id: 140, t: "Wachet auf, ruft uns die Stimme", c: "27. n. Trin." },
+            { id: 144, t: "Nimm, was dein ist, und gehe hin", c: "Septuagesimae" },
+            { id: 147, t: "Herz und Mund und Tat und Leben", c: "Mariä Heimsuchung" },
+            { id: 150, t: "Nach dir, Herr, verlanget mich", c: "In ogni tempo" },
+            { id: 152, t: "Tritt auf die Glaubensbahn", c: "n. Weihn." },
+            { id: 155, t: "Mein Gott, wie lang, ach lange?", c: "2. n. Epiph." },
+            { id: 156, t: "Ich steh mit einem Fuß im Grabe", c: "3. n. Epiph." },
+            { id: 159, t: "Sehet, wir gehn hinauf gen Jerusalem", c: "Estomihi" },
+            { id: 161, t: "Komm, du süße Todesstunde", c: "16. n. Trin." },
+            { id: 162, t: "Ach! ich sehe, itzt, da ich zur Hochzeit gehe", c: "20. n. Trin." },
+            { id: 163, t: "Nur jedem das Seine", c: "23. n. Trin." },
+            { id: 165, t: "O heilges Geist- und Wasserbad", c: "Trinitatis" },
+            { id: 167, t: "Ihr Menschen, rühmet Gottes Liebe", c: "Johannistag" },
+            { id: 170, t: "Vergnügte Ruh, beliebte Seelenlust", c: "6. n. Trin." },
+            { id: 172, t: "Erschallet, ihr Lieder", c: "Pfingstsonntag" },
+            { id: 175, t: "Er rufet seinen Schafen mit Namen", c: "Pfingstdienstag" },
+            { id: 176, t: "Es ist ein trotzig und verzagt Ding", c: "Trinitatis" },
+            { id: 180, t: "Schmücke dich, o liebe Seele", c: "20. n. Trin." },
+            { id: 182, t: "Himmelskönig, sei willkommen", c: "Palmsonntag" },
+            { id: 185, t: "Barmherziges Herze der ewigen Liebe", c: "4. n. Trin." },
+            { id: 194, t: "Höchsterwünschtes Freudenfest", c: "Orgelweihe" },
+            { id: 198, t: "Laß, Fürstin, laß noch einen Strahl (Trauerode)", c: "Trauerfeier" },
+            { id: 199, t: "Mein Herze schwimmt im Blut", c: "11. n. Trin." },
+            { id: 201, t: "Der Streit zwischen Phoebus und Pan", c: "Weltlich" },
+            { id: 202, t: "Weichet nur, betrübte Schatten", c: "Hochzeit" },
+            { id: 205, t: "Zerreißet, zersprenget, zertrümmert die Gruft", c: "Geburtstag" },
+            { id: 208, t: "Was mir behagt, ist nur die muntre Jagd", c: "Geburtstag" },
+            { id: 211, t: "Schweigt stille, plaudert nicht (Kaffeekantate)", c: "Weltlich" },
+            { id: 212, t: "Mer hahn en neue Oberkeet (Bauernkantate)", c: "Huldigung" },
+            { id: 213, t: "Laßt uns sorgen, laßt uns wachen (Hercules auf dem Scheidewege)", c: "Geburtstag" },
+            { id: 214, t: "Tönet, ihr Pauken! Erschallet, Trompeten!", c: "Geburtstag" },
+            { id: 215, t: "Preise dein Glücke, gesegnetes Sachsen", c: "Huldigung" }
+        ];
+
+        for (let i = 1; i <= 215; i++) {
+            const found = basicData.find(d => d.id === i);
+            if (found) {
+                cantataData.push({ bwv: found.id.toString(), title: found.t, context: found.c });
+            } else {
+                cantataData.push({ bwv: i.toString(), title: `Werk BWV ${i}`, context: "Diverse/Fragment" });
+            }
+        }
+
+        const cantataBody = document.getElementById('cantataBody');
+        const searchInput = document.getElementById('searchInput');
+        const sortSelect = document.getElementById('sortSelect');
+        const counter = document.getElementById('counter');
+        const modal = document.getElementById('modalOverlay');
+        const modalTitle = document.getElementById('modalTitle');
+        const modalContent = document.getElementById('modalContent');
+        const chatWidget = document.getElementById('chatWidget');
+        const chatMessages = document.getElementById('chatMessages');
+        const externalLinkContainer = document.getElementById('externalLinkContainer');
+
+        function toggleChat() {
+            const isVisible = chatWidget.style.display === 'flex';
+            chatWidget.style.display = isVisible ? 'none' : 'flex';
+            document.getElementById('chatTrigger').style.display = isVisible ? 'flex' : 'none';
+        }
+
+        function openModal(title, content, externalUrl = null) {
+            modalTitle.innerText = title;
+            modalContent.innerHTML = content;
+            externalLinkContainer.innerHTML = externalUrl ? 
+                `<a href="${externalUrl}" target="_blank" class="text-sm text-indigo-600 hover:underline flex items-center gap-1 font-semibold">
+                    Bach-Digital Quelldaten →
+                </a>` : '';
+            modal.style.display = 'flex';
+        }
+
+        function closeModal() { modal.style.display = 'none'; }
+
+        async function fetchGemini(prompt, systemInstruction = "Experte für J. S. Bach.") {
+            if (!apiKey) {
+                alert("Bitte konfiguriere zuerst deinen Gemini API Key über das Schlüssel-Symbol oben links.");
+                return null;
+            }
+            const url = `https://generativelanguage.googleapis.com/v1beta/models/gemini-2.5-flash-preview-09-2025:generateContent?key=${apiKey}`;
+            const payload = {
+                contents: [{ parts: [{ text: prompt }] }],
+                systemInstruction: { parts: [{ text: systemInstruction }] }
+            };
+            try {
+                const response = await fetch(url, {
+                    method: 'POST',
+                    headers: { 'Content-Type': 'application/json' },
+                    body: JSON.stringify(payload)
+                });
+                const result = await response.json();
+                if (result.error) throw new Error(result.error.message);
+                return result.candidates?.[0]?.content?.parts?.[0]?.text || "Keine Antwort.";
+            } catch (e) { 
+                console.error(e);
+                return "Fehler: " + e.message; 
+            }
+        }
+
+        async function analyzeWork(bwv, title) {
+            openModal(`✨ Analyse: BWV ${bwv}`, `<div class="flex items-center gap-4"><div class="spinner"></div><span>Analysiere Werkgefüge...</span></div>`);
+            const res = await fetchGemini(`Analysiere Bach-Kantate BWV ${bwv} ("${title}"). Theologie, Instrumentierung, Besonderheiten. Deutsch.`);
+            if (res) openModal(`✨ Analyse: BWV ${bwv}`, res.replace(/\n/g, '<br>'));
+        }
+
+        async function getLibretto(bwv, title) {
+            openModal(`✨ Text & Libretto: BWV ${bwv}`, `<div class="flex items-center gap-4"><div class="spinner"></div><span>Rufe Textdaten ab...</span></div>`);
+            const bachDigitalUrl = `http://bach-digital.de/bwv/${bwv}`;
+            const info = await fetchGemini(`Dichter/Librettist von BWV ${bwv} ("${title}") und kurze Inhaltsangabe. Deutsch.`, "Philologe und Bach-Experte.");
+            if (info) openModal(`✨ Text & Libretto: BWV ${bwv}`, info.replace(/\n/g, '<br>'), bachDigitalUrl);
+        }
+
+        async function askGeminiAdvisor() {
+            const query = document.getElementById('aiQuery').value;
+            if (!query) return;
+            const btn = document.getElementById('advisorBtn');
+            const loading = document.getElementById('advisorLoading');
+            btn.disabled = true; loading.classList.remove('hidden');
+            const advice = await fetchGemini(`Empfehlung aus BWV 1-215 für: "${query}". Begründung kurz.`, "Musikalischer Berater.");
+            if (advice) openModal("✨ KI-Empfehlung", advice.replace(/\n/g, '<br>'));
+            btn.disabled = false; loading.classList.add('hidden');
+        }
+
+        async function sendChatMessage() {
+            const input = document.getElementById('chatInput');
+            const text = input.value.trim();
+            if (!text) return;
+            addMessage(text, true);
+            input.value = '';
+            const res = await fetchGemini(text, "Du bist J.S. Bach. Antworte in barockem Deutsch, präzise und intellektuell.");
+            if (res) addMessage(res, false);
+        }
+
+        function addMessage(text, isUser) {
+            const div = document.createElement('div');
+            div.className = `p-3 rounded-lg border text-sm max-w-[85%] ${isUser ? 'bg-indigo-600 text-white self-end' : 'bg-white text-slate-800 self-start'}`;
+            div.innerText = text;
+            chatMessages.appendChild(div);
+            chatMessages.scrollTop = chatMessages.scrollHeight;
+        }
+
+        function renderTable(data) {
+            cantataBody.innerHTML = '';
+            data.forEach(item => {
+                const row = document.createElement('tr');
+                row.className = "hover:bg-slate-50 transition-colors border-b border-slate-100 last:border-0";
+                row.innerHTML = `
+                    <td class="p-4 font-mono font-bold text-slate-900">BWV ${item.bwv}</td>
+                    <td class="p-4 text-slate-800 text-sm font-semibold">${item.title}</td>
+                    <td class="p-4 text-xs text-slate-600">${item.context}</td>
+                    <td class="p-4 flex gap-3">
+                        <button onclick="analyzeWork('${item.bwv}', '${item.title}')" class="text-[10px] font-bold text-indigo-600 hover:text-indigo-800 uppercase tracking-tighter">✨ Analyse</button>
+                        <button onclick="getLibretto('${item.bwv}', '${item.title}')" class="text-[10px] font-bold text-teal-600 hover:text-teal-800 uppercase tracking-tighter">✨ Text</button>
+                    </td>
+                `;
+                cantataBody.appendChild(row);
+            });
+            counter.innerText = `${data.length} Werke`;
+        }
+
+        function filterAndSort() {
+            const searchTerm = searchInput.value.toLowerCase();
+            const sortBy = sortSelect.value;
+            let filtered = cantataData.filter(item => 
+                item.title.toLowerCase().includes(searchTerm) || item.bwv.includes(searchTerm) || item.context.toLowerCase().includes(searchTerm)
+            );
+            filtered.sort((a, b) => {
+                if(sortBy === 'bwv-asc') return parseInt(a.bwv) - parseInt(b.bwv);
+                if(sortBy === 'bwv-desc') return parseInt(b.bwv) - parseInt(a.bwv);
+                return a.title.localeCompare(b.title);
+            });
+            renderTable(filtered);
+        }
+
+        searchInput.addEventListener('input', filterAndSort);
+        sortSelect.addEventListener('change', filterAndSort);
+        document.getElementById('chatInput').addEventListener('keypress', e => { if(e.key === 'Enter') sendChatMessage(); });
+        window.onload = filterAndSort;
+    </script>
+</body>
+</html>
