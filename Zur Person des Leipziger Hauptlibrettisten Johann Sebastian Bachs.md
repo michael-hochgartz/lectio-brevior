@@ -6,7 +6,7 @@ Michael Hochgartz
 D 48153 Münster  
 [michael@hochgartz.de](mailto:michael@hochgartz.de)  
 
-Version: 09.04.2026  
+Version: 20.04.2026  
 DOI: 10.5281/zenodo.15390511  
 [CC BY-NC-ND 4.0](https://www.perplexity.ai/search/ist-es-sinnvoll-die-inhalte-ei-D2aeRXeDTjWmQHkBrl7n0g) 
 
@@ -282,7 +282,7 @@ Ein paar getreuer Freunde war’t.
 
 Unklar sind die weiteren Beziehungen zwischen den Familien. So heiratete Ludolph Friedrich am 7.6.1746 Sophie Justine (geb. 1717), die Tochter eines Kauf- und Handelsmanns in Lüneburg. Diese hinterließ bei ihrem Tod 1779 ein Testament, das sich im Stadtarchiv erhalten, für die vorliegende Untersuchung aber als unergiebig erwiesen hat. (Vgl. Reuter 1918).  
 
-Es scheint, als habe Georg Bertram bereits vor 1719 (freilich in allgemeinerem Zusammenhang) die für die heutige Forschung betrüblichste Konsequenz aus dem plötzlichen, im Folgenden zu schildernden Tod Jauchs vorausgeahnt - nämlich die Unmöglichkeit, dessen Kantatentexte von 1724/25 nach Art eines J.C. Birkmann gesammelt zu publizieren: „… weil man wol weiß / wenn die Herren Autores davon sterben / daß es doch mit Editirung dergleichen operum postumorum die rechte Art nicht hat.“ (Zur Typologie der Publikationsformen vgl. Hobohm in BJ 1997).   
+Es scheint, als habe Georg Bertram bereits vor 1719 (freilich in allgemeinerem Zusammenhang) die für die heutige Forschung betrüblichste Konsequenz aus dem plötzlichen, im Folgenden zu schildernden Tod Jauchs vorausgeahnt - nämlich die Unmöglichkeit, dessen Kantatentexte von 1724/25 nach Art eines J.C. Birkmann gesammelt zu publizieren: „… weil man wol weiß / wenn die Herren Autores davon sterben / daß es doch mit Editirung dergleichen operum postumorum die rechte Art nicht hat.“ (Zur Typologie der Publikationsformen vgl. Hobohm in BJ 1997).  
 
 Johann Christoph Jauchs Todesumstände müssen derart dramatisch gewesen sein, dass man im Januar 1725 seinen zwanzigjährigen Sohn Tobias Christoph brieflich („…bald die Post…“) zurück in die Heimat beorderte. Der nachmalige Lüneburger Notar war am 14. November des Vorjahres in der Lindenstadt Leipzig, wo er dem zwei Wochen danach eingeschriebenen, aus Nürnberg stammenden Erstsemester und späteren Bach-Librettisten Christoph Birkmann begegnet sein dürfte, und wo er bereits fünf Tage darauf bei der Uraufführung von BWV 26 erstmals eine von Bach komponierte Musik auf einen Text seines Vaters leibhaftig miterlebt haben konnte, und wohin er vielleicht eine neue Lieferung von Kantaten- und Passionstexten aus dessen Schreibstube überbrachte - sich zum Studium „der edlen Weisheits-Spur“ immatrikulierte. (Vgl. Erler 1909).  
 
@@ -637,11 +637,13 @@ Einer über das gnädige Andencken GOTTES
 
 was aufgrund der personellen Beziehungen zweifelsohne lesbar ist als:  
 
-[M]agister [J]ohann [Christ]oph [Jauch]  
+[M]agister [J]ohann [C]hristoph [J]auch  
 
 Inhaltlich versucht Jauch die prinzipbedingt abwechslungsarme Form (in Summa 90 Alexandriner-Zeilen) durch das rhetorische Stilmittel eines repetierenden und variierenden Redeschmucks (Ornatus) zu bereichern, indem er ungezählte Zitate, aber auch Umspielungen und Reime des Wortstammes „…denck…“ verwendt, der aus der Devise des Gedenk-Sonntags Riminiscere (5. März; explitzit genannter Tag der Verlobung des Paares) abgeleitet ist: „Der HErr dencket an uns, und segnet uns.“ (Ps. 115,12). Das beginnt bereits in der Einleitung zur Andeutung der Autorschaft: „… das gnädige Andencken …“.  
 
-Der Text stellt eine kennenswerte Parallele zu J.S. Bachs stilkritisch extrem früh einzuordnender, quellenkritisch leider undatierbaren Kantate BWV 196 auf denselben Psalm (Vers 12 bis 15) dar. Während Jauchs Worte (15 Strophen zu je sechs Zeilen; wohl kaum als Vorlage für eine damals „moderne“ musikalische Darbietung gedacht) eindeutig für die Wiederverheiratung eines noch nicht lange im Amt befindlichen, auf jeden Fall aber sozial bestens integrierten Geistlichen (belegt durch fast ein Dutzend weitere gedruckte Glückwünsche) bestimmt waren, ist dies für Bachs frühe Komposition nur eine von mehreren der von der Forschung erwogenen Möglichkeiten. Zur Diskussion stehen neben der Vermählung des Arnstädter Pfarrers Johann Lorenz Stauber  (17.10.1707) auch Bachs eigene Trauung mit seiner ersten Frau Maria Barbara Bach in Dornheim (5.6.1708). Das schließt eine Mehrfachverwendung (1703, 1707, 1708; sowie zur Zeit der Abschrift des Überlieferungsträgers durch J.L. Dietel um 1730) - rein systemisch betrachtet - keineswegs aus.  
+Der Text stellt eine kennenswerte Parallele zu J.S. Bachs stilkritisch extrem früh einzuordnender, quellenkritisch leider undatierbaren Kantate BWV 196 auf denselben Psalm (Vers 12 bis 15) dar. In dieser bildet der Begriff „segne“ das repititive, Vers-übergreifende theologische Motiv.  
+
+Während Jauchs Worte (15 Strophen zu je sechs Zeilen; wohl kaum als Vorlage für eine damals „moderne“ musikalische Darbietung gedacht) eindeutig für die Wiederverheiratung eines noch nicht lange im Amt befindlichen, auf jeden Fall aber sozial bestens integrierten Geistlichen (belegt durch fast ein Dutzend weitere gedruckte Glückwünsche) bestimmt waren, ist dies für Bachs frühe Komposition nur eine von mehreren der von der Forschung erwogenen Möglichkeiten. Zur Diskussion stehen neben der Vermählung des Arnstädter Pfarrers Johann Lorenz Stauber  (17.10.1707) auch Bachs eigene Trauung mit seiner ersten Frau Maria Barbara Bach in Dornheim (5.6.1708). Das schließt eine Mehrfachverwendung (1703, 1707, 1708; sowie zur Zeit der Abschrift des Überlieferungsträgers durch J.L. Dietel um 1730) - rein systemisch betrachtet - keineswegs aus.  
 
 Der junge J.S. Bach dürfte dem 1698 zum II. Prediger an St. Michaelis ernannten Boje während seiner Lüneburger Jahre durchaus über den Weg gelaufen sein - was immer sich aus diesem Umstand als Ansatz für weitere Überlegungen ergeben könnte. Zum Beispiel die Frage nach dem Beichtvater des frisch dem Konfirmandenalter entsprungenen Lüneburger Chorsängers.  
 
@@ -751,7 +753,7 @@ und sodann diese seine Worte, die als Nucleus für BW 244b/27b angesehen werden 
 
 „Wunder ist es / daß diesen gottlosen Menschen nicht der Blitz und Donner hat zerschmettert: Daß nicht die Erde ihren Mund auffgethan / und ihn verschlungen. Aber das ist Gottes Langmuth / die noch auff Besserung gewartet hat.“  
 
-Mit der betrüblich-empörten Formulierung: „Wunder ist es …daß … nicht der Blitz und Donner …“,  die auf zeitgenössische Traditionen zurückweist, ist auch die folgende, von der theologischen Forschung bislang nicht zufriedenstellend erklärte dramaturgische „Fehlstelle“ in der Chronologie der entsprechenden Szene der Matthäus-Passion (BWV 244/27b) aufgelöst.  
+Mit der betrüblich-empörten Formulierung: „Wunder ist es …daß … nicht der Blitz und Donner …“,  die auf zeitgenössische Traditionen zurückweist, ist auch die folgende, von der theologischen Forschung bislang nicht zufriedenstellend erklärte „dramaturgische Fehlstelle“ in der Chronologie der entsprechenden Szene der Matthäus-Passion (BWV 244/27b) aufgelöst.  
 
 Dort nämlich wird kein reales Geschehen geschildert, für das es im Bibeltext an dieser Stelle auch gar keinen Beleg gibt, sondern die in ein fiktionales Geschehen gekleidete, innere Beteiligung - das Mitleiden, Mitbeben - der Hörenden über einen zwar erwünschbaren, aber aus soteriologischer Sicht nicht erfüllbaren Eingriff der Schöpfung in das Passionsgeschehen.  
 
@@ -850,7 +852,7 @@ Mit JEsu trete ich den Tod nun freudig an.
 
 „Lasst mich doch mit meinen JEsu ziehen“ - dieses im Druck dezent, aber erkennbar hervorgehobene Zitat fußt augenscheinlich auf jenem 1653 von Sigmund von Birken publizierten Kirchenlied zu einer 1641 veröffentlichen Melodie des Hamburger Jacobi-Organisten Johann Schop, dem langjährigen musikalischen Zuträger von Johann Rist. Somit sicherlich ein Beispiel für die altbewährte lutherische Praxis, Sterbenden mit ihnen, für sie oder um sie herumstehend Choräle zu singen - oder in letzter Not ins Ohr zu sprechen.  
 
-Inhaltliche und stilistische Korrespondenzen mit späteren Texten Jauchs bleiben zu untersuchen, desgleichen die Frage, inwieweit es bei der „Rollenverteilung“ von derartigen posthumen Lobhudeleien innerhalb der lokalen „Peer-Group“ formelle oder informelle Usancen gab. Besonders auch hinsichtlich der Frage, welche der Lüneburger Drucker (von Stern; Ortmann; Kelp) jeweils mit derartigen Aufträgen betraut - oder auch nicht betraut - wurden.  
+Inhaltliche und stilistische Korrespondenzen mit späteren Texten Jauchs bleiben zu untersuchen, desgleichen die Frage, inwieweit es bei der Rollenverteilung von derartigen posthumen Lobhudeleien innerhalb der lokalen „Peer-Group“ formelle oder informelle Usancen gab. Besonders auch hinsichtlich der Frage, welche der Lüneburger Drucker (von Stern; Ortmann; Kelp) jeweils mit derartigen Aufträgen betraut - oder auch nicht betraut - wurden.  
 
 Und schließlich: findet sich hier ein Nucleus für die changierende Mischung von rethorisch-poetischem, individual-psychologischem und nicht zuletzt auch theologischem „ICH“, das sich in etlichen der Jauch zuzuschreibenden Kantatentexten um 1724 - bei Vorliegen hinreichender intellektueller Neugier - finden lässt?  
 
@@ -859,7 +861,7 @@ Und schließlich: findet sich hier ein Nucleus für die changierende Mischung vo
 
 Als treuer Vertreter der lutherischen Reformorthodoxie praktizierte Johann Christoph Jauch die Sterbevorbereitung und Sterbebeleitung in seinen „wohl viele Tausend Seelen“ umfassenden Gemeinden in der üblichen Art. Nämlich als „Richterzuspruch“ aufgrund anscheinend objektivierbarer Werte (Bekenntnisse - Bibelsprüche - Choräle). Gleichsam als Absolution im katholisch verstehbaren Sinn - aber ohne Fegefeuer und Letzte Ölung als Disziplinierungsmaßnahmen.  
 
-Für Pietisten jener Zeit war - laut [Gemini 3](https://gemini.google.com/app/06f2ae9a829d4c9b) - das Sterbebett hingegen gleichsam eine Bühne, auf der sie ihren „Bußkampf“ halböffentlich demonstrieren durften oder zu müssen glaubten. In zahlreichen prominenten Fällen auch - wie schon bei Luther - buchstäblich post mortem, durch präzise Publikation ihrer letzten Tage und Stunden und Worte, etwa als essentieller Bestandteil von Leichenpredigten. Ein Beleg für den Sieg nach einer individuellen, ewiges Heil verheißenden Wiedergeburt?  
+Für Pietisten jener Zeit war das Sterbebett hingegen gleichsam eine Bühne, auf der sie ihren „Bußkampf“ halböffentlich demonstrieren durften oder zu müssen glaubten. In zahlreichen prominenten Fällen auch - wie schon bei Luther - buchstäblich post mortem, durch präzise Publikation ihrer letzten Tage und Stunden und Worte, etwa als essentieller Bestandteil von Leichenpredigten. Ein Beleg für den Sieg nach einer individuellen, ewiges Heil verheißenden Wiedergeburt?  
 
 Kann es sein, dass Jauch, in jenem „realen Ich“, das zwischen den personenbezogenen - den Sterbevorgang wiederholt vorauszeichnenden - Zeilen seiner Choralkantatentexte seinen inneren „Bußkampf“ klandestin - und damit literarisch genial - zu dokumentieren versucht hat? Freilich ohne erkennbare Anzeichen einer pietistischen Wiedergeburtsbemühung. Denn wie schrieb er für die Kantate BWV 178: „Das Kreuz hat sie nur neu geborn“. Nur das Kreuz - nicht der Bußkampf.  
 
@@ -867,9 +869,9 @@ Der Text der Matthäuspassion ließe sich alternativ nach folgendem Schema struk
 
 - Biblischer Bericht (inklusive der hochdramatischen Massenszenen): gemeinsame Grundlage für Alle  
 
-- Arie und Arioso als individuelles Bekenntnis der gläubigen Seele: textlich eher auf die dem Pietismus zugeneigten Hörer zugeschnitten  
+- Arien und Ariosi als individuelle Bekenntnisse der gläubigen Seele: textlich eher auf die dem Pietismus zugeneigten Hörer zugeschnitten  
 
-- Choräle mit Kommentarfunktion auf der Basis des orthodoxen Liedrepertoires: für den konservativen Teil des Auditoriums. Der Pietismus hatte längst begonnen, sein eigenes Gesangsrepertoire massenhaft zu produzieren. (Freylinghausen 1704ff. )  
+- Choräle mit Kommentarfunktion auf der Basis des orthodoxen Liedrepertoires: für den konservativen Teil des Auditoriums. Der Pietismus hatte längst begonnen, sein eigenes Gesangbuchrepertoire massenhaft zu produzieren. (Freylinghausen 1704ff. )  
 
 Exemplarische Belege: „Ich will bei meinem Jesu wachen“;  „Erbarme dich“; „Gebt mir meinen Jesum wieder; „Ja freilich will“; „Komm süßes Kreuz“; (eventuell auch der angekündigte Text von „Gerne will ich mich bequemen“): Johann Christoph Jauch.  
 
@@ -889,10 +891,10 @@ Dort hätte er in Kontakt mit dem späteren Leipziger Thomaspastor und Beichtvat
 
 Dem steht eventuell entgegen, dass dieser Vorgang laut Bertram (1715/19) erst nach Jauchs Bewerbung für Hannover 1705 erfolgt sein soll - freilich ein schwaches Argument in Anbetracht der sehr kursorisch wirkenden Chronologie von Bertrams Erzählweise.  
 
-Leider konzentriert sich die ebenso kenntnis- wie materialreiche Dissertation von Silke Herz (2020) auf die kunsthistorische Ausstattung der „Parallel-Residenz“ in Pretzsch. Aber allein die Fülle der dort aufgeführten Archivbelege lässt hoffen, dass - entgegen einigen „Verschwörungstheorien“ in der älteren Forschung - die Quellen nicht nur zu den Realien, sondern auch zum Leben der Kurfürstin und Königin keineswegs verschollen sind oder gar aus ideologischen Gründen kassirt wurden. Separate Hoftagebücher scheint es - im Gegensatz zum Dresdener Hof - nicht gegeben zu haben. Jauchs Besuch könnte aber vielleicht eine Spur in den Schatullrechnungen hinterlassen haben.  
+Leider konzentriert sich die ebenso kenntnis- wie materialreiche Dissertation von Silke Herz (2020) auf die kunsthistorische Ausstattung der „Parallel-Residenz“ in Pretzsch. Aber allein die Fülle der dort aufgeführten Archivbelege lässt hoffen, dass - entgegen einigen „Verschwörungstheorien“ in der älteren Forschung - die Quellen nicht nur zu den Realien, sondern auch zum Leben der Kurfürstin und Königin keineswegs verschollen sind oder gar aus ideologischen Gründen im 19. Jahrhundert kassirt wurden. Separate Hoftagebücher scheint es - im Gegensatz zum Dresdener Hof - nicht gegeben zu haben. Jauchs Besuch könnte aber vielleicht eine Spur in den Schatullrechnungen hinterlassen haben.  
 
 
-Jauchs besondere seelsorgerische Kompetenz wurde auch propagiert durch ein (ebenfalls von Bertram 1719 kolportiertes) Ereignis, das zu dem sehr speziellen Phänomen der „Maleficantenberichte“ gehört. Demnach hatte er einen zum Tode verurteilten römisch-katholischen Dragoner aus dem Regiment des Generalmajors Villars (Claude-Louis-Hector de Villars, Marschall von Frankreich ) auf dem etwa eine halbe Meile (3 bis 4 Kilometer) langen Weg zur militärischen Exekution durch provisorische Glaubensinstruktion, Examination und Verabreichung des Abendmahls zum „wahren Glaubens-Grund“ überzeugt - nachdem dieser noch kurz zuvor von einem Pater Le Blanche „in einem Gartenhause“ die Heilige Kommunion „nach päbstlicher Weise“ empfangen hatte. (Vgl. Jakubowski-Tiessen 2011)  
+Jauchs besondere seelsorgerische Kompetenz wurde auch propagiert durch ein (ebenfalls von Bertram 1719 kolportiertes) Ereignis, das zu dem sehr speziellen Phänomen der „Maleficantenberichte“ gehört. Demnach hatte er - wohl um 1703 - einen zum Tode verurteilten römisch-katholischen Dragoner aus einem nicht in direktem Kampfeinsatz im Erbfolgekrieg befindlichen Regiment des Generalmajors Villars (Claude-Louis-Hector de Villars, Marschall von Frankreich) auf dem etwa eine halbe Meile (3 bis 4 Kilometer) langen Weg zur militärischen Exekution durch provisorische Glaubensinstruktion, Examination und Verabreichung des Abendmahls zum „wahren Glaubens-Grund“ überzeugt - nachdem dieser noch kurz zuvor von einem Pater Le Blanche „in einem Gartenhause“ die Heilige Kommunion „nach päbstlicher Weise“ empfangen hatte. (Vgl. Jakubowski-Tiessen 2011)  
 
 1725 spielte eine vergleichbare Thematik übrigens eine Rolle in der auch von C.F. Henrici konfessisons-kontrovers ausgeschlachteten Lebensgeschichte des auf spektakuläre Weise ermordeten Dresdner Kreuzkirchen-Pfarrers Hermann Joachim Hahn.  
 
@@ -901,11 +903,12 @@ Der 1765 aus dem Nachlass des 1698 erstgeborenen Sohnes, des Lüneburger Michael
 
 Bislang konnte immerhin ein konkretes Werk aus diesem Bestand nachgewiesen werden: Ein in der GWLB Hannover (Signatur: T-A262:1) überliefertes Exemplar des „Codex Pseudepigraphus Veteris Testamenti“ des Hamburger Rektors Johann Albert Fabricius, (2. Auflage Hamburg 1722; Katalog Nrn. 2792 und 2793) trägt einen eigenhändigen, bei der bibliothekarischen Erfassung als „Jauch, Ludwig Friedrich“ nicht ganz korrekt aufgelösten Besitzeintrag - wohinter sich mit einiger Sicherheit Ludolph Friedrich verbirgt, den sein Vater einst in die Obhut des Hamburger Gelehrten zu übergeben versucht hatte. (s.o.)
 
-Auf Johann Christoph Jauch dürfte zum Beispiel die Anschaffung jener achtbändigen Ausgabe des 1697 erschienenen „Wagnerschen Gesangbuchs“ zurückgehen (Nr. 2645 - 2652 des Katalogs), einer enzyklopädischen, allein schon aus materiellen Gründen keineswegs für den Massengebrauch konzipierten Choraltext-Anthologie, die auch als wesentlicher Bestandteil der theologischen Bibliothek Bachs belegt ist. Damit ist die Voraussetzung für die Annahme gegeben, dass sich Dichter und Komponist bei einer Abstimmung über das hymnologische Programm der Choralkantaten auf das gleiche, umfangreiche Repertorium von Kirchenliedern stützen konnten. Freilich, ohne dass bekannt ist, wann welche der 1750 buchstäblich postum verzeichneten Reste aus Bachs Bibliothek jeweils in seinen Besitz gelangten - aber das kennzeichnet das systemische Risiko aller Spekulationen über die Hinterlassenschaften des Thomaskantors.  
+Auf Johann Christoph Jauch dürfte zum Beispiel die Anschaffung jener achtbändigen Ausgabe des 1697 erschienenen „Wagnerschen Gesangbuchs“ zurückgehen (Nr. 2645 - 2652 des Katalogs), einer enzyklopädischen, allein schon aus materiellen Gründen keineswegs für den Massengebrauch konzipierten Choraltext-Anthologie, die auch als wesentlicher Bestandteil der theologischen Bibliothek Bachs belegt ist. Damit ist die Voraussetzung für die Annahme gegeben, dass sich Dichter und Komponist bei einer Abstimmung über das hymnologische Programm der Choralkantaten auf das gleiche, umfangreiche Repertorium von Kirchenliedern stützen konnten. Freilich, ohne dass bekannt ist, wann welche der 1750 buchstäblich postum verzeichneten Reste aus Bachs Bibliothek jeweils in seinen Besitz gelangt waren - aber das kennzeichnet das systemische Risiko aller Spekulationen über die Hinterlassenschaften des Thomaskantors.  
 
 Wie dem auch sei: Je vier Titel von zwei prominenten Vertretern der Norddeutschen Reformorthodoxie, nämlich August Pfeiffer (Lübeck) und Heinrich Müller (Rostock), belegen zudem - zusammen mit weiteren Werken anderer Autoren - eine quantitativ mit 23 bzw. 32 Prozent beachtenswerte, theologisch durchaus tendenziöse Schnittmenge der hinterlassenen Bibliotheken Bachs und seines Hauptlibrettisten. (Vgl. Wilhelmi 1979: Nrn. 5, 8, 10 sic!, 11,14, 20, 36, 38, 39, 42, 51, 52 sowie die Zweifelsfälle 2, 7, 13, 35, 45.)  
 
-Zu erwähnen bleibt schließlich die Tatsache, dass unter Nr. 1881 des Iauch-Katalogs ein Exemplar des 1720 in Hamburg bei Trausold erschienenen Neuen Testaments verzeichnet ist, welches „also gedrucket, daß alle Worte und Reden, Welche der HErr JESUS selber gesprochen, Mit rothen Littern, Die übrige Haupt-Sprüche aber in schwartzem Abdruck, Mit grösseren Buchstaben, Zu lesen sind.“ 
+Zu erwähnen bleibt schließlich die Tatsache, dass unter Nr. 1881 des Iauch-Katalogs ein Exemplar des 1720 in Hamburg bei Trausold erschienenen Neuen Testaments verzeichnet ist, welches „also gedrucket, daß alle Worte und Reden, Welche der HErr JESUS selber gesprochen, Mit rothen Littern, Die übrige Haupt-Sprüche aber in schwartzem Abdruck, Mit grösseren Buchstaben, Zu lesen sind.“  
+
 Dieses typographische Unikat erinnert an den Umstand, dass das Autograph der Matthäus-Passion (und vielleicht auch schon die verschollene Originalhandschrift der Frühfassung und vielleicht auch deren Textvorlage?) für das explizite Bibelwort und für den Cantus firmus des Exordiums rote Tinte verwendet - durch wen auch immer Bach zu dieser außergewöhnlichen Gestaltungsweise angeregt worden sein mag.  
 
 
@@ -937,15 +940,15 @@ Jauchs Anteil scheint sich auf den ersten Blick in dem zu erschöpfen, was das T
 
 „… Auch in gewissen Abtheilungen geordnet von M. Johann Christoph Jauch Prediger zu S. Lamberti in Lüneburg.“  
 
-wobei aber auch die vorangehende Zeile mitgelesen werden sollte:  
+wobei aber auch die vorangehende Zeile mitgelesen werden sollten:  
 
 „… und mit beygefügten Grund-Sprüchen heiliger Schrifft und sonderlichen Uberschrifften bemercket, …“  
 
 Dieses Zitat belegt die Bemühungen der theologisch konkret Verantwortlichen um eine deutliche Legitimation des gesamten Projekts anhand von unwiderlegbaren Bibelzitaten - vielleicht auch, um nicht in den Ruf von pietistischen Schwärmereien zu geraten?  
 
-Im Katalog von Jauchs nachgelassener Bibliothek findet sich neben dem Stern-Druck der Geistreichen Lieder auch Elmenhorsts „Bericht von den Opern“, Hamburg 1688; („Dramatologia, Das ist: Bericht von Denen Oper-Spielen“).  
+Im Katalog von Jauchs nachgelassener Bibliothek findet sich neben dem Stern-Druck der „Geistreichen Lieder“ (Nr. 4918) auch Elmenhorsts „Bericht von den Opern“, Hamburg 1688; (Nr. 585; „Dramatologia, Das ist: Bericht von Denen Oper-Spielen“).  
 
-Von Georg Böhm stammen nicht nur die Vertonungen von 23 der 27 neu hinzugefügten Strophenarien, er dürfte auch für die endgültig modernisierte musikalische Gestalt der kompletten Sammlung in Richtung auf Generalbasslieder mit betont unsanglicher Basstimme verantwortlich gewesen sein, die in den ersten beiden Auflagen von dem (unter mysteriösen Umständen aus der Musikgeschichte entfleuchten) Johann Wolfgang Franck und 1700 zum verbleibenden Teil auch vom Kieler Kantor Peter Laurentius Wockenfuß komponiert wurden.  
+Von Georg Böhm stammen dort nicht nur die Vertonungen von 23 der 27 neu hinzugefügten Strophenarien. Böhm dürfte auch für die endgültig modernisierte musikalische Gestalt der kompletten Sammlung in Richtung auf Generalbasslieder mit betont unsanglicher Basstimme verantwortlich gewesen sein, die in den ersten beiden Auflagen von dem (unter mysteriösen Umständen aus der Musikgeschichte entfleuchten) Johann Wolfgang Franck und 1700 zum verbleibenden Teil auch vom Kieler Kantor Peter Laurentius Wockenfuß komponiert wurden.  
 
 Elmenhorsts Passions-Arie Nr. 12 scheint mit den Anfangsworten:  
 
@@ -956,7 +959,7 @@ auf die theologisch (gehet -> kommt, helft), aber auch poetologisch (durch gesch
 
 Kommt Ihr Töchter, helft mir klagen  
 
-Staunenswert ist ferner, dass diese Sammlung eine Rezeptionsgeschichte aufweist, die sich durch das gesamte 19. Jahrhundert zieht und sich nicht auf gelegentliche Abdrucke von einzelnen Sätzen in Sammelwerken beschränkt, sondern auch in der aufstrebenden hymnologischen Forschung (Wackernagel, Koch etc.) nachhaltige Beachtung findet. In der heutigen Aufführungspraxis ist sie leider nur mit wenigen, kurzen Auszügen repräsentiert.  
+Staunenswert ist ferner, dass diese Sammlung eine Rezeptionsgeschichte aufweist, die sich durch das gesamte 19. Jahrhundert zieht und sich nicht auf gelegentliche Abdrucke von einzelnen Sätzen in Sammelwerken beschränkt, sondern auch in der aufstrebenden hymnologischen Forschung des 19. Jahrhundets (Wackernagel, Koch etc.) nachhaltige Beachtung findet. In der heutigen Aufführungspraxis ist sie leider nur mit wenigen, kurzen Auszügen repräsentiert.  
 
 Sie beginnt aber schon kurz nach ihrer Erstveröffentlichung 1681, deren Titelblatt übrigens unter der Invocatio „J.J.N“ = „In Jesu Namen“ steht. Zunächst mit einer „Cantata“ des kaum bekannten, am 1.2.1692 (also noch während Jauchs Studienaufenthalt) in Jena immatrikulierten Johann Magnus Knüpfer (1661-1715) auf den Text „Wie seh ich dich mein Jesu bluten“ (Nr. 16), die 1690, 1696 und 1715 von Samuel Jacobi mit der Kantorei der Fürstenschule Grimma aufgeführt wurde (vgl. RISM u. Scheitler 2018)  
 
