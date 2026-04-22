@@ -5,7 +5,7 @@ Johann Sebastian Bachs
 Michael Hochgartz (D 48153 Münster)  
 [michael@hochgartz.de](mailto:michael@hochgartz.de)  
 
-Version: 08.12.2025  
+Version: 22.04.2026  
 DOI: 10.5281/zenodo.15390511  
 [CC BY-NC-ND](https://www.perplexity.ai/search/ist-es-sinnvoll-die-inhalte-ei-D2aeRXeDTjWmQHkBrl7n0g)  
 
@@ -26,6 +26,8 @@ pro captu lectoris habent sua fata libretti (nach Terentianus Maurus)
 Der auf knapp drei Dutzend Produktionswochen verdichtete - für die abendländische Musikgeschichte beispiellose - Prozess war vielmehr geprägt durch eine - auf den ersten Blick kontraproduktiv wirkende, bei näherer Betrachtung jedoch konstitutiv erscheinende - räumliche Distanz zwischen Autor und Komponist, die eine Übermittlung des Materials in Form von zusammenfassenden Lieferungen nach sich zog, deren Stückelungen den Anforderungen der im Voraus zu planenden Drucklegungen für die in Leipzig üblichen, für den Komponisten durchaus auch als Einnahmequelle (DOK II: passim; Heber 2017: deest; evtl. auch Salmen 2023)) relevanten Sammellibretti entsprechen mussten.  
 
 Unter der Voraussetzung, dass Komposition und Uraufführung der Kantaten in der Regel sukzessive in wöchentlichem, Herstellung (inklusive Imprimatur und Korrektur) der Texthefte aber stets vorab en bloc in fünf- bis achtwöchigem Turnus erfolgte (vgl. Hobohm 1973; Scheide 1976), wären Einzellieferungen über eine größere Entfernung für Absender und Empfänger ohne erkennbaren Vorteil und für Letzteren überdies mit überflüssigen Portokosten sowie mit einem erhöhten Verlustrisiko verbunden gewesen.  
+
+Die optimale Ausnutzung eines stets 16 Seiten umfassenden Druckbogens diktierte den verfügbaren Platz für die Kantatentexte. Leerräume konnten durch Vignetten gefüllt werden. Eventuelle Überlängen ließen sich nur in sehr begrenztem Maße durch Verkleinerung von Schrifttypen bzw. Zeilenabständen realisieren.  
 
 In der Extremsituation zwischen dem 25.12.1724 und dem 7.1.1725, als in 14 Tagen sieben Neukompositionen zu realisieren waren, wären alle zwei Tage eintreffende Postsendungen mit je einem Kantatentext genauso inpraktikabel gewesen wie eine stückweise erfolgte persönliche Übergabe durch einen vor Ort agierenden Dichter. Stattdessen bot die Einhaltung eines standardisierten Lieferrhythmus dem Komponisten auch in diesem Fall mehrere Kalenderwochen zusätzlicher Arbeitszeit bei der Vertonung. (Vgl. Petzoldt 2000; sowie DOK V/185a zu dem in Leningrad nur noch in Form einer Karteikarte aus dem Jahr 1919 nachgewiesenen, derzeit verschollenen „Libretto Nr. 9“, das mit dem 5.11.1724 beginnt und mit dem 3.12.1724 endet.)  
 
@@ -68,7 +70,7 @@ Zwischen dem Verkauf der Stimmensätze durch Bachs Witwe Anna Magdalena kurz nac
 
 Da aufgrund dieses Befunds nicht damit zu rechnen ist, dass jemals ein - zwangsläufig nur posthum denkbarer - Sammeldruck des unvollständigen Jahrgangs in Form eines (urheberische Initiativen oder gar verlegerische Investitionen der Erben) erfordernden Buches auftauchen könnte, das analog zum Fall J.C. Birkmann (vgl. Blanken 2015) eine Attribution anhand textlicher Konkordanzen ermöglichen würde, müssen andere Ansätze zur Identitätsermittlung herangezogen werden.  
 
-Computerlinguistische Methoden, wie sie der Verfasser dieser Thesen 2000 - 2010 anhand der Analyse von Meta-Studien etlicher bis dahin als klassisch geltender Verfahren (z.B. „Entropy“; „Conditional probability“) zu evaluieren versuchte, dürften dabei - selbst mit massivem Einsatz heutiger „Künstlicher Intelligenz“ - nicht zu wesentlichen Erkenntnissen führen. Zu gering ist die für ein Fein-Training der erforderlichen Sprachmodelle Menge der auf Papier gedruckten, geschweige denn der maschinenlesbar verfügbaren, sicher zuweisbaren Vergleichstexte und ihrer Klassifizierung als originale „Poesie“ bzw.   als allgegenwärtige Bibel- und Choralzitate. Gleichwohl soll ein potentieller praktischer Nutzen nicht prinzipiell in Abrede gestellt werden.  
+Computerlinguistische Methoden, wie sie der Verfasser dieser Thesen 2000 - 2010 anhand der Analyse von Meta-Studien etlicher bis dahin als klassisch geltender Verfahren (z.B. „Entropy“; „Conditional probability“) zu evaluieren versuchte, dürften dabei - selbst mit massivem Einsatz heutiger „Künstlicher Intelligenz“ - nicht zu wesentlichen Erkenntnissen führen. Zu gering ist die für ein Fein-Training der erforderlichen Sprachmodelle Menge der auf Papier gedruckten, geschweige denn der maschinenlesbar verfügbaren, sicher zuweisbaren Vergleichstexte und ihrer Klassifizierung als originale „Poesie“ bzw.  als allgegenwärtige Bibel- und Choralzitate. Gleichwohl soll ein potentieller praktischer Nutzen nicht prinzipiell in Abrede gestellt werden.  
 
 Alternative Ansätze konzentrieren sich also auf die kriminalistische Suche nach einem Anfang 1725 plötzlich verstorbenen lutherischen Theologen mit dichterischer Kompetenz, homiletischer Reputation, hymnologischem Hintergrund und untadelhaftem Lebenswandel - allerdings ohne (anders als Schulze 1999 und die ihm Folgenden) Leipzig als Lebensmittelpunkt zur impliziten Conditio sine qua non zu machen.  
 
@@ -119,11 +121,11 @@ Andernfalls wäre mit dem - ebenfalls sikzzenhaften - Satz BWV244b/4d zu fragen:
 
 Ferner: Belegen die durch Ziffern signalisierten Hinweise für den 2. Chorus - also: „18“ (Takte ab initio) sowie „16“ (Takte zwischen den ersten beiden Einsätzen) und „contano 20“ (also die ab nun zu zählenden Takte bis zum Subito auszuführenden - so die heutige Praxis - Einsatz von Satz 27b) - in fol. 43v und 44v der Partitur(!) P 26, dass Agricola bei der Niederschrift dieses vollständig, aber hinsichtlich der Darstellung der Doppelchöre zunächst noch platzsparender notierten, aber keineswegs weniger komplex zu lesenden Satzbildes (27a) bereits an die Anfertigung von Aufführungsmaterial dachte? Für die betroffenen Mitwirkenden wäre das eine willkommene Überlebenshilfe beim Abpassen des Einsatzes über dem buchstäblich über-irdisch, weil ohne einen Takt-spendenden Basso Continuo dahinschwebenden Bassetto-Duetts („Sie führen ihn, er ist gefangen…“). Allein: der Komponist der Partitur bräuchte derlei Hilfen nicht. Ein fremder Dirigent und die Stimmen-Extrakteure vielleicht sehr wohl.  
 
-Insgesamt kann die Antwort nur Nein lauten, denn Ziel von Agricolas außergewöhnlichen Bemühungen war keineswegs eine Aufführung anhand von P 26. Eine solche hätte er durch Ausschreiben(lassen) von Stimmen nach AmB. 6+7 leichter verwirklichen können - oder am leichtesten, indem er seinen langjährigen Potsdamer Kollegen und Berliner Mitbürger C.P.E. Bach um die leihweise Überlassung des kompletten, aufführungserprobten Materials der Spätfassung (D-B Mus.ms. Bach P 25 / D-B Mus.ms. Bach St 110) gebeten hätte. Oder lagen diese zum fraglichen Zeitpunkt (noch) gar nicht vor Ort vor?  
+Insgesamt kann die Antwort nur Nein lauten, denn Ziel von Agricolas außergewöhnlichen Bemühungen war keineswegs eine Aufführung anhand von P 26., etwa in der Berliner Kirche St. Petri. Eine solche hätte er durch Ausschreiben(lassen) von Stimmen nach AmB. 6+7 leichter verwirklichen können - oder am leichtesten, indem er seinen langjährigen Potsdamer Kollegen und Berliner Mitbürger C.P.E. Bach um die leihweise Überlassung des kompletten, aufführungserprobten Materials der Spätfassung (D-B Mus.ms. Bach P 25 / D-B Mus.ms. Bach St 110) gebeten hätte. Oder lagen diese zum fraglichen Zeitpunkt (noch) gar nicht vor Ort vor?  
 
 Zudem bliebe zu fragen, warum er sich sonst für die praktische Verwendung der Frühfassung interessiert haben könnte, die auch heute nur äußerst selten und eher aus akademischen oder diskographischen Interessen herangezogen wird. Bis dahin ist davon auszugehen, dass die numerisch markierten Pausentakte bereits in der Vorlage vorhanden waren, also auf den Komponisten zurück gehen. Ob diese Einordnung mit den grundlegenden Beobachtungen R. L. Marshalls (1972) bzgl. Bachs Notationsgewohnheiten im überlieferten Kantaten-Korpus in Einklang gebracht werden können, die leider die Passionen unberücksichtigt ließen, bleibt zu prüfen.  
 
-Zu klären bleibt, warum Agricola in dieser Partitur Gebrauch von zahlreichen notationstechnischen Abbreviaturen macht („col vl. primo“ etc.; auch da, wo es sich schreibtechnisch kaum zu lohnen scheint) - wie sie für viele seiner übrigen Handschriften (auch eigener Kompositionen) typisch sind. (Vgl. dazu die 2021 an der Universität Oxford verteidigte [Dissertation](https://ora.ox.ac.uk/objects/uuid:8a5fc96c-c15a-4e4e-ad32-ce032b100d5c) von Andrew Frampton. Auf den Seiten 804-806 wird die Handschrift P 26 rein formal katalogisiert - leider ohne Einbeziehung der Überlegungen von Chafe 1982.)  
+Zu klären bleibt, warum Agricola in dieser Partitur Gebrauch von zahlreichen notationstechnischen Abbreviaturen macht („col vl. primo“ etc.; auch da, wo es sich schreibtechnisch kaum zu lohnen scheint) - wie sie für viele seiner übrigen Handschriften (auch eigener Kompositionen) typisch sind. (Vgl. dazu die 2021 an der Universität Oxford verteidigte [Dissertation](https://ora.ox.ac.uk/objects/uuid:8a5fc96c-c15a-4e4e-ad32-ce032b100d5c) von Andrew Frampton. Auf den Seiten 804-806 wird die Handschrift P 26 dort rein formal katalogisiert - leider ohne Einbeziehung der Überlegungen von Chafe 1982.)  
 
 Ohne weiteres erklärbar ist hingegen der Umstand, dass sich Agricola bei der Rekonstruktion des - in den Fragmenten naturgemäß noch fehlenden, in der Farlau-Kopie nur in kürzest möglicher Form vorhandenen Titels (Kopftitel und das später davon durch J.P. Kirnberger abgeleitete Einband-Etikett) - für eine repräsentative Lösung auf der Basis eines nicht erhaltenen Textdrucks entschied, dessen auf Vorrat erstellte Exemplare für mehrere geplante, jeweils handschriftlich zu ergänzende Aufführungstermine aus den 1730er Jahren bestimmt waren. (Zum Prinzip am Beispiel von BWV 247 vgl. Schabalina 2009).  
 
@@ -144,9 +146,9 @@ Der an P 26 angebundene, von anderer Hand nach anderer Vorlage auf anderem (klei
 
 Die Intention dieses Vorgangs im Rahmen einer „Sichtbarmachung der eigenen Historizität“ (Wollny 2009) ist vergleichbar mit der im selben Zeitraum von Agricola begleiteten Edition der (auch aus kaufmännischen Zwängen) als raffiniert ergänztem Torso konfektionierten Kunst der Fuge BWV 1080, seines (nach dessen eigenen Worten) mit C.P.E. Bach in Berlin „zusammengestoppelten“ Nekrologs, seinem Interesse an Sammlung und Herausgabe der Vierstimmigen Choralgesänge und seiner erst in jüngster Zeit thematisierten Erhebung Bachs in den Rang eines „Genies“ wie Isaac Newton (Vgl. Wolff 2007).  
 
-Nicht übersehen werden sollte in diesem Zusammenhang der Umstand, dass Agricola über längere Zeit fast täglich Gelegenheit hatte, jene klassischen Torsi auf sich wirken zu lassen, die sein Dienstherr Friedrich II. von Preußen 1742 mit der mehrere Hundert Objekte umfassende Antikensammlung des französischen Kardinals Melchior de Polignac erworben hatte.  
+Nicht übersehen werden sollte in diesem Zusammenhang der Umstand, dass Agricola über längere Zeit fast täglich Gelegenheit hatte, jene klassischen Torsi auf sich wirken zu lassen, die sein Dienstherr Friedrich II. von Preußen 1742 mit der mehrere Hundert Objekte umfassende Antikensammlung des französischen Kardinals Melchior de Polignac erworben hatte. (Ein diamantenbeseztes Pectorale aus seinem Besitz wurde 2013 in einer öffentlich-rechtlichen Fernseh-Show zur Auktion feilgeboten, wechselte aber wg. unzureichender Gebote - bis 42.000 Euro - vorerst nicht den Besitzer.)  
 
-Ursprünglich recht kostengünstig beschafft und mit zwei Schiffen von Paris über Rouen und Hamburg nach Schloss Charlottenburg verfrachtet und dort deponiert, sodann in weitere der aufwachsenden Ausstattungsszenarien in Potsdam (Sans, Souci; Neues Palais; Marmorpalais) durchaus planmäßig eingebunden, enthält sie bis heute auch Torsi, die bereits damals bei näherem Blick mehr oder weniger raffinierte, mit naturidentischen, antikischen Marmormaterialien ausgeführte, für den Kenner stets sichtbare Ergänzungstechniken aus verschiedenen Zeitschichten erkennen ließen.  
+Ursprünglich recht kostengünstig beschafft und mit Schiffen von Paris über Rouen und Hamburg nach Schloss Charlottenburg verfrachtet und dort deponiert, sodann in weitere der aufwachsenden Ausstattungsszenarien in Potsdam (Sans, Souci; Neues Palais; Marmorpalais) durchaus planmäßig eingebunden, enthält sie bis heute auch Torsi, die bereits damals bei näherem Blick mehr oder weniger raffinierte, mit naturidentischen, antikischen Marmormaterialien ausgeführte, für den Kenner stets sichtbare Ergänzungstechniken aus verschiedenen Zeitschichten erkennen ließen.  
 
 Um 1740 begann mit J.J. Winckelmann eine Entwicklung, die das „non finito“ schließlich (z.B. bei Auguste Rodin) nicht mehr als kaschierungsbedürftigen Makel, sondern als eigenständige künstlerische Aussageform betrachtete - und folglich manche Ergänzungen älterer Objekte überformte. (Vgl. Schleuning 1993; Dostern 2009)  
 
@@ -338,7 +340,7 @@ Satz 23 Gerne will ich …
 
 
 Satz 27a/b So ist … / Sind Blitze sind Donner …  
-1725: Text und Musik vollständig;  
+1725: Text und Musik vollständig  
 1725/26: Profane Paraphrase von 27b in Henricis Lustspiel „Der akademische Schlendrian“ V/11  
 1727: wie 1725  
 1728: -  
@@ -491,11 +493,9 @@ Nicht unerwähnt soll der Umstand bleiben, dass Martin Luther auf dem Reichstag 
 
 Die Anregung zu dieser Verwendung und Umdeutung des - zwischen 1650 und 1750 durch Juristen und Theologen (vgl. Erler 3/1909, XVII) - fast in Form heutiger „Sprayer-Tags“ (z.B. in der von einem Kommilitonen des Autors 1692 zu I. N. J. C. individualisierten Variante) - benutzten Votum Justinianum lässt sich durch zwei Umstände erhellen.  
 
-Zum einen korrespondiert sie teilweise mit der abgekürzten Form des - auf dem Titelblatt des Spätautographs von BWV 244 in Latein verfassten - Titels:  
+Zudem  korrespondiert sie teilweise mit der abgekürzten Form des - auf dem Titelblatt des Spätautographs von BWV 244 in Latein verfassten - Titels:  
 
 Passio [D]omini [N]ostri [J]esu [C]hristi.  
-
-Zum anderen hatte der Autor Gelegenheit mitzuerleben, wie eine lebensgroße Skulptur des bekanntesten Verwenders dieser Anrufung (der spätantike Kaiser Justinian) an der Fassade eines kommunalen Repräsentationsbaus in seinem unmittelbarn Lebensumfeld errichtet wurde.  
 
 Spätes, schwaches Nachwehen dieser eigentümlichen Praxis ist die - für Bachs wortgebundenes Werk gleichfalls singuläre - zwar gelehrtensprachliche, aber ungewöhnliche und unverschleierte Nennung „Poesia per Dominum Henrici alias Picander dictus“ als genialem Vollender und Verantwortlichem für die Textfassung zweiter bzw. letzter Hand der Matthäus-Passion, die für den Komponisten, dessen Aufführungshelfer und auch dessen Erben nicht zuletzt auch einen praktischen Nutzen besaß zur Unterscheidung der Manuskripte bei der Handhabung der Notenbibliothek.  
 

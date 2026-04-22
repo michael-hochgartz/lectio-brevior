@@ -6,7 +6,7 @@ Michael Hochgartz
 D 48153 Münster  
 [michael@hochgartz.de](mailto:michael@hochgartz.de)  
 
-Version: 20.04.2026  
+Version: 22.04.2026  
 DOI: 10.5281/zenodo.15390511  
 [CC BY-NC-ND 4.0](https://www.perplexity.ai/search/ist-es-sinnvoll-die-inhalte-ei-D2aeRXeDTjWmQHkBrl7n0g) 
 
@@ -1189,7 +1189,7 @@ Was Glocken-Läuten lehren kann.
 Die ebenfalls noch zu Lebzeiten Jauchs 1723 durch (den zumindest temporär ortsansässigen) Paul Voß umgegossene „Grosse Vossische Glocke“ der ehemaligen Lambertikirche (Jauchs erster Predigtstätte) wurde nach deren Auflassung 1850ff zur Nikolaikirche (seinem ehemaligen zweiten Dienstort) verbracht, wo sie die rechtswidrigen, da von einem illegitimen Regime verfügten Massen-Beschlagnahmen während des II. Weltkriegs nicht überstand. Leider ist der Inhalt der Aufschrift nicht überliefert, sondern nur eine Kurzbeschreibung der figürlichen Zier („Christus am Kreuz und die Schlange am Kreuz“) sowie der Durchmesser: 1713 mm, aus dem sich ein ungefährer Schlagton bei a0/b0 ableiten lässt. (Vgl. Wolf 1902).  
 
 
-Der Text der von Georg Böhm (laut Aktenlage allein erwerbsberechtigt für derartige Aufträge in St. Johannis) vertonten Trauerkantate zur Beisetzung Jauchs am Dienstag, 6.2.1725, stammt von Michael Christoph Brandenburg (1694-1766) - auch er ein Schüler des Johanneums - der von Jauch nach einer Brandkatastrophe in seiner Geburtsstadt Boizenburg (Oktober 1709) in die Familie aufgenommen und in seinen literarischen Ambitionen nachhaltig gefördert worden war, wie der Zwanzigjährige anlässlich der Amtseinführung des Superintendenten am 23.2.1714 in einigen, um Wohlgeformtheit bemühten (unrein: „hören“ - „verehren“) Alexandrinern (von wem finanziert?) drucken ließ, darunter diese Zeilen:  
+Der Text der von Georg Böhm (laut Aktenlage allein erwerbsberechtigt für derartige Aufträge in St. Johannis) vertonten Trauerkantate zur Beisetzung Jauchs am Dienstag, 6.2.1725, stammte von Michael Christoph Brandenburg (1694-1766) - auch er ein Schüler des Johanneums - der von Jauch nach einer Brandkatastrophe in seiner Geburtsstadt Boizenburg (Oktober 1709) in die Familie aufgenommen und in seinen literarischen Ambitionen nachhaltig gefördert worden war, wie der Zwanzigjährige anlässlich der Amtseinführung des Superintendenten am 23.2.1714 in einigen, um Wohlgeformtheit bemühten (unrein: „hören“ - „verehren“) Alexandrinern (von wem finanziert?) drucken ließ, darunter diese Zeilen:  
 
 Du hast es mir erlaubt mit Nutzen anzuhören  
 Worin ein Musen-Sohn sein Glücke finden kan  
@@ -1330,10 +1330,7 @@ Post Scriptum
 
 Technische Hinweise: 
 
-- Die ab Februar 2024 gelegentlich eingepflegten Hinweise auf externe Anmerkungen zu einzelnen Aspekten und Begriffen trugen experimentellen Charakter. Ihre KI-basierte technische Konsistenz war naturgemäß unverbindlich. Sie wurden im Dezember 2025 sukzessive entfernt, sind aber in einem älteren [Branch](https://github.com/michael-hochgartz/lectio-brevior/blob/old-links/Thesen%20zur%20Identifizierung%20des%20Leipziger%20Hauptlibrettisten.md) weiterhin dokumentiert.  
+- Die ab Februar 2024 gelegentlich eingepflegten Hinweise auf externe Anmerkungen zu einzelnen Aspekten und Begriffen trugen experimentellen Charakter. Ihre KI-basierte technische Konsistenz war naturgemäß unverbindlich. Sie wurden im Dezember 2025 sukzessive entfernt, sind aber in einem älteren [Zweig](https://github.com/michael-hochgartz/lectio-brevior/blob/old-links/Thesen%20zur%20Identifizierung%20des%20Leipziger%20Hauptlibrettisten.md) weiterhin dokumentiert.  
 
 - Die entgegen üblicher Praxis mehrdeutige Verwendung von eckigen Klammern [] als Merkmal auch für Hervorhebungen statt nur für Auslassungen ist der Verwendung von Markdown als Zielformat des primär in Scrivener gepflegten Grund-Textes geschuldet.  
 
-S.D.G.  
-
-[S]ei [D]ies [G]estattet!  
