@@ -5,13 +5,12 @@ Johann Sebastian Bachs
 Michael Hochgartz (D 48153 Münster)  
 [michael@hochgartz.de](mailto:michael@hochgartz.de)  
 
-Version: 22.04.2026  
+Version: 05.05.2026  
 DOI: 10.5281/zenodo.15390511  
 [CC BY-NC-ND](https://www.perplexity.ai/search/ist-es-sinnvoll-die-inhalte-ei-D2aeRXeDTjWmQHkBrl7n0g)  
 
 Quelltext, Versionsgeschichte und Literaturverzeichnis:  
 <https://github.com/michael-hochgartz/lectio-brevior>  
-
 
 
 amore et studio elucidandae veritatis haec subscripta disputabuntur (Martin Luther [1517](https://www.perplexity.ai/search/Wer-schrieb-diesen-7Ao1YeZnRTmWBsEehMo1_Q))  
@@ -70,7 +69,7 @@ Zwischen dem Verkauf der Stimmensätze durch Bachs Witwe Anna Magdalena kurz nac
 
 Da aufgrund dieses Befunds nicht damit zu rechnen ist, dass jemals ein - zwangsläufig nur posthum denkbarer - Sammeldruck des unvollständigen Jahrgangs in Form eines (urheberische Initiativen oder gar verlegerische Investitionen der Erben) erfordernden Buches auftauchen könnte, das analog zum Fall J.C. Birkmann (vgl. Blanken 2015) eine Attribution anhand textlicher Konkordanzen ermöglichen würde, müssen andere Ansätze zur Identitätsermittlung herangezogen werden.  
 
-Computerlinguistische Methoden, wie sie der Verfasser dieser Thesen 2000 - 2010 anhand der Analyse von Meta-Studien etlicher bis dahin als klassisch geltender Verfahren (z.B. „Entropy“; „Conditional probability“) zu evaluieren versuchte, dürften dabei - selbst mit massivem Einsatz heutiger „Künstlicher Intelligenz“ - nicht zu wesentlichen Erkenntnissen führen. Zu gering ist die für ein Fein-Training der erforderlichen Sprachmodelle Menge der auf Papier gedruckten, geschweige denn der maschinenlesbar verfügbaren, sicher zuweisbaren Vergleichstexte und ihrer Klassifizierung als originale „Poesie“ bzw.  als allgegenwärtige Bibel- und Choralzitate. Gleichwohl soll ein potentieller praktischer Nutzen nicht prinzipiell in Abrede gestellt werden.  
+Computerlinguistische Methoden, wie sie der Verfasser dieser Thesen 2000 - 2010 anhand der Analyse von Meta-Studien etlicher bis dahin als klassisch geltender Verfahren (z.B. „Entropy“; „Conditional Probability“) zu evaluieren versuchte, dürften dabei - selbst mit massivem Einsatz heutiger „Künstlicher Intelligenz“ - nicht zu wesentlichen Erkenntnissen führen. Zu gering ist die für ein Fein-Training der erforderlichen Sprachmodelle Menge der auf Papier gedruckten, geschweige denn der maschinenlesbar verfügbaren, sicher zuweisbaren Vergleichstexte und ihrer Klassifizierung als originale „Poesie“ bzw.  als allgegenwärtige Bibel- und Choralzitate. Gleichwohl soll ein potentieller praktischer Nutzen nicht prinzipiell in Abrede gestellt werden.  
 
 Alternative Ansätze konzentrieren sich also auf die kriminalistische Suche nach einem Anfang 1725 plötzlich verstorbenen lutherischen Theologen mit dichterischer Kompetenz, homiletischer Reputation, hymnologischem Hintergrund und untadelhaftem Lebenswandel - allerdings ohne (anders als Schulze 1999 und die ihm Folgenden) Leipzig als Lebensmittelpunkt zur impliziten Conditio sine qua non zu machen.  
 
@@ -146,7 +145,7 @@ Der an P 26 angebundene, von anderer Hand nach anderer Vorlage auf anderem (klei
 
 Die Intention dieses Vorgangs im Rahmen einer „Sichtbarmachung der eigenen Historizität“ (Wollny 2009) ist vergleichbar mit der im selben Zeitraum von Agricola begleiteten Edition der (auch aus kaufmännischen Zwängen) als raffiniert ergänztem Torso konfektionierten Kunst der Fuge BWV 1080, seines (nach dessen eigenen Worten) mit C.P.E. Bach in Berlin „zusammengestoppelten“ Nekrologs, seinem Interesse an Sammlung und Herausgabe der Vierstimmigen Choralgesänge und seiner erst in jüngster Zeit thematisierten Erhebung Bachs in den Rang eines „Genies“ wie Isaac Newton (Vgl. Wolff 2007).  
 
-Nicht übersehen werden sollte in diesem Zusammenhang der Umstand, dass Agricola über längere Zeit fast täglich Gelegenheit hatte, jene klassischen Torsi auf sich wirken zu lassen, die sein Dienstherr Friedrich II. von Preußen 1742 mit der mehrere Hundert Objekte umfassende Antikensammlung des französischen Kardinals Melchior de Polignac erworben hatte. (Ein diamantenbeseztes Pectorale aus seinem Besitz wurde 2013 in einer öffentlich-rechtlichen Fernseh-Show zur Auktion feilgeboten, wechselte aber wg. unzureichender Gebote - bis 42.000 Euro - vorerst nicht den Besitzer.)  
+Nicht übersehen werden sollte in diesem Zusammenhang der Umstand, dass Agricola über längere Zeit fast täglich Gelegenheit hatte, jene klassischen Torsi auf sich wirken zu lassen, die sein Dienstherr Friedrich II. von Preußen 1742 mit der mehrere Hundert Objekte umfassenden Antikensammlung des französischen Kardinals Melchior de Polignac erworben hatte. (Ein diamantenbeseztes Pectorale aus dessen Besitz wurde 2013 in einer öffentlich-rechtlichen Fernseh-Show zur Auktion feilgeboten, wechselte aber wg. unzureichender Gebote - bis 42.000 Euro - vorerst nicht den Besitzer.)  
 
 Ursprünglich recht kostengünstig beschafft und mit Schiffen von Paris über Rouen und Hamburg nach Schloss Charlottenburg verfrachtet und dort deponiert, sodann in weitere der aufwachsenden Ausstattungsszenarien in Potsdam (Sans, Souci; Neues Palais; Marmorpalais) durchaus planmäßig eingebunden, enthält sie bis heute auch Torsi, die bereits damals bei näherem Blick mehr oder weniger raffinierte, mit naturidentischen, antikischen Marmormaterialien ausgeführte, für den Kenner stets sichtbare Ergänzungstechniken aus verschiedenen Zeitschichten erkennen ließen.  
 
@@ -194,7 +193,7 @@ Für den Zusammenhang von Trauermusik und Passion ist anhand eines Schnittmengen
 
 Dass ein aus diesem komplexen Procedere hervorgegangenes Partitur- bzw. Stimmenmaterial mit einer Mischung aus vorübergehend eingefügten Einlagestücken und Neuentwürfen, aus hin- und her- parodierten Textunterlegungen zur (Ur)aufführung der Passion 1729 nach einer Konsolidierung in Form einer klärenden Reinschrift verlangte (die dann später als Kopiervorlage für AmB. 6+7 dienen konnte), erscheint - etwa am Beispiel von Satz 20 mit seinen teils nur exemplarisch skizzierten Chorpartien - ebenso einleuchtend wie die anschließende Überflüssigkeit der Entwürfe und Umarbeitungen - die dann viel später (direkt durch Bach oder durch die Hand seines Sohnes Carl Philipp Emanuel?) als Memorabilien an Agricola gelangten.  
 
-Erklärungsbedürftig bleibt in diesem Zusammenhang auf jeden Fall der Umstand, dass Henrici in Satz 20 der Trauermusik BWV 244a ganz offenkundig drei Zeilen aus dem letzten Satz der am 6.2.1725 aufgeführten, als Einzeldruck in wohl vierstelliger Auflage lokal verteilten, aber erst 1738 als Sammeldruck überregional publizierten Trauerkantate für den als Textautor zur Diskussion zu stellenden Theologen in kaum verändertem Wortlaut plagiiert hat:  
+Erklärungsbedürftig bleibt in diesem Zusammenhang auf jeden Fall der Umstand, dass Henrici in Satz 20 der Trauermusik BWV 244a ganz offenkundig drei Zeilen aus dem letzten Satz der am 6.2.1725 aufgeführten, als Einzeldruck in wohl vierstelliger Auflage lokal verteilten, aber erst 1738 in einem prominenten Sammeldruck überregional publizierten Trauerkantate für den als Textautor zur Diskussion zu stellenden Theologen in kaum verändertem Wortlaut plagiiert hat:  
 
 Ihr indessen, matte Glieder,  
 Bleibt in einer süssen Ruh!  
@@ -206,7 +205,7 @@ Schließt uns auch die Thränen zu. (Henrici 1728)
 
 
 
-14a. <provisorische Version> Nach dem Erscheinen von Andreas Glöckners Aufsatz „Johann Sebastian Bachs ‚Große Passion‘ - Neue Überlegungen zu ihrer Vorgeschichte“ (BJ 2021; Januar 2022 für Nichtmitglieder / April 2022 für Mitglieder der NBG verfügbar) ergeben sich auch für die vorliegende These Nr. 13 weiterführende Ergänzungsmöglichkeiten. Ausgehend von der bisherigen Forschungslage (u.a. Gojowy 1965; Stauber 2020; jedoch ohne Brainard 1969 und Chafe 1982) hält Glöckner es aufgrund von Stilvergleichen zum Wort-Ton-Verhältnis mit der Trauermusik BWV 244a für nicht ausgeschlossen, dass es bereits 1727 (vgl. auch Rifkin 1975) eine aufführbare Fassung der Passion gegeben haben könnte, die zwar das biblische Narrativ vollständig umfasste, aber - und das ist die wesentliche Neubewertung - hinsichtlich der Anzahl der madrigalischen (kontemplativen) Texte als um einiges kürzer anzunehmen wäre als die seit 1729 bekannte Version.  
+14a. <provisorische Version> Nach dem Erscheinen von Andreas Glöckners Aufsatz „Johann Sebastian Bachs ‚Große Passion‘ - Neue Überlegungen zu ihrer Vorgeschichte“ (BJ 2021; Januar 2022 für Nichtmitglieder / April 2022 für Mitglieder der NBG verfügbar) ergeben sich auch für die vorliegende These Nr. 13 weiterführende Ergänzungsmöglichkeiten. Ausgehend von der bisherigen Forschungslage (wesentlich: Gojowy 1965; Stauber 2020; jedoch ohne Brainard 1969 und Chafe 1982) hält Glöckner es aufgrund von Stilvergleichen zum Wort-Ton-Verhältnis mit der Trauermusik BWV 244a für nicht ausgeschlossen, dass es bereits 1727 (vgl. auch Rifkin 1975) eine aufführbare Fassung der Passion gegeben haben könnte, die zwar das biblische Narrativ vollständig umfasste, aber - und das ist die wesentliche Neubewertung - hinsichtlich der Anzahl der madrigalischen (kontemplativen) Texte als um einiges kürzer anzunehmen wäre als die seit 1729 bekannte Version.  
 Folgt man Glöckners durch seine weiteren Argumente gestützten Überlegungen, dann ergibt sich eine überraschende Antwort auf die alte Streitfrage nach der frühesten aufführbaren Fassung der Passion: „1727 oder 1729?“ - die lautet: „1727 und 1729!“  
 
 Diese Betrachtungsweise lässt sich wiederum fast bruchlos, gleichsam als „missing link“, in die zuvor ausgeführte These 13 zur Prioritätenfrage von BWV 244a und BWV 244b einfügen: Die 1728/29 erstellten Teile entstanden teils nicht nur unter Rückgriff auf das seinerzeit unaufführbare, da unvollständig und folglich ohne Stimmensätze vorhandene Material von 1725, sondern auch auf dasjenige von 1727, teils wurden sie genuin für eine Doppelverwendung konzipiert und realisiert. Die Frage nach Vorlage und Parodie wäre unter diesem Aspekt im Rahmen einer separten Untersuchung noch einmal Satz für Satz auszudifferenzieren - wobei selbst „Zweitparodien“ (vgl. Dürr 1974; Stauber 2020) nicht ausgeschlossen werden sollten. (Als ersten Zugriff vgl. These 14b.)  
@@ -219,7 +218,7 @@ Vorzeitige Wiederaufführung der Johannes-Passion am Karfreitag 1725 als mehr al
 
 C. F. Henrici erhält (im zeitlichen Umfeld der Arbeiten an BWV 249/249a, also noch im ersten Quartal 1725) einen ersten Einblick in die Bach vorliegenden Texte, denn er paraphrasiert die von der Brockes-Passion und weiteren Oratorien inspirierte „Rache-Arie“ BWV 244b Satz 27b in der Schlüsselszene (V. Aufzug, „neunter“ - recte: „eilfter“ - Auftritt) seines Ende 1725 einzeln und Anfang 1726 an den (fingierten?) Erscheinungsorten Berlin/Frankfurt/Hamburg gesammelt publizierten Lustspiels „Der akademische Schlendrian“ in Form von subtil feinstrukturierter Bühnenprosa.  
 
-Neben einem - genau diesen Satz betreffenden - musikalischen Selbstzitat Bachs in BWV 127 finden sich sprachliche Allusionen in Henricis Text für BWV 205 (zum 3.8.1725) und in seinen „Erbaulichen Gedancken“ von 1725, deren Inhalt und Publikationsgeschichte - nicht nur mangels öffentlich verfügbarem Digitalisat - seit Spitta 1873 bis vor kurzem nur unzureichend erforscht wurden.  
+Neben einem - genau diesen Satz betreffenden - musikalischen Selbstzitat Bachs in BWV 127 finden sich sprachliche Allusionen in Henricis Text für BWV 205 (zum 3.8.1725) und in seinen „Erbaulichen Gedancken“ von 1725, deren Inhalt und Publikationsgeschichte - zunächst mangels öffentlich verfügbarem Digitalisat - seit Spitta 1873 bis vor kurzem nur unzureichend erforscht wurden.  
 
 Henrici (gedruckt 1725):  
 
@@ -465,7 +464,7 @@ Das „Nostri“ in der traditionellen Deutung dieser Formulierung mag zudem als
 „ … samt allen denen, die anrufen den Namen unsers Herrn Jesu Christi an allen ihren und unsern Orten“ (Luther);  
 „… to them that are sanctified in Christ Jesus, called to be saints, with all that in every place call upon the name of Jesus Christ our Lord, both theirs and ours“ (King James Bible).  
 
-Dass auch dem ersten Band der Farlau-Abschrift (D-B AmB. 6) - dem einzigen bisher anerkannten Überlieferungsträger der Frühfassung der Matthäus-Passion - genau diese Formel vorangestellt ist, mag als weiter Beleg für die Gleichzeitigkeit der Entstehungsprozesse von Choralkantaten und Passion betrachtet werden. Ein von dem - bereits an dieser Stelle überforderten - Kopisten spontan, aber durchaus elegant korrigierter Schreibfehler (D.J. -> D.N.) ist als Indiz dafür zu werten, dass diese spezielle Invocatio bereits in der - als autograph zu unterstellenden - Vorlage vorhanden war.  
+Dass auch dem ersten Band der Farlau-Abschrift (D-B AmB. 6) - dem einzigen bisher anerkannten Überlieferungsträger der Frühfassung der Matthäus-Passion - genau diese Formel - J.N.D.N.J.C. - vorangestellt ist, mag als weiter Beleg für die Gleichzeitigkeit der Entstehungsprozesse von Choralkantaten und Passion betrachtet werden. Ein von dem - bereits an dieser Stelle überforderten - Kopisten spontan, aber durchaus elegant korrigierter Schreibfehler (D.J. -> D.N.) ist als Indiz dafür zu werten, dass diese spezielle Invocatio bereits in der - als autograph zu unterstellenden - Vorlage vorhanden war.  
 
 Band II dieser Abschrift (D-B AmB. 7) beginnt hingegen mit dem allenthalben bekannten „J.J.“ - in knappest möglicher Notation zum Auftakt des Kopftitels. Was auch immer aus dieser formalen Diskrepanz abgeleitet werden könnte.  
 
@@ -542,6 +541,6 @@ zu lesen als:
 
 
 17. FINIS! ENDE!! Des freuen sich die Hände.  
-(Aus einer norddeutschen Orgelhandschrift.)  
+(Angeblich aus einer norddeutschen Orgelhandschrift.)  
 
 Eine Geschichte ist dann zu Ende gedacht, wenn sie ihre schlimmstmögliche Wendung genommen hat. (Friedrich Dürrenmatt, Die Physiker, 1961)  
