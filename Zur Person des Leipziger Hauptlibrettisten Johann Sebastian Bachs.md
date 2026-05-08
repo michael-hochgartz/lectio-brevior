@@ -6,7 +6,7 @@ Michael Hochgartz
 D 48153 Münster  
 [michael@hochgartz.de](mailto:michael@hochgartz.de)  
 
-Version: 07.05.2026  
+Version: 08.05.2026  
 DOI: 10.5281/zenodo.15390511  
 [CC BY-NC-ND 4.0](https://www.perplexity.ai/search/ist-es-sinnvoll-die-inhalte-ei-D2aeRXeDTjWmQHkBrl7n0g) 
 
@@ -859,11 +859,11 @@ Und schließlich: findet sich hier ein Nucleus für die changierende Mischung vo
 
 <Exkurs: Angeregt durch eine intensive Diskussion mit einem Large Language Model (Gemini 3), 30.11.2025) ergibt sich folgende, provisorische Überlegung:>  
 
-Als treuer Vertreter der lutherischen Reformorthodoxie praktizierte Johann Christoph Jauch die Sterbevorbereitung und Sterbebeleitung in seinen „wohl viele Tausend Seelen“ umfassenden Gemeinden in der üblichen Art. Nämlich als „Richterzuspruch“ aufgrund anscheinend objektivierbarer Werte (Bekenntnisse - Bibelsprüche - Choräle). Gleichsam als Absolution im katholisch verstehbaren Sinn - aber ohne Fegefeuer und Letzte Ölung als Disziplinierungsmaßnahmen.  
+Als treuer Vertreter der lutherischen Reformorthodoxie praktizierte Johann Christoph Jauch die Sterbevorbereitung und Sterbebeleitung in seinen „wohl viele Tausend Seelen“ umfassenden Gemeinden in der üblichen Art. Nämlich als „Richterzuspruch“ (vorweggenommene Apokalypse) aufgrund anscheinend objektivierbarer Werte (Bekenntnisse - Bibelsprüche - Choräle). Gleichsam als Absolution im katholisch verstehbaren Sinn - aber ohne Fegefeuer und Letzte Ölung als Disziplinierungsmaßnahmen.  
 
-Für Pietisten jener Zeit war das Sterbebett hingegen gleichsam eine Bühne, auf der sie ihren „Bußkampf“ halböffentlich demonstrieren durften oder zu müssen glaubten. In zahlreichen prominenten Fällen auch - wie schon bei Luther - buchstäblich post mortem, durch präzise Publikation ihrer letzten Tage und Stunden und Worte, etwa als essentieller Bestandteil von Leichenpredigten. Ein Beleg für den Sieg nach einer individuellen, ewiges Heil verheißenden Wiedergeburt?  
+Für Pietisten jener Zeit war das Sterbebett hingegen gleichsam eine Bühne, auf der sie ihren zuvor überstandenen „Bußkampf“ dokumentieren konnten.. In zahlreichen prominenten Fällen auch - wie schon bei Luther - buchstäblich post mortem, durch präzise Publikation ihrer letzten Tage und Stunden und Worte, etwa als essentieller Bestandteil von Leichenpredigten. Ein Beleg für den friedlichen Sieg nach einer individuellen, ewiges Heil verheißenden Wiedergeburt?  
 
-Kann es sein, dass Jauch, in jenem „realen Ich“, das zwischen den personenbezogenen - den Sterbevorgang wiederholt vorauszeichnenden - Zeilen seiner Choralkantatentexte seinen inneren „Bußkampf“ klandestin - und damit literarisch genial - zu dokumentieren versucht hat? Freilich ohne erkennbare Anzeichen einer pietistischen Wiedergeburtsbemühung. Denn wie schrieb er für die Kantate BWV 178: „Das Kreuz hat sie nur neu geborn“. Nur das Kreuz - nicht der Bußkampf.  
+Kann es sein, dass Jauch, in jenem „realen Ich“, das zwischen den personenbezogenen - den Sterbevorgang wiederholt vorauszeichnenden - Zeilen seiner Choralkantatentexte seinen inneren „Bußkampf“ klandestin - und damit literarisch genial - zu dokumentieren versucht hat? Freilich ohne Anzeichen einer vorherigen Wiedergeburtsbemühung. Denn wie schrieb er für die Kantate BWV 178: „Das Kreuz hat sie nur neu geborn“. Nur das Kreuz - nicht der Bußkampf.  
 
 Der Text der Matthäuspassion ließe sich alternativ nach folgendem Schema strukturieren, welches nicht die üblichen „Actus“ widerspiegelt, sondern die individual-theologische Rolle der einzelnen Sätze aus der Sicht der maßgeblichen Hörergruppen:  
 
