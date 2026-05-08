@@ -6,7 +6,7 @@ Michael Hochgartz
 D 48153 Münster  
 [michael@hochgartz.de](mailto:michael@hochgartz.de)  
 
-Version: 08.05.2026  
+Version: 09.05.2026  
 DOI: 10.5281/zenodo.15390511  
 [CC BY-NC-ND 4.0](https://www.perplexity.ai/search/ist-es-sinnvoll-die-inhalte-ei-D2aeRXeDTjWmQHkBrl7n0g) 
 
@@ -888,7 +888,7 @@ Das Prinzip des „Richterzuspruchs“ - allgemeiner: einer quasi-juristischen B
 Bei dieser Gelegenheit hatte er sich „mit dasigen [leider ungenannten] berühmten Männern“ (und vielleicht auch mit Urban Gottfried Sieber, nach dessen Studium in Kiel damals Hofmeister nahe Schloss Frederiksborg und später einer der nachgeordneten Nachmittagsprediger während der Leipziger Uraufführungen der Choralkantaten?) „in nützliche discourse … öffters eingelassen“.  
 
 
-Die Gemahlin Augusts des Starken, Christiane Eberhardine von Brandenburg-Bayreuth, lud Jauch (wohl durch Vermittlung ihrer elterlichen Entourage) vor, während oder nach der kontrovers diskutierten Konversion ihres kurfürstlich / königlichen Gemahls zum Predigen während einer „Brunnen-Cur“ in ihre Privatgemächer auf Schloss Pretzsch und in die nahegelegene Stadtkirche ein.  
+Die Gemahlin Augusts des Starken, Christiane Eberhardine von Brandenburg-Bayreuth, lud Jauch (wohl durch Vermittlung ihrer elterlichen Entourage) vor, während oder nach der kontrovers diskutierten Konversion ihres kurfürstlich / königlichen Gemahls zum Predigen während einer „Brunnen-Cur“ in ihre Privatgemächer auf Schloss Pretzsch und in die nahegelegene Stadtkirche ein (als „Brunnen-Prediger“?.  
 
 Dort hätte er in Kontakt mit dem späteren Leipziger Thomaspastor und Beichtvater Bachs, Christian Weise d.Ä. treten können, der 1724/25 bei den Uraufführungen eines Teils der Choralkantaten auf der Kanzel stehen sollte. Weise war aufgrund seiner homiletischen Kompetenz von 1696 bis 1699 als Diakonus in das benachbarte Torgau berufen worden und predigte ebenfalls öffentlich und privatim vor der Fürstin.  
 
@@ -935,7 +935,7 @@ Mir liebreich nach.
 
 Die 1911 in Band 45 der Denkmäler Deutscher Tonkunst von J. Kromolicki und W. Krabbe nach zeitgemäßen musikwissenschaftlichen Prinzipien aufbereitete Edition der „Elmenhorst-Lieder“ wurde - laut den exakt datierten Vorworten des langjährigen Autors und Namensgebers, des Hamburger Katharinen-Predigers und Operndichters Heinrich Elmenhorst (20. April 1700) und des Herausgebers, des damaligen Lüneburger Superintendenten Heinrich Jonathan Wehrenberg (16. März 1700) in jenem Frühjahr des Jahres 1700 abgeschlossen, in welchem der 15jährige, bald darauf seiner stimmphysiologischen Existenzgrundlage entledigte Sopranist Johann Sebastian Bach, (wohl ab 3. April 1700, spätestens aber zum 1. Mai1700) in Lüneburg ansässig wurde und dort in der Wohnung des Johannis-Organisten Georg Böhm, wo er Tabulatur-Musiken  Hamburger, Lübecker und Lüneburger Orgelmeister inkorporierte, dem damaligen Lamberti-Diakon, Kurator dieser Neuausgabe, zunächst Schützling und später Nachfolger Wehrenbergs - Johann Christoph Jauch - begegnet sein dürfte, während dieser mit Böhm an der Schlusskorrektur des Projekts arbeitete.  
 
-Die überregionale Inverkehrbringung durch den Drucker und Verleger Johann von Stern - der damit sein (von wem finanziertes?) musiktypographisch anspruchsvollstes Projekt vorlegte - erfolgte mit Sicherheit nicht vor der Leipziger Michaelismesse (ab 29.9.1700), da zur Ostermesse (ab 11.4.1700) noch nicht sämtliche Vorreden geschrieben und gedruckt waren.  
+Die überregionale Inverkehrbringung durch den Drucker und Verleger Johann von Stern - der damit sein (von wem finanziertes?) musiktypographisch anspruchsvollstes Projekt vorlegte - erfolgte mit Sicherheit nicht vor der Leipziger Michaelismesse (ab 29.9.1700), da zur Jubilatemesse (ab 11.4.1700) noch nicht sämtliche Vorreden geschrieben und gedruckt waren.  
 
 In Hinsicht auf die wohl schon auf diese frühe Zeit zurückgehende Beziehung Bachs zum Hamburger Katharinen-Organisten J. Adam Reincken (dessen Raum- und Zeit-greifende Choralfantasie „An Wasserflüssen Babylon“ er in dieser Phase abschrieb) lässt sich aufgrund dieser Faktenlage annehmen, daß sie nicht - wie bisher vermutet - allein durch Böhm vermittelt wurde, sondern vielleicht auch durch die selbstbezeugte enge Freundschaft Wehrenbergs mit seinem Hamburger Kollegen Elmenhorst angeregt wurde, der mehr als vier Jahrzehnte lang mehrmals wöchentlich während Reinckens musikalischer Gottesdienstgestaltung auf der Kanzel von St. Katharinen predigte.  
 
@@ -1005,7 +1005,7 @@ Die letzten fünf Zeilen des zweiten Satzes der Choralkantate BWV 2 (18.6.1724) 
 
 Ein Rohr hat von aussen ein schönes Ansehen,  
 und ist doch inwendig leer.  
-(Müller, 7. Passionspredigt, nach dem sehr seltenen Eemplar des „Evangelisches Praeservativ“, 1681, wie in Bachs Nachlass. Vorlage: Mitschrift durch Samuel Christian Mummius.)  
+(Müller, 7. Passionspredigt, nach dem sehr seltenen Exemplar des „Evangelisches Praeservativ“, 1681, wie in Bachs Nachlass. Vorlage: Mitschrift durch Samuel Christian Mummius.)  
 
 Wir sind wie ein Rohr in unserer Heucheley.  
 Außwendig gleissen wir schön,  
