@@ -1226,7 +1226,7 @@ Zu fragen bleibt, ob Brandenburg in Leipzig (wo er seit 1718 immatrikuliert war)
 „Es hat mir verwichenen Sommer mein Sohn gerühmet, und sich gefreuet, daß er das Glück gehabt Ew. HochEhrw. Magnif. auffzuwarten, und bin ich davor sehr obligiret daß Sie demselben dero hochgeneigteste admissionen haben wollen würdigen. recommendire Ihn ferner dero hohem Patrimonio. Er lieget Gott lob seinem Studiis in dem lieben Wittenberg noch mit fleiß ob, Gott wird dieselben ferner segnen!“  
 
 
-Brandenburg  verfasste um 1724 unter einem Pseudomym Beiträge für das aufklärerische Organ „Der Patriot“.  
+Brandenburg  verfasste um 1724 unter einem Pseudomym Beiträge für die wegweisende moralische Wochenschrift „Der Patriot“.  
 
 Der 1722-25 für den immerwährenden Freund der Familie Bach - Georg Philipp Telemann - (sicherlich nicht ohne wohlwollende Beobachtung durch seinen ehemaligen Tischherrn Jauch) in einzelnen Lieferungen bereitgestellte „Brandenburgische“ Kantatenjahrgang blieb im Dezember 1725 (zu spät nach dem Beginn eines neuen regulären Kirchenjahres?) unvollendet, da der Verfasser durch persönliche Befindlichkeiten und seine Tätigkeit als Prediger in Sterley (Herzogtum Lauenburg) ausgelastet war.  
 
