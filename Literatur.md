@@ -86,7 +86,7 @@ Abkürzungen
 **Marx**, Hans Joachim:  '... eines welt-berühmten Mannes gewisse Passion': zur Herkunft der Händel zugeschriebenen 'Johannes-Passion', Musica 41/4 (**1987**), 311-316  
 **Maul**, Michael, Johann Sebastian Bachs Besuche in der Residenzstadt Gera, BJ **2004a**, 101–120  
 **Maul**, Michael, Alles mit Gott und nichts ohn’ ihn – Eine neu aufgefundene Aria von Johann Sebastian Bach, BJ **2005**, 7–34  
-**Maul**, Michael, "Wie wunderbar sind deine Werke", Berlin **2023** 
+**Maul**, Michael, "Wie wunderbar sind deine Werke", Berlin **2023**  
 **Maul/Wollny**,  Buxtehude, Reinken und der junge Bach : Überlegungen zur "Weimarer Orgeltabulatur" / Michael Maul und Peter Wollny. In: Dieterich Buxtehude : Text - Kontext - Rezeption : Bericht über das Symposion an der Musikhochschule Lübeck, 10.-12. Mai 2007, Kassel **2011**, 144-187  
 **Melamed**, Daniel R.: Zum Text und Kontext der „Keiser“-Markuspasion, BJ **1999**, 35ff  
 **Mendel**, Arthur, Traces of the pre-history of Bachs St. John and St. Matthew Passions, in: Festschrift Otto Erich Deutsch, Kassel **1963**  
