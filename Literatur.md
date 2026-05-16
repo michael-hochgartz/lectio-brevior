@@ -45,6 +45,7 @@ Abkürzungen
 **Dürr**, Alfred: Die Entstehungsgeschichte der Matthäus-Passion, in: Johann Sebastian Bach, Matthäus-Passion, BWV 244 : Vorträge der Sommerakademie J. S. Bach 1985, Kassel **1990**, 76-93  
 **Erler**, Georg: Die jüngere Matrikel der Universität Leipzig, 1559 - 1809, 3 Bde, Leipzig **1909**  
 **Fischer**, William B., When God sang German, o.O. **2017**  
+**Flick**, Andreas, „Der Celler Hof ist ganz verfranzt. Hugenotten und französische Katholiken am Hof und beim Militär Herzog Georg Wilhelms von Braunschweig-Lüneburg“, in Hugenotten 72/**2008**, 87-120  
 **Franklin**, Don O.: Viewing the poetic texts in Bach's Matthew Passion from a new perspective, Bach : the journal of the Riemenschneider Bach Institute, Baldwin-Wallace College 46 (**2015b**), 29-48  
 **Frederichs**, Henning: Das Verhältnis von Text und Musik in den Brockespassionen Keisers, Händels, Telemanns und Matthesons : mit einer Einführung in ihre Entstehungs- und Rezeptionsgeschichte sowie den Bestand ihrer literarischen und musikalischen Quellen, München **1975**  
 **Gardiner**, John Eliot, Bach: Music in the Castle of Heaven, London **2013**  
