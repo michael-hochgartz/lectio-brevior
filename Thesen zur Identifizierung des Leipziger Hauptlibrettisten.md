@@ -5,7 +5,7 @@ Johann Sebastian Bachs
 Michael Hochgartz (D 48153 Münster)  
 [michael@hochgartz.de](mailto:michael@hochgartz.de)  
 
-Version: 19.07.2026  
+Version: 20.07.2026  
 DOI: 10.5281/zenodo.15390511  
 [CC BY-NC-ND](https://www.perplexity.ai/search/ist-es-sinnvoll-die-inhalte-ei-D2aeRXeDTjWmQHkBrl7n0g)  
 amore et studio elucidandae veritatis haec subscripta disputabuntur (Martin Luther [1517](https://www.perplexity.ai/search/Wer-schrieb-diesen-7Ao1YeZnRTmWBsEehMo1_Q))  
@@ -221,7 +221,7 @@ Neben einem - genau diesen Satz betreffenden - musikalischen Selbstzitat Bachs i
 Henrici (gedruckt 1725):  
 
 Akademischer Schlendrian V. Aufzug, 11. Szene. (Auch schon angedeutet im I. Aufzug, 2. Szene: „Daß euch der Donner und das Wetter schlüge!“)  
-Carolingen [nachdem sie erfahren musste, dass ihr studentischer Liebhaber sie betrogen, mutmaßlich geschwängert, auf jeden Fall aber verlassen hat]:  
+Carolingen [nachdem sie erfahren musste, dass ihr studentischer Liebhaber seinen Treueschwur gebrochen und sie unter dramaturgisch geschickt angedeuteten Umständen (Posthorn) verlassen hat]:  
 
 O! Du verfluchter und Meyneidiger Bösewicht;  
 Fahre, daß dir der Halß zerbreche!  
