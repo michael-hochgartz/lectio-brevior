@@ -6,7 +6,7 @@ Michael Hochgartz
 D 48153 Münster  
 [michael@hochgartz.de](mailto:michael@hochgartz.de)  
 
-Version: 12.08.2026  
+Version: 13.08.2026  
 DOI: 10.5281/zenodo.15390511  
 Lizenz: CC BY-NC-ND 4.0  
 
@@ -1348,6 +1348,8 @@ Die Wahrheit ist das Ganze!
 
 Wenn ich die Matthäus-Passion, wenn ich große Musik höre, dann glaube ich zu wissen, dass das, was diese Musik sagt, nicht die Unwahrheit sein kann.  (Theodor W. Adorno 1958)  
 
+Vivant, je veux bien être modeste, mais mort, il me paraît naturel qu'on reconnaisse mon génie… (Michel Audiard 1995)  
+
 Post Scriptum  
 
 - Wahrheit: Die Disputanten sollten sich um die Wahrheit bemühen und nicht um den Sieg.  
@@ -1361,4 +1363,3 @@ Technische Hinweise:
 - Die ab Februar 2024 gelegentlich eingepflegten Hinweise auf externe Anmerkungen zu einzelnen Aspekten und Begriffen trugen experimentellen Charakter. Ihre KI-basierte technische Konsistenz war naturgemäß unverbindlich. Sie wurden im Dezember 2025 sukzessive entfernt, sind aber in einem älteren [Zweig](https://github.com/michael-hochgartz/lectio-brevior/blob/old-links/Thesen%20zur%20Identifizierung%20des%20Leipziger%20Hauptlibrettisten.md) weiterhin dokumentiert.  
 
 - Die entgegen üblicher Praxis mehrdeutige Verwendung von eckigen Klammern [] als Merkmal auch für Hervorhebungen statt nur für Auslassungen ist der Verwendung von Markdown als Zielformat des primär in Scrivener gepflegten Grund-Textes geschuldet.  
-
