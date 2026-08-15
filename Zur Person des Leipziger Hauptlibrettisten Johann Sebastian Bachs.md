@@ -43,7 +43,7 @@ Homo proponit, Deus disposit.
 (Johann Andreas Stübel, 1698)  
 
 Wenn ich Zeit übrig hätte, so wolte selbst Romanen, Opern und Comoedien schreiben, welche zwar von der heutigen Schreib-Art unterschieden, aber dennoch höchst-beliebt und erbaulich seyn solten.  
-(Ein hoher Lüneburger Geistlicher, um 1713.)  
+(Einem hohen Lüneburger Geistlichen um 1713 zugeschrieben.)  
 
 
 Bei dem Autor der Texte für Johann Sebastian Bachs Choralkantaten des Jahrgangs 1724/25 und für einige von deren Vor- und Nachläufer, für Teile seiner Johannes-Passion und für eine Anfang 1725 abgebrochene fragmentarisch überlieferte Urfassung der Matthäus-Passion handelt es sich mit hoher Wahrscheinlichkeit um den Lüneburger Lamberti-, Nikolai- und Johannis-Prediger, den 1714 zum Superintendenten und Inspektor der Lateinschule Johanneum und ihres Kantatenchors ernannten Johann Christoph [Jauch](https://d-nb.info/gnd/117088900) (1669-1725), den jahrzehntelangen unmittelbaren Zeitgenossen, mutmaßlichen Studienkollegen und späteren theologischen Vorgesetzten, Kanzelredner bei gemeinsam absolvierten Kantatenaufführungen und vielleicht auch Beichtvater von Bachs „Lehrmeister“ Georg Böhm - dem Komponisten der bei Jauchs Beisetzung in St. Johannis am 6. Februar 1725 aufgeführten Trauermusik aus der Feder seines poetologischen Protégés, des Telemann-Librettisten Michael Christoph Brandenburg.  
