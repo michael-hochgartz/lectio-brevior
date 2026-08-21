@@ -1366,6 +1366,6 @@ Post Scriptum
 
 Technische Hinweise: 
 
-- Die ab Februar 2024 gelegentlich eingepflegten Hinweise (Verlinkungen) auf externe Anmerkungen zu einzelnen Aspekten und Begriffen trugen experimentellen Charakter. Ihre KI-basierte technische Konsistenz war naturgemäß unverbindlich. Sie wurden ab Dezember 2025 sukzessive entfernt, sind aber in einem älteren [Zweig](https://github.com/michael-hochgartz/lectio-brevior/blob/old-links/Thesen%20zur%20Identifizierung%20des%20Leipziger%20Hauptlibrettisten.md) weiterhin dokumentiert.  
+- Die ab Februar 2024 gelegentlich eingepflegten Hinweise in Form von Verlinkungen auf externe Anmerkungen zu einzelnen Aspekten und Begriffen trugen experimentellen Charakter. Ihre KI-basierte Konsistenz war naturgemäß unverbindlich. Sie wurden ab Dezember 2025 sukzessive entfernt, sind aber in einem älteren [Zweig](https://github.com/michael-hochgartz/lectio-brevior/blob/old-links/Thesen%20zur%20Identifizierung%20des%20Leipziger%20Hauptlibrettisten.md) weiterhin dokumentiert.  
 
 - Die entgegen üblicher Praxis mehrdeutige Verwendung von eckigen Klammern [] als Merkmal auch für Hervorhebungen statt nur für Auslassungen ist der Verwendung von Markdown als Zielformat des primär in Scrivener gepflegten Grund-Textes geschuldet; desgl. der Verzicht auf Fußnoten, Anmerkungen und formelle Zitat-Nachweise. Diese finden sich in einer - vorerst nicht öffentlichen - lectio difficilior.  
