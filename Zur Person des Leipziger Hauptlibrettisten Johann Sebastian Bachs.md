@@ -1354,6 +1354,8 @@ Die Wahrheit ist das Ganze!
 
 Wenn ich die Matthäus-Passion, wenn ich große Musik höre, dann glaube ich zu wissen, dass das, was diese Musik sagt, nicht die Unwahrheit sein kann. (Theodor W. Adorno 1958)  
 
+Mein Tun und Lassen verlangt „ eine enorme Frustrationstoleranz gegenüber dem Unvollständigen." (Google Gemini, 22.08.2026, über das Tun und Lassen des Verfassers.)  
+
 Vivant, je veux bien être modeste, mais mort, il me paraît naturel qu'on reconnaisse mon génie… (Michel Audiard 1995)  
 
 Post Scriptum  
