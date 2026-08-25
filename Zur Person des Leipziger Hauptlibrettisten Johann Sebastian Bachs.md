@@ -8,7 +8,7 @@ Michael Hochgartz
 D 48153 Münster  
 [michael@hochgartz.de](mailto:michael@hochgartz.de)  
 
-Version: 22.08.2026  
+Version: 25.08.2026  
 DOI: 10.5281/zenodo.15390511  
 Lizenz: CC BY-NC-ND 4.0  
 
@@ -32,7 +32,10 @@ Lebt wohl! Dort oben, ihr christlichen Brüder
 Ja, das versteht sich, dort sehn wir uns wieder.  
 (Heinrich Heine, 1851)
 
-Learn the facts - then try on the stories like clothes.  
+Nur weil sich so wenig beweisen lässt, wird so viel behauptet.  
+(Alfred Dürr, 1992)  
+
+Learn the facts, then try on the stories like clothes.  
 (John Le Carré, 1974)  
 
 Man muss dem Gericht natürlich eine stimmige und lebensnahe Geschichte präsentieren, und man kann da auch Schreibfreude entwickeln.  
@@ -48,7 +51,7 @@ Wenn ich Zeit übrig hätte, so wolte selbst Romanen, Opern und Comoedien schrei
 (Einem hohen Lüneburger Geistlichen um 1713 zugeschrieben.)  
 
 
-Bei dem Autor der Texte für Johann Sebastian Bachs Choralkantaten des Jahrgangs 1724/25 und für einige von deren Vor- und Nachläufer, für Teile seiner Johannes-Passion und für eine Anfang 1725 abgebrochene fragmentarisch überlieferte Urfassung der Matthäus-Passion handelt es sich mit hoher Wahrscheinlichkeit um den Lüneburger Lamberti-, Nikolai- und Johannis-Prediger, den 1714 zum Superintendenten und Inspektor der Lateinschule Johanneum und ihres Kantatenchors ernannten Johann Christoph [Jauch](https://d-nb.info/gnd/117088900) (1669-1725), den jahrzehntelangen unmittelbaren Zeitgenossen, mutmaßlichen Studienkollegen und späteren theologischen Vorgesetzten, Kanzelredner bei gemeinsam absolvierten Kantatenaufführungen und vielleicht auch Beichtvater von Bachs „Lehrmeister“ Georg Böhm - dem Komponisten der bei Jauchs Beisetzung in St. Johannis am 6. Februar 1725 aufgeführten Trauermusik aus der Feder seines poetologischen Protégés, des Telemann-Librettisten Michael Christoph Brandenburg.  
+Bei dem Autor der Texte für Johann Sebastian Bachs Choralkantaten des Jahrgangs 1724/25 und für einige von deren Vor- und Nachläufer, für Teile seiner Johannes-Passion und für eine Anfang 1725 abgebrochene fragmentarisch überlieferte Urfassung der Matthäus-Passion handelt es sich mit hoher Wahrscheinlichkeit um den Lüneburger Lamberti-, Nikolai- und Johannis-Prediger, den 1714 zum Superintendenten und Inspektor der Lateinschule Johanneum und ihres Kantatenchors ernannten Johann Christoph [Jauch](https://d-nb.info/gnd/117088900) (1669-1725), den jahrzehntelangen unmittelbaren Zeitgenossen, mutmaßlichen Studienkollegen und späteren theologischen Vorgesetzten, Kanzelredner bei gemeinsam absolvierten Kantatenaufführungen und vielleicht auch Beichtvater von Bachs „Lehrmeister“ Georg Böhm - dem Komponisten der bei Jauchs Beisetzung in St. Johannis am 6. Februar 1725 aufgeführten Trauermusik aus der Feder seines paedagogischen und poetologischen Protégés, des Telemann-Librettisten Michael Christoph Brandenburg.  
 
 
 Jauchs Vater Christian (1638-1718) stammte aus dem thüringischen Sulza (D 99518 Bad Sulza) in der Nähe von Jena, wo sich seine Vorfahren seit 1512 nachweisen lassen, seine 1702 gestorbene Mutter Ingeborg Nicolai (von deren 1723 erwähntem Trauergedicht aus der Feder ihres Sohnes bislang kein konkretes Exemplar gefunden werden konnte) aus dem Holsteinischen Husum.  
@@ -361,7 +364,7 @@ Neben dem lebenslänglichen Ausschluss von öffentlichen Ämtern könnte diese F
 
 Die zeitliche Differenz zwischen Spitzmarken und Erscheinungsdaten belegt auch an diesen Beispielen, dass derartige gedruckte Meldungen nicht mehr als sechs bis acht Tage für die Übermittlung zwischen Leipzig und Hamburg benötigten - und somit maximal fünf bis sieben Tage zwischen Leipzig und Lüneburg. (Vgl. Siegele 1983)  
 
-Von den drei Datumsangaben (19., 21., 26. Januar 1725), die für Johann Christoph Jauchs Todestag genannt werden, kann naturgemäß nur eine korrekt sein. Zwar verhindert das Nichtvorhandensein der diesen Zeitraum betreffenden Begräbnisregister von St. Johannis eine endgültige Klärung. (Die Sterberegister von St. Michaelis setzen 1728 ein, die der übrigen Kirchen erst 1755; vgl. Buettner 1957).  
+Von den drei Datumsangaben (19., 21., 26. Januar 1725), die für Johann Christoph Jauchs Todestag genannt werden, kann naturgemäß nur eine korrekt sein. Zwar verhindert das Nichtvorhandensein der diesen Zeitraum betreffenden Begräbnisregister von St. Johannis eine endgültige Klärung. (Die Sterberegister von St. Michaelis setzen 1728 ein, die der übrigen Kirchen erst 1755; vgl. Buettner 1957 sowie unmissverständliche, aktuelle Auskünfte der zuständigen Kirchenbuchdatenbanken.)  
 
 Aber:  
 
@@ -369,7 +372,7 @@ Der im Deutschen Geschlechterbuch (200/1996; 209/1999) sowie (bis zu einer vom V
 
 Der zugehörige zeitgenössische Aktendeckel teilt übrigens nur mit (vgl. Reinhardt 1980):  
 
-„obiit d: [Leerstelle] Jan. 1725“- womit auf jeden Fall der Monat und das Jahr bestätigt sind.  
+„obiit d: [Leerstelle] Jan. 1725“. Womit auf jeden Fall der Monat und das Jahr bestätigt sind.  
 
 Der vom „Correspondenten“ genannte 19. Januar ist deshalb weniger wahrscheinlich, weil bis zum Erscheinungsdatum (29./30.) mit 10 Tagen ungewöhnlich viel Zeit für die Kommunikation zwischen Lüneburg und dem statt (Hamburg-)Schiffbek üblicherweise fingierten Erscheinungort „Nieder-Elbe“ vergangen wäre. (Vgl. Zedler 24/367). Eventuell markiert dieser Tag den Beginn der Endphase der Erkrankung, was zu der oben zitierten pulmologischen Prognose („… gar selten über den 3ten Tag …“) passt.  
 
@@ -435,7 +438,7 @@ in meiner Gruft gedenken
 […]  
 .
 
-Schon bald nach dem Beginn des Kantatenzyklus (BWV 135/4, 25.6.1724) bemüht der Autor eine Situationsbeschreibung, die - auf den ersten Blick in eindeutiger Übernahme aus Ps. 6;7 - auf seine individuelle psychische und physische Befindlichkeit hinweist. Müdigkeit und Nachtschweiß, die zunächst im Rezititativ Nr. 2 („Ach heile mich, du Arzt der Seelen; ich bin sehr krank und schwach;“) auf eine theologische Deutungsebene projiziert werden, gelten - lebensweltlich betrachtet - in der historischen wie in der heutigen Heilkunde als Leitsymptome einer chronischen Tuberkulose - einer Krankheit, die immer noch weltweit verbreitet ist.  
+Schon bald nach dem Beginn des Kantatenzyklus (BWV 135/4, 25.6.1724) bemüht der Autor eine Situationsbeschreibung, die - auf den ersten Blick in eindeutiger Übernahme aus Ps. 6;7 - auf seine individuelle psychische und physische Befindlichkeit hinweist. Müdigkeit und Nachtschweiß, die zunächst im Rezititativ Nr. 2 („Ach heile mich, du Arzt der Seelen; ich bin sehr krank und schwach;“) auf eine theologische Deutungsebene projiziert werden, gelten lebensweltlich betrachtet in der historischen wie in der heutigen Heilkunde als Leitsymptome einer chronischen Tuberkulose - einer Krankheit, die immer noch weltweit verbreitet ist.  
 
 Ich bin von Seufzen müde,  
 mein Geist hat weder Kraft noch Macht,  
@@ -459,7 +462,7 @@ Wenn deine fromme Seel’ oft klagend angestimmt,
 Daß sie ermüdet, und dabey  
 Begierig nach der Ruhe sey.  
 
-Der unmittelbar anschließende Choral zitiert - durchaus passend - die zweite Strophe des Kirchenlieds „Du, o schönes Weltgebäude“, dessen fünfte Strophe „Komm, o Tod, du Schlafes Bruder“ in der Kreuzstabkantate BWV 56 (zum 27.10.1726) verwendet wird.  
+Der unmittelbar anschließende Choral zitiert durchaus passend die zweite Strophe des Kirchenlieds „Du, o schönes Weltgebäude“, dessen fünfte Strophe „Komm, o Tod, du Schlafes Bruder“ in der Kreuzstabkantate BWV 56 (zum 27.10.1726) verwendet wird.  
 
 Müde, die der Arbeit Menge  
 Und der heisse Strahl beschwert,  
@@ -472,7 +475,7 @@ Allerschönstes Jesulein!
 
 Sowohl der Autor der Kreuzstabkantate - Christoph Birkmann, - neuerdings als ephemerer „Leipziger Librettist“ erkannt und somit einer der legitimen Nachfolger Johann Christoph Jauchs, - als auch der Autor der Lüneburger Trauerkantate ignorieren übrigens die teils deutlich abweichenden Fassungen, die im Wagnerschen Gesangbuch von 1697 zu finden sind, sondern zitieren die ursprünglichen Versionen aus Johann Crügers „Praxis Pietatis Melica“, die auch in den Lüneburger Stadt- bzw. Herzoglich Cellischen Landes-Gesangbüchern verwendet wurden.  
 
-Eine Suche nach tieferen Ursachen für Jauchs persönliche Probleme - oder zumindest nach seiner eigenen Reflexion darüber - führt schließlich sehr weit zurück, nämlich in den späten November des Jahres 1711. In seiner Eingabe wegen Fortführung einer 1705 gewährten Gehaltzulage schreibt der damals 43jährige Nikolai-Prediger - in Bezug auf seine überdurchschnittliche Belastung durch (wohl nicht im erhofften Umfang an theologische „Subunternehmer“ delegierbare) Predigtdienste - buchstäblich in Parenthese und den Tod mit letztendlich 55 Jahren vorausahnend:  
+Eine Suche nach tieferen Ursachen für Jauchs persönliche Probleme - oder zumindest nach seiner eigenen Reflexion darüber - führt schließlich sehr weit zurück, nämlich in den späten November des Jahres 1711. In seiner Eingabe wegen Fortführung einer 1705 gewährten Gehaltzulage schreibt der damals 43jährige Nikolai-Prediger - in Bezug auf seine überdurchschnittliche Belastung durch (wohl nicht im erhofften Umfang an theologische „Subunternehmer“ delegierbare) Predigtdienste - buchstäblich in Parenthese und den Tod mit letztendlich 55 Jahren voraus ahnend:  
 
 „ … und meine so vielfältige Arbeit (wie ich ja fast wöchentlich dreimal nicht ohne Verkürzung meiner Leibes und Lebenskräfte doch herzlich gerne zu Gottes Ehre in meiner allseitigen geliebten Gemeine zum besten nach möglichstem Vermögen selbst verrichte) mich wohl viele Jahre eher als sonsten von den lieben Meinigen abreißen wird.“  
 
@@ -559,7 +562,7 @@ Die sonst bei Lehms in zeittypischer Manier poetisch überhöhte Todessehnsucht 
 Dass andererseits Johann Christoph Jauch von Lehms inspiriert worden sein dürfte, belegt das Beispiel von dessen Text zum 16. Sonntag nach Trinitatis. Dieser korreliert mit BWV 111 in folgenden Allusionen: „Ach! daß sich nicht sofort mein Geist / Aus dem bedrängten Körper reißt“ und mit BWV 127: „So mögen drauff die Sterbe-Klocken klingen“.  
 
 
-Jauch ist, mit Ausnahme seiner - erfreulicherweise exzellent und bislang fortlaufend digitaliserten, nicht nur aus sprachlichen Gründen heute aber kaum noch adäquat zu beurteilenden - Beteiligungen an lateinischen Disputationen, seiner zahlreichen, durchgängig auf gutem Deutsch verfassten gereimten Grußworte in Drucken eines Netzwerks befreundeter Rostocker Akademiker und seiner Beiträge in Lüneburger Personalschriften, auf den ersten Blick publizistisch kaum erkennbar hervorgetreten. Sein durch verschiedene Aussagen belegtes bescheidenes Wesen ist als Grund dafür anzusehen, dass er aus eigenem Antrieb wenig produziert hat, was heute noch rezipierenswert erscheint.  
+Jauch ist, mit Ausnahme seiner - erfreulicherweise exzellent und bislang fortlaufend digitaliserten, nicht nur aus sprachlichen Gründen heute aber kaum noch adäquat zu beurteilenden Beteiligungen an lateinischen Disputationen, seiner zahlreichen, durchgängig auf gutem Deutsch verfassten gereimten Grußworte in Drucken eines Netzwerks befreundeter Rostocker Akademiker und seiner Beiträge in Lüneburger Personalschriften, auf den ersten Blick publizistisch kaum erkennbar hervorgetreten. Sein durch verschiedene Aussagen belegtes bescheidenes Wesen ist als Grund dafür anzusehen, dass er aus eigenem Antrieb wenig produziert hat, was heute noch rezipierenswert erscheint.  
 
 Für die Praxis der brieflichen Kommunikation Johann Christoph Jauchs, dessen Bruder Carl (1680-1755) als Lübeckischer Postmeister in Lüneburg amtierte, gibt es erfreulich sachdienliche Belege von seiner eigenen Hand.  
 
@@ -571,7 +574,7 @@ Der Verweis auf die Amtspflichten in den Osterwochen erscheint bei näherer Betr
 
 Bei der Materialsammlung für eine allumfassend angelegte Dokumentation der Feiern zum Reformationsjubiläum 1717 durch den Gothaer Hofbibliothekar Ernst Salomon Cyprian war Jauch (als „Haupt“ des Lüneburger Ministeriums) eine briefliche Anfrage der Leipziger Verlagsbuchhandlung „Gleditsch et Weidemann“ durch seinen Nachbarn, den Drucker, Verleger und Buchführer Johann von Stern übermittelt worden, der sie von seinem routinemäßigen Besuch der Leipziger Ostermesse 1718 mitgebracht hatte.  
 
-Unter dem Datum des 20.4.1718 entschuldigt Jauch sich für die verspätete Beantwortung, die er u.a. mit einer vorangegangenen Reise begründet und die er ursprünglich bis zur nächsten Messe im Herbst aufschieben wollte - wohl in der Absicht, von Stern wiederum als Überbringer einzusetzen. 
+Unter dem Datum des 20.4.1718 entschuldigt Jauch sich für die verspätete Beantwortung, die er u.a. mit einer vorangegangenen Reise begründet und die er ursprünglich wohl bis zur nächsten Michaelis-Messe im Herbst aufschieben wollte - möglicherweise in der Absicht, von Stern wiederum als Überbringer einzusetzen. 
 Stattdessen wurde das Schreiben durch Ludolph Daniel Kraut, den Sohn des ihm unterstellten und zugleich freundschaftlich verbundenen Rektors Paul Kraut, nach Leipzig überbracht, wohin jener sich zum Theologiestudium begab - bevor er sich (am 10. Oktober 1720) zusammen mit Tobias Jauchs älterem Bruder Ludolph Friedrich an der Universität Helmstedt immatrikulierte. Tobias vollzog diesen Schritt übrigens erst am 6.10.1727. (Vgl. Erler 1909; Mundhenke 3/1979, 5186/87;6137)  
 
 Der Brief belegt zudem, dass die ungewöhnlich aufwändige, zunächst auf Latein exerzierte, dann wegen des großen Erfolgs in einer deutschen Übersetzung zweimal für das breite Publikum wiederholte, mit musikalischen Arien durchflochtene Dramatisierung wesentlicher Ereignisse der Reformation 1517 durch einen „Actus Oratorio Dramaticus“ im „Rectorat“ des Johanneums mit ca. 50 namentlich benannten Mitwirkenden (darunter Kraut junior in der Hauptrolle des Dr. Martinus Luther und Tobias Jauch als Rezitator) auf eine Initiative des Superintendenten in seiner Funktion als Schulinspektor zurückging. (Vgl. Cyprian 1719).  
@@ -1354,7 +1357,7 @@ Die Wahrheit ist das Ganze!
 
 Wenn ich die Matthäus-Passion, wenn ich große Musik höre, dann glaube ich zu wissen, dass das, was diese Musik sagt, nicht die Unwahrheit sein kann. (Theodor W. Adorno 1958)  
 
-Mein Tun und Lassen verlangt „eine enorme Frustrationstoleranz gegenüber dem Unvollständigen." (Google Gemini, 22.08.2026, über das Tun und Lassen des Verfassers.)  
+Sein Tun und Lassen verlangt „eine enorme Frustrationstoleranz gegenüber dem Unvollständigen." (Google Gemini, 22.08.2026, über das Tun und Lassen des Verfassers.)   
 
 Vivant, je veux bien être modeste, mais mort, il me paraît naturel qu'on reconnaisse mon génie… (Michel Audiard 1995)  
 
