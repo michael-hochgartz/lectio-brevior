@@ -8,7 +8,7 @@ Michael Hochgartz
 D 48153 Münster  
 [michael@hochgartz.de](mailto:michael@hochgartz.de)  
 
-Version: 28.08.2026  
+Version: 29.08.2026  
 DOI: 10.5281/zenodo.15390511  
 Lizenz: CC BY-NC-ND 4.0  
 
@@ -26,8 +26,11 @@ Der seine Gottesfurcht mit Wissenschafft vereinet
 Und durch Beredsamkeit ein Felsen-Hertz erweichet  
 (Michael Christoph Brandenburg, 1714)  
 
-Wenn ich Zeit übrig hätte, so wolte selbst Romanen, Opern und Comoedien schreiben, welche zwar von der heutigen Schreib-Art unterschieden, aber dennoch höchst-beliebt und erbaulich seyn solten.  
-(Einem hohen Lüneburger Geistlichen um 1713 zugeschrieben.)  
+Wenn ich Zeit übrig hätte,  
+so wolte selbst Romanen, Opern und Comoedien schreiben,  
+welche zwar von der heutigen Schreib-Art unterschieden,  
+aber dennoch höchst-beliebt und erbaulich seyn solten.  
+(Einem Lüneburger Geistlichen um 1713 zugeschrieben.)  
 
 Jetzt bin ich müd vom Rennen und Laufen  
 Jetzt will ich mich im Grabe verschnaufen.  
@@ -35,7 +38,7 @@ Lebt wohl! Dort oben, ihr christlichen Brüder
 Ja, das versteht sich, dort sehn wir uns wieder.  
 (Heinrich Heine, 1851)
 
-Nur weil sich so wenig beweisen lässt, wird so viel behauptet.  
+Nur weil sich so wenig beweisen lässt wird so viel behauptet.  
 (Alfred Dürr, 1992)  
 
 Learn the facts, then try on the stories like clothes.  
@@ -49,7 +52,6 @@ Bildung lässt sich nicht downloaden.
 
 Homo proponit, Deus disposit.  
 (Johann Andreas Stübel, 1698)  
-
 
 Bei dem Autor der Texte für Johann Sebastian Bachs Choralkantaten des Jahrgangs 1724/25 und für einige von deren Vor- und Nachläufer, für Teile seiner Johannes-Passion und für eine Anfang 1725 abgebrochene fragmentarisch überlieferte Urfassung der Matthäus-Passion handelt es sich mit hoher Wahrscheinlichkeit um den Lüneburger Lamberti-, Nikolai- und Johannis-Prediger, den 1714 zum Superintendenten und Inspektor der Lateinschule Johanneum und ihres Kantatenchors ernannten Johann Christoph [Jauch](https://d-nb.info/gnd/117088900) (1669-1725), den jahrzehntelangen unmittelbaren Zeitgenossen, mutmaßlichen Studienkollegen und späteren theologischen Vorgesetzten, Kanzelredner bei gemeinsam absolvierten Kantatenaufführungen und vielleicht auch Beichtvater von Bachs „Lehrmeister“ Georg Böhm - dem Komponisten der bei Jauchs Beisetzung in St. Johannis am 6. Februar 1725 aufgeführten Trauermusik aus der Feder seines paedagogischen und poetologischen Protégés, des Telemann-Librettisten Michael Christoph Brandenburg.  
 
