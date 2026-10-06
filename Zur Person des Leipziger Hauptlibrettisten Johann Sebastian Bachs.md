@@ -188,7 +188,7 @@ Weiterhin ist auch zu bedenken, dass 1674 ein Exemplar der ein Jahr zuvor in Lü
 Die Tradition regelmäßiger Aufführungen vor oder während des Karfreitags reichte übrigens so lange, wie der Chorus Symphoniacus des Johanneums und der Mettenchor von St. Michaelis zur Verfügung standen - also bis gegen Ende des 18. Jahrhunderts. (Vgl. Walter 1967.) Sie wurde 1855 mit einer ersten Aufführung von BWV 244 in St. Johannis wieder aufgenommen und wird bis heute fortgeführt.  
 
 
-1709 wechselte Jauch als I. Prediger an die im „Wasserviertel“ gelegene Nikolaikirche und 1714, bedingt durch seine allseits nicht nur zunächst, sondern dauerhaft nur widerwillig akzeptierte Ernennung zum Superintendenten, nach St. Johannis als amtlicher Predigtstätte.  
+1709 wechselte Jauch als I. Prediger an die im „Wasserviertel“ gelegene Nikolaikirche und 1714, bedingt durch seine allseits nicht nur zunächst, sondern dauerhaft nur widerwillig akzeptierte Ernennung zum Superintendenten nach St. Johannis als amtlicher Predigtstätte.  
 
 Damit wurde er auch zum „Inspector“ jenes Johanneums ernannt, dessen Chorus Symphoniacus während der beiden Kirchenjahre (1. Advent 1720 bis 1. Advent 1722) für die Aufführung von Vertonungen zweier, zusammen im Druck veröffentlichter Jahrgänge von Texten zur Musik zuständig war, die auf Vorlagen Erdmann Neumeisters und weiterer, noch zu identifizierender Autoren beruhten.  
 
@@ -1370,12 +1370,12 @@ Wenn ich die Matthäus-Passion, wenn ich große Musik höre, dann glaube ich zu 
 
 Sein Tun und Lassen verlangt „eine enorme Frustrationstoleranz gegenüber dem Unvollständigen.“ (Google Gemini, über das Tun und Lassen des Verfassers, 22.08.2026.)  
 
-Vivant, je veux bien être modeste, mais mort, il me paraît naturel qu'on reconnaisse mon génie… (Michel Audiard 1995)  
-
 I have done a terrible thing, I have postulated a particle that cannot be detected.
 (Wolfgang Pauli 1930.; zitiert am 6.10.2026, 11:55).  
 
-Aber wir haben unglücklicherweise gesehen, dass das Standardmodell, wie üblich, den Test besteht. (Franzis Hazen, zitiert am 6.10.2026, 12:22)  
+Aber wir haben unglücklicherweise gesehen, dass das Standardmodell, wie üblich, den Test besteht. (Franzis Halzen, zitiert am 6.10.2026, 12:22)  
+
+Vivant, je veux bien être modeste, mais mort, il me paraît naturel qu'on reconnaisse mon génie… (Michel Audiard 1995)  
 
 Post Scriptum  
 
