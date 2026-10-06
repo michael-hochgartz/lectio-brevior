@@ -1373,7 +1373,9 @@ Sein Tun und Lassen verlangt „eine enorme Frustrationstoleranz gegenüber dem 
 Vivant, je veux bien être modeste, mais mort, il me paraît naturel qu'on reconnaisse mon génie… (Michel Audiard 1995)  
 
 I have done a terrible thing, I have postulated a particle that cannot be detected.
-(Wolfgang Pauli 1930. Zitat eingefügt am 6.10.2026, 11:55).
+(Wolfgang Pauli 1930.; zitiert am 6.10.2026, 11:55).  
+
+Aber wir haben unglücklicherweise gesehen, dass das Standardmodell, wie üblich, den Test besteht. (Franzis Hazen, zitiert am 6.10.2026, 12:22)  
 
 Post Scriptum  
 
