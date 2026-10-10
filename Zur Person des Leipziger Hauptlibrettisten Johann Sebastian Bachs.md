@@ -1372,14 +1372,9 @@ Wenn ich die Matthäus-Passion, wenn ich große Musik höre, dann glaube ich zu 
 Sein Tun und Lassen verlangt „eine enorme Frustrationstoleranz gegenüber dem Unvollständigen.“ (Google Gemini, über das Tun und Lassen des Verfassers, 22.08.2026.)  
 
 I have done a terrible thing, I have postulated a particle that cannot be detected.
-(Wolfgang Pauli 1930.; zitiert am 6.10.2026, 11:55).  
-
-Aber wir haben unglücklicherweise gesehen, dass das Standardmodell, wie üblich, den Test besteht. (Franzis Halzen, zitiert am 6.10.2026, 12:22)  
+(Wolfgang Pauli 1930)  
 
 Vivant, je veux bien être modeste, mais mort, il me paraît naturel qu'on reconnaisse mon génie… (Michel Audiard 1995)  
-
-Porsche funktioniert, solange es mindestens 20.000 Bekloppte gibt. 
-Bachforschung funktioniert, solange es mindestens 2 Bekloppte gibt.  
 
 Post Scriptum  
 
