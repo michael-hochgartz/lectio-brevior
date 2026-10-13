@@ -8,7 +8,7 @@ Michael Hochgartz
 D 48153 Münster  
 [michael@hochgartz.de](mailto:michael@hochgartz.de)  
 
-Version: 10.10.2026  
+Version: 13.10.2026  
 DOI: 10.5281/zenodo.15390511  
 Lizenz: CC BY-NC-ND 4.0  
 
@@ -37,6 +37,11 @@ Jetzt will ich mich im Grabe verschnaufen.
 Lebt wohl! Dort oben, ihr christlichen Brüder  
 Ja, das versteht sich, dort sehn wir uns wieder.  
 (Heinrich Heine, 1851)
+
+Ich schwemme manche Nacht,  
+Mein hartes Lager durch mit Tränen …  
+Der meine sieche Brust abnaget  
+(Franz Joachim Burmeister, Lüneburg, 1662)  
 
 Nur weil sich so wenig beweisen lässt wird so viel behauptet.  
 (Alfred Dürr, 1992)  
