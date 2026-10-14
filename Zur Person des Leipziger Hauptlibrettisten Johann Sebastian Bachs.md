@@ -1,5 +1,6 @@
 Quotes Language: german
 
+
 Ob ein Superintendens wohl Poete seyn könne? - Zur Person des „Leipziger“ Hauptlibrettisten Johann Sebastian Bachs.  
 
 Iterativ dokumentierter Entwurf für ein fiktionales Vortragsmanuskript.  
