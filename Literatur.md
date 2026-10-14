@@ -3,6 +3,8 @@ Bibliographische Handreichung zu den Manuskriptentwürfen:
 - Thesen zur Identifizierung des Leipziger Hauptlibrettisten.md
 - Zur Person des Leipziger Hauptlibrettisten Johann Sebastian Bachs.md
 
+
+
 Michael Hochgartz (D 48153 Münster)  
 michael@hochgartz.de - 31.08.2025  
 https://github.com/michael-hochgartz/lectio-brevior   
