@@ -1,6 +1,5 @@
 Quotes Language: german
 
-
 Ob ein Superintendens wohl Poete seyn könne? - Zur Person des „Leipziger“ Hauptlibrettisten Johann Sebastian Bachs.  
 
 Iterativ dokumentierter Entwurf für ein fiktionales Vortragsmanuskript.  
@@ -9,7 +8,7 @@ Michael Hochgartz
 D 48153 Münster  
 [michael@hochgartz.de](mailto:michael@hochgartz.de)  
 
-Version: 14.10.2026  
+Version: 16.10.2026  
 DOI: 10.5281/zenodo.15390511  
 Lizenz: CC BY-NC-ND 4.0  
 
@@ -152,7 +151,7 @@ Bereits Jauchs Landesherr und früher Förderer Herzog Gustav Adolf von Mecklenb
 
 Ob Jauchs „herzbewegliche Worte“, von denen 1712 im Zusammenhang mit dem in eine Schieflage geratenen Großprojekt des vergeblich aufstrebenden Lüneburger Verlegers Johann Georg Lipper berichtet wird, auf eine Wertschätzung auch der Inhalte dieses ambitionierten Prachtwerks schließen lassen, bleibt anhand der Ratsakten näher zu untersuchen. Lipper hatte versucht, mit Hilfe hoher, wiederholt aufgestockter öffentlicher Kredite und in Konkurrenz zu seinem ehemaligen Arbeitgeber Johann von Stern, eine erweiterte, mit Kupferstichen bebilderte Neuauflage der „Mathesis Mosaica“ (geplanter Gesamttitel: „Mathesis Biblica“) des Kieler Universalgelehrten Samuel Reyher zu monetarisieren. 18 Ballen (zu 500 Druckbogen) wurden in einem „Gewölbe“ mit Beschlag belegt, zu dem Jauch die Schlüssel treuhänderisch verwahrte. Im Katalog seiner nachgelassenen Bibliothek findet sich mehr als ein halbes Jahrhundert später unter der Nr. 209 ein Exemplar des ersten (und offenbar einzig erschienenen) Bandes der 1714 (im Jahr der Ernennung zum Superintendeten) schlussendlich vorgelegten Ausgabe.  
 
-Geistesgeschichtlich bewegte Reyher sich in einer Grauzone, in der biblisch beschriebene Naturphänomene (wie z.B. „Von dem Regenbogen …) mit zeitgenössischen, also nicht immer heutigen Ansprüchen genügenden, damals aber durchaus als wissenschaftlich empfundenen Erklärweisen vermengt werden („… und den durch Kunst [also wohl durch ein Glasprisma] angestellten Regenbogen-Farben“). Reyhers lebenslanges methodisches Manko bestand auch bei diesem Werk trotz sinnvoll erscheinender Großgliederung in seinem Hang zur kaleidoskopartigen Facettierung von fragmentarischen Einzelaspekten, und Lipper bot als entlaufener Buchhalter keineswegs eine Gewähr für den unternehmerischen Erfolg eines Titels, der wegen der hinzugekauften Kupferstiche einen hohen Einsatz von Fremdkapital erforderte. (Vgl. Dumrese/Schilling 1956 sowie ADB 28/1889)  
+Geistesgeschichtlich bewegte Reyher sich in einer Grauzone, in der biblisch beschriebene Naturphänomene (wie z.B. „Von dem Regenbogen …) mit zeitgenössischen, also nicht immer heutigen Ansprüchen genügenden, damals aber durchaus als wissenschaftlich empfundenen Erklärweisen vermengt werden („… und den durch Kunst [also wohl durch ein Glasprisma] angestellten Regenbogen-Farben“). Reyhers lebenslanges methodisches Manko bestand auch bei diesem Werk trotz sinnvoll erscheinender Großgliederung in seinem Hang zur kaleidoskopartigen Facettierung von fragmentarischen Einzelaspekten, und Lipper bot als entlaufener Buchhalter keineswegs eine Gewähr für den unternehmerischen Erfolg eines Titels, der wegen der hinzugekauften Kupferstiche (das Geschäftsprinzip seines ehemaligen Arbeitgebers von Stern) einen hohen Einsatz von Fremdkapital erforderte. (Vgl. Dumrese/Schilling 1956 sowie ADB 28/1889)  
 
 
 Da eine, vielleicht geplante, aber bislang nicht diplomatisch dokumentierte Bestallung (vgl. Stieber 1745; Willgeroth 1924) als einer von üblicherweise mehreren, naturgemäß konkurrierenden (da zugleich als personengebundene Beichtväter amtierenden) Hofpredigern in Güstrow durch das seit dem Tod des Erbprinzen Karl 1688 an den Pocken erwartbare, im Oktober 1695 mit dem Dahinscheiden des letzten Herzogs Adolf eingetretene Erlöschen der dynastischen Linie gegenstandslos geworden war, wurde Jauch „nach gehaltener Abschieds-Predigt in der Schlosskirche gnädigst dimittiret“ (also dem damaligen, recht überschaubaren Arbeitsmarkt überlassen) und im Verlauf eines offenbar wohlwollend forcierten Magisterexamens auf Initiative des nicht ganz zufällig, nämlich wegen Früh-Immatrikulation seines Sohnes, in Rostock weilenden Lüneburger Bürgermeisters und Pro-Consuls Ludolph von Stöterogge („ein grosser Gönner der Gelehrten“) als Diakonus (Inhaber der II. Pfarrstelle) an die dortige Lambertikirche berufen - unter aktenkundigen Begleitumständen, die auf strukturell bedingte, lebenslange Misshelligkeiten im Verhältnis zu einigen seiner Kollegen vorauswiesen.  
@@ -1381,6 +1380,7 @@ I have done a terrible thing, I have postulated a particle that cannot be detect
 (Wolfgang Pauli 1930)  
 
 Vivant, je veux bien être modeste, mais mort, il me paraît naturel qu'on reconnaisse mon génie… (Michel Audiard 1995)  
+Es ist ein Menschenrecht, die Wahrheit zu sagen. Es ist auch ein Menschenrecht, feige zu sein. (Wolf Biermann, Oktober 2026).  
 
 Post Scriptum  
 
