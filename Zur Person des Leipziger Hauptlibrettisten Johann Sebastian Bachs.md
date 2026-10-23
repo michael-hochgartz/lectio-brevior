@@ -8,7 +8,7 @@ Michael Hochgartz
 D 48153 Münster  
 [michael@hochgartz.de](mailto:michael@hochgartz.de)  
 
-Version: 16.10.2026  
+Version: 23.10.2026  
 DOI: 10.5281/zenodo.15390511  
 Lizenz: CC BY-NC-ND 4.0  
 
@@ -30,7 +30,7 @@ Wenn ich Zeit übrig hätte,
 so wolte selbst Romanen, Opern und Comoedien schreiben,  
 welche zwar von der heutigen Schreib-Art unterschieden,  
 aber dennoch höchst-beliebt und erbaulich seyn solten.  
-(Einem Lüneburger Geistlichen um 1713 zugeschrieben.)  
+(Aus dem Munde eines Lüneburger Geistlichen; von einem seiner Schüler kolportiert.)  
 
 Jetzt bin ich müd vom Rennen und Laufen  
 Jetzt will ich mich im Grabe verschnaufen.  
@@ -1311,7 +1311,7 @@ Aufgeführt am Dienstag, 6.2.1725 in der Johanniskirche in Lüneburg.
 (Weichmann V/1738)  
 
 Lebe wol, verklärte Sele!  
-Triumhire, reiner Geist!  
+Triumphire, reiner Geist!  
 Ihr indessen, matte Glieder,  
 Legt euch stille, stille nieder,  
 Bleibt in einer süssen Ruh!  
@@ -1372,15 +1372,16 @@ Was ist Wahrheit?
 Die Wahrheit ist das Ganze!  
 (Georg Wilhelm Friedrich Hegel, Phänomenologie des Geistes)  
 
-Wenn ich die Matthäus-Passion, wenn ich große Musik höre, dann glaube ich zu wissen, dass das, was diese Musik sagt, nicht die Unwahrheit sein kann. (Theodor W. Adorno 1958)  
+Es ist ein Menschenrecht, die Wahrheit zu sagen. Es ist auch ein Menschenrecht, feige zu sein. (Wolf Biermann, Oktober 2026).  
 
-Sein Tun und Lassen verlangt „eine enorme Frustrationstoleranz gegenüber dem Unvollständigen.“ (Google Gemini, über das Tun und Lassen des Verfassers, 22.08.2026.)  
+Wenn ich die Matthäus-Passion, wenn ich große Musik höre, dann glaube ich zu wissen, dass das, was diese Musik sagt, nicht die Unwahrheit sein kann. (Theodor W. Adorno 1958)  
 
 I have done a terrible thing, I have postulated a particle that cannot be detected.
 (Wolfgang Pauli 1930)  
 
+Sein Tun und Lassen verlangt „eine enorme Frustrationstoleranz gegenüber dem Unvollständigen.“ (Google Gemini, über das Tun und Lassen des Verfassers, 22.08.2026.)  
+
 Vivant, je veux bien être modeste, mais mort, il me paraît naturel qu'on reconnaisse mon génie… (Michel Audiard 1995)  
-Es ist ein Menschenrecht, die Wahrheit zu sagen. Es ist auch ein Menschenrecht, feige zu sein. (Wolf Biermann, Oktober 2026).  
 
 Post Scriptum  
 
