@@ -103,6 +103,7 @@ Bd. 1, Kassel **2004**
 **Rathey**, Markus, Der zweite Leipziger Jahrgang - Choralkantaten, in: Bachs Kantaten: Das Handbuch, Laaber **2012a**, 331-449  
 **Reinhardt**, Uta: Die evangelischen Pastoren in Lüneburg 1530-1980, in: Reformation vor 450 Jahren. Lüneburg **1980**, 113-169  
 **Reuter**, Die St. Michaeliskirche in Lüneburg. Hannover und Leipzig, **1918**  
+**Riemann**,Georg Friedrich Bernhard, Über die Anzahl der Primzahlen unter einer gegebenen Größe, in Monatsberichte der Berliner Akademie, November 1859, 136-144  
 **Schabalina**, Tatjana: "Texte zur Music" in St. Petersburg. Weitere Funde, in BJ 95 **2009**, 11-48 
 **Schabalina**, Tatjana: "Texte zur Music" in St. Petersburg, 2 Bde., Beeskow **2021**, (Bd.2 nicht verfügbar)  
 **Scheide**, William H.: Die Choralkantaten von 1724 und Bachs Köthener Besuch, in BJ 89 **2003**, 47-65  

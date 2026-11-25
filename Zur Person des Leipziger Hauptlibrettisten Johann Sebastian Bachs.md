@@ -8,7 +8,7 @@ Michael Hochgartz
 D 48153 Münster  
 [michael@hochgartz.de](mailto:michael@hochgartz.de)  
 
-Version: 22.11.2026  
+Version: 25.11.2026  
 DOI: 10.5281/zenodo.15390511  
 Lizenz: CC BY-NC-ND 4.0  
 
@@ -62,7 +62,7 @@ How did you go bankrupt?
 Two ways. Gradually, then suddenly.  
 (Ernest Hemingway)  
 
-Bei dem Autor der Texte für Johann Sebastian Bachs Choralkantaten des Jahrgangs 1724/25 und für einige von deren Vor- und Nachläufern, für Teile seiner Johannes-Passion und für eine Anfang 1725 abgebrochene fragmentarisch überlieferte Urfassung der Matthäus-Passion handelt es sich mit hoher Wahrscheinlichkeit um den Lüneburger Lamberti-, Nikolai- und Johannis-Prediger, den 1714 zum Superintendenten und Inspektor der Lateinschule Johanneum und ihres Kantatenchors ernannten Johann Christoph [Jauch](https://d-nb.info/gnd/117088900) (1669-1725), den jahrzehntelangen unmittelbaren Zeitgenossen, mutmaßlichen Studienkollegen und späteren theologischen Vorgesetzten, Kanzelredner bei gemeinsam absolvierten Kantatenaufführungen und vielleicht auch Beichtvater von Bachs „Lehrmeister“ Georg Böhm - dem Komponisten der bei Jauchs Beisetzung in St. Johannis am 6. Februar 1725 aufgeführten Trauermusik aus der Feder seines paedagogischen und poetologischen Protégés, des Telemann-Librettisten Michael Christoph Brandenburg.  
+„… es ist sehr wahrscheinlich, dass …“ (vgl. Riemann 1859, S. 139) … es sich bei dem Autor der Texte für Johann Sebastian Bachs Choralkantaten des Jahrgangs 1724/25 und für einige von deren Vor- und Nachläufern, für Teile seiner Johannes-Passion und für eine Anfang 1725 abgebrochene fragmentarisch überlieferte Urfassung der Matthäus-Passion um den Lüneburger Lamberti-, Nikolai- und Johannis-Prediger, den 1714 zum Superintendenten und Inspektor der Lateinschule Johanneum und ihres Kantatenchors ernannten Johann Christoph [Jauch](https://d-nb.info/gnd/117088900) (1669-1725) handelt, den jahrzehntelangen unmittelbaren Zeitgenossen, mutmaßlichen Studienkollegen und späteren theologischen Vorgesetzten, Kanzelredner bei gemeinsam absolvierten Kantatenaufführungen und vielleicht auch Beichtvater von Bachs „Lehrmeister“ Georg Böhm - dem Komponisten der bei Jauchs Beisetzung in St. Johannis am 6. Februar 1725 aufgeführten Trauermusik aus der Feder seines paedagogischen und poetologischen Protégés, des Telemann-Librettisten Michael Christoph Brandenburg.  
 
 
 Jauchs Vater Christian (1638-1718) stammte aus dem thüringischen Sulza (D 99518 Bad Sulza) in der Nähe von Jena, wo sich seine Vorfahren seit 1512 nachweisen lassen, seine 1702 gestorbene Mutter Ingeborg Nicolai (von deren 1723 erwähntem Trauergedicht aus der Feder ihres Sohnes bislang kein konkretes Exemplar gefunden werden konnte) aus dem Holsteinischen Husum.  
