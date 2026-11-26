@@ -8,7 +8,7 @@ Michael Hochgartz
 D 48153 Münster  
 [michael@hochgartz.de](mailto:michael@hochgartz.de)  
 
-Version: 25.11.2026  
+Version: 26.11.2026  
 DOI: 10.5281/zenodo.15390511  
 Lizenz: CC BY-NC-ND 4.0  
 
@@ -57,10 +57,6 @@ Bildung lässt sich nicht downloaden.
 
 Homo proponit, Deus disposit.  
 (Andreas Stübel, 1698)  
-
-How did you go bankrupt?  
-Two ways. Gradually, then suddenly.  
-(Ernest Hemingway)  
 
 „… es ist sehr wahrscheinlich, dass …“ (vgl. Riemann 1859, S. 139) … es sich bei dem Autor der Texte für Johann Sebastian Bachs Choralkantaten des Jahrgangs 1724/25 und für einige von deren Vor- und Nachläufern, für Teile seiner Johannes-Passion und für eine Anfang 1725 abgebrochene fragmentarisch überlieferte Urfassung der Matthäus-Passion um den Lüneburger Lamberti-, Nikolai- und Johannis-Prediger, den 1714 zum Superintendenten und Inspektor der Lateinschule Johanneum und ihres Kantatenchors ernannten Johann Christoph [Jauch](https://d-nb.info/gnd/117088900) (1669-1725) handelt, den jahrzehntelangen unmittelbaren Zeitgenossen, mutmaßlichen Studienkollegen und späteren theologischen Vorgesetzten, Kanzelredner bei gemeinsam absolvierten Kantatenaufführungen und vielleicht auch Beichtvater von Bachs „Lehrmeister“ Georg Böhm - dem Komponisten der bei Jauchs Beisetzung in St. Johannis am 6. Februar 1725 aufgeführten Trauermusik aus der Feder seines paedagogischen und poetologischen Protégés, des Telemann-Librettisten Michael Christoph Brandenburg.  
 
