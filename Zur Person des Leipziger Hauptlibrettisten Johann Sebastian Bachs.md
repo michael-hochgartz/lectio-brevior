@@ -8,7 +8,7 @@ Michael Hochgartz
 D 48153 Münster  
 [michael@hochgartz.de](mailto:michael@hochgartz.de)  
 
-Version: 27.11.2026  
+Version: 28.11.2026  
 DOI: 10.5281/zenodo.15390511  
 Lizenz: CC BY-NC-ND 4.0  
 
@@ -43,7 +43,7 @@ Mein hartes Lager durch mit Tränen …
 Der meine sieche Brust abnaget  
 (Franz Joachim Burmeister, Lüneburg, 1662)  
 
-Nur weil sich so wenig beweisen lässt wird so viel behauptet.  
+Nur weil sich so wenig beweisen lässt, wird so viel behauptet.  
 (Alfred Dürr, 1992)  
 
 Learn the facts, then try on stories like clothes.  
@@ -55,7 +55,7 @@ Man muss dem Gericht natürlich eine stimmige und lebensnahe Geschichte präsent
 Bildung lässt sich nicht downloaden.  
 (Günther Jauch, 2009)  
 
-Homo proponit, Deus disposit.  
+Homo proponit, Deus disposit  
 (Andreas Stübel, 1698)  
 
 „… es ist sehr wahrscheinlich, dass …“  
@@ -63,7 +63,7 @@ Homo proponit, Deus disposit.
 
 … es sich bei dem Autor der Texte für Johann Sebastian Bachs Choralkantaten des Jahrgangs 1724/25 und für einige von deren Vor- und Nachläufern, für Teile seiner Johannes-Passion und für eine Anfang 1725 abgebrochene fragmentarisch überlieferte Urfassung der Matthäus-Passion um den Lüneburger Lamberti-, Nikolai- und Johannis-Prediger, den 1714 zum Superintendenten und Inspektor der Lateinschule Johanneum und ihres Kantatenchors ernannten Johann Christoph [Jauch](https://d-nb.info/gnd/117088900) (1669-1725) handelt, den jahrzehntelangen unmittelbaren Zeitgenossen, mutmaßlichen Studienkollegen und späteren theologischen Vorgesetzten, Kanzelredner bei gemeinsam absolvierten Kantatenaufführungen und vielleicht auch Beichtvater von Bachs „Lehrmeister“ Georg Böhm - dem Komponisten der bei Jauchs Beisetzung in St. Johannis am 6. Februar 1725 aufgeführten Trauermusik aus der Feder seines paedagogischen und poetologischen Protégés, des Telemann-Librettisten Michael Christoph Brandenburg.  
 
-„Hiervon wäre allerdings ein strenger Beweis zu wünschen, ich habe indess die Aufsuchung desselben nach einigen flüchtigen vergeblichen Versuchen vorläufig bei Seite gelassen, da er für den nächsten Zweck meiner Untersuchung entbehrlich schien“.  (Riemann 1859)  
+„Hiervon wäre allerdings ein strenger Beweis zu wünschen, ich habe indess die Aufsuchung desselben nach einigen flüchtigen vergeblichen Versuchen vorläufig bei Seite gelassen, da er für den nächsten Zweck meiner Untersuchung entbehrlich schien“.  (Riemann 1859; von 1842 bis 1846 Schüler des Lüneburger Johanneums.)  
 
 Jauchs Vater Christian (1638-1718) stammte aus dem thüringischen Sulza (D 99518 Bad Sulza) in der Nähe von Jena, wo sich seine Vorfahren seit 1512 nachweisen lassen, seine 1702 gestorbene Mutter Ingeborg Nicolai (von deren 1723 erwähntem Trauergedicht aus der Feder ihres Sohnes bislang kein konkretes Exemplar gefunden werden konnte) aus dem Holsteinischen Husum.  
 
